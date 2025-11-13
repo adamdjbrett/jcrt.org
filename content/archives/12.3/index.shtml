@@ -1,0 +1,1404 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 14">
+<meta name=Originator content="Microsoft Word 14">
+<link rel=File-List href="index_files/filelist.xml">
+<link rel=Edit-Time-Data href="https://jcrt.org/archives/12.3/index_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>JCRT 12.2 Fall 2012</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>temp</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>temp</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>7</o:TotalTime>
+  <o:Created>2013-06-03T15:59:00Z</o:Created>
+  <o:LastSaved>2013-06-03T15:59:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>535</o:Words>
+  <o:Characters>3053</o:Characters>
+  <o:Company>University of Denver</o:Company>
+  <o:Lines>25</o:Lines>
+  <o:Paragraphs>7</o:Paragraphs>
+  <o:CharactersWithSpaces>3581</o:CharactersWithSpaces>
+  <o:Version>14.00</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link rel=themeData href="index_files/themedata.thmx">
+<link rel=colorSchemeMapping href="index_files/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SplitPgBreakAndParaMark/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style><!--
+.blurbBlock a:link:hover {
+   text-decoration:underline;
+   border-bottom-style: none;
+}
+.blurbBlock a:link:visited {
+   text-decoration:none;
+   border-bottom-style:none;
+}
+a:link:hover {
+   border-bottom-width: 1px;
+   border-bottom-style: solid;
+   text-decoration: none;
+   color: #555555;
+}
+html.IE body
+	{cursor: progress;}
+Book {
+	font-family: Book Antiqua;
+}
+Book {
+	font-family: Book Antiqua;
+}
+
+ /* Font Definitions */
+ @font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-520081665 -1073717157 41 0 66047 0;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1593833729 1073750107 16 0 415 0;}
+@font-face
+	{font-family:"Arial Black";
+	panose-1:2 11 10 4 2 1 2 2 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+@font-face
+	{font-family:"Book Antiqua";
+	panose-1:2 4 6 2 5 3 5 3 3 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+@font-face
+	{font-family:"Trebuchet MS";
+	panose-1:2 11 6 3 2 2 2 2 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+@font-face
+	{font-family:"Gill Sans MT";
+	panose-1:2 11 5 2 2 1 4 2 2 3;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:7 0 0 0 3 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	color:black;}
+span.MsoFootnoteReference
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	vertical-align:super;}
+a:link, span.MsoHyperlink
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:purple;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:navy;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+p
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	color:black;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	color:black;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Balloon Text";
+	mso-ansi-font-size:8.0pt;
+	mso-bidi-font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	mso-ascii-font-family:Tahoma;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Tahoma;
+	mso-bidi-font-family:Tahoma;
+	color:black;}
+p.date, li.date, div.date
+	{mso-style-name:date;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:11.5pt;
+	font-family:"Arial","sans-serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	color:white;
+	font-weight:bold;}
+p.font, li.font, div.font
+	{mso-style-name:font;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Verdana","sans-serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-bidi-font-family:"Times New Roman";
+	color:black;}
+p.arial, li.arial, div.arial
+	{mso-style-name:arial;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Arial Black","sans-serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-bidi-font-family:"Times New Roman";
+	color:black;}
+p.book, li.book, div.book
+	{mso-style-name:book;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Book Antiqua","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-bidi-font-family:"Times New Roman";
+	color:black;}
+p.style2, li.style2, div.style2
+	{mso-style-name:style2;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	color:black;}
+p.style6, li.style6, div.style6
+	{mso-style-name:style6;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Book Antiqua","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-bidi-font-family:"Times New Roman";
+	color:black;}
+p.style13, li.style13, div.style13
+	{mso-style-name:style13;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	color:black;}
+p.style21, li.style21, div.style21
+	{mso-style-name:style21;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	text-align:right;
+	mso-pagination:widow-orphan;
+	border:none;
+	mso-border-alt:solid windowtext .25pt;
+	padding:0in;
+	mso-padding-alt:0in 0in 0in 0in;
+	font-size:12.0pt;
+	font-family:"Book Antiqua","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-bidi-font-family:"Times New Roman";
+	color:black;}
+p.style22, li.style22, div.style22
+	{mso-style-name:style22;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	border:none;
+	mso-border-alt:solid white 3.0pt;
+	padding:0in;
+	mso-padding-alt:0in 0in 0in 0in;
+	font-size:12.0pt;
+	font-family:"Book Antiqua","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-bidi-font-family:"Times New Roman";
+	color:black;}
+p.style24, li.style24, div.style24
+	{mso-style-name:style24;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	text-align:right;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Book Antiqua","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-bidi-font-family:"Times New Roman";
+	color:black;}
+p.style31, li.style31, div.style31
+	{mso-style-name:style31;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	border:none;
+	mso-border-alt:solid windowtext .25pt;
+	padding:0in;
+	mso-padding-alt:0in 0in 0in 0in;
+	font-size:12.0pt;
+	font-family:"Book Antiqua","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-bidi-font-family:"Times New Roman";
+	color:black;}
+p.style32, li.style32, div.style32
+	{mso-style-name:style32;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	color:black;}
+p.style33, li.style33, div.style33
+	{mso-style-name:style33;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	border:none;
+	mso-border-alt:solid white .25pt;
+	padding:0in;
+	mso-padding-alt:0in 0in 0in 0in;
+	font-size:12.0pt;
+	font-family:"Book Antiqua","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-bidi-font-family:"Times New Roman";
+	color:black;}
+p.style35, li.style35, div.style35
+	{mso-style-name:style35;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:13.5pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	color:black;}
+p.style39, li.style39, div.style39
+	{mso-style-name:style39;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	margin-top:3.0pt;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	background:navy;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	color:black;}
+p.style40, li.style40, div.style40
+	{mso-style-name:style40;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Book Antiqua","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-bidi-font-family:"Times New Roman";
+	color:black;}
+p.style46, li.style46, div.style46
+	{mso-style-name:style46;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Book Antiqua","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-bidi-font-family:"Times New Roman";
+	color:black;}
+p.style47, li.style47, div.style47
+	{mso-style-name:style47;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	color:black;}
+p.style48, li.style48, div.style48
+	{mso-style-name:style48;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	background:lime;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	color:black;}
+p.style49, li.style49, div.style49
+	{mso-style-name:style49;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:13.5pt;
+	font-family:"Book Antiqua","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-bidi-font-family:"Times New Roman";
+	color:black;}
+p.style50, li.style50, div.style50
+	{mso-style-name:style50;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	background:blue;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	color:black;}
+p.style53, li.style53, div.style53
+	{mso-style-name:style53;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	text-align:right;
+	mso-pagination:widow-orphan;
+	background:red;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	color:black;}
+p.style54, li.style54, div.style54
+	{mso-style-name:style54;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	border:none;
+	mso-border-alt:solid white .25pt;
+	padding:0in;
+	mso-padding-alt:0in 0in 0in 0in;
+	font-size:13.5pt;
+	font-family:"Book Antiqua","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-bidi-font-family:"Times New Roman";
+	color:black;}
+p.style55, li.style55, div.style55
+	{mso-style-name:style55;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	border:none;
+	mso-border-alt:solid windowtext .25pt;
+	padding:0in;
+	mso-padding-alt:0in 0in 0in 0in;
+	font-size:13.5pt;
+	font-family:"Book Antiqua","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-bidi-font-family:"Times New Roman";
+	color:black;}
+p.style56, li.style56, div.style56
+	{mso-style-name:style56;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:24.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	color:black;}
+p.style57, li.style57, div.style57
+	{mso-style-name:style57;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Trebuchet MS","sans-serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-bidi-font-family:"Times New Roman";
+	color:black;}
+p.footer, li.footer, div.footer
+	{mso-style-name:footer;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	color:black;}
+span.style471
+	{mso-style-name:style471;
+	mso-style-unhide:no;
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;}
+span.style351
+	{mso-style-name:style351;
+	mso-style-unhide:no;
+	mso-ansi-font-size:13.5pt;
+	mso-bidi-font-size:13.5pt;}
+span.style561
+	{mso-style-name:style561;
+	mso-style-unhide:no;
+	mso-ansi-font-size:24.0pt;
+	mso-bidi-font-size:24.0pt;}
+span.style571
+	{mso-style-name:style571;
+	mso-style-unhide:no;
+	font-family:"Trebuchet MS","sans-serif";
+	mso-ascii-font-family:"Trebuchet MS";
+	mso-hansi-font-family:"Trebuchet MS";}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+</style>
+<![endif]-->
+<meta name=Author content="webmaster AT jcrt.org">
+<meta name=keywords
+content="JCRT, religion, religious, culture, cultural, theory, theoretical, theology, scholarship, interdisciplinary, theological, god, postmodern, critical">
+<meta name=description
+content="The Journal for Cultural and Religious Theory is devoted to both disciplinary and interdisciplinary scholarship that deals broadly with the phenomenon of religious and cultural theory.">
+<link rel=alternate type="application/rss+xml" title="JCRT - Current Issue"
+href="https://jcrt.org/rss.xml">
+<link rel=alternate type="application/rss+xml" title="JCRT - Calls for Papers"
+href="https://jcrt.org/rss/calls.xml">
+<link rel=alternate type="application/rss+xml" title="JCRT - Books for Review"
+href="https://jcrt.org/rss/calls.xml">
+<link rel=alternate type="application/rss+xml"
+title="JCRT - Announcements &amp; Notices"
+href="https://jcrt.org/rss/calls.xml">
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1026"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body bgcolor=white lang=EN-US link=purple vlink=navy style='tab-interval:.5in'
+alink="#FF0000">
+
+<div class=WordSection1>
+
+<table class=MsoNormalTable border=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:1.5pt;background:black;mso-yfti-tbllook:
+ 1184;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td width=50 style='width:37.5pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span style='font-size:8.5pt;font-family:"Verdana","sans-serif";
+  mso-fareast-font-family:"Times New Roman";mso-no-proof:yes'><img width=50
+  height=30 id="_x0000_i1027" src="../12.2/color_block_pdf_left.jpg"></span><span
+  style='font-size:8.5pt;font-family:"Verdana","sans-serif";mso-fareast-font-family:
+  "Times New Roman"'><o:p></o:p></span></p>
+  </td>
+  <td style='padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><i><span style='font-size:10.0pt;font-family:"Gill Sans MT","sans-serif";
+  mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Arial;
+  color:white'>&nbsp;</span></i><span style='font-size:10.0pt;font-family:"Gill Sans MT","sans-serif";
+  mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Arial;
+  color:white'>JCRT 12.3 Spring 2013</span><span style='font-size:8.5pt;
+  font-family:"Verdana","sans-serif";mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+  </td>
+  <td width=258 style='width:193.5pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:"Gill Sans MT","sans-serif";
+  mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Arial;
+  color:white'><a href="../../index.html"><span style='color:white'>Homepage</span></a>&nbsp;
+  1&nbsp; <a href="https://jcrt.org/pastissues.shtml"><span
+  style='color:white'>Archives</span></a> 1&nbsp; <a
+  href="https://jcrt.org/searchengine.shtml"><span style='color:white'>Search</span></a></span><span
+  style='font-family:"Arial","sans-serif";mso-fareast-font-family:"Times New Roman";
+  color:white'>&nbsp;&nbsp;</span><span style='font-size:8.5pt;font-family:
+  "Verdana","sans-serif";mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><span style='font-size:8.5pt;font-family:"Verdana","sans-serif";
+mso-fareast-font-family:"Times New Roman";display:none;mso-hide:all'><o:p>&nbsp;</o:p></span></p>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="91%"
+ style='width:91.0%;mso-cellspacing:0in;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td valign=top style='padding:0in 0in 0in 0in'>
+  <p class=MsoNormal><b><span style='font-size:7.5pt;font-family:"Verdana","sans-serif";
+  mso-fareast-font-family:"Times New Roman"'><br>
+  &nbsp;</span></b><span style='font-size:8.5pt;font-family:"Verdana","sans-serif";
+  mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal align=center style='text-align:center'><span
+style='font-size:8.5pt;font-family:"Verdana","sans-serif";mso-fareast-font-family:
+"Times New Roman";display:none;mso-hide:all'><o:p>&nbsp;</o:p></span></p>
+
+<div align=center>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=1000
+ style='width:750.0pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+ mso-padding-alt:3.75pt 3.75pt 3.75pt 3.75pt' height=908>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:9.75pt'>
+  <td width="52%" valign=top style='width:52.0%;padding:3.75pt 3.75pt 3.75pt 3.75pt;
+  height:9.75pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-size:8.5pt;font-family:"Book Antiqua","serif";mso-fareast-font-family:
+  "Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width="51%" valign=top style='width:51.0%;padding:3.75pt 3.75pt 3.75pt 3.75pt;
+  height:9.75pt'>
+  <p class=footer><span style='font-size:8.5pt;font-family:"Verdana","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;height:6.0pt'>
+  <td width="52%" valign=top style='width:52.0%;padding:3.75pt 3.75pt 3.75pt 3.75pt;
+  height:6.0pt'><span style='orphans: 2;text-align:start;widows: 2;-webkit-text-size-adjust: auto;
+  -webkit-text-stroke-width: 0px;float:none;word-spacing:0px'>
+  <p class=MsoNormal style='mso-line-height-alt:6.0pt'><em><span
+  style='font-family:"Book Antiqua","serif";mso-fareast-font-family:"Times New Roman";
+  background:white'>JCRT Special Issue:</span></span></em><strong><span
+  style='font-size:13.5pt;font-family:"Book Antiqua","serif";mso-fareast-font-family:
+  "Times New Roman";background:white'><span style='orphans: 2;text-align:start;
+  widows: 2;-webkit-text-size-adjust: auto;-webkit-text-stroke-width: 0px;
+  float:none;word-spacing:0px'> </span></strong><b><span style='font-size:13.5pt;
+  font-family:"Book Antiqua","serif";mso-fareast-font-family:"Times New Roman";
+  background:white'></span><br>
+  <strong><span style='font-family:"Book Antiqua","serif"'><span
+  style='orphans: 2;text-align:start;widows: 2;-webkit-text-size-adjust: auto;
+  -webkit-text-stroke-width: 0px;float:none;word-spacing:0px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></strong><span class=style351>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></b><span class=style561><b><span style='font-size:24.0pt;
+  font-family:"Book Antiqua","serif";mso-fareast-font-family:"Times New Roman";
+  background:white'>&nbsp;</span></b></span><span class=style571><span
+  style='font-size:24.0pt;mso-fareast-font-family:"Times New Roman";background:
+  white'>Globalization Theory</span></span><span style='font-size:24.0pt;
+  font-family:"Book Antiqua","serif";mso-fareast-font-family:"Times New Roman";
+  background:white'><br>
+  <br style='mso-special-character:line-break'>
+  <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
+  <![endif]></span><span style='font-size:13.5pt;font-family:"Book Antiqua","serif";
+  mso-fareast-font-family:"Times New Roman";background:white'><o:p></o:p></span></p>
+  </td>
+  <td width="51%" valign=top style='width:51.0%;padding:3.75pt 3.75pt 3.75pt 3.75pt;
+  height:6.0pt'></td>
+ </tr>
+ <tr style='mso-yfti-irow:2;height:6.0pt'>
+  <td width="52%" valign=top style='width:52.0%;padding:3.75pt 3.75pt 3.75pt 3.75pt;
+  height:6.0pt'>
+  <div align=right>
+  <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="4%"
+   style='width:4.0%;mso-cellspacing:0in;background:navy;mso-yfti-tbllook:1184;
+   mso-padding-alt:0in 0in 0in 0in'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+    <td style='background:lime;padding:0in 0in 0in 0in'>
+    <p class=MsoNormal style='margin-top:3.0pt'><span style='font-family:"Verdana","sans-serif";
+    mso-fareast-font-family:"Times New Roman"'>&nbsp;<o:p></o:p></span></p>
+    </td>
+   </tr>
+  </table>
+  </div>
+  </td>
+  <td width="51%" valign=top style='width:51.0%;padding:3.75pt 3.75pt 3.75pt 3.75pt;
+  height:6.0pt'>
+  <p class=MsoNormal style='mso-line-height-alt:6.0pt'><span style='font-size:
+  13.5pt;font-family:"Book Antiqua","serif";mso-fareast-font-family:"Times New Roman"'><a
+  href="raschke.pdf"><span class=style471><span
+  style='font-size:12.0pt'>Peter <span class=SpellE>Sloterdijk</span> as
+  &quot;First Philosopher&quot; of Globalization</span></span></a></span><span
+  style='font-family:"Book Antiqua","serif";mso-fareast-font-family:"Times New Roman"'><br>
+  <span class=style471>Carl <span class=SpellE>Raschke</span>, University of
+  Denver</span></span><span style='font-size:13.5pt;font-family:"Book Antiqua","serif";
+  mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3;height:48.0pt'>
+  <td width="52%" valign=top style='width:52.0%;padding:3.75pt 3.75pt 3.75pt 3.75pt;
+  height:48.0pt'>
+  <p class=style2 align=right style='text-align:right'><span style='font-family:
+  "Book Antiqua","serif"'><a href="nail.pdf"><span
+  class=SpellE><span class=style471><span style='font-size:12.0pt'>Zapatismo</span></span></span><span
+  class=style471><span style='font-size:12.0pt'> and the Global Origins of
+  Occupy</span></span></a></span><span style='font-size:12.0pt;font-family:
+  "Book Antiqua","serif"'><br>
+  <span class=style471>Thomas Nail, University of Denver</span></span><span
+  style='font-family:"Book Antiqua","serif"'><o:p></o:p></span></p>
+  </td>
+  <td width="51%" valign=top style='width:51.0%;border:solid white 3.0pt;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:48.0pt'>
+  <p class=MsoNormal><span style='font-family:"Book Antiqua","serif";
+  mso-fareast-font-family:"Times New Roman"'><a
+  href="schedneck.pdf">The <span
+  class=SpellE>Decontextualization</span> of Asian Religious Practices in the
+  Context of Globalization</a><br>
+  Brooke <span class=SpellE>Schedneck</span>, <span class=SpellE>Chiangmai</span>
+  University, Thailand<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4;height:56.25pt'>
+  <td width="52%" valign=top style='width:52.0%;padding:3.75pt 3.75pt 3.75pt 3.75pt;
+  height:56.25pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-family:"Book Antiqua","serif";mso-fareast-font-family:"Times New Roman"'><a
+  href="bedford.pdf">Beyond the 2008
+  Financial &quot;Crisis&quot;: Global Capital After Marx and Modernism</a><br>
+  Gary Bedford, University of Denver<o:p></o:p></span></p>
+  </td>
+  <td width="51%" valign=top style='width:51.0%;border:solid white 1.0pt;
+  border-top:none;mso-border-top-alt:solid white .25pt;mso-border-alt:solid white .25pt;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:56.25pt'>
+  <p class=style32><span style='font-family:"Book Antiqua","serif"'><a
+  href="smith.pdf">A Drone's Eye View: Global
+  Anti-Terrorism and the Existential Crisis of Just War Theory</a><br>
+  Patrick Provost-Smith<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5;height:56.25pt'>
+  <td width="52%" valign=top style='width:52.0%;padding:3.75pt 3.75pt 3.75pt 3.75pt;
+  height:56.25pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-family:"Book Antiqua","serif";mso-fareast-font-family:"Times New Roman"'><a
+  href="almond.pdf">Messianic Themes in South
+  Asian Literature: Reading <span class=SpellE>Bibhutibhushan</span> <span
+  class=SpellE>Banerji</span> in the Light of <span class=SpellE>Agamben</span></a><br>
+  Ian Almond, Georgetown University in Qatar<o:p></o:p></span></p>
+  </td>
+  <td width="51%" valign=top style='width:51.0%;border:solid white 1.0pt;
+  border-top:none;mso-border-top-alt:solid white .25pt;mso-border-alt:solid white .25pt;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:56.25pt'>
+  <p class=MsoNormal><span style='font-family:"Book Antiqua","serif";
+  mso-fareast-font-family:"Times New Roman"'><a
+  href="ramos.pdf">Demographics as Destiny:
+  Globalization and the Resurgence of Religion Through Fertility</a><br>
+  Joshua Ramos, University of Denver<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6;height:56.25pt'>
+  <td width="52%" valign=top style='width:52.0%;padding:3.75pt 3.75pt 3.75pt 3.75pt;
+  height:56.25pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-family:"Book Antiqua","serif";mso-fareast-font-family:"Times New Roman"'><a
+  href="stoica.pdf">Reading <span
+  class=SpellE>Gayatri</span> <span class=SpellE>Chakravorty</span> <span
+  class=SpellE>Spivak</span> in Rural Quebec, or Saving &quot;Exotic&quot;
+  Women from &quot;Exotic Men&quot;: The Construction of the Religious
+  Subaltern in Light of the 2007 <span class=SpellE>Herouxville</span> Incident</a><br>
+  <span class=SpellE>Dragos</span> <span class=SpellE>Stoica</span>, Concordia
+  University<o:p></o:p></span></p>
+  </td>
+  <td width="51%" valign=top style='width:51.0%;border:solid white 1.0pt;
+  border-top:none;mso-border-top-alt:solid white .25pt;mso-border-alt:solid white .25pt;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:56.25pt'>
+  <p class=MsoNormal><span style='font-family:"Book Antiqua","serif";
+  mso-fareast-font-family:"Times New Roman"'>&nbsp;<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7;height:24.75pt'>
+  <td width="52%" valign=top style='width:52.0%;padding:3.75pt 3.75pt 3.75pt 3.75pt;
+  height:24.75pt'>
+  <div align=right>
+  <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="4%"
+   style='width:4.0%;mso-cellspacing:0in;background:navy;mso-yfti-tbllook:1184;
+   mso-padding-alt:0in 0in 0in 0in'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+    <td style='background:blue;padding:0in 0in 0in 0in'>
+    <p class=MsoNormal style='margin-top:3.0pt'><span style='font-family:"Verdana","sans-serif";
+    mso-fareast-font-family:"Times New Roman"'>&nbsp;<o:p></o:p></span></p>
+    </td>
+   </tr>
+  </table>
+  </div>
+  </td>
+  <td width="51%" valign=top style='width:51.0%;border:solid white 1.0pt;
+  border-top:none;mso-border-top-alt:solid white .25pt;mso-border-alt:solid white .25pt;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:24.75pt'>
+  <p class=MsoNormal><strong><span style='font-size:13.5pt;font-family:"Book Antiqua","serif";
+  mso-fareast-font-family:"Times New Roman"'>Interviews</span></strong><span
+  style='font-size:13.5pt;font-family:"Book Antiqua","serif";mso-fareast-font-family:
+  "Times New Roman"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8;height:56.25pt'>
+  <td width="52%" valign=top style='width:52.0%;padding:3.75pt 3.75pt 3.75pt 3.75pt;
+  height:56.25pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-family:"Book Antiqua","serif";mso-fareast-font-family:"Times New Roman"'>&nbsp;<o:p></o:p></span></p>
+  </td>
+  <td width="51%" valign=top style='width:51.0%;border:solid white 1.0pt;
+  border-top:none;mso-border-top-alt:solid white .25pt;mso-border-alt:solid white .25pt;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:56.25pt'>
+  <p class=MsoNormal><span style='font-family:"Book Antiqua","serif";
+  mso-fareast-font-family:"Times New Roman"'><a
+  href="taylor.raschke.pdf">From Alchemy to
+  Revolution: A Conversation with Carl. A. <span class=SpellE>Raschke</span></a><br>
+  Victor Taylor, York College of Pennsylvania<br>
+  Carl A. <span class=SpellE>Raschke</span>, University of Denver<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9;height:56.25pt'>
+  <td width="52%" valign=top style='width:52.0%;padding:3.75pt 3.75pt 3.75pt 3.75pt;
+  height:56.25pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-family:"Book Antiqua","serif";mso-fareast-font-family:"Times New Roman"'><a
+  href="mccullough.altizer.pdf">Interview
+  With Thomas J.J. <span class=SpellE>Altizer</span></a><br>
+  <span class=SpellE>Lissa</span> McCullough, Los Angeles<o:p></o:p></span></p>
+  </td>
+  <td width="51%" valign=top style='width:51.0%;border:solid white 1.0pt;
+  border-top:none;mso-border-top-alt:solid white .25pt;mso-border-alt:solid white .25pt;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:56.25pt'>
+  <p class=MsoNormal><span style='font-family:"Book Antiqua","serif";
+  mso-fareast-font-family:"Times New Roman"'>&nbsp;<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10;height:30.75pt'>
+  <td width="52%" valign=top style='width:52.0%;padding:3.75pt 3.75pt 3.75pt 3.75pt;
+  height:30.75pt'>
+  <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 align=right
+   width="4%" style='width:4.0%;mso-cellspacing:0in;background:navy;mso-yfti-tbllook:
+   1184;mso-table-lspace:2.25pt;mso-table-rspace:2.25pt;mso-table-tspace:3.0pt;
+   margin-top:.75pt;mso-table-anchor-vertical:paragraph;mso-table-anchor-horizontal:
+   column;mso-table-left:right;mso-table-top:middle;mso-padding-alt:0in 0in 0in 0in'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+    <td style='background:red;padding:0in 0in 0in 0in'>
+    <p class=MsoNormal align=right style='text-align:right'><span
+    style='font-family:"Verdana","sans-serif";mso-fareast-font-family:"Times New Roman"'>&nbsp;<o:p></o:p></span></p>
+    </td>
+   </tr>
+  </table>
+  </td>
+  <td valign=top style='border:solid #111111 1.0pt;border-top:none;mso-border-top-alt:
+  solid #111111 .25pt;mso-border-alt:solid #111111 .25pt;padding:3.75pt 3.75pt 3.75pt 3.75pt;
+  height:30.75pt'>
+  <p class=MsoNormal><strong><span style='font-size:13.5pt;font-family:"Book Antiqua","serif";
+  mso-fareast-font-family:"Times New Roman"'>Reviews</span></strong><span
+  style='font-size:13.5pt;font-family:"Book Antiqua","serif";mso-fareast-font-family:
+  "Times New Roman"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11;height:48.0pt'>
+  <td width="52%" valign=top style='width:52.0%;padding:3.75pt 3.75pt 3.75pt 3.75pt;
+  height:48.0pt'></td>
+  <td valign=top style='border:solid #111111 1.0pt;border-top:none;mso-border-top-alt:
+  solid #111111 .25pt;mso-border-alt:solid #111111 .25pt;padding:3.75pt 3.75pt 3.75pt 3.75pt;
+  height:48.0pt'>
+  <p class=MsoNormal><span style='font-family:"Book Antiqua","serif";
+  mso-fareast-font-family:"Times New Roman"'><a
+  href="alexander.pdf">A Review of Luke <span
+  class=SpellE>Bretherton</span>, <em><span style='font-family:"Book Antiqua","serif"'>Christianity
+  and Contemporary Politics: The Conditions and Possibility of Faithful Witness</span></em></a><br>
+  Laura E. Alexander, University of Virginia<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12;mso-yfti-lastrow:yes;height:48.0pt'>
+  <td width="52%" valign=top style='width:52.0%;padding:3.75pt 3.75pt 3.75pt 3.75pt;
+  height:48.0pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-family:"Book Antiqua","serif";mso-fareast-font-family:"Times New Roman"'><a
+  href="alvis.pdf">A Review Essay of Thomas <span
+  class=SpellE>Carlson<span style='font-family:"Tahoma","sans-serif"'>&#65533;</span>s</span>
+  <em><span style='font-family:"Book Antiqua","serif"'>The Indiscrete Image:
+  Infinitude and Creation of the Human</span></em></a><br>
+  Jason <span class=SpellE>Alvis</span>, <span class=SpellE>Univeristy</span>
+  of Denver<o:p></o:p></span></p>
+  </td>
+  <td valign=top style='border:solid #111111 1.0pt;border-top:none;mso-border-top-alt:
+  solid #111111 .25pt;mso-border-alt:solid #111111 .25pt;padding:3.75pt 3.75pt 3.75pt 3.75pt;
+  height:48.0pt'>
+  <p class=MsoNormal style='margin-bottom:12.0pt'><span class=style471><span
+  style='font-family:"Book Antiqua","serif";mso-fareast-font-family:"Times New Roman"'><a
+  href="miller.pdf">A Review of Peter E.
+  Gordon, <em><span style='font-family:"Book Antiqua","serif"'>Continental
+  Divide: Heidegger, Cassirer, Davos</span></em></a></span></span><span
+  style='font-family:"Book Antiqua","serif";mso-fareast-font-family:"Times New Roman"'><br>
+  <span class=style471>Leslie C. Miller, Colorado Mesa University</span><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<div class=MsoNormal align=center style='text-align:center'><span
+style='font-size:8.5pt;font-family:"Verdana","sans-serif";mso-fareast-font-family:
+"Times New Roman"'>
+
+<hr size=2 width="100%" align=center>
+
+</span></div>
+
+<p class=footer align=center style='text-align:center'><span style='font-size:
+8.5pt;font-family:"Verdana","sans-serif"'>&nbsp;<o:p></o:p></span></p>
+
+<p class=footer align=center style='text-align:center'><span style='font-size:
+10.0pt;font-family:"Gill Sans MT","sans-serif";mso-bidi-font-family:Arial;
+color:white'><a href="../../index.html"><span style='color:black'>Homepage</span></a></span><span
+style='font-size:10.0pt;font-family:"Gill Sans MT","sans-serif";mso-bidi-font-family:
+Arial'>&nbsp; 1<span class=GramE>&nbsp; </span></span><span style='font-size:
+10.0pt;font-family:"Gill Sans MT","sans-serif";mso-bidi-font-family:Arial;
+color:white'><a href="https://jcrt.org/pastissues.shtml"><span
+style='color:black'>Archives</span></a></span><span style='font-size:10.0pt;
+font-family:"Gill Sans MT","sans-serif";mso-bidi-font-family:Arial'> 1&nbsp; <a
+href="https://jcrt.org/searchengine.shtml">Search</a></span><span
+style='font-family:"Arial","sans-serif"'>&nbsp;&nbsp;</span><span
+style='font-size:10.0pt;font-family:"Gill Sans MT","sans-serif";mso-bidi-font-family:
+Arial'>1&nbsp; </span><span style='font-size:10.0pt;font-family:"Gill Sans MT","sans-serif";
+mso-bidi-font-family:Arial;color:white'><a href="http://jcrt.typepad.com/"><span
+style='color:black'>Blog</span></a></span><b><span style='font-size:11.5pt;
+font-family:"Arial","sans-serif";color:white'> </span></b><span
+style='font-size:8.5pt;font-family:"Verdana","sans-serif"'><o:p></o:p></span></p>
+
+<p class=footer align=center style='text-align:center'><span style='font-size:
+8.5pt;font-family:"Verdana","sans-serif"'>&nbsp;<o:p></o:p></span></p>
+
+<p><a href="https://www.adobe.com/products/acrobat/readstep2.html" target="_new"><span
+style='font-size:8.5pt;font-family:"Verdana","sans-serif";mso-no-proof:yes'><img
+border=0 width=1 height=1 id="_x0000_i1026" src=index.shtml alt="&lt;p"></span></a><span
+style='font-size:10.0pt;font-family:"Book Antiqua","serif"'><a
+href="https://jcrt.org/copyright.shtml" target="_self"><span class=GramE><span
+style='font-family:"Tahoma","sans-serif"'>&#65533;</span></span></a><span
+class=GramE> 1999-2008 Journal for Cultural and Religious Theory.</span><br>
+<span class=GramE>e-ISSN</span>: 1530-5228<br>
+Updated 07|15|2007 - Size 4.0K - <a href="https://jcrt.org/contact.shtml"
+target="_self">Feedback</a>.<br>
+&nbsp;</span><span style='font-size:8.5pt;font-family:"Verdana","sans-serif"'><o:p></o:p></span></p>
+
+</div>
+
+</body>
+
+<script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'},{'ap':'cpsh-oh'},{'server':'p3plzcpnl504450'},{'dcenter':'p3'},{'cp_id':'6116838'},{'cp_cl':'8'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script><script src='../../../img1.wsimg.com/signals/js/clients/scc-c2/scc-c2.min.js'></script></html>

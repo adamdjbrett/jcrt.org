@@ -1,0 +1,506 @@
+
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<title>JCRT 12.2 Fall 2012</title>
+<META NAME="Author" CONTENT="webmaster AT jcrt.org">
+<META NAME="keywords" CONTENT="JCRT, religion, religious, culture, cultural, theory, theoretical, theology, scholarship, interdisciplinary, theological, god, postmodern, critical">
+<META NAME="description" CONTENT="The Journal for Cultural and Religious Theory is devoted to both disciplinary and interdisciplinary scholarship that deals broadly with the phenomenon of religious and cultural theory.">
+
+<LINK rel="alternate" TYPE="application/rss+xml" TITLE="JCRT - Current Issue" HREF="https://jcrt.org/rss.xml">
+<LINK rel="alternate" TYPE="application/rss+xml" TITLE="JCRT - Calls for Papers" HREF="https://jcrt.org/rss/calls.xml">
+<LINK rel="alternate" TYPE="application/rss+xml" TITLE="JCRT - Books for Review" HREF="https://jcrt.org/rss/calls.xml">
+<LINK rel="alternate" TYPE="application/rss+xml" TITLE="JCRT - Announcements & Notices" HREF="https://jcrt.org/rss/calls.xml">
+
+<style type="text/css">.blurbBlock a {
+  display:block;
+  padding:8px;
+  border:0px;
+  text-decoration:none;
+  color:#000000;
+  font-family:Arial,Helvetica,Modern,Verdana;
+  font-size:8pt;
+}
+.blurbBlock a:link {
+   text-decoration:none;
+   border-bottom-style: none;
+}
+.blurbBlock a:link:hover {
+   text-decoration:underline;
+   border-bottom-style: none;
+}
+.blurbBlock a:link:visited {
+   text-decoration:none;
+   border-bottom-style:none;
+}
+a:link {
+   border-bottom-width: 1px; 
+   border-bottom-style: dotted;
+   text-decoration: none;
+}
+a:visited {
+   border-bottom-width: 1px; 
+   border-bottom-style: dotted;
+   text-decoration: none;
+}
+a:link:hover {
+   border-bottom-width: 1px;
+   border-bottom-style: solid;
+   text-decoration: none;
+   color: #555555;
+}
+	.date {font-size : 15px;
+		   font-family : Arial,Helvetica,Sans-serif;
+		   color : white;
+		   font-weight : bold;
+		  }
+
+    body
+    {
+        font-size:0.69em;
+        font-family:Verdana,Tahoma,Arial,sans-serif;
+    }
+
+
+HTML.IE BODY
+{
+	cursor: progress;
+}
+
+span.MsoFootnoteReference
+	{vertical-align:super}
+span.MsoCommentReference
+	{}
+.Font {
+	font-family: Verdana, Geneva, sans-serif;
+}
+.Arial {
+	font-family: Arial Black, Gadget, sans-serif;
+}
+.Book {
+	font-family: Book Antiqua;
+}
+.Book {
+	font-family: Book Antiqua;
+}
+.Book {
+	font-family: Book Antiqua;
+}
+Book {
+	font-family: Book Antiqua;
+}
+Book {
+	font-family: Book Antiqua;
+}
+.Book font a {
+	font-family: Trebuchet MS, Arial, Helvetica, sans-serif;
+}
+.Book font a {
+	font-family: Book Antiqua;
+}
+.Book {
+	font-family: Book Antiqua;
+}
+.style2 {
+	font-size: x-small;
+}
+.style6 {
+	font-size: x-small;
+	font-family: "Book Antiqua";
+}
+.style13 {
+	border-collapse: collapse;
+}
+.style21 {
+	border-style: solid;
+	border-width: 0;
+	font-family: "Book Antiqua";
+	text-align: right;
+}
+.style22 {
+	border-style: solid;
+	border-color: #FFFFFF;
+	font-size: small;
+	font-family: "Book Antiqua";
+	text-align: left;
+}
+.style24 {
+	font-size: small;
+	font-family: "Book Antiqua";
+	text-align: right;
+}
+.style31 {
+	border-style: solid;
+	border-width: 0;
+	font-family: "Book Antiqua";
+	text-align: left;
+	font-size: small;
+}
+.style32 {
+	text-align: left;
+}
+.style33 {
+	border: 0 solid #FFFFFF;
+	font-size: small;
+	font-family: "Book Antiqua";
+}
+.style35 {
+	font-size: medium;
+}
+.style38 {
+	border-style: solid;
+	border-color: #FFFFFF;
+	text-align: left;
+}
+.style39 {
+	margin-top: 4px;
+	background-color: #000080;
+}
+.style40 {
+	font-family: "Book Antiqua";
+	font-size: small;
+}
+.style42 {
+	background-color: #FF0000;
+	font-size: small;
+}
+.style46 {
+	font-size: x-small;
+	font-family: "Book Antiqua";
+	text-align: left;
+}
+.style47 {
+	font-size: small;
+}
+.style48 {
+	background-color: #00FF00;
+	font-size: small;
+}
+.style49 {
+	font-family: "Book Antiqua";
+	font-size: medium;
+}
+.style50 {
+	background-color: #0000FF;
+	font-size: small;
+}
+.style51 {
+	background-color: #FFFF00;
+	font-size: small;
+	text-align: right;
+}
+.style52 {
+	background-color: #000080;
+	font-size: small;
+}
+.style53 {
+	background-color: #FF0000;
+	font-size: small;
+	text-align: right;
+}
+.style54 {
+	border: 0 solid #FFFFFF;
+	font-size: medium;
+	font-family: "Book Antiqua";
+}
+.style55 {
+	border-style: solid;
+	border-width: 0;
+	font-family: "Book Antiqua";
+	text-align: left;
+	font-size: medium;
+}
+.style56 {
+	font-family: "Book Antiqua";
+	font-size: small;
+	text-align: left;
+}
+</style>
+
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" link="#800080" vlink="#000080" alink="#FF0000">
+
+<table border="0" width="100%" bgcolor="#000000" height="61">
+	<tr>
+		<td width="50">
+		<img alt="" height="30" src="color_block_pdf_left.jpg" width="50"></td>
+		<td><span style="font-weight: 400; font-style: italic">
+		<font color="#FFFFFF" class="date"><font face="Gill Sans MT" size="2">&nbsp;</span><span style="font-weight: 400">JCRT 
+		12.2 Fall 2012</span><span style="font-weight: 400; font-style: italic">
+		</span>
+    </font></font></td>
+		<td width="258"><font color="#FFFFFF" class="date">
+		<font face="Gill Sans MT" size="2"><span style="font-weight: 400"><a href="../../index.html"><font color="#FFFFFF">Homepage</font></a>&nbsp; 
+    1&nbsp; <a href="https://jcrt.org/pastissues.shtml">
+    <font color="#FFFFFF">Archives</font></a> 1&nbsp; 
+		<a href="https://jcrt.org/searchengine.shtml"><font color="#FFFFFF">Search</font></a></span></font><font face="Arial" size="3"><span style="font-weight: 400">&nbsp;&nbsp;</span></font></font></td>
+	</tr>
+</table>
+<table cellpadding="0" cellspacing="0" border="0" width="91%">
+  <tr>
+    <td valign="top">
+    <font face="Verdana, Helvetica, ARIAL, MS SANS SERIF, SANS-SERIF" size="1"><b><br>
+&nbsp;</b></font></td>
+  </tr>
+</table>
+<div align="center">
+  <center>
+<table border="0" width="1000" cellspacing="20" cellpadding="5" height="908" bordercolor="#111111" class="style13">
+  <tr>
+    <td valign="top" style="height: 13px; width: 52%;" class="style21">
+		  &nbsp;</td>
+    <td width="51%" valign="top" align="left" style="height: 13px">
+    <p class="footer">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" class="style46" style="height: 8px; width: 52%">
+	<span class="style47" style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;">
+	<em>JCRT Special Issue:</em></span><span class="style35" style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;"><strong>
+	</strong></span>
+	<span style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;">
+	<strong><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	</strong><span class="style35"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+	Pedagogical Exercises and Theories of Practice</strong></span></span></td>
+    <td width="51%" valign="top" align="left" class="style40" style="height: 8px">
+    <a href="dickinson-intro.pdf">
+	<span class="style47">Introduction</span></a><br class="style47">
+	<span class="style47">T. Wilson Dickinson, Transylvania University<br></span></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" class="style6" style="height: 8px; width: 52%">
+		  <table cellpadding="0" cellspacing="0" class="style39" style="width: 4%; height: 6">
+			  <tr>
+				  <td class="style48">&nbsp;</td>
+			  </tr>
+		  </table>
+			</td>
+    <td width="51%" valign="top" align="left" class="style49" style="height: 8px">
+    I. Conversing With Our Teachers</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" class="style40" style="height: 84px; width: 52%;">
+    <p class="style2">
+	<a href="taylor-kosky.pdf">
+	<span class="style47">Recalling Our 
+	Vocation: A Conversation About&nbsp; Teaching with Mark C. Taylor</span></a><span class="style47"><br>
+	Mark C. Taylor, Columbia University<br>Jeffrey Kosky, Washington and Lee 
+	University</span></p>
+	  </td>
+		  <td width="51%" valign="top" class="style22" style="height: 64">
+		  <a href="caputo.pdf">Education as 
+		  Event: A Conversation with John D. Caputo</a><br>John D. Caputo, 
+		  Syracuse University<br>T. Wilson Dickinson, Transylvania University<br></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" class="style40" style="width: 52%; height: 75px;">
+	<a href="coakley.pdf">Silence, Prayer, and 
+	Desire in Pedagogical Practice:&nbsp;</a><br>
+	<a href="coakley.pdf">A Conversation with 
+	Sarah Coakley</a><br>Sarah Coakley, Univeristy of Cambridge <br>Tamsin 
+	Jones, University of Victoria<br></td>
+    <td width="51%" valign="top" align="left" class="style33" style="height: 75px">
+	<p class="style32"><br><br><br></p>
+	  </td>
+  </tr>
+		</span>
+  <tr>
+    <td align="right" valign="top" class="style6" style="width: 52%; height: 33px;">
+		  <table cellpadding="0" cellspacing="0" class="style39" style="width: 4%; height: 6">
+			  <tr>
+				  <td class="style50">&nbsp;</td>
+			  </tr>
+		  </table>
+	  </td>
+    <td width="51%" valign="top" align="left" class="style54" style="height: 33px">
+	II. The Performative Power of Texts</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" class="style40" style="width: 52%; height: 75px;">
+	<a href="goodchild.pdf">Engaged Philosophy 
+	of Religion</a><br>Philip Goodchild, University of Nottingham<br></td>
+    <td width="51%" valign="top" align="left" class="style33" style="height: 75px">
+	<a href="robert.pdf">Performing 
+	Religiously Between Passion and Performance</a><br>William Robert, Syracuse 
+	University<br></td>
+  </tr>
+		<tr>
+		  <td valign="top" class="style24" style="height: 64px; width: 52%;">
+		  <a href="dickinson.pdf">Teaching 
+		  with <em>Fear and Trembling</em>: The Trail of Abraham, <br>The Reader and the 
+		  Professor</a><br>T. Wilson Dickinson, Transylvania University<br></td>
+		    <td class="style31" valign="top">
+			<br></td>
+		  </tr>
+		<tr>
+		  <td valign="top" class="style24" style="height: 64px; width: 52%;">
+		  <table cellpadding="0" cellspacing="0" class="style39" style="width: 4%; height: 6" align="right">
+			  <tr>
+				  <td class="style53">&nbsp;</td>
+			  </tr>
+		  </table>
+			</td>
+		    <td class="style55" valign="top">
+			III. Reading, Recitation, and Reflection (with Echoes of Augustine)</td>
+		  </tr>
+		<tr>
+		  <td valign="top" class="style24" style="height: 64px; width: 52%;">
+		  <a href="mackendrick.pdf">Slow 
+		  Reading: Learning in the Time of the Body</a><br>Karmen Mackendrick, 
+		  Le Moyne College<br><br></td>
+		    <td class="style31" valign="top" style="height: 64px">
+			<span class="style47">
+			<a href="britt.pdf">Psalm 
+			Recitation and Post-Secular Time: Augustine, the IPod and Psalm 90</a></span><br class="style47">
+			<span class="style47">Brian Britt, Virginia Tech</span><br class="style47">
+			</td>
+		  </tr>
+		<tr>
+		  <td valign="top" class="style24" style="height: 64px; width: 52%;">
+		  <a href="cochrane.pdf">Hexis and 
+		  Grace: The Formation of Souls at Port Royal and Elsewhere</a><br>Rich 
+		  Cochrane<br></td>
+		    <td class="style31" valign="top" style="height: 64px">
+			<span class="style47"><br></span>
+			<br class="style47"></td>
+		  </tr>
+		<tr>
+		  <td valign="top" class="style24" style="height: 41px; width: 52%;">
+		  <table cellpadding="0" cellspacing="0" class="style39" style="width: 4%; height: 6" align="right">
+			  <tr>
+				  <td class="style51">&nbsp;</td>
+			  </tr>
+		  </table>
+			</td>
+		    <td class="style31" valign="top" style="height: 41px">
+			<span class="style35">IV. Emancipatory Pedagogy and Jacques Ranciere</span><br class="style35">
+			</td>
+		  </tr>
+		<tr>
+		  <td valign="top" class="style24" style="height: 64px; width: 52%;">
+		  <a href="crockett.pdf">Pedagogy and 
+		  Radical Equality: Ranciere's Ignorant Schoolmaster</a><br>Clayton 
+		  Crockett, University of Central Arkansas<br></td>
+		    <td class="style31" valign="top" style="height: 64px">
+			<a href="ballan.pdf">The 
+			Intelligence of the Book: The Religious Studies Classroom as 
+			Translation Workshop</a><br>Joseph Ballan, University of Copenhagen<br>
+			<br></td>
+		  </tr>
+		<tr>
+		  <td valign="top" class="style24" style="height: 35px; width: 52%;">
+		  <table cellpadding="0" cellspacing="0" class="style39" style="width: 4%; height: 6" align="right">
+			  <tr>
+				  <td class="style48">&nbsp;</td>
+			  </tr>
+		  </table>
+			</td>
+		    <td class="style55" valign="top" style="height: 35px">
+		    V. Bringing the Classroom to Life<br></td>
+		  </tr>
+		<tr>
+		  <td valign="top" class="style24" style="height: 64px; width: 52%;">
+		  <a href="heo.pdf">Three Classroom 
+		  Readings of 'Ethnographic Practice' in Religious Studies</a><br>Angie 
+		  Heo, Max Planck Institute for the Study of Religious and Ethnic 
+		  Diversity<br></td>
+		    <td class="style31" valign="top" style="height: 64px">
+			<a href="blosser.pdf">Beyond Moral 
+			Development: Theorizing Ethical Practices in Service Learning</a><br>
+			Joe Blosser, High Point University<br><br></td>
+		  </tr>
+		<tr>
+		  <td valign="top" class="style24" style="height: 35px; width: 52%;">
+		    <a href="peters.pdf">Teaching for 
+			Social Justice: Creating a Context for Transformation</a><br>Rebecca 
+			Todd Peters, Elon University<br></td>
+		    <td class="style22" valign="top"><br>
+			***<span class="style40" style="color: rgb(42, 42, 42); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 17px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;">Special 
+			thanks to our editorial assistants:<br>Joseph Aldinger, Maria 
+			Almanza-Aldinger, and Cate Sacchi St. Pierre</span></td>
+		  </tr>
+		<tr>
+		  <td valign="top" class="style24" style="height: 35px; width: 52%;">
+		  <span class="Book">
+    <table border="0" cellspacing="1" style="width: 64%; height: 25px;" align="right">
+      <tr>
+        <td width="100%" height="13" bgcolor="#000000">
+          <p class="style24"><font color="#FFFFFF" face="Book Antiqua"><strong>&nbsp;Articles</strong></font></p></td>
+      </tr>
+    </table>
+    </span></td>
+		    <td class="style22" valign="top">
+		  <table cellpadding="0" cellspacing="0" class="style39" style="width: 4%; height: 6">
+			  <tr>
+				  <td class="style52">&nbsp;</td>
+			  </tr>
+		  </table>
+			</td>
+		  </tr>
+		<tr>
+		  <td valign="top" class="style24" style="height: 35px; width: 52%;">
+		    &nbsp;</td>
+		    <td class="style22" valign="top">
+			<a href="hurlin.pdf">Jesus Christ: 
+			Erri De Luca and the &quot;Self as Stumbling Block&quot;</a><br>Elise 
+			Montel-Hurlin, Universites de Toulouse et de Lorraine<br></td>
+		  </tr>
+		<tr>
+		  <td valign="top" class="style24" style="height: 35px; width: 52%;">
+		  <table cellpadding="0" cellspacing="0" class="style39" style="width: 4%; height: 6" align="right">
+			  <tr>
+				  <td class="style42">&nbsp;</td>
+			  </tr>
+		  </table>
+			</td>
+		    <td class="style38" valign="top">
+		  <span class="Book">
+    <table border="0" cellspacing="1" style="width: 64%; height: 25px;">
+      <tr>
+        <td width="100%" height="13" bgcolor="#000000">
+          <p class="style56"><font color="#FFFFFF" face="Book Antiqua"><strong>&nbsp;Review 
+		  Essays</strong></font></p></td>
+      </tr>
+    </table>
+    </span></td>
+		  </tr>
+		<tr>
+		  <td valign="top" class="style24" style="height: 35px; width: 52%;">
+		    <a href="fong.pdf">A Review of 
+			Peter Sloterdijk's Spheres, Volume One: Bubbles</a><br>Benjamin 
+			Fong, Columbia University<br><br></td>
+		    <td class="style38" valign="top">&nbsp;</td>
+		  </tr>
+			</table>
+
+<hr>
+
+<p class="footer">&nbsp;</p>
+  <p class="footer"><font color="#FFFFFF" class="date">
+  <font face="Gill Sans MT" size="2"><span style="font-weight: 400">
+  <a href="../../index.html"><font color="#000000">Homepage</font></a><font color="#000000">&nbsp; 
+    1&nbsp; </font> <a href="https://jcrt.org/pastissues.shtml">
+    <font color="#000000">Archives</font></a><font color="#000000"> 1&nbsp; 
+<a href="https://jcrt.org/searchengine.shtml">Search</a></font></span></font><font face="Arial" size="3" color="#000000"><span style="font-weight: 400">&nbsp;&nbsp;</span></font><font face="Gill Sans MT" size="2" color="#000000"><span style="font-weight: 400">1&nbsp; 
+		</span></font><span style="font-weight: 400">
+<font face="Gill Sans MT" size="2"><a href="http://jcrt.typepad.com/">
+<font color="#000000">Blog</font></a></font></span>
+    
+    </font></p>
+<p class="footer">&nbsp;</p>
+  </center>
+</div>
+<p><a href="https://www.adobe.com/products/acrobat/readstep2.html" target="_new">
+<img height="1" alt=
+<p><font face="Book Antiqua"><font class="footer"><font size="2">
+<a href="https://jcrt.org/copyright.shtml" target="_self">&#65533;</a> 1999-2008 
+Journal for Cultural and Religious Theory.<br>
+e-ISSN: 1530-5228<br>
+Updated 07|15|2007 - Size 4.0K -
+<a href="https://jcrt.org/contact.shtml" target="_self">Feedback</a>.<br>
+&nbsp;</font></font></font></p>
+
+</body>
+<script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'},{'ap':'cpsh-oh'},{'server':'p3plzcpnl504450'},{'dcenter':'p3'},{'cp_id':'6116838'},{'cp_cl':'8'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script><script src='../../../img1.wsimg.com/signals/js/clients/scc-c2/scc-c2.min.js'></script></html>
