@@ -1,0 +1,75 @@
+title: "Editorial 11ty"
+description: "Editorial from HTML5up convert to bootstrap and JAMSTACK 11ty aka eleventy version develop by Adam Dj Brett"
+image: "https://images.unsplash.com/photo-1761481755390-83999d790b95?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0Nnx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=400"
+language: "en"
+locale: en_US
+favicon: "https://getbootstrap.com/docs/5.3/assets/img/favicons/apple-touch-icon.png"
+url: "https://editorial.000000076.xyz"
+
+metasocial:
+  - facebook: https://www.facebook.com/user
+  - twitteruser: "@user"
+  - twitter: https://x.com/user
+
+navbar: 
+ title: Editorial 11ty
+ sub_title: "Responsive HTML5up Site"
+ social: 
+   - title: Follow my Twitter
+     icon: fab fa-twitter
+     url: https://x.com
+   - title: Follow My Facebook
+     icon: fab fa-facebook
+     url: https://fb.com
+   - title: Follow my Instagram
+     icon: fab fa-instagram
+     url: https://instagram.com
+   - title: Follow my Youtube
+     icon: fab fa-youtube
+     url: https://youtube.com
+
+sidebar: 
+  menu: 
+    title: Menu
+    list: 
+      - nav: Home
+        url: /
+      - nav: About
+        url: /about/
+      - nav: Archives
+        url: /archives/
+      - nav: Blog
+        url: /blog/
+      - nav: Contact
+        url: /
+  info: 
+    title: Ante interdum
+    list: 
+      - image: "https://images.unsplash.com/photo-1761602545494-4cd002b4d2b2?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyfHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=400"
+        text: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.
+        url: "#"
+      - image: "https://images.unsplash.com/photo-1761475145944-52df2def23e9?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=400"
+        text: Nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris
+        url: "#"
+      - image: "https://images.unsplash.com/photo-1761671263817-958770b10b9f?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwzMXx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=400"
+        text: Ipsum lorep dolor anterepous delsop maledo devolaro. nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris
+        url: "#"
+    button: 
+        text: More
+        url: /
+  contact: 
+    title: Get in touch
+    text: Sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin sed aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
+    list: 
+      - title: "info@adamdjbrett.com"
+        icon: fas fa-envelope
+        url: "mailto:info@adamdjbrett.com"
+      - title: "0000000"
+        icon: fas fa-phone
+        url: "tel:000000"
+      - title: "1234 Somewhere Road #8254 Nashville, TN 00000-0000"
+        icon: fas fa-home
+        url: "https://maps.app.goo.gl/fcatehzDtdQMU3UF7"
+  footer: 
+    text: © My Website. All rights reserved.
+

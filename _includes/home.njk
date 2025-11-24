@@ -1,0 +1,10 @@
+---
+layout: base.njk
+---
+<div class="col-md-10 mx-auto">
+{% include "partials/nav_desktop.njk" %}
+{% include "partials/home_hero.njk" %}
+<article class="col-md-12">{{content|safe}}</article>
+{% include "partials/home_section.njk" %}
+{% include "partials/post_list.njk" %}
+</div>

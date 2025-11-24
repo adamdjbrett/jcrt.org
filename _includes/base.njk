@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="{{ metadata.language }}">
+{% include "partials/seo.njk" %}
+</head>
+<body>
+{% include "partials/sidebar.njk" %}
+<div id="content-wrapper" class="mse">
+{% include "partials/nav_mobile.njk" %}
+{{ content | safe }}
+</div>
+<script src="/js/bs.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</body>
+</html>

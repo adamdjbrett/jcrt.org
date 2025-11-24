@@ -1,0 +1,24 @@
+---
+layout: base.njk
+---
+<div class="col-md-10 mx-auto">
+{% include "partials/nav_desktop.njk" %}
+<div class="row mt-3 mb-3">
+<h1 class="col-md-12 p-3 text-center">{{title}}</h1>
+{% for a in collections.authors %}
+<div class="col-md-6 col-lg-4 p-3 small p-md-5"> 
+<div class="img-zoom-container">
+<a href="{{a.url}}" title="{{a.data.title}}"><img class="img-post rounded" 
+  width="100%" height="100%" alt="{{b.data.title}}" src="{{a.data.image or metadata.image}}"/></a>
+</div>
+<h3>{{a.data.title}}</h3>
+<p>
+{{a.data.description}}
+</p>
+<p><a href="{{a.url}}" class="btn btn-sm btn-pink p-2">
+About {{a.data.title}}
+</a></p>
+</div>
+{% endfor %}
+</div>
+</div>

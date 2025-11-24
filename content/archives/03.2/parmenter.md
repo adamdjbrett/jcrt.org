@@ -1,0 +1,59 @@
+---
+title: "Writing the Medieval Self"
+---
+
+    Parmenter - Book Profile: Writing the Medieval Self - JCRT 3.2 
+
+# Writing the Medieval Self
+
+**Book Profile:** Jager, Eric. _[The Book of the Heart](http://service.bfast.com/bfast/click?bfmid=2181&sourceid=27747321&bfpid=0226391175&bfmtype=book)_. Chicago: University of Chicago Press, 2000 (cloth), 2001 (paper). ISBN 0226391175.
+
+\[an error occurred while processing this directive\]
+
+Dorina Miller Parmenter  
+Syracuse University
+
+* * *
+
+![A](https://jcrt.org/images/alpha/A.gif)t a time when many literary and cultural theorists are grappling with disembodied subjectivity and the dematerialization of textuality in an electronic age, Eric Jager has taken a step back into the European Middle Ages in order to similarly explore the relationships between psychology and communications technology. _The Book of the Heart_ traces metaphors that situate the self in a bookish heart through biblical and patristic literature, popular devotional texts, and secular romances from 400-1500 CE. In this project the author attempts to answer Jacques Derrida�s call in _Of Grammatology_ to write a history of the metaphor of the ontology of interior writing, "a metaphor that systematically contrasts divine or natural writing and the human and laborious, finite and artificial inscription."[\[1\]](#_edn1) But Jager does not wax Derridian in his analysis. Instead, he attempts to show the "relation of ideology or theory to the material conditions of literary culture," (p. xvi) discussing the corporeal forms and practices of reading and writing. Unfortunately _The Book of the Heart_ tends to be more descriptive than analytical, but it does provide a useful historical and material context for thinking about the correlation between grammatology, technology, and changing subjectivities.
+
+3.  Jager�s concentration on the book of the heart goes beyond previous analyses of medieval metaphors that focus on the totalizing writing of God or the modeling of one�s own book/self on a divine original.[\[2\]](#_edn2) In distinction to these utopian images, the book of the heart functions to keep the image of the self grounded in the body, complicating easy dichotomies between the spiritual self and the material self. The book of the heart differs from its predecessor, Platonic writing on the soul, and its modern counterpart, the book of the brain, precisely in its fleshy connotations. While Plato�s legendary trope from the _Phaedrus_ separated the true self (_psychē_ or _nous_) from the corporeal body, and interior from exterior writing, "the medieval book of the heart . . . invoked a biblical (and specifically Christian) anthropology where the heart occupied a liminal, psychosomatic zone and where the self was not wholly reducible to either spirit or flesh." (p. xxi) Even Paul�s seemingly Platonic distinction between letter and spirit is transformed when applied to the "tablets of the heart" (as in 2 Corinthians 3:2-3) instead of to the incorporeal soul. The initial skepticism that I had of Jager�s statement that "Paul endowed writing on the heart with a heightened fleshiness that would haunt the metaphor throughout its long career" (p. 15) diminished as Jager�s argument about the shift from soul imagery to heart imagery proceeded. With the true self seemingly housed in a vital organ rather than an abstractable essence, the self is grounded in, or at least continually haunted by, the body. On the other side of Jager�s favored trope lies the modern book of the brain or mind. While some might lament the shift from a religious to a secular self, Jager�s loss is more corporeal, as the book of the brain contains "merely transient feelings or ephemeral sensations," (p. xxi) "a tabula rasa bearing only the sense impressions of experience." (p. 153) In the modern metaphorical turn there is a loss of the body that is retained in the medieval image of the book of the heart.
+    
+4.  _The Book of the Heart_ opens with a chapter on the origins of the metaphor and a demonstration of the shift from the book of the soul to the book of the heart in Christian scripture and patristic exegesis. The firm establishment of the book of the heart falls in the second chapter, devoted to Augustine, for whom the book, and particularly the codex form that became standard among Christians in the fourth century, was "a structural pattern for the entire created universe."(p. 27) For Augustine, the heart is the site where God inscribes his law that has to be properly read and interpreted by the individual. But not only is Augustine�s heart a pre-authored book, calling to be taken and read, it also has blank pages waiting for the recording of memory. As any careful reader of the _Confessions_ knows, Augustine�s recollection of his past is a complicated palimpsest involving divine writing (creation), reading (exegesis), erasure (sin), and rewriting (grace), so the distinction between the two halves of his self/book are blurred. This image of the heart as a two-lobed book of both divine inscription and a record of human deeds, with the two parts open for comparison at the last judgment, carries over into future uses of the medieval metaphor.
+    
+5.  Chapters three through six progress through further examples of the metaphor used by and/or for Christian scribes, lovers in secular literature, saints in their _Lives_ and legends, and common devotionals, both in literary works and in paintings. Throughout these sections, the sensuality of writing on the heart, whether inscribed by Christ or an earthly lover, is further emphasized. The metaphor becomes more literal and external in the legends of stigmatics and other saints like Ignatius of Antioch (d. c. 110 CE), who, according an autopsy described in _The Golden Legend_ (c. 1260), had the name of Jesus Christ inscribed in gold letters upon his heart. When this inscription was read by others, it brought about their conversion, following the pattern of reading and conversion established by Augustine. Ignatius� story prompted its own imitators such as the Dominican friar Henry Suso (c. 1295-1366), who so longed to be pricked by God that he took the stylus to himself:
+    
+    > He cried out, "Oh, sweet Lord! If only I could devise some love token which would be an everlasting badge of love between thee and me, an authentic document that I am all thine and that thou art the only beloved of my heart, written in letters which my fickleness can never erase." In his burst of fervor, he pushed back his scapular, bared his bosom, took a sharp stylus, and called on God to help him, saying: "Almighty God, give me strength this day to carry out my desire, for thou must be chiseled into the core of my heart." Then stabbing the stylus backwards and forwards, in and out of the flesh, he engraved the name of Jesus (IHS) over his heart. Blood gushed out of the jagged wounds and saturated his clothing. The bliss he experienced in having a visible pledge of oneness with his truelove made the very pain seem like a sweet delight.[\[3\]](#_edn3)
+    
+    This is worth quoting at length because it gives form to the development that Jager traces from the metaphorical internalization of material reading practices, as in the self imagined as a codex located in the heart, to the externalization of the trope, albeit literary, in the fleshy selves/books/hearts of Ignatius and Suso. The last stage is for the book of the heart to be reexternalized as a literal, material codex.
+    
+6.  Going beyond literary and pictorial metaphors, Jager provides several interesting examples of how the image connecting self, book, and heart became embodied in actual heart-shaped manuscripts and codices, which were in turn used as visual symbols in portraiture. Jager provides a very detailed visual and contextual analysis of one of these portraits, _Young Man Holding a Book_, by the Master of Sainte Gudule (c. 1485), and a more speculative examination of a second portrait. In both paintings, the subject is holding a book that opens to form the common two-lobed heart shape, of which there are a few extant medieval examples. These books and paintings of books are the climax of Jager�s own book, symbolizing the bewildering and fascinating interplay of materiality and representation that one encounters in studies of the history of the book that are not only literary but also theological, religious, psychological, and art historical.
+    
+7.  _The Book of the Heart_ winds down with the post-printing and Protestant-influenced book of the brain, by which the self is imagined as an imprint separable from its material container. The book of the brain takes a further turn as the mind is imagined as a personal computer, accompanied by a recomputation of "human nature." As Jager warned us would happen, the materiality of the book seems to have dropped out, not only from metaphors but also from all discussion. Since so much emphasis was placed on the fleshiness of the book of the heart, an analysis of the implications of less corporeal metaphors is wanting at the end of the book.
+    
+8.  Because Jager�s own heart seems to lie in the Middle Ages and not in the contemporary implications of his study, at first it might seem that he participates in current facile notions of the "death of the book" as a loss of a pure form of expression or experience. However, embedded in _The Book of the Heart_ is the emergence and transformation of the self through a dialectic with technology that erases the subject and/or object of nostalgia. Jager states, "It is no small irony that writing�which Plato denounced in the early days of Western literacy as an alien technological threat to man�s essential being (reason, memory, the soul)�is often held up today in the form of the codex book as a symbol of the �human� qualities supposedly threatened by newer technologies, especially the computer." (pp. 165-166). Based on what is implied throughout this study rather than on a clear proclamation, it seems the irony of this statement is the "human," not the metaphors, materials, or modes of communication. As _The Book of the Heart_ can help us to see, the self, like the book, was an image all along.
+    
+
+* * *
+
+### Notes
+
+> [1](#_ednref1) Jacques Derrida, _Of Grammatology,_ Gayatri Chakravorty Spivak, trans. , Baltimore: Johns Hopkins University Press, 1967/1997, 15.
+> 
+> [2](#_ednref2) See Ernst Robert Curtius, "The Book as Symbol," in _European Literature and the Latin Middle Ages_, Willard R. Trask, ed., Princeton: Princeton University Press, 1953; and Jesse M. Gellrich, _The Idea of the Book in the Middle Ages,_ Ithaca: Cornell University Press, 1985.
+> 
+> [3](#_ednref3) Heinrich Suso, _Deutsche Schriften_, Karl Bihlmeyer, ed., Stuttgart: Minerva, 1907, 15-16, in Jager, 99.
+
+* * *
+
+> **Dorina Miller Parmenter** is a Ph.D. candidate in the Department of Religion at Syracuse University and teaches part-time at Syracuse University and Cayuga Community College. Prior to attending Syracuse University she received an M.A. in Studio Arts from Ball State University, focusing on bookbinding and metalwork. She is currently investigating how the material contexts of books and readers create both religious subjects and religious objects.
+
+* * *
+
+> \[an error occurred while processing this directive\]
+
+* * *
+
+\[an error occurred while processing this directive\] [�](https://jcrt.org/copyright.shtml) 2002 Dorina Miller Parmenter. All rights reserved.  
+Updated 07/28/21. [Feedback](https://jcrt.org/contact.html).  
+http://jcrt.org/archives/03.2/parmenter.shtml

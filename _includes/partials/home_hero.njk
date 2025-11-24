@@ -1,0 +1,17 @@
+<div class="container-fluid">
+<div class="row mt-5 mb-3">
+<div class="col-md-6 p-3 p-md-5">
+<div class="col-md-10">
+<h1 class="hero-title"><strong>{{title or metadata.title}}</strong></h1>
+<h2 class="lead mt-3 mb-4">{{description or metadata.description}}</h2>
+<p>{{text}}</p>
+<p><a href="{{button.url}}" class="btn btn-pink text-uppercase">{{button.text}}</a></p>
+</div>
+</div>
+<div class="col-md-6 p-3" style="background-image: url('{{image or metadata.image}}'); 
+background-position: center; background-repeat: no-repeat; border-radius: 12px; overflow: hidden;
+background-size: cover; background-clip: padding-box; margin-bottom: 40px; margin-top: 40px; "> 
+</div>
+<div class="col-md-12 p-3 border-bottom"></div>
+</div>
+</div>

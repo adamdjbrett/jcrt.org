@@ -1,0 +1,15 @@
+<div class="row p-3 desktop mt-3">
+<div class="col-md-6">
+ <a class="navbar-brand" href="{{metadata.url}}"><strong>
+    <span class="text-dark">{{metadata.navbar.title}}</span></strong> 
+    <span class="text-secondary">
+        {{metadata.navbar.sub_title}}
+ </span></a>
+</div>
+<div class="col-md-6">
+<div class="nav justify-content-end mb-3">{% for nv in metadata.navbar.social %}
+<a class="nave me-3 clu" href="{{nv.url}}" title="{{nv.title}}"><i class="{{nv.icon}} clu"></i></a>{% endfor %}
+</div>
+</div>
+<div class="bgb-pinks"></div>
+</div>

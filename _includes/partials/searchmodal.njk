@@ -1,0 +1,25 @@
+<button type="button" class="btn btn-primary" data-bs-toggle="modal" 
+data-bs-target="#searchModal">
+  Launch demo modal
+</button>
+
+<div class="modal fade" id="searchModal" tabindex="-1" aria-labelledby="searchModalLabel" aria-hidden="true">
+<div class="modal-dialog modal-lg">
+<div class="modal-content">
+<div class="modal-header">
+<h1 class="modal-title fs-5" id="searchModalLabel">{{metadata.search.title}} <i class="fa-solid fa-magnifying-glass"></i></h1>
+<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+</div>
+<div class="modal-body p-3 p-md-3 bg-light rounded opacity-95">
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<div id="search"></div>
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({ element: "#search", showSubResults: true });
+    });
+</script>
+</div>
+</div>
+</div>
+</div>
