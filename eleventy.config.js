@@ -29,7 +29,7 @@ export default async function (eleventyConfig) {
 	});
 
 if (process.env.ELEVENTY_RUN_MODE === "build") {
-    eleventyConfig.on("eleventy.after", () => {
+    eleventyConfig.on("eleventy.after", async () => {
 		console.log("Waiting for Windows to release file locks...");
     await new Promise(resolve => setTimeout(resolve, 2000));
         console.log("Running Pagefind search index...");
