@@ -31,7 +31,7 @@ export default async function() {
                 const { data, content } = matter(entry.getData().toString("utf8"));
                 
                 // Ambil nama file asli tanpa pemotongan (DEFAULT)
-                let baseSlug = path.basename(entry.entryName, ".md");
+                let baseSlug = path.basename(entry.entryName, ".md").substring(0, 40);
                 
                 // Cek keunikan: Jika slug sudah dipakai, tambah angka di belakangnya
                 let finalSlug = baseSlug;
