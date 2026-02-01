@@ -54,6 +54,9 @@ eleventyConfig.addCollection("religioustheory", function(collectionApi) {
     });
 });
 
+eleventyConfig.addFilter("isoDate", (dateObj) => {
+  return new Date(dateObj).toISOString();
+});
 eleventyConfig.addFilter("postDate", (dateObj) => {
     return new Date(dateObj).toLocaleDateString('en-US', {
       year: 'numeric',
