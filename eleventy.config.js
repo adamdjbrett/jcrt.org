@@ -28,6 +28,18 @@ export default async function (eleventyConfig) {
 		}
 	});
 
+if (process.env.ELEVENTY_RUN_MODE === "build") {
+    eleventyConfig.on("eleventy.after", () => {
+        console.log("Running Pagefind search index...");
+        try {
+            execSync(`npx pagefind --site _site --glob "**/*.html"`, {
+                encoding: "utf-8",
+            });
+        } catch (e) {
+            console.error("Pagefind skipped to prevent file locking.");
+        }
+    });
+}
 // If use sveltia cms
 //	eleventyConfig.addPassthroughCopy("sveltia.config.js");
 	eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
