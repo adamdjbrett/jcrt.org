@@ -1,0 +1,46 @@
+{% set featuredTag = metadata.homepage_archive.active_tag %}
+{% set maxItems = metadata.homepage_archive.max_items or 3 %}
+{% set archivePosts = collections.archives | filterByTag(featuredTag) | head(maxItems) %}
+{% if archivePosts.length > 0 %}
+<section class="archive-featured-section border-top pt-5">
+  <div class="container-fluid">
+    <div class="col-md-12 px-3 px-md-5 mb-4">
+      <div class="d-flex align-items-center justify-content-between">
+        <h3 class="m-0">
+          <strong><span class="bgb-pink">{{ metadata.homepage_archive.section_title }}</span></strong>
+          <span class="ms-2 badge bg-light text-secondary small" style="font-size: 0.5em;">#{{ featuredTag }}</span>
+        </h3>
+        <a href="/archives/" class="text-pink text-decoration-none small">Explore All Archives →</a>
+      </div>
+    </div>
+
+    <div class="row px-md-4">
+      {% for post in archivePosts %}
+        <div class="col-md-6 col-lg-4 p-3 p-md-4">
+          <div class="img-zoom-container mb-3">
+            <a href="{{ post.url }}">
+              <img src="{{ post.data.image or metadata.image }}" 
+                   class="img-post rounded shadow-sm" 
+                   alt="{{ post.data.title }}"
+                   width="100%" height="auto"
+                   style="aspect-ratio: 16/9; object-fit: cover;">
+            </a>
+          </div>
+          
+          <h4 class="h5"><strong>{{ post.data.title }}</strong></h4>
+          
+          {% if post.data.authors %}
+            <p class="small text-pink mb-2">By {{ post.data.authors }}</p>
+          {% endif %}
+
+          <p class="text-secondary small">
+            {{ post.data.description | truncate(110) }}
+          </p>
+          
+          <a href="{{ post.url }}" class="btn btn-sm btn-pink">View Document</a>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}

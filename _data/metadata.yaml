@@ -6,6 +6,11 @@ locale: en_US
 favicon: "https://getbootstrap.com/docs/5.3/assets/img/favicons/apple-touch-icon.png"
 url: "https://editorial.000000076.xyz"
 
+homepage_archive: 
+  active_tag: cat
+  section_title: From the Archive
+  max_items: 3
+
 metasocial:
   - facebook: https://www.facebook.com/user
   - twitteruser: "@user"

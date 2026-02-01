@@ -1,0 +1,212 @@
+site: "JCRT - Journal for Cultural and Religious Theory"
+base_url: "https://jcrt.org"
+
+media:
+  input: "public/img"
+  output: "/img"
+
+collections:
+  - name: "home"
+    label: "Homepage"
+    path: "content"
+    files:
+      - name: "home"
+        label: "Home Page"
+        path: "index.md"
+        fields:
+          - { name: "title", label: "Title", type: "string" }
+          - { name: "description", label: "Description", type: "text" }
+          - { name: "image", label: "Hero Image", type: "image" }
+          - { name: "text", label: "Hero Text", type: "text" }
+          - name: "button"
+            label: "Hero Button"
+            type: "object"
+            fields:
+              - { name: "text", label: "Text", type: "string" }
+              - { name: "url", label: "URL", type: "string" }
+          - name: "section"
+            label: "Featured Section"
+            type: "object"
+            fields:
+              - { name: "title", label: "Title", type: "string" }
+              - name: "list"
+                label: "List Items"
+                type: "list"
+                fields:
+                  - { name: "title", label: "Title", type: "string" }
+                  - { name: "icon", label: "Icon Class", type: "string" }
+                  - { name: "text", label: "Text", type: "text" }
+          - { name: "body", label: "Body Content", type: "markdown" }
+
+  - name: "blogIndex"
+    label: "Blog Index"
+    path: "content"
+    files:
+      - name: "blog_index"
+        label: "Blog Listing Page"
+        path: "blog.md"
+        fields:
+          - { name: "layout", label: "Layout", type: "string", default: "blog.njk" }
+          - { name: "title", label: "Title", type: "string" }
+          - { name: "description", label: "Description", type: "text" }
+          - name: "pagination"
+            label: "Pagination Settings"
+            type: "object"
+            fields:
+              - { name: "data", label: "Data Source", type: "string", default: "collections.posts" }
+              - { name: "size", label: "Page Size", type: "number", default: 6 }
+              - { name: "reverse", label: "Reverse Order", type: "boolean", default: true }
+          - name: "testdata"
+            label: "Test Data (Example)"
+            type: "list"
+            fields:
+              - { name: "item", label: "Item", type: "string" }
+          - { name: "permalink", label: "Permalink", type: "string", default: "/blog/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}index.html" }
+          - { name: "body", label: "Body Content", type: "markdown" }
+
+  - name: "pages"
+    label: "Static Pages"
+    path: "content/pages"
+    type: "collection"
+    fields:
+      - { name: "title", label: "Title", type: "string" }
+      - { name: "description", label: "Description", type: "text" }
+      - { name: "permalink", label: "Permalink", type: "string" }
+      - { name: "body", label: "Body", type: "markdown" }
+
+  - name: "blog"
+    label: "Blog Posts"
+    path: "content/blog"
+    type: "collection
+    fields:
+      - { name: "title", label: "Title", type: "string" }
+      - { name: "description", label: "Description", type: "text" }
+      - { name: "date", label: "Date", type: "datetime" }
+      - { name: "tags", label: "Tags", type: "list" }
+      - { name: "author", label: "Author Key", type: "string" }
+      - { name: "image", label: "Featured Image", type: "image" }
+      - { name: "body", label: "Body", type: "markdown" }
+
+  - name: "authors"
+    label: "Author Profiles"
+    path: "content/authors"
+    type: "collection"
+    fields:
+      - { name: "title", label: "Full Name", type: "string" }
+      - { name: "key", label: "Key (Slug)", type: "string" }
+      - { name: "description", label: "Short Bio", type: "string" }
+      - { name: "image", label: "Profile Image", type: "image" }
+      - name: "social"
+        label: "Social Links"
+        type: "list"
+        fields:
+          - { name: "title", label: "Platform", type: "string" }
+          - { name: "icon", label: "Icon Class", type: "string" }
+          - { name: "url", label: "URL", type: "string" }
+      - { name: "body", label: "Biography", type: "markdown" }
+
+  - name: "archives"
+    label: "Archives"
+    path: "content/archives"
+    type: "collection"
+    fields:
+      - { name: "title", label: "Title", type: "string" }
+      - { name: "description", label: "Description", type: "text" }
+      - { name: "image", label: "Cover Image", type: "image" }
+      - { name: "pdf", label: "PDF File", type: "file" }
+      - { name: "authors", label: "Authors (Raw Text)", type: "string" }
+      - { name: "body", label: "Body Content", type: "markdown" }
+
+  - name: "settings"
+    label: "Global Settings"
+    path: "_data"
+    files:
+      - name: "metadata"
+        label: "Site Metadata"
+        path: "metadata.yaml"
+        fields:
+          - { name: "title", label: "Title", type: "string" }
+          - { name: "description", label: "Description", type: "text" }
+          - { name: "image", label: "Social Image", type: "image" }
+          - { name: "language", label: "Language", type: "string" }
+          - { name: "locale", label: "Locale", type: "string" }
+          - { name: "favicon", label: "Favicon", type: "image" }
+          - { name: "url", label: "Site URL", type: "string" }
+          - name: "homepage_archive"
+            label: "Homepage Archive Section"
+            type: "object"
+            fields:
+              - { name: "active_tag", label: "Featured Tag (e.g., ecology)", type: "string" }
+              - { name: "section_title", label: "Section Display Title", type: "string", default: "From the Archive" }
+              - { name: "max_items", label: "Max Items to Show", type: "number", default: 3 }
+          - name: "metasocial"
+            label: "Meta Social"
+            type: "object"
+            fields:
+              - { name: "facebook", label: "Facebook URL", type: "string" }
+              - { name: "twitteruser", label: "Twitter Username", type: "string" }
+              - { name: "twitter", label: "Twitter URL", type: "string" }
+          - name: "navbar"
+            label: "Navbar Settings"
+            type: "object"
+            fields:
+              - { name: "title", label: "Main Title", type: "string" }
+              - { name: "sub_title", label: "Sub Title", type: "string" }
+              - name: "social"
+                label: "Navbar Social Links"
+                type: "list"
+                fields:
+                  - { name: "title", label: "Title", type: "string" }
+                  - { name: "icon", label: "Icon Class (FA)", type: "string" }
+                  - { name: "url", label: "URL", type: "string" }
+          - name: "sidebar"
+            label: "Sidebar Settings"
+            type: "object"
+            fields:
+              - name: "menu"
+                label: "Main Menu"
+                type: "object"
+                fields:
+                  - { name: "title", label: "Menu Title", type: "string" }
+                  - name: "list"
+                    label: "Menu Links"
+                    type: "list"
+                    fields:
+                      - { name: "nav", label: "Nav Text", type: "string" }
+                      - { name: "url", label: "URL", type: "string" }
+              - name: "info"
+                label: "Info Section"
+                type: "object"
+                fields:
+                  - { name: "title", label: "Title", type: "string" }
+                  - name: "list"
+                    label: "Info Items"
+                    type: "list"
+                    fields:
+                      - { name: "image", label: "Image", type: "image" }
+                      - { name: "text", label: "Text", type: "text" }
+                      - { name: "url", label: "URL", type: "string" }
+                  - name: "button"
+                    label: "Info Button"
+                    type: "object"
+                    fields:
+                      - { name: "text", label: "Button Text", type: "string" }
+                      - { name: "url", label: "URL", type: "string" }
+              - name: "contact"
+                label: "Contact Section"
+                type: "object"
+                fields:
+                  - { name: "title", label: "Title", type: "string" }
+                  - { name: "text", label: "Text", type: "text" }
+                  - name: "list"
+                    label: "Contact List"
+                    type: "list"
+                    fields:
+                      - { name: "title", label: "Title", type: "string" }
+                      - { name: "icon", label: "Icon Class", type: "string" }
+                      - { name: "url", label: "URL", type: "string" }
+          - name: "footer"
+            label: "Footer Settings"
+            type: "object"
+            fields:
+              - { name: "text", label: "Footer Text", type: "string" }
