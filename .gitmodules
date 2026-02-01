@@ -1,0 +1,3 @@
+[submodule "content/religioustheory"]
+    path = content/religioustheory
+    url = https://github.com/adamd/religioustheory.git

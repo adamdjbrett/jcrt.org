@@ -1,5 +1,5 @@
 ---
-title: "JUDUL TIDAK DITEMUKAN - PERLU EDIT MANUAL"
+title: "ARCHIVES"
 ---
 
        Archives | Journal for Cultural and Religious Theory | JOURNAL FOR CULTURAL AND RELIGIOUS THEORY             

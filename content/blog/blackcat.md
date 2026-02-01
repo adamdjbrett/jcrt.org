@@ -14,13 +14,13 @@ social:
    icon: fab fa-youtube
    url: https://youtube.com
 button:
- - title: Send Jons Message
+ - title: Button 1
    url: "info@example.com"
- - title: Call Jons
+ - title: Butotn 2
    url: "info@example.com"
 author: john_dhoe , jon_jones
 tags: 
- - Cat
+ - cat
  - black
  - footnotes
 ---

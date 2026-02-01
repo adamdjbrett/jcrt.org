@@ -1,44 +1,58 @@
 import { DateTime } from "luxon";
 
 export default function(eleventyConfig) {
-	eleventyConfig.addFilter("readableDate", (dateObj, format, zone) => {
-		// Formatting tokens for Luxon: https://moment.github.io/luxon/#/formatting?id=table-of-tokens
-		return DateTime.fromJSDate(dateObj, { zone: zone || "utc" }).toFormat(format || "dd LLLL yyyy");
-	});
+    // --- Date Filters ---
+    eleventyConfig.addFilter("readableDate", (dateObj, format, zone) => {
+        if (!dateObj) return "";
+        return DateTime.fromJSDate(new Date(dateObj), { zone: zone || "utc" }).toFormat(format || "dd LLLL yyyy");
+    });
 
-	eleventyConfig.addFilter("htmlDateString", (dateObj) => {
-		// dateObj input: https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
-		return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat('yyyy-LL-dd');
-	});
-	
-eleventyConfig.addNunjucksFilter("limit", (arr, limit) => arr.slice(0, limit));
-	// Get the first `n` elements of a collection.
-	eleventyConfig.addFilter("head", (array, n) => {
-		if(!Array.isArray(array) || array.length === 0) {
-			return [];
-		}
-		if( n < 0 ) {
-			return array.slice(n);
-		}
+    eleventyConfig.addFilter("htmlDateString", (dateObj) => {
+        if (!dateObj) return "";
+        return DateTime.fromJSDate(new Date(dateObj), { zone: "utc" }).toFormat('yyyy-LL-dd');
+    });
+    
+    // --- Collection & Array Filters ---
+    // Gunakan optional chaining (?.) agar tidak crash jika array kosong
+    eleventyConfig.addNunjucksFilter("limit", (arr, limit) => (arr || []).slice(0, limit));
 
-		return array.slice(0, n);
-	});
+    eleventyConfig.addFilter("head", (array, n) => {
+        if (!Array.isArray(array) || array.length === 0) return [];
+        if (n < 0) return array.slice(n);
+        return array.slice(0, n);
+    });
 
-	// Return the smallest number argument
-	eleventyConfig.addFilter("min", (...numbers) => {
-		return Math.min.apply(null, numbers);
-	});
+    // --- Utility Filters ---
+    eleventyConfig.addFilter("min", (...numbers) => Math.min.apply(null, numbers));
 
-	// Return the keys used in an object
-	eleventyConfig.addFilter("getKeys", target => {
-		return Object.keys(target);
-	});
+    eleventyConfig.addFilter("getKeys", target => (target ? Object.keys(target) : []));
 
-	eleventyConfig.addFilter("filterTagList", function filterTagList(tags) {
-		return (tags || []).filter(tag => ["all", "posts", "authors"].indexOf(tag) === -1);
-	});
+    eleventyConfig.addFilter("filterTagList", function filterTagList(tags) {
+        return (tags || []).filter(tag => ["all", "posts", "authors", "nav"].indexOf(tag) === -1);
+    });
 
-	eleventyConfig.addFilter("sortAlphabetically", strings =>
-		(strings || []).sort((b, a) => b.localeCompare(a))
-	);
+    eleventyConfig.addFilter("sortAlphabetically", strings =>
+        [...(strings || [])].sort((a, b) => a.localeCompare(b))
+    );
+
+    // --- Custom Business Logic Filters ---
+    eleventyConfig.addFilter("filterByTag", (collection, tag) => {
+        if (!tag || !collection) return collection;
+        return collection.filter(item => {
+            const tags = item.data.tags || [];
+            return Array.isArray(tags) ? tags.includes(tag) : tags === tag;
+        });
+    });
+
+eleventyConfig.addCollection("religioustheory", function(collectionApi) {
+  return collectionApi.getFilteredByGlob("content/religioustheory/**/*")
+    .filter(item => {
+      const isIndex = item.inputPath.includes("index.md");
+      const isContent = item.inputPath.endsWith(".md") || item.inputPath.endsWith(".html");
+      
+      return !isIndex && isContent;
+    });
+});
+
+
 };

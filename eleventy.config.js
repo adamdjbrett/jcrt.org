@@ -27,7 +27,21 @@ export default async function (eleventyConfig) {
 			return false;
 		}
 	});
-	eleventyConfig.addPassthroughCopy("sveltia.config.js");
+
+if (process.env.ELEVENTY_RUN_MODE === "build") {
+    eleventyConfig.on("eleventy.after", () => {
+        console.log("Running Pagefind search index...");
+        try {
+            execSync(`npx pagefind --site _site --glob "**/*.html"`, {
+                encoding: "utf-8",
+            });
+        } catch (e) {
+            console.error("Pagefind skipped to prevent file locking.");
+        }
+    });
+}
+// If use sveltia cms
+//	eleventyConfig.addPassthroughCopy("sveltia.config.js");
 	eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
 	eleventyConfig
 		.addPassthroughCopy({
@@ -71,72 +85,7 @@ export default async function (eleventyConfig) {
       permalinkClass: "direct-link",
       permalinkSymbol: "#"
   };
-  eleventyConfig.addFilter("byAuthor", (posts, authorKey) => {
-  if (!posts || !Array.isArray(posts)) {
-    return [];
-  }
-  
-  // Bersihkan kunci penulis yang sedang dicari
-  const targetKey = String(authorKey).trim();
 
-  return posts.filter(post => {
-    const postAuthorData = post.data.author;
-
-    if (!postAuthorData || typeof postAuthorData !== 'string') {
-      return false; 
-    }
-
-    // Pecah string penulis dan bersihkan setiap kuncinya
-    const authors = postAuthorData.split(',')
-      .map(a => a.trim());
-    
-    // Periksa apakah targetKey termasuk dalam daftar penulis postingan
-    return authors.includes(targetKey);
-  });
-});
-eleventyConfig.addFilter("getPostsByAuthor", (posts, authorKey) => {
-  if (!posts || !Array.isArray(posts)) {
-    return [];
-  }
-
-  // Langkah 1: Bersihkan (trim) kunci penulis yang sedang kita cari.
-  const targetKey = String(authorKey).trim();
-
-  return posts.filter(post => {
-    const postAuthorData = post.data.author;
-
-    if (!postAuthorData) {
-      return false;
-    }
-
-    // Pastikan postAuthorData adalah string sebelum di-split
-    if (typeof postAuthorData !== 'string') {
-        // Jika data bukan string (misalnya, null atau objek yang tidak terduga), lewati.
-        return false; 
-    }
-
-    // Langkah 2: Pecah string penulis dari front matter dan bersihkan setiap kuncinya.
-    const authors = postAuthorData.split(',')
-      .map(a => a.trim());
-    
-    // Langkah 3: Periksa apakah array penulis postingan (authors) 
-    // mengandung kunci yang sedang dicari (targetKey).
-    return authors.includes(targetKey);
-  });
-});
-
-eleventyConfig.addFilter("getAuthors", (authors, label) => {
-    let labels = label.split(','); 
-    return authors.filter(a => labels.includes(a.key));
-});
-eleventyConfig.addFilter("findAuthorByKey", (authors, authorKey) => {
-        if (!authorKey || !authors || !Array.isArray(authors)) return null;
-        const key = String(authorKey).trim().toLowerCase();
-        return authors.find(author => 
-            String(author.key || '').trim().toLowerCase() === key
-        );
-    });
-	
    let markdownLib = markdownIt(options).use(markdownItAttrs).use(markdownItFootnote).use(markdownItTableOfContents);
   eleventyConfig.setLibrary("md", markdownLib);
 	  eleventyConfig.amendLibrary("md", mdLib => {
@@ -160,19 +109,65 @@ eleventyConfig.addFilter("findAuthorByKey", (authors, authorKey) => {
 		wrapper: 'div'
 	  });
 
-	eleventyConfig.on("eleventy.after", () => {
-		execSync(`npx pagefind --site _site --glob \"**/*.html\"`, {
-			encoding: "utf-8",
-		});
-	});
-
 	eleventyConfig.addPlugin(IdAttributePlugin, {
 		slugify: (text) => {
 			const slug = eleventyConfig.getFilter("slugify")(text);
 			return `print-${slug}`;
 		},
 	});
+eleventyConfig.addTransform("kill-wp-garbage", function (content) {
+        const outputPath = this.page.outputPath;
+        
+        // Pastikan outputPath ada dan bertipe string
+        const isHtml = outputPath && outputPath.endsWith(".html");
+        const isTargetDir = outputPath && outputPath.includes("religioustheory");
 
+		if (isHtml && isTargetDir) {
+			let result = content;
+			result = result.replace(/<script\b[^>]*>([\s\S]*?)<\/script>/gmi, "");
+			result = result.replace(/class="[^"]*wp-[^"]*"/gi, "");
+			result = result.replace(/style="[^"]*"/gi, "");
+			result = result.replace(/<[^>]*data-wp[^>]*>/g, "");
+			return result;
+		}
+        return content;
+    });
+// Author by bio
+
+    eleventyConfig.addFilter("getAuthorObj", (authorsCollection, authorKey) => {
+        if (!authorKey || !authorsCollection) return null;
+        return authorsCollection.find(author => {
+            const key = author.data?.key || author.fileSlug;
+            return key === authorKey.trim();
+        });
+    });
+eleventyConfig.addFilter("getPostsByAuthor", (posts, authorKey) => {
+    if (!posts || !authorKey) return [];
+    const targetKey = String(authorKey).trim().toLowerCase();
+    return posts.filter(post => {
+        const postAuthorData = post.data.author;
+        if (!postAuthorData) return false;
+        const authors = String(postAuthorData).split(',').map(a => a.trim().toLowerCase());
+        return authors.includes(targetKey);
+    });
+});
+eleventyConfig.addCollection("authors", function(collectionApi) {
+        return collectionApi.getFilteredByGlob("content/authors/*.md").sort((a, b) => {
+            const nameA = (a.data.name || a.data.title || "").toLowerCase();
+            const nameB = (b.data.name || b.data.title || "").toLowerCase();
+            return nameA.localeCompare(nameB);
+        });
+    });
+eleventyConfig.addPassthroughCopy({ "content/archives": "archives" }, {
+        copyOptions: {
+            overwrite: true
+        }
+    });
+eleventyConfig.addCollection("archives", function(collectionApi) {
+        return collectionApi.getFilteredByGlob("content/archives/**/*.md");
+    });
+
+	
 
 	// creativitas code
 
@@ -205,15 +200,13 @@ eleventyConfig.addFilter("findAuthorByKey", (authors, authorKey) => {
 
 	eleventyConfig.addPlugin(pluginFilters);
 
-	eleventyConfig.addPlugin(IdAttributePlugin, {});
-
 	eleventyConfig.addShortcode("currentBuildDate", () => {
 		return new Date().toISOString();
 	});
 }
 
 export const config = {
-	templateFormats: ["md", "njk", "html", "liquid", "11ty.js"],
+	templateFormats: ["md", "njk", "html", "liquid", "css", "11ty.js"],
 
 	markdownTemplateEngine: "njk",
 

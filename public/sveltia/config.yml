@@ -50,20 +50,6 @@ collections:
                   - {label: "Text", name: "text", widget: "string"}
                   - {label: "URL", name: "url", widget: "string"}
           - {label: "Body Content", name: "body", widget: "markdown"}
-  - name: "authors" # Diubah dari "Authors" menjadi "authors" (huruf kecil)
-    label: "Authors"
-    preview: false
-    files:
-      - file: "_data/authors.yaml"
-        label: "Authors List"
-        name: "authors_list"
-        fields: # Ditambahkan fields di sini
-          - {label: "Authors", name: "authors", widget: "list", fields: [
-              {label: "Key (Slug)", name: "key", widget: "string", hint: "Use lower case, example: john_dhoe"},
-              {label: "Name", name: "name", widget: "string"},
-              {label: "Biography", name: "bio", widget: "text"},
-              {label: "Image URL", name: "image", widget: "image"}
-            ]}
 
   - name: "blogIndex"
     label: "Blog Index"
