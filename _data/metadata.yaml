@@ -1,11 +1,16 @@
+#for github setup
+github_user: adamdjbrett
+github_repo: religioustheory
+branch: "main"
+
 title: "Editorial 11ty"
 description: "Editorial from HTML5up convert to bootstrap and JAMSTACK 11ty aka eleventy version develop by Adam Dj Brett"
 image: "https://images.unsplash.com/photo-1761481755390-83999d790b95?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0Nnx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=400"
 language: "en"
 locale: en_US
 favicon: "https://getbootstrap.com/docs/5.3/assets/img/favicons/apple-touch-icon.png"
-url: "https://editorial.000000076.xyz"
-
+#url: "https://editorial.000000076.xyz"
+url: http://localhost:8080
 homepage_archive: 
   active_tag: cat
   section_title: From the Archive
@@ -78,3 +83,8 @@ sidebar:
   footer: 
     text: © My Website. All rights reserved.
 
+site: 
+  title: RELIGIOUS THEORY
+  description: A Review, Commentary, and Conversations Feature of JCRT
+  url: http://localhost:8080
+  author: editors_religioustheory

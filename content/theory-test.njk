@@ -1,0 +1,29 @@
+---
+layout: base.njk
+permalink: /test-theory/
+---
+<h1>Theory Data Test</h1>
+
+<h2>Authors List</h2>
+<ul>
+{% for id, info in theory.authors %}
+  <li>{{ info.name }} - {{ info.bio }}</li>
+{% endfor %}
+</ul>
+
+<hr>
+<h2>All Posts ({{ theory.posts.length }})</h2>
+<ul>
+{% for post in theory.posts %}
+  <li><strong>{{ post.title }}</strong> - Slug: {{ post.slug }}</li>
+{% endfor %}
+</ul>
+
+<hr>
+<h2>All Pages ({{ theory.pages.length }})</h2>
+<ul>
+{% for page in theory.pages %}
+  <li><strong>{{ page.title }}</strong> - Slug: {{ page.slug }}</li>
+{% endfor %}
+{% if theory.pages.length == 0 %}<li>No pages found.</li>{% endif %}
+</ul>

@@ -1,0 +1,31 @@
+---
+layout: theory.njk
+pagination:
+  data: theory.posts
+  size: 1
+  alias: post
+permalink: "/religioustheory/posts/{{ post.slug }}/index.html"
+---
+<div class="col-md-10 mx-auto">
+  {% include "partials/nav_desktop.njk" %}
+<article class="post-detail">
+  <header>
+    <h1>{{ post.title }}</h1>
+    <div class="meta" style="color: #666; margin-bottom: 20px;">
+      <span>Published: {{ post.date | postDate }}</span> | 
+      <span>Author: <strong>{{ post.authorData.name }}</strong></span>
+    </div>
+  </header>
+
+  <hr>
+
+  <div class="entry-content">
+    {{ post.content | md | safe }}
+  </div>
+
+  <footer style="margin-top: 50px; padding-top: 20px; border-top: 1px solid #eee;">
+    <p>Category: {{ post.categories | join(", ") if post.categories else "Uncategorized" }}</p>
+    <a href="/religioustheory/posts/" class="btn btn-pink">← Back to the articles</a>
+  </footer>
+</article>
+</div>

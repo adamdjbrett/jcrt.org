@@ -1,0 +1,25 @@
+---
+layout: theory.njk
+pagination:
+  data: theory.pages
+  size: 1
+  alias: pg
+permalink: "/religioustheory/pages/{{ pg.slug | slugify }}/index.html"
+---
+
+<div class="col-md-10 mx-auto">
+  {% include "partials/nav_desktop.njk" %}
+<article class="page-content">
+  <header style="margin-bottom: 30px;">
+    <h1>{{ pg.title }}</h1>
+  </header>
+
+  <div class="content-body">
+    {{ pg.content | md | safe }}
+  </div>
+
+  <footer style="margin-top: 40px; padding-top: 20px; border-top: 1px dotted #ccc;">
+    <a href="/religioustheory/pages/">← Back to Pages List</a>
+  </footer>
+</article>
+</div>

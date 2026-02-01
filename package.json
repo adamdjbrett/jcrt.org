@@ -4,15 +4,16 @@
 	"description": "JCRT Project develop by Adam Dj Brett.",
 	"type": "module",
 	"scripts": {
-    "kill": "rd /s /q _site",
-    "start": "npx @11ty/eleventy --serve",
-    "build": "npx @11ty/eleventy",
-    "build-nocolor": "cross-env NODE_DISABLE_COLORS=1 npx @11ty/eleventy",
-    "build-ghpages": "npx @11ty/eleventy --pathprefix=/jcrt.org/",
-    "start-ghpages": "npx @11ty/eleventy --pathprefix=/jcrt.org/ --serve --quiet",
-    "debug": "cross-env DEBUG=Eleventy* npx @11ty/eleventy",
-    "debugstart": "cross-env DEBUG=Eleventy* npx @11ty/eleventy --serve --quiet",
-    "benchmark": "cross-env DEBUG=Eleventy:Benchmark* npx @11ty/eleventy"
+		"kill": "rd /s /q _site",
+		"start": "npx @11ty/eleventy --serve",
+		"build": "npx @11ty/eleventy",
+		"clear": "npx rimraf _site theory_data_cache.json .cache",
+		"build-nocolor": "cross-env NODE_DISABLE_COLORS=1 npx @11ty/eleventy",
+		"build-ghpages": "npx @11ty/eleventy --pathprefix=/jcrt.org/",
+		"start-ghpages": "npx @11ty/eleventy --pathprefix=/jcrt.org/ --serve --quiet",
+		"debug": "cross-env DEBUG=Eleventy* npx @11ty/eleventy",
+		"debugstart": "cross-env DEBUG=Eleventy* npx @11ty/eleventy --serve --quiet",
+		"benchmark": "cross-env DEBUG=Eleventy:Benchmark* npx @11ty/eleventy"
 	},
 	"repository": {
 		"type": "git",
@@ -44,9 +45,12 @@
 		"zod-validation-error": "^3.5.2"
 	},
 	"dependencies": {
+		"@11ty/eleventy-fetch": "^5.1.1",
 		"@zachleat/heading-anchors": "^1.0.3",
+		"adm-zip": "^0.5.16",
 		"cheerio": "^1.1.2",
 		"eleventy-plugin-toc": "^1.1.5",
+		"gray-matter": "^4.0.3",
 		"markdown-it": "^14.1.0",
 		"markdown-it-anchor": "^9.2.0",
 		"markdown-it-container": "^4.0.0",

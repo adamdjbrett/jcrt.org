@@ -47,3 +47,62 @@
 <style>{% include "css/bs.css" %}</style>
 <style>{% getBundle "css" %}</style>
 <link href="/css/index.css" rel="stylesheet"/>
+{% set pageTitle = title or pg.title or post.title or metadata.title %}
+{% set pageDesc = description or pg.excerpt or post.excerpt or metadata.description %}
+{% set pageImage = image or metadata.image %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "{{ pageTitle }}",
+  "description": "{{ pageDesc | truncate(160) }}",
+  "image": "{{ pageImage }}",
+  "datePublished": "{{ date | isoDate if date else metadata.buildTime }}",
+  "dateModified": "{{ date | isoDate if date else metadata.buildTime }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ author or pg.authorName or post.authorName or metadata.author.name }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ metadata.title }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ metadata.url }}{{ metadata.favicon }}"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ metadata.url }}{{ page.url }}"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ metadata.url }}"
+    },
+    {% if pg or post %}
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Religious Theory",
+      "item": "{{ metadata.url }}/religioustheory/"
+    },
+    {% endif %}
+    {
+      "@type": "ListItem",
+      "position": {{ 3 if (pg or post) else 2 }},
+      "name": "{{ pageTitle }}",
+      "item": "{{ metadata.url }}{{ page.url }}"
+    }
+  ]
+}
+</script>

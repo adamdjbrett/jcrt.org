@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="{{ metadata.language }}">
+<title>{{title or pg.title or post.title or metadata.title}}</title>
+<meta content="{{title or pg.title or post.title or metadata.title}}" property="og:title" />
+<meta content="{{title or pg.title or post.title or metadata.title}}" property="dc:title" />
+<meta content="{{title or pg.title or post.title or metadata.title}}" name="twitter:title" />
+<meta content="{{title or pg.title or post.title or metadata.title}}" name="title" />
+<meta content="{{title or pg.title or post.title or metadata.title}}" property="og:site_name" />
+<meta content="{{description or post.description or metadata.description}}" name="description" />
+<meta
+	content="{{description or pg.description or post.description or metadata.description}}"
+	property="facebook:description"
+/>
+<meta
+	content="{{description or pg.description or post.description or metadata.description}}"
+	property="og:description"
+/>
+<meta
+	content="{{description or pg.description or post.description or metadata.description}}"
+	name="twitter:description"
+/>
+<meta property="twitter:card" content="summary_large_image" />
+<meta content="{{image or metadata.image}}" name="twitter:image" />
+<meta content="{{image or metadata.image}}" name="facebook:image" />
+<meta content="{{image or metadata.image}}" name="og:image" />
+<link href="{{ metadata.favicon }}" rel="icon" type="image/x-icon" />
+<link rel="apple-touch-icon" href="{{ metadata.favicon }}" />
+<meta content="{{ metadata.metasocial.facebook }}" property="facebook:author" />
+<meta
+	content="{{ metadata.metasocial.twitteruser }}"
+	property="twitter:author"
+/>
+<meta property="dc:creator" content="{{ metadata.author.name }}" />
+<meta content="{{ metadata.metasocial.twitter }}" name="twitter:site" />
+<meta property="og:type" content="website" />
+<meta content="index, follow" name="robots">
+<link rel="canonical" href="{{ metadata.url }}{{ page.url }}" />
+<link
+	rel="alternate"
+	href="feed/feed.xml"
+	type="application/atom+xml"
+	title="{{ metadata.title }}"
+/>
+<meta name="language" content="{{ metadata.language }}" />
+<meta name="locale" content="{{ metadata.locale }}" />
+<meta property="og:locale" content="{{ metadata.locale }}" />
+<meta name="generator" content="{{ eleventy.generator }}" />
+<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
+<style>{% include "css/bs.css" %}</style>
+<style>{% getBundle "css" %}</style>
+<link href="/css/index.css" rel="stylesheet"/>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Blog",
+  "name": "{{ metadata.site.title }}",
+  "description": "{{ metadata.site.description }}",
+  "url": "{{ metadata.site.url }}",
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ metadata.site.title }}",
+    "url": "{{ metadata.site.url }}"
+  },
+  "mainEntity": {
+    "@type": "WebSite",
+    "name": "{{ metadata.site.title }}",
+    "url": "{{ metadata.site.url }}"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "{{ title or pg.title or post.title or metadata.title }}",
+  "description": "{{ description or excerpt or '' }}",
+  "datePublished": "{{ date | isoDate }}",
+  "dateModified": "{{ date | isoDate }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ author or metadata.site.title }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ metadata.site.title }}",
+    "url": "{{ metadata.site.url }}"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ metadata.site.url }}{{ page.url }}"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ metadata.site.url }}"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ title or pg.title or post.title or metadata.title }}",
+      "item": "{{ metadata.site.url }}{{ page.url }}"
+    }
+  ]
+}
+</script>
+
+</head>
+<body>
+{% include "partials/sidebar.njk" %}
+<div id="content-wrapper" class="mse">
+{% include "partials/nav_mobile.njk" %}
+{{ content | safe }}
+</div>
+<script src="/js/bs.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</body>
+</html>

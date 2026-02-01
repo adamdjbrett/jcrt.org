@@ -1,0 +1,38 @@
+---
+layout: theory.njk
+permalink: /religioustheory/index.html
+---
+<div class="col-md-10 mx-auto">
+  {% include "partials/nav_desktop.njk" %}
+
+  <header class="mt-3 mb-3">
+    <h1>Religious Theory Archive</h1>
+    <p style="color: #666; font-size: 1.1rem;">Digital archive for JCRT Theory, Culture, and Religion.</p>
+    <div style="margin-top: 15px;">
+        <span style="background: #e1e1e1; padding: 5px 15px; border-radius: 20px; font-size: 0.9rem;">
+            Total Posts: <strong>{{ theory.posts.length }}</strong>
+        </span>
+    </div>
+  </header>
+  <hr/>
+
+    
+    <section class="p-3">
+      <h2 class="mt-3 mb-3">📚 Article Archive</h2>
+      <p>Explore hundreds of religious theory articles synchronized from the remote repository.</p>
+      <a href="/religioustheory/posts/" class=""btn btn-pink mt-3 mb-3">
+        View All Articles →
+      </a>
+      <div class="mt-3 mb-3">
+        <h3>Latest Updates:</h3>
+        <ul>
+          {% for post in theory.posts.slice(0, 6) %}
+            <li class="p-3">
+              <a href="/religioustheory/posts/{{ post.slug }}/" style="text-decoration: none; color: #007bff;">{{ post.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </section>
+
+</div>
