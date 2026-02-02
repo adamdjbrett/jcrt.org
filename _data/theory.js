@@ -6,34 +6,42 @@ import yaml from "js-yaml";
 import AdmZip from "adm-zip";
 
 export default async function() {
-    const cachePath = path.join(process.cwd(), "theory_data_cache.json");
-
-    // 1. Prioritaskan Cache Lokal (Cepat)
-    if (fs.existsSync(cachePath)) {
-        return JSON.parse(fs.readFileSync(cachePath, "utf8"));
-    }
-
+    const dataPath = path.join(process.cwd(), "_data/theory_archive.json");
     const metadataPath = path.join(process.cwd(), "_data/metadata.yaml");
     const metadata = yaml.load(fs.readFileSync(metadataPath, "utf8"));
     const { github_user: OWNER, github_repo: REPO, branch: BRANCH = "main" } = metadata;
     const zipUrl = `https://github.com/${OWNER}/${REPO}/archive/refs/heads/${BRANCH}.zip`;
 
     try {
-        const zipBuffer = await EleventyFetch(zipUrl, { duration: "1d", type: "buffer" });
+        // 1. Download ZIP (Cache 1 hari)
+        const zipBuffer = await EleventyFetch(zipUrl, {
+            duration: "1d",
+            type: "buffer"
+        });
+
         const zip = new AdmZip(zipBuffer);
-        const entries = zip.getEntries();
+        const zipEntries = zip.getEntries();
 
-        let posts = [], pages = [];
-        const usedSlugs = new Set(); // Mencegah DuplicatePermalinkOutputError
+        let posts = [];
+        let pages = [];
+        const usedSlugs = new Set();
 
-        entries.forEach(entry => {
-            if (entry.entryName.endsWith(".md") && !entry.isDirectory) {
-                const { data, content } = matter(entry.getData().toString("utf8"));
+        // 2. Proses Ekstraksi
+        zipEntries.forEach((entry) => {
+            const entryPath = entry.entryName;
+            
+            if (entryPath.endsWith(".md") && !entry.isDirectory && !path.basename(entryPath).startsWith("._")) {
+                let rawContent = entry.getData().toString("utf8")
+                    .replace(/\u2028/g, '\n')
+                    .replace(/\u2029/g, '\n')
+                    .replace(/\r\n/g, '\n');
+
+                const { data, content } = matter(rawContent);
                 
-                // Ambil nama file asli tanpa pemotongan (DEFAULT)
-                let baseSlug = path.basename(entry.entryName, ".md").substring(0, 40);
-                
-                // Cek keunikan: Jika slug sudah dipakai, tambah angka di belakangnya
+                // Ambil slug dasar
+                let baseSlug = path.basename(entryPath, ".md");
+
+                // Jamin keunikan slug (Solusi Fatal Error Duplicate Permalink)
                 let finalSlug = baseSlug;
                 let counter = 1;
                 while (usedSlugs.has(finalSlug)) {
@@ -44,30 +52,45 @@ export default async function() {
 
                 const item = { 
                     ...data, 
-                    content: content ? content.trim() : "", 
-                    slug: finalSlug 
+                    content: content.trim(), 
+                    slug: finalSlug, 
+                    path: entryPath 
                 };
-                
-                if (entry.entryName.includes("/posts/")) {
+
+                if (entryPath.includes("/content/posts/")) {
                     posts.push(item);
-                } else if (entry.entryName.includes("/pages/")) {
+                } else if (entryPath.includes("/content/pages/")) {
                     pages.push(item);
                 }
             }
         });
 
-        const finalData = { 
-            posts: posts.sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0)), 
-            pages, 
-            lastUpdated: new Date() 
+        // 3. Mapping Author
+        const authorsPath = path.join(process.cwd(), "_data/authors.json");
+        const authors = fs.existsSync(authorsPath) ? JSON.parse(fs.readFileSync(authorsPath, "utf8")) : {};
+
+        const formattedPosts = posts.map(post => ({
+            ...post,
+            authorData: authors[post.author] || { name: post.author || "Editors" }
+        })).sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
+
+        const finalData = {
+            posts: formattedPosts,
+            pages: pages,
+            authors: authors,
+            lastUpdated: new Date().toISOString()
         };
 
-        fs.writeFileSync(cachePath, JSON.stringify(finalData, null, 2));
-        console.log(`[Theory] Success: ${posts.length} posts loaded.`);
+        fs.writeFileSync(dataPath, JSON.stringify(finalData, null, 2));
+        
+        console.log(`[Theory] Success: ${formattedPosts.length} posts saved to archive.`);
         return finalData;
 
-    } catch (e) {
-        console.error("[Theory] Error:", e.message);
-        return { posts: [], pages: [] };
+    } catch (error) {
+        console.error("[Theory] Error, menggunakan data lama:", error.message);
+        if (fs.existsSync(dataPath)) {
+            return JSON.parse(fs.readFileSync(dataPath, "utf8"));
+        }
+        return { posts: [], pages: [], authors: {} };
     }
 }

@@ -4,7 +4,7 @@ pagination:
   data: theory.posts
   size: 1
   alias: post
-permalink: "/religioustheory/posts/{{ post.slug }}/index.html"
+permalink: "/religioustheory/posts/{{ post.slug | slugify }}/index.html"
 ---
 <div class="col-md-10 mx-auto">
   {% include "partials/nav_desktop.njk" %}

@@ -88,3 +88,6 @@ site:
   description: A Review, Commentary, and Conversations Feature of JCRT
   url: http://localhost:8080
   author: editors_religioustheory
+  alert: |
+       **Archived Content** This Section is part of Religious Theory Archive and is no longer being updated.
+

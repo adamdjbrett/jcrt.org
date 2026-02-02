@@ -27,3 +27,8 @@ name = 'authsveltia'
 main = "src/index.js"
 compatibility_date = "2025-11-23"
 ```
+
+CHANGE LOG:
+
++ Integration with github API religioustheroy repo (Auto Update 1 Day Schemes)
++ Sveltia Ready / Page CMS ready for Headless Backend CMS

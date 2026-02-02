@@ -3,46 +3,120 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-  <title>{{ title || page.title || metadata.title }}</title>
-  <meta name="description" content="{{ description || metadata.description }}">
-  
-  <!-- Open Graph / Twitter -->
-  <meta property="og:title" content="{{ title || page.title || metadata.title }}">
-  <meta property="og:description" content="{{ description || metadata.description }}">
-  <meta property="og:image" content="{{ image || metadata.image }}">
-  <meta property="og:url" content="{{ metadata.url }}{{ page.url }}">
-  <meta property="og:type" content="website">
-  
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{{ title || page.title || metadata.title }}">
-  <meta name="twitter:description" content="{{ description || metadata.description }}">
-  <meta name="twitter:image" content="{{ image || metadata.image }}">
-  
-  <link rel="icon" href="{{ metadata.favicon }}" type="image/x-icon">
-  <link rel="canonical" href="{{ metadata.url }}{{ page.url }}">
-  
-  <!-- CSS -->
+
+    {% set pageTitle = title or pg.title or post.title or metadata.site.title %}
+  {% set pageDesc = description or pg.excerpt or post.excerpt or metadata.site.description %}
+  {% set pageImage = image or metadata.image %}
+  {% set pageAuthor = author or pg.authorName or post.authorName or metadata.author.name %}
+
+  <title>{{ pageTitle }}</title>
+  <meta name="title" content="{{ pageTitle }}" />
+  <meta name="description" content="{{ pageDesc }}" />
+  <meta name="language" content="{{ metadata.language }}" />
+  <meta name="robots" content="index, follow">
+  <meta name="generator" content="{{ eleventy.generator }}" />
+  <link rel="canonical" href="{{ metadata.url }}{{ page.url }}" />
+
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="{{ metadata.url }}{{ page.url }}" />
+  <meta property="og:title" content="{{ pageTitle }}" />
+  <meta property="og:description" content="{{ pageDesc }}" />
+  <meta property="og:image" content="{{ pageImage }}" />
+  <meta property="og:site_name" content="{{ metadata.site.title }}" />
+  <meta property="og:locale" content="{{ metadata.locale }}" />
+  <meta property="facebook:image" content="{{ pageImage }}" />
+  <meta property="facebook:description" content="{{ pageDesc }}" />
+  <meta property="facebook:author" content="{{ metadata.metasocial.facebook }}" />
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="{{ metadata.metasocial.twitter }}" />
+  <meta name="twitter:title" content="{{ pageTitle }}" />
+  <meta name="twitter:description" content="{{ pageDesc }}" />
+  <meta name="twitter:image" content="{{ pageImage }}" />
+  <meta property="twitter:author" content="{{ metadata.metasocial.twitteruser }}" />
+
+  <meta property="dc:title" content="{{ pageTitle }}" />
+  <meta property="dc:creator" content="{{ metadata.author.name }}" />
+  <meta name="locale" content="{{ metadata.locale }}" />
+
+  <link rel="icon" href="{{ metadata.favicon }}" type="image/x-icon" />
+  <link rel="apple-touch-icon" href="{{ metadata.favicon }}" />
+  <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="{{ metadata.site.title }}">
+
   <style>{% include "css/bs.css" %}</style>
   <style>{% getBundle "css" %}</style>
-  <link href="/css/index.css" rel="stylesheet">
+  <link href="/css/index.css" rel="stylesheet"/>
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" rel="stylesheet">
-  
-  <!-- JSON-LD Simplified -->
+
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "name": "{{ metadata.title }}",
-    "url": "{{ metadata.url }}"
+    "@type": "BlogPosting",
+    "headline": "{{ pageTitle }}",
+    "description": "{{ pageDesc | truncate(160) }}",
+    "image": "{{ pageImage }}",
+    "datePublished": "{{ (date or post.date) | isoDate if (date or post.date) else metadata.buildTime }}",
+    "dateModified": "{{ (date or post.date) | isoDate if (date or post.date) else metadata.buildTime }}",
+    "author": {
+      "@type": "Person",
+      "name": "{{ pageAuthor }}"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "{{ metadata.site.title }}",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ metadata.url }}{{ metadata.favicon }}"
+      }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ metadata.url }}{{ page.url }}"
+    }
+  }
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "{{ metadata.url }}"
+      },
+      {% if pg or post %}
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Religious Theory",
+        "item": "{{ metadata.url }}/religioustheory/"
+      },
+      {% endif %}
+      {
+        "@type": "ListItem",
+        "position": {{ 3 if (pg or post) else 2 }},
+        "name": "{{ pageTitle }}",
+        "item": "{{ metadata.url }}{{ page.url }}"
+      }
+    ]
   }
   </script>
 </head>
 <body>
   {% include "partials/sidebar.njk" %}
   <div id="content-wrapper" class="mse">
+    <div class="col-md-10 mx-auto p-3 mt-3 shadow rounded alert alert-danger alert-dismissible fade show" role="alert">
+  {{metadata.site.alert |md | safe }}
+  <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+</div>
+
     {% include "partials/nav_mobile.njk" %}
-    {{ content | safe }}
+    <main>
+      {{ content | safe }}
+    </main>
   </div>
   <script src="/js/bs.js"></script>
 </body>

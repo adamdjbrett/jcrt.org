@@ -14,19 +14,25 @@ permalink: "/religioustheory/posts/{% if pagination.pageNumber > 0 %}page-{{ pag
       <h1>Religious Theory Posts</h1>
       <ul>
       {% for post in pagination.items %}
-        <li>
+        <li class="p-3">
           <a href="/religioustheory/posts/{{ post.slug }}/">{{ post.title }}</a>
 <small>{{ post.date | postDate }}</small>
         </li>
       {% endfor %}
       </ul>
 
+      <div class="row">
       {% if pagination.href.previous %}
-        <a href="{{ pagination.href.previous }}">← Newer</a>
+      <div class="col-md-6">
+        <a href="{{ pagination.href.previous }}" class="btn btn-pink">← Newer</a>
+        </div>
       {% endif %}
       {% if pagination.href.next %}
-        <a href="{{ pagination.href.next }}">Older →</a>
-      {% endif %}
+      <div class="col-md-6  text-end">
+        <a href="{{ pagination.href.next }}" class="btn btn-pink">Older →</a>
+      </div>
+        {% endif %}
+      </div>
     </div>
   </div>
 </div>

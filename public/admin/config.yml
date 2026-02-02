@@ -93,18 +93,7 @@ collections:
         widget: "string" # Diubah menjadi widget string
         hint: "Authors" # Tambahkan petunjuk (opsional)
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "authorList"
-    label: "Author List"
-    preview: true
-    files:
-      - file: "content/authors.md"
-        label: "Authors Listing Page"
-        name: "authors_list_page"
-        fields:
-          - {label: "Layout", name: "layout", widget: "hidden", default: "author-list.njk"}
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Description", name: "description", widget: "text"}
-          - {label: "Body Content (Optional)", name: "body", widget: "markdown", required: false}
+
   - name: "authors_profile"
     label: "Author Profiles"
     folder: "content/authors"
@@ -148,6 +137,9 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "text"}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "PDF", name: "pdf", widget: "file"}
+      - {label: "Authors_key", name: "authors", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown", required: false}
   - name: "metadata"
     label: "Metadata"
@@ -235,3 +227,12 @@ collections:
           widget: "object"
           fields:
             - {label: "Text", name: "text", widget: "string"}
+        - label: "Theory Dir"
+          name: "site"
+          widget: "object"
+          fields:
+            - {label: "Title", name: "title", widget: "string"}
+            - {label: "Description", name: "description", widget: "text"}
+            - {label: "URL", name: "url", widget: "string"}
+            - {label: "Authors", name: "authors", widget: "string"}
+            - {label: "Alert", name: "alert", widget: "markdown"}
