@@ -46,6 +46,8 @@ sidebar:
         url: /
       - nav: About
         url: /about/
+      - nav: Religious Theory
+        url: /religioustheory/
       - nav: Archives
         url: /archives/
       - nav: Blog
