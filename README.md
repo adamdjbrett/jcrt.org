@@ -34,6 +34,25 @@ compatibility_date = "2025-11-23"
 + Integration with github API religioustheroy repo (Auto Update 1 Day Schemes)
 + Sveltia Ready / Page CMS ready for Headless Backend CMS
 
+## CI/CD Build Optimizations (Feb 2026)
+
+Optimized `deploy-xmit.yml` for faster builds (~3-7 seconds including Pagefind):
+
+| Optimization | Description |
+|--------------|-------------|
+| `npm ci` with flags | Uses `--prefer-offline --no-audit --no-fund` for faster installs |
+| Node.js caching | Added `cache: 'npm'` to cache dependencies between runs |
+| Removed 2s delay | Eliminated Windows file-lock workaround (unnecessary on Linux CI) |
+| Direct Pagefind | Run Pagefind in workflow instead of via eleventy.after hook |
+| `--quiet` flag | Reduced Eleventy logging overhead |
+| Parallel compression | Uses async `Promise.all()` for gzip + brotli |
+| Brotli quality 6 | ~10x faster than quality 11 with minimal size difference |
+| Streamlined steps | Removed verify step, cleaner deploy logic |
+
+**Environment Variables:**
+- `SKIP_PAGEFIND=1` - Set in CI to skip Pagefind in eleventy.config.js (run directly in workflow)
+- `ELEVENTY_RUN_MODE=build` - Triggers production build behavior
+
 ## Editorial Theme nicely coded examples
 - [ghost](https://editorial.ghost.io/)
 - [last update 2 weeks ago jekyll option](https://github.com/TurkuNLP/turkunlp.github.io)

@@ -28,17 +28,16 @@ export default async function (eleventyConfig) {
 		}
 	});
 
-if (process.env.ELEVENTY_RUN_MODE === "build") {
+// Run Pagefind only in local builds (CI sets SKIP_PAGEFIND=1)
+if (process.env.ELEVENTY_RUN_MODE === "build" && !process.env.SKIP_PAGEFIND) {
     eleventyConfig.on("eleventy.after", async () => {
-		console.log("Waiting for Windows to release file locks...");
-    await new Promise(resolve => setTimeout(resolve, 2000));
         console.log("Running Pagefind search index...");
         try {
             execSync(`npx pagefind --site _site --glob "**/*.html"`, {
                 encoding: "utf-8",
             });
         } catch (e) {
-            console.error("Pagefind skipped to prevent file locking.");
+            console.error("Pagefind error:", e.message);
         }
     });
 }

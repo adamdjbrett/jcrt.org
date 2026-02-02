@@ -17,11 +17,15 @@ concurrency:
 permissions:
   contents: read
 
+env:
+  ELEVENTY_RUN_MODE: build
+  # Skip pagefind in eleventy.after - we run it manually in workflow
+  SKIP_PAGEFIND: "1"
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
     env:
-      # Target site/domain for XMIT deploy
       XMIT_SITE: jcrt.xmit.dev@268
     steps:
       - name: Checkout
@@ -31,73 +35,63 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
+          cache: 'npm'
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci --prefer-offline --no-audit --no-fund
 
-      - name: Build Eleventy site
-        run: npm run build
-
-      - name: Verify build output
+      - name: Build Eleventy + Pagefind
         run: |
-          if [ ! -d _site ]; then
-            echo "_site directory missing after build" >&2
-            exit 1
-          fi
-          ls -1 _site | head -n 20
+          start_time=$(date +%s%3N)
+          npx @11ty/eleventy --quiet
+          npx pagefind --site _site --glob "**/*.html"
+          end_time=$(date +%s%3N)
+          echo "⚡ Build completed in $((end_time - start_time))ms"
 
-      - name: Compress assets (gzip + brotli)
+      - name: Compress assets (parallel gzip + brotli)
         run: |
-          node <<'EOF'
+          node --experimental-vm-modules <<'EOF'
           import { readdirSync, readFileSync, writeFileSync, statSync } from 'node:fs';
-          import { gzipSync, brotliCompressSync, constants } from 'node:zlib';
+          import { gzip, brotliCompress, constants } from 'node:zlib';
           import { join } from 'node:path';
-          function compressFile(p){
-            const d = readFileSync(p);
-            writeFileSync(p+'.gz', gzipSync(d,{level:9}));
-            writeFileSync(p+'.br', brotliCompressSync(d,{params:{[constants.BROTLI_PARAM_QUALITY]:11}}));
-            console.log('✓', p);
-          }
-          function walk(dir){
-            for(const f of readdirSync(dir)){
-              const full = join(dir,f);
+          import { promisify } from 'node:util';
+          const gzipAsync = promisify(gzip);
+          const brotliAsync = promisify(brotliCompress);
+          const files = [];
+          function walk(dir) {
+            for (const f of readdirSync(dir)) {
+              const full = join(dir, f);
               const st = statSync(full);
-              if(st.isDirectory()) walk(full); else if(/\.(html|css|js)$/i.test(f)) compressFile(full);
+              if (st.isDirectory()) walk(full);
+              else if (/\.(html|css|js)$/i.test(f)) files.push(full);
             }
           }
           walk('_site');
+          await Promise.all(files.map(async (p) => {
+            const d = readFileSync(p);
+            const [gz, br] = await Promise.all([
+              gzipAsync(d, { level: 9 }),
+              brotliAsync(d, { params: { [constants.BROTLI_PARAM_QUALITY]: 6 } })
+            ]);
+            writeFileSync(p + '.gz', gz);
+            writeFileSync(p + '.br', br);
+          }));
+          console.log(`✓ Compressed ${files.length} files`);
           EOF
         shell: bash
 
-      - name: Deploy to XMIT (CLI)
+      - name: Deploy to XMIT
         env:
           XMIT_KEY: ${{ secrets.XMIT_KEY }}
         run: |
-          if [ -z "$XMIT_KEY" ]; then
-            echo "XMIT_KEY secret is not set" >&2
-            exit 1
-          fi
-          # Use manual input when workflow_dispatch triggers this workflow
-          SITE_INPUT="${{ github.event_name == 'workflow_dispatch' && inputs.site || '' }}"
-          if [ -n "$SITE_INPUT" ]; then
-            export XMIT_SITE="$SITE_INPUT"
-          fi
-          if [ -z "$XMIT_SITE" ]; then
-            echo "XMIT site/domain not provided. Set repo Variable 'XMIT_SITE' or pass 'site' input." >&2
-            exit 1
-          fi
-          echo "Deploying _site to $XMIT_SITE via XMIT CLI";
-          npx -y @xmit.co/xmit "$XMIT_SITE" _site || { echo 'XMIT deploy failed' >&2; exit 1; }
+          [ -z "$XMIT_KEY" ] && { echo "XMIT_KEY secret not set" >&2; exit 1; }
+          SITE="${{ github.event_name == 'workflow_dispatch' && inputs.site || env.XMIT_SITE }}"
+          [ -z "$SITE" ] && { echo "XMIT site not provided" >&2; exit 1; }
+          echo "Deploying to $SITE"
+          npx -y @xmit.co/xmit "$SITE" _site
 
-      - name: Post-deploy summary
-        run: |
-          echo "Deployment attempt finished for $XMIT_SITE";
-          echo "Visit: https://$XMIT_SITE";
-
-    # Uncomment below for an alternative raw API upload if you have endpoint details
-    # steps:
-    #   - name: Deploy via API (curl)
-    #     run: |
+      - name: Summary
+        run: echo "✅ Deployed to https://${{ env.XMIT_SITE }}"
     #       tar -czf site.tar.gz -C _site .
     #       curl -f -X POST \
     #         -H "Authorization: Bearer $XMIT_KEY" \
