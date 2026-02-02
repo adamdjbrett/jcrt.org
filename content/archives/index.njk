@@ -2,9 +2,38 @@
 title: "ARCHIVES"
 permalink: /archives/
 ---
+<style>
+  .archives-grid {
+    display: grid;
+    gap: 0.35rem 1rem;
+    grid-template-columns: max-content 1fr;
+    align-items: start;
+  }
+  .archives-issue a {
+    text-decoration: none;
+  }
+  .archives-season {
+    color: #444;
+  }
+  @media (max-width: 640px) {
+    .archives-grid {
+      grid-template-columns: 1fr;
+    }
+    .archives-season {
+      padding-left: 0;
+    }
+  }
+</style>
 
-## **Archives**
-
-{% for item in archives_list %}
-[{{ item.issue }}]({{ item.url }})   {{ item.season }}
-{% endfor %}
+{% if archives_list and archives_list.length %}
+<div class="archives-grid">
+  <div class="archives-issue"><strong>Issue</strong></div>
+  <div class="archives-season"><strong>Season</strong></div>
+  {% for item in archives_list %}
+  <div class="archives-issue"><a href="{{ item.url }}">{{ item.issue }}</a></div>
+  <div class="archives-season">{{ item.season }}</div>
+  {% endfor %}
+</div>
+{% else %}
+<p>Archives list is unavailable.</p>
+{% endif %}

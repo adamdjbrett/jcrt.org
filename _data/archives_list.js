@@ -1,54 +1,70 @@
-import fs from "fs";
-import path from "path";
-
-const archivesDir = path.join(process.cwd(), "content", "archives");
-
-function parseIssueMeta(contents, fallbackIssue) {
-  const issueMatch = contents.match(/Issue\s+(\d+\.\d+)\s+([^\n*]+)/i);
-  if (issueMatch) {
-    return {
-      issue: issueMatch[1].trim(),
-      season: issueMatch[2].trim(),
-    };
-  }
-  return { issue: fallbackIssue, season: "" };
-}
-
-function sortByIssueDesc(a, b) {
-  const [aMajor, aMinor] = a.issue.split(".").map(Number);
-  const [bMajor, bMinor] = b.issue.split(".").map(Number);
-  if (aMajor !== bMajor) return bMajor - aMajor;
-  return bMinor - aMinor;
-}
+const archives = [
+  { issue: "1.1", url: "/archives/01.1", season: "Winter 1999" },
+  { issue: "1.2", url: "/archives/01.2", season: "Spring 2000" },
+  { issue: "1.3", url: "/archives/01.3", season: "Fall 2000" },
+  { issue: "2.1", url: "/archives/02.1", season: "Winter 2000" },
+  { issue: "2.2", url: "/archives/02.2", season: "Spring 2001" },
+  { issue: "2.3", url: "/archives/02.3", season: "Fall 2001" },
+  { issue: "3.1", url: "/archives/03.1", season: "Winter 2001" },
+  { issue: "3.2", url: "/archives/03.2", season: "Spring 2002" },
+  { issue: "3.3", url: "/archives/03.3", season: "Fall 2002" },
+  { issue: "4.1", url: "/archives/04.1/index2.shtml", season: "Winter 2002" },
+  { issue: "4.2", url: "/archives/04.2", season: "Spring 2003" },
+  { issue: "4.3", url: "/archives/04.3", season: "Summer 2003" },
+  { issue: "5.1", url: "/archives/05.1", season: "Winter 2003" },
+  { issue: "5.2", url: "/archives/05.2", season: "Spring 2004" },
+  { issue: "5.3", url: "/archives/05.3", season: "Summer 2004" },
+  { issue: "6.1", url: "/archives/06.1", season: "Winter 2004" },
+  { issue: "6.2", url: "/archives/06.2", season: "Spring 2005" },
+  { issue: "6.3", url: "/archives/06.3", season: "Fall 2005" },
+  { issue: "7.1", url: "/archives/07.1", season: "Winter 2005" },
+  { issue: "7.2", url: "/archives/07.2", season: "Spring 2006" },
+  { issue: "8.1", url: "/archives/08.1", season: "Winter 2006" },
+  { issue: "8.2", url: "/archives/08.2", season: "Spring 2007" },
+  { issue: "8.3", url: "/archives/08.3", season: "Fall 2007" },
+  { issue: "9.1", url: "/archives/09.1", season: "Winter 2008" },
+  { issue: "9.2", url: "/archives/09.2", season: "Summer 2008" },
+  { issue: "9.3", url: "/archives/09.3", season: "Fall 2008" },
+  { issue: "10.1", url: "/archives/10.1", season: "Winter 2009" },
+  { issue: "10.2", url: "/archives/10.2", season: "Spring 2010" },
+  { issue: "10.3", url: "/archives/10.3", season: "Summer 2010" },
+  { issue: "11.1", url: "/archives/11.1", season: "Winter 2010" },
+  { issue: "11.2", url: "/archives/11.2", season: "Spring 2011" },
+  { issue: "11.3", url: "/archives/11.3", season: "Fall 2011" },
+  { issue: "12.1", url: "/archives/12.1", season: "Spring 2012" },
+  { issue: "12.2", url: "/archives/12.2", season: "Fall 2012" },
+  { issue: "12.3", url: "/archives/12.3", season: "Spring 2013" },
+  { issue: "13.1", url: "/archives/13.1", season: "Winter 2014" },
+  { issue: "13.2", url: "/archives/13.2", season: "Summer 2014" },
+  { issue: "14.1", url: "/archives/14.1", season: "Fall 2014" },
+  { issue: "14.2", url: "/archives/14.2", season: "Spring 2015" },
+  { issue: "15.1", url: "/archives/15.1", season: "Fall 2015" },
+  { issue: "15.2", url: "/archives/15.2", season: "Spring 2016" },
+  { issue: "16.1", url: "/archives/16.1", season: "Fall 2016/Winter 2017" },
+  { issue: "16.2", url: "/archives/16.2", season: "Spring 2017" },
+  { issue: "16.3", url: "/archives/16.3", season: "Fall 2017" },
+  { issue: "17.1", url: "/archives/17.1", season: "Winter 2018" },
+  { issue: "17.2", url: "/archives/17.2", season: "Spring 2018" },
+  { issue: "17.3", url: "/archives/17.3", season: "Summer/Fall 2018" },
+  { issue: "18.1", url: "/archives/18.1", season: "Winter 2018-19" },
+  { issue: "18.2", url: "/archives/18.2", season: "Spring 2019" },
+  { issue: "18.3", url: "/archives/18.3", season: "Fall 2019" },
+  { issue: "19.1", url: "/archives/19.1", season: "Winter 2019-2020" },
+  { issue: "19.2", url: "/archives/19.2", season: "Spring 2020" },
+  { issue: "19.3", url: "/archives/19.3", season: "Fall 2020" },
+  { issue: "20.1", url: "/archives/20.1", season: "Winter 2020-21" },
+  { issue: "20.2", url: "/archives/20.2", season: "Spring 2021" },
+  { issue: "20.3", url: "/archives/20.3", season: "Fall 2021" },
+  { issue: "21.1", url: "/archives/21.1", season: "Winter 2021-22" },
+  { issue: "21.2", url: "/archives/21.2", season: "Spring 2022" },
+  { issue: "21.3", url: "/archives/21.3", season: "Fall 2022" },
+  { issue: "22.1", url: "/archives/22.1", season: "Spring 2023" },
+  { issue: "22.2", url: "/archives/22.2", season: "Fall 2023" },
+  { issue: "23.1", url: "/archives/23.1/", season: "Spring 2024" },
+  { issue: "23.2", url: "/archives/23.2/", season: "Winter 2025" },
+  { issue: "24.1", url: "/archives/24.1/", season: "Summer 2025" },
+];
 
 export default function () {
-  if (!fs.existsSync(archivesDir)) return [];
-
-  const entries = fs.readdirSync(archivesDir, { withFileTypes: true });
-  const issues = entries
-    .filter((entry) => entry.isDirectory() && /^\d+\.\d+$/.test(entry.name))
-    .map((entry) => {
-      const issueDir = path.join(archivesDir, entry.name);
-      const indexMd = path.join(issueDir, "index.md");
-      const index2Md = path.join(issueDir, "index2.md");
-      const indexFile = fs.existsSync(indexMd)
-        ? indexMd
-        : fs.existsSync(index2Md)
-          ? index2Md
-          : null;
-
-      let issueMeta = { issue: entry.name, season: "" };
-      if (indexFile) {
-        const contents = fs.readFileSync(indexFile, "utf8");
-        issueMeta = parseIssueMeta(contents, entry.name);
-      }
-
-      return {
-        ...issueMeta,
-        url: `/archives/${entry.name}/`,
-      };
-    })
-    .sort(sortByIssueDesc);
-
-  return issues;
+  return [...archives].reverse();
 }

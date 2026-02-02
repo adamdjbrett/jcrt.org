@@ -192,6 +192,7 @@ const mdLib = markdownIt({
 	
 	eleventyConfig.watchIgnores.add("_data/theory_archive.json");
 	eleventyConfig.ignores.add("_drafts/**");
+	eleventyConfig.ignores.add("submissions/**");
 
 	eleventyConfig.addShortcode("currentBuildDate", () => {
 		return new Date().toISOString();
