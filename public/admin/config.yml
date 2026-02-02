@@ -227,6 +227,7 @@ collections:
           widget: "object"
           fields:
             - {label: "Text", name: "text", widget: "string"}
+            
         - label: "Theory Dir"
           name: "site"
           widget: "object"
@@ -236,3 +237,6 @@ collections:
             - {label: "URL", name: "url", widget: "string"}
             - {label: "Authors", name: "authors", widget: "string"}
             - {label: "Alert", name: "alert", widget: "markdown"}
+        - {label: "Github User API Religious Theory", name: "github_user", widget: "string"}
+        - {label: "Github Repo API Religious Theory", name: "github_repo", widget: "string"}
+        - {label: "Github Branch API Religious Theory", name: "branch", widget: "string"}
