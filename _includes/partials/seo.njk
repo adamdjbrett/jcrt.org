@@ -46,7 +46,9 @@
 <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
 <style>{% include "css/bs.css" %}</style>
 <style>{% getBundle "css" %}</style>
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600,600i" rel="stylesheet">
 <link href="/css/index.css" rel="stylesheet"/>
+<link href="/css/font.css" rel="stylesheet"/>
 {% set pageTitle = title or pg.title or post.title or metadata.title %}
 {% set pageDesc = description or pg.excerpt or post.excerpt or metadata.description %}
 {% set pageImage = image or metadata.image %}

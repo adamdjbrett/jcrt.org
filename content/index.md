@@ -9,20 +9,24 @@ button:
  url: "/archives/"
 
 section: 
- title: Erat Lacinia
+ title: Trending Keywords.
  list: 
-   - title: Portitor ullamcorper
+   - title: Religious Theory
      icon: fab fa-facebook
      text: "Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam."
-   - title: Elbuso Mendano
+     url: /religioustheory/
+   - title: Media Theory 
      icon: fab fa-youtube
      text: "Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam."
-   - title: Klompen Capir
+     url: /religioustheory/
+   - title: Cultural Theory
      icon: fab fa-github
      text: "Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam."
-   - title: Bulgoso Dugonge
+     url: /religioustheory/
+   - title: Political Theory
      icon: fab fa-instagram
      text: "Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam."
+     url: /religioustheory/
 
 blog: 
  title: Recent Articles
