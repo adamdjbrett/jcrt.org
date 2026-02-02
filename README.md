@@ -1,4 +1,5 @@
 # JCRT.ORG
+[![Deploy Eleventy to XMIT](https://github.com/adamdjbrett/jcrt.org/actions/workflows/deploy-xmit.yml/badge.svg)](https://github.com/adamdjbrett/jcrt.org/actions/workflows/deploy-xmit.yml)
 ## demo url [jcrt.xmit.dev](https://jcrt.xmit.dev)
 Develop by Adam Dj Brett
 
