@@ -41,6 +41,7 @@ compatibility_date = "2025-11-23"
 ## Changelog
 1. increase the size of the nav and the css to match <https://editorial.ghost.io>
 2. why does it say "JUDUL TIDAK DITEMUKAN - PERLU EDIT MANUAL" everywhere?
+   - 
 3. change "Erat Lacinia" to Trending Keywords. 
     1. Portitor ullamcorper change to religious theory make clickable
     2. Elbuso Mendano mchange to media theory make clickable

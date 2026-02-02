@@ -1,5 +1,5 @@
 ---
-title: "JUDUL TIDAK DITEMUKAN - PERLU EDIT MANUAL"
+title: Journal for Cultural and Religious Theory
 ---
 
         
