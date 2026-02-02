@@ -4,8 +4,8 @@ image: "https://images.unsplash.com/photo-1761481755390-83999d790b95?ixlib=rb-4.
 language: "en"
 locale: en_US
 favicon: "https://getbootstrap.com/docs/5.3/assets/img/favicons/apple-touch-icon.png"
-url: "https://editorial.000000076.xyz"
-
+#url: "https://editorial.000000076.xyz"
+url: http://localhost:8080
 homepage_archive: 
   active_tag: cat
   section_title: From the Archive
@@ -41,6 +41,8 @@ sidebar:
         url: /
       - nav: About
         url: /about/
+      - nav: Religious Theory
+        url: /religioustheory/
       - nav: Archives
         url: /archives/
       - nav: Blog
@@ -78,3 +80,15 @@ sidebar:
   footer: 
     text: © My Website. All rights reserved.
 
+site: 
+  title: RELIGIOUS THEORY
+  description: A Review, Commentary, and Conversations Feature of JCRT
+  url: http://localhost:8080
+  author: editors_religioustheory
+  alert: |
+       **Archived Content** This Section is part of Religious Theory Archive and is no longer being updated.
+
+#for github setup
+github_user: adamdjbrett
+github_repo: religioustheory
+branch: "main"

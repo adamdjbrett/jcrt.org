@@ -29,7 +29,9 @@ export default async function (eleventyConfig) {
 	});
 
 if (process.env.ELEVENTY_RUN_MODE === "build") {
-    eleventyConfig.on("eleventy.after", () => {
+    eleventyConfig.on("eleventy.after", async () => {
+		console.log("Waiting for Windows to release file locks...");
+    await new Promise(resolve => setTimeout(resolve, 2000));
         console.log("Running Pagefind search index...");
         try {
             execSync(`npx pagefind --site _site --glob "**/*.html"`, {
@@ -115,24 +117,7 @@ if (process.env.ELEVENTY_RUN_MODE === "build") {
 			return `print-${slug}`;
 		},
 	});
-eleventyConfig.addTransform("kill-wp-garbage", function (content) {
-        const outputPath = this.page.outputPath;
-        
-        // Pastikan outputPath ada dan bertipe string
-        const isHtml = outputPath && outputPath.endsWith(".html");
-        const isTargetDir = outputPath && outputPath.includes("religioustheory");
 
-		if (isHtml && isTargetDir) {
-			let result = content;
-			result = result.replace(/<script\b[^>]*>([\s\S]*?)<\/script>/gmi, "");
-			result = result.replace(/class="[^"]*wp-[^"]*"/gi, "");
-			result = result.replace(/style="[^"]*"/gi, "");
-			result = result.replace(/<[^>]*data-wp[^>]*>/g, "");
-			return result;
-		}
-        return content;
-    });
-// Author by bio
 
     eleventyConfig.addFilter("getAuthorObj", (authorsCollection, authorKey) => {
         if (!authorKey || !authorsCollection) return null;
@@ -158,6 +143,7 @@ eleventyConfig.addCollection("authors", function(collectionApi) {
             return nameA.localeCompare(nameB);
         });
     });
+	eleventyConfig.addPassthroughCopy({ "public/js": "js" });
 eleventyConfig.addPassthroughCopy({ "content/archives": "archives" }, {
         copyOptions: {
             overwrite: true
@@ -166,8 +152,12 @@ eleventyConfig.addPassthroughCopy({ "content/archives": "archives" }, {
 eleventyConfig.addCollection("archives", function(collectionApi) {
         return collectionApi.getFilteredByGlob("content/archives/**/*.md");
     });
-
-	
+const mdLib = markdownIt({
+    html: true,
+    breaks: true,
+    linkify: true
+  });
+	eleventyConfig.addFilter("md", (content) => mdLib.render(content || ""));
 
 	// creativitas code
 
@@ -199,6 +189,8 @@ eleventyConfig.addCollection("archives", function(collectionApi) {
 	});
 
 	eleventyConfig.addPlugin(pluginFilters);
+	
+	eleventyConfig.watchIgnores.add("_data/theory_archive.json");
 
 	eleventyConfig.addShortcode("currentBuildDate", () => {
 		return new Date().toISOString();
@@ -211,6 +203,7 @@ export const config = {
 	markdownTemplateEngine: "njk",
 
 	htmlTemplateEngine: "njk",
+	
 
 	dir: {
 		input: "content", // default: "."

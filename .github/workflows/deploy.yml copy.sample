@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-  workflow_dispatch: 
 
 jobs:
   build_and_deploy:
@@ -18,18 +17,15 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'
 
       - name: 3. Install Dependencies
         run: npm install
 
       - name: 4. Build Eleventy Project
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: npm run build
 
       - name: 5. Deploy via FTPS (Force jsftp Client)
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        uses: SamKirkland/FTP-Deploy-Action@v4.2.0 
         with:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
