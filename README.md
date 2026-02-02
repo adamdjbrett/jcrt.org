@@ -35,3 +35,5 @@ compatibility_date = "2025-11-23"
 
 ## Editorial Theme nicely coded examples
 - [ghost](https://editorial.ghost.io/)
+- [last update 2 weeks ago jekyll option](https://github.com/TurkuNLP/turkunlp.github.io)
+- [andrew - older but still good css](https://andrewbanchich.github.io/editorial-jekyll-theme/)
