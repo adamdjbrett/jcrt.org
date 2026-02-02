@@ -43,7 +43,7 @@
 			
 <div class="mt-5">
 <p class="smallers">
-{{metadata.sidebar.footer.text}} | Built with <a href="https://www.11ty.dev/" target="blank">{{ eleventy.generator }}</a> |
+{{ metadata.sidebar.footer.text | safe }} {{ metadata.sidebar.footer.year_start }}-{{ "" | currentYear }}. | Built with <a href="https://www.11ty.dev/" target="blank">{{ eleventy.generator }}</a> |
 Develope by <a href="https://adamdjbrett.com" target="_blank">Adamdjbrett</a>
 </p>
 </div>

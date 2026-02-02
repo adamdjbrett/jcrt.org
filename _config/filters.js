@@ -58,13 +58,14 @@ eleventyConfig.addFilter("isoDate", (dateObj) => {
     if (!dateObj) return new Date().toISOString();
     return new Date(dateObj).toISOString();
 });
-eleventyConfig.addFilter("postDate", (dateObj) => {
-    return new Date(dateObj).toLocaleDateString('en-US', {
+    eleventyConfig.addFilter("postDate", (dateObj) => {
+        return new Date(dateObj).toLocaleDateString('en-US', {
       year: 'numeric',
       month: 'long',
       day: 'numeric'
     });
   });
+  eleventyConfig.addFilter("currentYear", () => DateTime.now().toFormat("yyyy"));
 
 
 };

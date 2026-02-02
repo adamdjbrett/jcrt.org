@@ -1,0 +1,10 @@
+---
+title: "ARCHIVES"
+permalink: /archives/
+---
+
+## **Archives**
+
+{% for item in archives_list %}
+[{{ item.issue }}]({{ item.url }})   {{ item.season }}
+{% endfor %}

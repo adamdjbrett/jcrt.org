@@ -1,9 +1,9 @@
-title: "Editorial 11ty"
-description: "Editorial from HTML5up convert to bootstrap and JAMSTACK 11ty aka eleventy version develop by Adam Dj Brett"
-image: "https://images.unsplash.com/photo-1761481755390-83999d790b95?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0Nnx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=400"
+title: "JCRT"
+description: "Journal for Cultural and Religious Theory (JCRT), whitestone foundation publication"
+image: "/img/jcrt.jpg"
 language: "en"
 locale: en_US
-favicon: "https://getbootstrap.com/docs/5.3/assets/img/favicons/apple-touch-icon.png"
+favicon: "/img/jcrt.jpg"
 #url: "https://editorial.000000076.xyz"
 url: http://localhost:8080
 homepage_archive: 
@@ -17,8 +17,8 @@ metasocial:
   - twitter: https://x.com/user
 
 navbar: 
- title: Editorial 11ty
- sub_title: "Responsive HTML5up Site"
+ title: JCRT
+ sub_title: "The Journal for Cultural and Religious Theory A Whitestone Foundation Publication"
  social: 
    - title: Follow my Twitter
      icon: fab fa-twitter
@@ -66,19 +66,20 @@ sidebar:
         url: /
   contact: 
     title: Get in touch
-    text: Sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin sed aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
+    text: The Journal for Cultural and Religious Theory (JCRT) is a publication of The Whitestone Foundation, a 501(c)3 non-profit corporation registered in the state of Colorado.
     list: 
-      - title: "info@adamdjbrett.com"
+      - title: "editor.jcrt@gmail.com"
         icon: fas fa-envelope
-        url: "mailto:info@adamdjbrett.com"
-      - title: "0000000"
-        icon: fas fa-phone
-        url: "tel:000000"
-      - title: "1234 Somewhere Road #8254 Nashville, TN 00000-0000"
-        icon: fas fa-home
-        url: "https://maps.app.goo.gl/fcatehzDtdQMU3UF7"
+        url: "mailto:editor.jcrt@gmail.com"
+#     - title: "0000000"
+#       icon: fas fa-phone
+#       url: "tel:000000"
+#     - title: "1234 Somewhere Road #8254 Nashville, TN 00000-0000"
+#       icon: fas fa-home
+#       url: "https://maps.app.goo.gl/fcatehzDtdQMU3UF7"
   footer: 
-    text: © My Website. All rights reserved.
+    text: The Journal for Cultural and Religious Theory is an online, peer-reviewed, academic publication published by <a href="http://thewhitestonefoundation.org/">The Whitestone Foundation</a>, a 501c3 corporation located in Boulder, Colorado. For submissions policies click <a href="http://jcrt.org/submissions/">here</a>. ISSN 1530-5228. Indexed by <a href="https://www.ebsco.com/">EBSCO</a>. Listed with <a href="https://duotrope.com/">Duotrope</a>. Copyright © The Whitestone Foundation dba The Journal for Cultural and Religious Theory
+    year_start: 1999
 
 site: 
   title: RELIGIOUS THEORY

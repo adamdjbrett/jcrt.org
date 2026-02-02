@@ -1,0 +1,19 @@
+﻿2026-02-02T03:50:24.7307093Z ##[group]Run actions/setup-node@v4
+2026-02-02T03:50:24.7308208Z with:
+2026-02-02T03:50:24.7308922Z   node-version: 20
+2026-02-02T03:50:24.7309700Z   cache: npm
+2026-02-02T03:50:24.7310447Z   always-auth: false
+2026-02-02T03:50:24.7311285Z   check-latest: false
+2026-02-02T03:50:24.7312407Z   token: ***
+2026-02-02T03:50:24.7313129Z env:
+2026-02-02T03:50:24.7313858Z   XMIT_SITE: jcrt.xmit.dev@268
+2026-02-02T03:50:24.7315028Z ##[endgroup]
+2026-02-02T03:50:24.9169901Z Found in cache @ /opt/hostedtoolcache/node/20.20.0/x64
+2026-02-02T03:50:24.9176387Z ##[group]Environment details
+2026-02-02T03:50:25.2630550Z node: v20.20.0
+2026-02-02T03:50:25.2631122Z npm: 10.8.2
+2026-02-02T03:50:25.2631539Z yarn: 1.22.22
+2026-02-02T03:50:25.2632735Z ##[endgroup]
+2026-02-02T03:50:25.2653218Z [command]/opt/hostedtoolcache/node/20.20.0/x64/bin/npm config get cache
+2026-02-02T03:50:25.3859801Z /home/runner/.npm
+2026-02-02T03:50:25.3971537Z ##[error]Dependencies lock file is not found in /home/runner/work/jcrt.org/jcrt.org. Supported file patterns: package-lock.json,npm-shrinkwrap.json,yarn.lock

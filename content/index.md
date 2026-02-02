@@ -1,12 +1,12 @@
 ---
 layout: home.njk
-title: Editorial 11ty
-description: Editorial Jamstack 11ty Version by Adam Dj Brett.
-image: "https://images.unsplash.com/photo-1761666254267-afe141cdc951?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw1NHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=400"
-text: "Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam."
+title: JCRT
+description: Journal for Cultural and Religious Theory
+image: "/img/jcrt.jpg"
+text: "The Journal for Cultural and Religious Theory itself is a peer-reviewed journal devoted to both disciplinary and interdisciplinary scholarship of a cutting-edge nature that deals broadly with the phenomenon of religion and cultural theory. It is supported by the University of Denver, South Dakota State University."
 button: 
- text: Learn More
- url: "/"
+ text: Current Issue
+ url: "/archives/"
 
 section: 
  title: Erat Lacinia
@@ -25,9 +25,8 @@ section:
      text: "Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam."
 
 blog: 
- title: Update From Post
+ title: Recent Articles
  button: 
-  text: Explore All Post
-  url: "/blog/"
-
+  text: Explore All Articles
+  url: "/archives/"
 ---
