@@ -11,24 +11,27 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 1. Checkout Repository
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: 2. Setup Node.js
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
           cache: 'npm'
 
-      - name: 3. Install Dependencies
-        run: npm install
+      - name: Install Dependencies
+        run: npm ci
 
-      - name: 4. Build Eleventy Project
+      - name: Clean Build Environment
+        run: rm -rf _site .cache
+
+      - name: Build Eleventy Project
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: npm run build
 
-      - name: 5. Deploy via FTPS (Force jsftp Client)
+      - name: Deploy via FTPS
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: ${{ secrets.FTP_SERVER }}
@@ -38,7 +41,8 @@ jobs:
           server-dir: "/" 
           protocol: 'ftps' 
           port: 21 
-          ftp-client: 'jsftp' 
+          ftp-client: 'jsftp'
+          dangerous-clean-slate: true
 
-      - name: 6. Deployment Complete
-        run: echo "Deployment 11ty finish!"
+      - name: Deployment Complete
+        run: echo "Deployment 11ty finished successfully"
