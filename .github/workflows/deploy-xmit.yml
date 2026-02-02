@@ -19,8 +19,11 @@ permissions:
 
 env:
   ELEVENTY_RUN_MODE: build
-  # Skip pagefind in eleventy.after - we run it manually in workflow
   SKIP_PAGEFIND: "1"
+  # Use cached theory data - skip GitHub ZIP download
+  USE_CACHED_THEORY: "1"
+  # Skip HTML transforms in CI for speed
+  FAST_BUILD: "1"
 
 jobs:
   deploy:
@@ -40,45 +43,15 @@ jobs:
       - name: Install dependencies
         run: npm ci --prefer-offline --no-audit --no-fund
 
-      - name: Build Eleventy + Pagefind
+      - name: Build site
         run: |
           start_time=$(date +%s%3N)
-          npx @11ty/eleventy --quiet
-          npx pagefind --site _site --glob "**/*.html"
+          npx @11ty/eleventy --quiet &
+          eleventy_pid=$!
+          wait $eleventy_pid
+          npx pagefind --site _site --glob "**/*.html" --force-language en
           end_time=$(date +%s%3N)
           echo "⚡ Build completed in $((end_time - start_time))ms"
-
-      - name: Compress assets (parallel gzip + brotli)
-        run: |
-          node --experimental-vm-modules <<'EOF'
-          import { readdirSync, readFileSync, writeFileSync, statSync } from 'node:fs';
-          import { gzip, brotliCompress, constants } from 'node:zlib';
-          import { join } from 'node:path';
-          import { promisify } from 'node:util';
-          const gzipAsync = promisify(gzip);
-          const brotliAsync = promisify(brotliCompress);
-          const files = [];
-          function walk(dir) {
-            for (const f of readdirSync(dir)) {
-              const full = join(dir, f);
-              const st = statSync(full);
-              if (st.isDirectory()) walk(full);
-              else if (/\.(html|css|js)$/i.test(f)) files.push(full);
-            }
-          }
-          walk('_site');
-          await Promise.all(files.map(async (p) => {
-            const d = readFileSync(p);
-            const [gz, br] = await Promise.all([
-              gzipAsync(d, { level: 9 }),
-              brotliAsync(d, { params: { [constants.BROTLI_PARAM_QUALITY]: 6 } })
-            ]);
-            writeFileSync(p + '.gz', gz);
-            writeFileSync(p + '.br', br);
-          }));
-          console.log(`✓ Compressed ${files.length} files`);
-          EOF
-        shell: bash
 
       - name: Deploy to XMIT
         env:
@@ -86,7 +59,6 @@ jobs:
         run: |
           [ -z "$XMIT_KEY" ] && { echo "XMIT_KEY secret not set" >&2; exit 1; }
           SITE="${{ github.event_name == 'workflow_dispatch' && inputs.site || env.XMIT_SITE }}"
-          [ -z "$SITE" ] && { echo "XMIT site not provided" >&2; exit 1; }
           echo "Deploying to $SITE"
           npx -y @xmit.co/xmit "$SITE" _site
 

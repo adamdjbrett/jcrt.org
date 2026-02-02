@@ -7,6 +7,13 @@ import AdmZip from "adm-zip";
 
 export default async function() {
     const dataPath = path.join(process.cwd(), "_data/theory_archive.json");
+    
+    // Fast path: In CI, use cached theory_archive.json to skip ZIP download (~12s savings)
+    if (process.env.USE_CACHED_THEORY === "1" && fs.existsSync(dataPath)) {
+        console.log("[Theory] Using cached theory_archive.json (CI mode)");
+        return JSON.parse(fs.readFileSync(dataPath, "utf8"));
+    }
+    
     const metadataPath = path.join(process.cwd(), "_data/metadata.yaml");
     const metadata = yaml.load(fs.readFileSync(metadataPath, "utf8"));
     const { github_user: OWNER, github_repo: REPO, branch: BRANCH = "main" } = metadata;
