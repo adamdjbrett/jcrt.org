@@ -74,12 +74,32 @@ Total:         48s → ~10s
 - [last update 2 weeks ago jekyll option](https://github.com/TurkuNLP/turkunlp.github.io)
 - [andrew - older but still good css](https://andrewbanchich.github.io/editorial-jekyll-theme/)
 
+
+## TODO
+
++ Sveltia CMS integration for JCRT
++ Create automation Archives + PDF + Layouting
+
+
 ## Changelog
-1. increase the size of the nav and the css to match <https://editorial.ghost.io>
+
+04 Feb 2026
++ UPdate new themes a modern version of thenewpolish
++ JCRT as main data
++ Metadata as Secondary data for religioustheory setup
++ Split layouting JCRT and ReligiousTheory
+
+
+02 Feb 2026
+1. increase the size of the nav and the css to match <https://editorial.ghost.io> -DONE
 2. why does it say "JUDUL TIDAK DITEMUKAN - PERLU EDIT MANUAL" everywhere?
-   - 
-3. change "Erat Lacinia" to Trending Keywords. 
+   - DONE
+3. change "Erat Lacinia" to Trending Keywords.  - DONE
     1. Portitor ullamcorper change to religious theory make clickable
     2. Elbuso Mendano mchange to media theory make clickable
     3. Klompen Capir - cultural theory make clickable
     4. Bulgoso Dugonge - political theory make clickable
+
+
+
+
