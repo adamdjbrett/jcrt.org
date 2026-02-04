@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="{{ metadata.language }}">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{% include "partials/jcrt/seo.njk" %}
+</head>
+<body>
+{% include "partials/jcrt/nav.njk" %}
+<div id="content-wrapper" class="mse col-md-10 mx-auto">
+{{ content | safe }}
+</div>
+{% include "partials/jcrt/footer.njk" %}
+<script src="/js/bs.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</body>
+</html>

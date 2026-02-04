@@ -1,0 +1,35 @@
+    <header class="site-header" 
+    style="
+    background-image: 
+    url('{{jcrt.hero.image1}}'),
+    url('{{jcrt.hero.image2}}');
+    background-repeat: repeat, no-repeat;
+    background-position: 60% 30%, 60% 30%;
+    background-size: auto, cover;
+        height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    ">
+    <div class="container text-center">
+        <h1 class="hero-title mb-2"><a href="{{jcrt.url}}" class="text-white text-decoration-none">{{jcrt.title}}</a></h1>
+        <h2 class="hero-sub text-white">{{jcrt.description}}</h2>
+        </div>
+    </header>
+
+  <nav class="navbar navbar-expand-lg sticky-top shadow-sm">
+        <div class="container">
+            <button class="navbar-toggler ms-auto bg-white" type="button" data-bs-toggle="collapse" 
+            data-bs-target="#mainNav" aria-controls="mainNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="small">Menu</span> <i class="fa-solid fa-bars"></i>
+            </button>
+            
+            <div class="collapse navbar-collapse justify-content-center" id="mainNav">
+                <ul class="navbar-nav">{% for nv in jcrt.navbar.list %}
+                    <li class="nav-item"><a class="nav-link" href="{{nv.url}}">{{nv.nav}}</a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </nav>

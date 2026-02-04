@@ -1,0 +1,45 @@
+title: "JCRT"
+description: "Journal for Cultural and Religious Theory (JCRT), whitestone foundation publication"
+image: "/img/jcrt.jpg"
+language: "en"
+locale: en_US
+favicon: "/img/jcrt.jpg"
+#url: "https://editorial.000000076.xyz"
+url: http://localhost:8080
+
+show_archive: true
+homepage_archive: 
+  active_tag: cat
+  section_title: From the Archive
+  max_items: 3
+
+metasocial:
+  - facebook: https://www.facebook.com/user
+  - twitteruser: "@user"
+  - twitter: https://x.com/user
+
+hero: 
+  image1: /img/city-4049541_1280.png
+  image2: /img/jcrt-hero.webp
+
+navbar: 
+ title: JCRT
+ sub_title: "The Journal for Cultural and Religious Theory"
+ list: 
+    - nav: Home
+      url: /
+    - nav: About
+      url: /about/
+    - nav: Religious Theory
+      url: /religioustheory/
+    - nav: Archives
+      url: /archives/
+    - nav: Blog
+      url: /blog/
+    - nav: Submissions
+      url: /submissions/
+
+
+footer: 
+    text: © Copyright The Whitestone Foundation dba The New Polis 2018-2021. All Rights Reserved.
+    info: A WHITESTONE PUBLICATION

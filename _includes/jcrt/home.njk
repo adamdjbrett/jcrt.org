@@ -1,0 +1,159 @@
+---
+layout: jcrt/base.njk
+---
+<main class="container my-5">
+{% set latestPost = collections.posts | last %}
+{% if latestPost %}
+    {% set authorData = collections.authors | getAuthorObj(latestPost.data.author) %}
+    <section class="latest-featured row g-0">
+        {% if latestPost.data.image %}
+        <div class="col-md-6 featured-img-half" style="background-image: url('{{ latestPost.data.image }}');"></div>
+        {% endif %}
+        
+        <div class="col-md-6 featured-content p-3">
+            <span class="text-uppercase text-muted small fw-bold mb-2">Newest Publication</span>
+            {% if latestPost.data.title %}
+            <h2 class="display-6 serif fw-bold mb-3"><a href="{{ latestPost.url }}" class="text-dark text-decoration-none">{{ latestPost.data.title }}</a></h2>
+            {% endif %}
+            
+            {% if latestPost.data.description %}
+            <p class="text-secondary mb-4">{{ latestPost.data.description }}</p>
+            {% endif %}
+            
+            <div class="author-box border-0 pt-0">
+                {% if authorData %}
+                    <a href="{{ latestPost.url }}"><img src="{{ authorData.data.image or jcrt.image }}" class="author-img" alt="{{ authorData.data.name or authorData.data.title }}"></a>
+                    <span class="small">
+                        By <strong><a href="{{ authorData.url }}" class="text-decoration-none text-dark">{{ authorData.data.name or authorData.data.title }}</a></strong> 
+                        &middot; {{ latestPost.date | postDate }}
+                    </span>
+                {% elif latestPost.data.author %}
+                    <span class="small">
+                        By <strong>{{ latestPost.data.author }}</strong> 
+                        &middot; {{ latestPost.date | postDate }}
+                    </span>
+                {% endif %}
+            </div>
+            <a href="{{ latestPost.url }}" class="btn btn-outline-dark mt-3">Read More</a>
+        </div>
+    </section>
+{% endif %}
+
+    <div class="row g-4">
+        {% for post in collections.posts | reverse %}
+            {% if loop.index0 > 0 and loop.index0 < 7 %}
+                {% set authorData = collections.authors | getAuthorObj(post.data.author) %}
+                <div class="col-md-6">
+                    <div class="news-card">
+                        {% if post.data.image %}
+                        <img src="{{ post.data.image or jcrt.image }}" class="card-img-top" alt="{{ post.data.title }}">
+                        {% endif %}
+                        
+                        <div class="card-body">
+                            {% if post.data.tags %}
+                                {% for tag in post.data.tags %}
+                                    {% if tag != "posts" and tag != "post" %}
+                                    <a href="/tags/{{ tag | slugify }}/" class="small text-muted text-uppercase fw-bold text-decoration-none">{{ tag }}</a>
+                                    {% endif %}
+                                {% endfor %}
+                            {% endif %}
+                            
+                            {% if post.data.title %}
+                            <h3 class="card-title mt-2"><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
+                            {% endif %}
+                            
+                            {% if post.data.description %}
+                            <p class="card-text small text-secondary">{{ post.data.description }}</p>
+                            {% endif %}
+                            
+                            <div class="author-box">
+                                {% if authorData %}
+                                    <img src="{{ authorData.data.image or jcrt.image }}" class="author-img" alt="{{ authorData.data.name }}">
+                                    <span class="date-text small">
+                                        <a href="{{ authorData.url }}" class="text-decoration-none text-dark">
+                                            <strong>{{ authorData.data.name or authorData.data.title }}</strong>
+                                        </a> &middot; {{ post.date | postDate }}
+                                    </span>
+                                {% else %}
+                                    <span class="date-text small">{{ post.data.author }} &middot; {{ post.date | postDate }}</span>
+                                {% endif %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            {% endif %}
+        {% endfor %}
+    </div>
+
+{%if show_archive %}
+{% set featuredTag = jcrt.homepage_archive.active_tag %}
+{% set maxItems = jcrt.homepage_archive.max_items or 3 %}
+{% set archivePosts = collections.archives | filterByTag(featuredTag) | head(maxItems) %}
+
+{% if archivePosts.length > 0 %}
+<section class="pt-5">
+    <div class="container-fluid">
+        <div class="col-md-12 px-3 px-md-5 mb-4">
+            <div class="d-flex align-items-center justify-content-between">
+                <h3 class="m-0">
+                    <strong>{{ jcrt.homepage_archive.section_title }}</strong>
+                    <span class="ms-2 badge bg-light text-secondary small" style="font-size: 0.5em;">#{{ featuredTag }}</span>
+                </h3>
+                <a href="/archives/" class="btn btn-light small">Explore All Archives →</a>
+            </div>
+        </div>
+
+        <div class="row">
+            {% for post in archivePosts %}
+                {% set authorData = collections.authors | getAuthorObj(post.data.author) %}
+                <div class="col-md-6 col-lg-4">
+                    <div class="news-card">
+                        {% if post.data.image or jcrt.image %}
+                        <img src="{{ post.data.image or jcrt.image }}" class="card-img-top" alt="{{ post.data.title }}">
+                        {% endif %}
+                        
+                        <div class="card-body">
+                            {% if post.data.tags %}
+                                {% for tag in post.data.tags %}
+                                    {% if tag != "posts" and tag != "post" %}
+                                    <a href="/tags/{{ tag | slugify }}/" class="small text-muted text-uppercase fw-bold text-decoration-none">{{ tag }}</a>
+                                    {% endif %}
+                                {% endfor %}
+                            {% endif %}
+
+                            {% if post.data.title %}
+                            <h3 class="card-title mt-2">
+                                <a href="{{ post.url }}"><strong>{{ post.data.title }}</strong></a>
+                            </h3>
+                            {% endif %}
+
+                            {% if post.data.description %}
+                            <p class="card-text small text-secondary">
+                                {{ post.data.description | truncate(110) }}
+                            </p>
+                            {% endif %}
+
+                            <div class="author-box">
+                                {% if authorData %}
+                                    <img src="{{ authorData.data.image or jcrt.image }}" class="author-img" alt="{{ authorData.data.name }}">
+                                    <span class="date-text small">
+                                        <a href="{{ authorData.url }}" class="text-decoration-none text-dark">
+                                            <strong>{{ authorData.data.name or authorData.data.title }}</strong>
+                                        </a> &middot; {{ post.date | postDate }}
+                                    </span>
+                                {% else %}
+                                    <span class="date-text small">
+                                        {{ post.data.author if post.data.author else 'Admin' }} &middot; {{ post.date | postDate }}
+                                    </span>
+                                {% endif %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+{% endif %}
+{% endif %}
+</main>
