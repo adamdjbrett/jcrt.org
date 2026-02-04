@@ -1,5 +1,11 @@
 ---
 title: "Kosky - Contemporary Encounters with Apophatic Theology - JCRT 1.3"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Kosky - Contemporary Encounters with Apophatic Theology - JCRT 1.3 

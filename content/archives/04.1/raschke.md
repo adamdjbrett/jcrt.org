@@ -1,5 +1,11 @@
 ---
 title: "From Religion to Faith: Levinasian Ethics and the Grammar of Address"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Raschke - From Religion to Faith - JCRT 4.1 

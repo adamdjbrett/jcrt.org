@@ -1,5 +1,11 @@
 ---
 title: "Heidegger, Religion, and the Transience of Digital Memory"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Magee - Heidegger, Religion, and the Transience of Digital Memory - JCRT 2.3 

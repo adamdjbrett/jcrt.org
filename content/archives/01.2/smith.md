@@ -1,5 +1,11 @@
 ---
 title: "Difficult History"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
   Smith - Difficult History - JCRT 1.2 

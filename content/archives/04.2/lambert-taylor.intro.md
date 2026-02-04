@@ -1,5 +1,11 @@
 ---
 title: "The Future of Theory"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
   Taylor & Lambert - The Future of Theory - JCRT 4.2 

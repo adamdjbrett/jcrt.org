@@ -1,5 +1,11 @@
 ---
 title: "Para/theology: The Study of Religion and the Science of the Negative"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
  Raschke - Para/theology - JCRT 2.1 

@@ -1,5 +1,11 @@
 ---
 title: "Diff�rance That Comes As One Unknown: Christology after Derrida's \"Structure, Sign, and Play in the Discourse of the Human Sciences\""
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
      Keuss - Diff�rance That Comes As One Unknown - JCRT 3.1 

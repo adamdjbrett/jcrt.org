@@ -1,5 +1,11 @@
 ---
 title: "Ochs - Rosenzweig as Postcritical Jewish Philosopher - JCRT 2.1"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
    Ochs - Rosenzweig as Postcritical Jewish Philosopher - JCRT 2.1 

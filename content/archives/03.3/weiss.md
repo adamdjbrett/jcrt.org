@@ -1,5 +1,11 @@
 ---
 title: "In Our Image"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Weiss - Review of In Our Image - JCRT 3.3 

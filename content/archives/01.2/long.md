@@ -1,5 +1,11 @@
 ---
 title: "Mircea Eliade and the Imagination of Matter"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
   Long - Mircea Eliade and the Imagination of Matter - JCRT 1.2

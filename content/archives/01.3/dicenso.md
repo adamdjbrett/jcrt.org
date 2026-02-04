@@ -1,5 +1,11 @@
 ---
 title: "Splitting Religion: Heteronomy, Autonomy, and Reflection"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     DiCenso - Splitting Religion - JCRT 1.3 

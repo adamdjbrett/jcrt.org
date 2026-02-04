@@ -1,5 +1,11 @@
 ---
 title: "Caputo - For Love of Things Themselves - JCRT 1.3"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
      Caputo - For Love of Things Themselves - JCRT 1.3 

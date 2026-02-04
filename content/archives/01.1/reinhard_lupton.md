@@ -1,5 +1,11 @@
 ---
 title: "Jewish Studies and the Secular University: Religion Between Culture and Philosophy"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
    Reinhard/Lupton - Jewish Studies and the Secular University - JCRT 1.1

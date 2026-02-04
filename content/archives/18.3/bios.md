@@ -1,5 +1,11 @@
 ---
 title: Journal for Cultural and Religious Theory
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
         

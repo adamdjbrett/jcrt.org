@@ -1,5 +1,11 @@
 ---
 title: "\"Misrecognition of the Limits\": Bourdieu's Religious Capital and Social Transformation"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
      Stone - "Misrecognition of the Limits" - JCRT 3.1 

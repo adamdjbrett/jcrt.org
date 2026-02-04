@@ -1,5 +1,11 @@
 ---
 title: "Sugimoto - Nation as University - JCRT 2.1"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
  Sugimoto - Nation as University - JCRT 2.1 

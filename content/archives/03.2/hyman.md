@@ -1,5 +1,11 @@
 ---
 title: "Radical Orthodoxy, Ethics and Ambivalence"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Hyman - Radical Orthodoxy, Ethics and Ambivalence - JCRT 3.2 

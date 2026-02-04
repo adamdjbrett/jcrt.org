@@ -1,5 +1,11 @@
 ---
 title: "Diversity in the History of Religions"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Arnold - Diversity in the History of Religions - JCRT 2.2 

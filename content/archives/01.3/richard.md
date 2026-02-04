@@ -1,5 +1,11 @@
 ---
 title: "Aristotle and Religious Theory"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Richard - Aristotle and Religious Theory - JCRT 1.3 

@@ -1,5 +1,11 @@
 ---
 title: "The Benefit of the Doubt: Merold Westphal's Prophetic Philosophy of Religion"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Putt - The Benefit of the Doubt - JCRT 3.3 

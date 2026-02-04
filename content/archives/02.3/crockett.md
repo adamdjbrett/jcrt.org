@@ -1,5 +1,11 @@
 ---
 title: "On God and Being: A Review of Martin Heidegger's Contributions to Philosophy"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Crockett - Review of Heidegger's Contributions to Philosophy - JCRT 2.3 

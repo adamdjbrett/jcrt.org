@@ -1,5 +1,11 @@
 ---
 title: "Encircling Kafka? <I>The City of K.: Franz Kafka and Prague</I>"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Taylor - Encircling Kafka: A Review of the City of K. - JCRT 3.3 

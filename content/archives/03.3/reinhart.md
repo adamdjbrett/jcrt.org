@@ -1,5 +1,11 @@
 ---
 title: "Why and how does humanity have a capacity for inhumanity?"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Reinhart - Why and how does humanity have a capacity for inhumanity? - JCRT 3.3 

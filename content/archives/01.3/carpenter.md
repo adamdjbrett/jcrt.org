@@ -1,5 +1,11 @@
 ---
 title: "<![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p>"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Bennett-Carpenter - The Divine Simulacrum of Andy Warhol - JCRT 1.3 

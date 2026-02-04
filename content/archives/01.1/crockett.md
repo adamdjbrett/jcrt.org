@@ -2,6 +2,12 @@
 title: "Crockett - Anxiety and the S(ub)lime Body of God - JCRT 1.1"
 tags: 
   - cat
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
   Crockett - Anxiety and the S(ub)lime Body of God - JCRT 1.1

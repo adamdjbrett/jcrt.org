@@ -1,5 +1,11 @@
 ---
 title: "Taking Shape: On the Current Constellation of (Religious) Thought"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
  Crockett - Taking Shape: On the Current Constellation - JCRT 3.3 

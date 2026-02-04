@@ -1,5 +1,11 @@
 ---
 title: "Conversation on The Future of Theory*"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
  Rabaté & Lambert - Conversation on The Future of Theory - JCRT 4.2 

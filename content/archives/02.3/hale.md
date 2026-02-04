@@ -1,5 +1,11 @@
 ---
 title: "Book Profile: Dissing Postmodernism"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
      Hale - Book Profile: The Critique of Theological Reason - JCRT 2.3 

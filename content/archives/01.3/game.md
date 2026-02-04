@@ -1,5 +1,11 @@
 ---
 title: "<span>Falling</span>"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Game - Falling - JCRT 1.3 

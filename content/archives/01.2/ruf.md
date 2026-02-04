@@ -1,5 +1,11 @@
 ---
 title: "Ruf - Ride of Passage - JCRT 1.2"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
   Ruf - Ride of Passage - JCRT 1.2

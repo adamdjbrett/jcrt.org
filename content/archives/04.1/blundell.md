@@ -1,5 +1,11 @@
 ---
 title: "The New Ricoeur Scholarship"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Blundell - Book Profile: The New Ricoeur Scholarship - JCRT 4.1 

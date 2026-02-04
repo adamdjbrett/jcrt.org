@@ -1,5 +1,11 @@
 ---
 title: "The Ambiguous Gift of Desire"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
   Winquist - Ambiguous Gift of Desire - JCRT 1.1

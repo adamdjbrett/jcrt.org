@@ -1,5 +1,11 @@
 ---
 title: "Metcalfe - Wonder, Creativity and Knowledge - JCRT 1.3"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Metcalfe - Wonder, Creativity and Knowledge - JCRT 1.3 

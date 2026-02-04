@@ -1,5 +1,11 @@
 ---
 title: "JUDUL TIDAK DITEMUKAN - PERLU EDIT MANUAL"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
 Line wrap

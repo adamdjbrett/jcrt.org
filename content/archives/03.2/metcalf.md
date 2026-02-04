@@ -1,5 +1,11 @@
 ---
 title: "The Word of Freud: Our God is logos"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Metcalf - The Word of Freud - JCRT 3.2 

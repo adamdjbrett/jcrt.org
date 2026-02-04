@@ -1,5 +1,11 @@
 ---
 title: "Absolute Nothingness and Taylor's Imagology"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Altizer - Absolute Nothingness and Taylor's Imagology - JCRT 2.2 

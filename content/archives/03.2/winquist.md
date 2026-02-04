@@ -1,5 +1,11 @@
 ---
 title: "In Memoriam: Dr. Charles E. Winquist - JCRT 3.2"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     In Memoriam: Dr. Charles E. Winquist - JCRT 3.2  \[an error occurred while processing this directive\]

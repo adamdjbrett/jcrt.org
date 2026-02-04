@@ -1,5 +1,11 @@
 ---
 title: "About <I>About Religion</I>:  A Conversation with Mark C. Taylor"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Taylor & Raschke - About About Religion - JCRT 2.2 

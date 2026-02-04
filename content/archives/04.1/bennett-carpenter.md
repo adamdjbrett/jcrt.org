@@ -1,5 +1,11 @@
 ---
 title: "Quoting Mieke Bal's Navel: Contemporary Theory, Preposterous Religion"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Bennett-Carpenter - Quoting Mieke Bal's Navel - JCRT 4.1 

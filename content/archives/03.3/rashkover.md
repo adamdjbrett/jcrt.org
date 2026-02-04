@@ -1,5 +1,11 @@
 ---
 title: "The Semiotics of Embodiment: Radical Orthodoxy and Jewish-Christian Relations"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Rashkover - The Semiotics of Embodiment - JCRT 3.3 

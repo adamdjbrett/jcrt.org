@@ -1,5 +1,11 @@
 ---
 title: "Life after death, or death as life? Dead Man, postmodernism, and ontology"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Lee - Life after death, or death as life? Dead Man, postmodernism, and ontology - JCRT 3.2 

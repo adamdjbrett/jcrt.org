@@ -1,5 +1,11 @@
 ---
 title: "Jean Baudrillard and the Death of God"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     McCullough - Jean Baudrillard and the Death of God - JCRT 2.3 

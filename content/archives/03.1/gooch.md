@@ -1,5 +1,11 @@
 ---
 title: "The Epistemic Status of Value-Cognition in Max Scheler's Philosophy of Religion"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
      Gooch - The Epistemic Status of Value-Cognition - JCRT 3.1 

@@ -1,5 +1,11 @@
 ---
 title: "Book Profile"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
      Takim - Book Profile: Islamic Ethics of Life - JCRT 2.3 

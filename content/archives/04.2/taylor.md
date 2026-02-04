@@ -1,5 +1,11 @@
 ---
 title: "Refusing Theory: Avital Ronell and the Structure of Stupidity"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
   Taylor - Refusing Theory - JCRT 4.2 

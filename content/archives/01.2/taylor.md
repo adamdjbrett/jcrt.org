@@ -1,5 +1,11 @@
 ---
 title: "The Division of Religion With Signs Following"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
   Taylor - The Division of Religion - JCRT 1.2_

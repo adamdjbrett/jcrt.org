@@ -1,5 +1,11 @@
 ---
 title: "\"Create, she said.\": Deleuze and Feminism (On Dorothea Olkowski's Gilles Deleuze and the Ruin of Representation)"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
  Lambert - "Create, She Said.": Deleuze and Feminism - JCRT 4.2 

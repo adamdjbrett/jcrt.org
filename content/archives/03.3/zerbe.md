@@ -1,5 +1,11 @@
 ---
 title: "Book Profile: Anaximander and the Architects"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Zerbe - Book Profile: Anaximander and the Architects - JCRT 3.3 

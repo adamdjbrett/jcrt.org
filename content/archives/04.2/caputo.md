@@ -1,5 +1,11 @@
 ---
 title: "After Jacques Derrida Comes the Future"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Caputo - After Jacques Derrida Comes the Future - JCRT 4.2 

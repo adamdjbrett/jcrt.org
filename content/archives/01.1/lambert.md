@@ -1,5 +1,11 @@
 ---
 title: "The Work of Art in the Age of Alien Reproduction"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
  Lambert - The Work of Art - JCRT 1.1 

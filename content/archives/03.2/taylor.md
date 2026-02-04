@@ -1,5 +1,11 @@
 ---
 title: "Desire and Mourning: Theology and the Literary Imagination"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Taylor - Desire and Mourning: Theology and the Literary Imagination - JCRT 3.2 

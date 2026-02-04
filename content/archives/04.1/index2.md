@@ -1,5 +1,11 @@
 ---
 title: "Journal for Cultural and Religious Theory - Issue 4.2 - April 2003"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
  Journal for Cultural and Religious Theory - Issue 4.2 - April 2003   

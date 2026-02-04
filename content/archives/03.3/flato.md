@@ -1,5 +1,11 @@
 ---
 title: "Book Profile: Christianity in Jewish Terms"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Flato - Book Profile: Christianity in Jewish Terms - JCRT 3.3 

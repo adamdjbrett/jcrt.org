@@ -1,5 +1,11 @@
 ---
 title: "The Christianization of Deconstruction"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Egginton - The Christianization of Deconstruction - JCRT 4.1 

@@ -1,5 +1,11 @@
 ---
 title: "The Joust Outliner - Menu Controls"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
       The Joust Outliner - Menu Controls  

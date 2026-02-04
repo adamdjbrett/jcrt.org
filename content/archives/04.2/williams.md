@@ -1,5 +1,11 @@
 ---
 title: "Theory Change"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
    Williams - Theory Change - JCRT 4.2 

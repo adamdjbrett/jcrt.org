@@ -1,5 +1,11 @@
 ---
 title: "Deconstructing the Great Chain of Being"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
   Lee - Deconstructing the Great Chain of Being - JCRT 1.1

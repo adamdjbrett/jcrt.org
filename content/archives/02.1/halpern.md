@@ -1,5 +1,11 @@
 ---
 title: "Halpern - Creation: Lacan in Kansas - JCRT 2.1"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
  Halpern - Creation: Lacan in Kansas - JCRT 2.1 

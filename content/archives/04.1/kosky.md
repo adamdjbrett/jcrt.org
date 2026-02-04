@@ -1,5 +1,11 @@
 ---
 title: "Iconic Revisions of the Modern World Picture"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Kosky - Iconic Revisions of the Modern World Picture - JCRT 4.1 

@@ -1,5 +1,11 @@
 ---
 title: "Religion and Modernity in Current Debate"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Pecora - Religion and Modernity in Current Debate - JCRT 4.2 

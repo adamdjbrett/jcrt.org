@@ -1,5 +1,11 @@
 ---
 title: "Theorizing Religion at the Turn of the Millennium: From the Sacred to the Semiotic"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
   Raschke - Theorizing Religion at the Turn of the Millennium - JCRT 1.1

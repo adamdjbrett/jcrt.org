@@ -1,5 +1,11 @@
 ---
 title: "Terror and the Sacred"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Hale - Book Profile: Terror and the Sacred - JCRT 3.2 

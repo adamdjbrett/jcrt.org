@@ -1,5 +1,11 @@
 ---
 title: "Justice and Fundamental Anthropology: Uncovering Essential Connections with Paul Ricoeur"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
      MacCammon - Justice and Fundamental Anthropology - JCRT 3.1 

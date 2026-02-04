@@ -1,5 +1,11 @@
 ---
 title: "Brain Science Supports Contemporary Religious Trends"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Scott - Brain Science Supports Contemporary Religious Trends - JCRT 3.3 

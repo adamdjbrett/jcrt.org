@@ -1,5 +1,11 @@
 ---
 title: "God and Derrida's Politics: At the Edge of Exemplarity"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
   Young - God and Derrida's Politics - JCRT 1.1

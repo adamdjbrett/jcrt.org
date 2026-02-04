@@ -1,5 +1,11 @@
 ---
 title: "Book Profile"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
      Lakeland - Book Profile: Beyond Foundationalism - JCRT 2.3 

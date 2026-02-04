@@ -1,5 +1,11 @@
 ---
 title: "Artist's Statement"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
  Taylor - Art Exhibit - JCRT 2.1 

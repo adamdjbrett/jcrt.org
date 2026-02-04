@@ -1,5 +1,11 @@
 ---
 title: "When Marion's Theology Seeks Certainty"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Manolopolous - When Marion's Theology Seeks Certainty - JCRT 4.1 

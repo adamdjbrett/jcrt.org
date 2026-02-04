@@ -1,5 +1,11 @@
 ---
 title: "Reinhard &amp; Lupton - Revelation - JCRT 2.1"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
  Reinhard & Lupton - Revelation - JCRT 2.1 

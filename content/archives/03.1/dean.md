@@ -1,5 +1,11 @@
 ---
 title: "Book Profile: The Archaeology of American Thought"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
      Dean - The Archaeology of American Thought - JCRT 3.1 

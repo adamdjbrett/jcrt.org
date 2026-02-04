@@ -1,5 +1,11 @@
 ---
 title: "A Private Happiness for All, Or,<br>How to Cure National Depression, Hold Down a Career, Fulfill the Maternal Function and Still Wage Feminist Battle with a Smile"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Hamner - A Private Happiness for All ... - JCRT 4.1 

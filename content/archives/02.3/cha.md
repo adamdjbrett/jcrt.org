@@ -1,5 +1,11 @@
 ---
 title: "Language, Conceptualization and Awakening: On the Paradox of Discourse in Classical Indian Yogacara"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Cha - Language, Conceptualization and Awakening - JCRT 2.3 

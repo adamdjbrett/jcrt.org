@@ -1,5 +1,11 @@
 ---
 title: "On Contagions: Leviticus and the Fascination of the Abomination"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Majer - On Contagions - JCRT 2.2 

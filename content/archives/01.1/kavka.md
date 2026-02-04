@@ -1,5 +1,11 @@
 ---
 title: "Kavka - Rationality of Derrida's Religion - JCRT 1.1"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
   Kavka - Rationality of Derrida's Religion - JCRT 1.1 

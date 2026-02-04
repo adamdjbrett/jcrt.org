@@ -1,5 +1,11 @@
 ---
 title: "Taylor - The Metaphysics of Indeterminacy - JCRT 2.2"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Taylor - The Metaphysics of Indeterminacy - JCRT 2.2 

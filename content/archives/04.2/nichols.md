@@ -1,5 +1,11 @@
 ---
 title: "Laughter as Gesture: Hilarity and the Anti-Sublime"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
  Nichols - Laughter as Gesture - JCRT 4.2 

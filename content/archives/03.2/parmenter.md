@@ -1,5 +1,11 @@
 ---
 title: "Writing the Medieval Self"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Parmenter - Book Profile: Writing the Medieval Self - JCRT 3.2 

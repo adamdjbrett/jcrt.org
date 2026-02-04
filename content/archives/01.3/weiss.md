@@ -1,5 +1,11 @@
 ---
 title: "Weiss - Posthuman Pleasures - JCRT 1.3"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
      Weiss - Posthuman Pleasures - JCRT 1.3

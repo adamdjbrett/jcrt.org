@@ -1,5 +1,11 @@
 ---
 title: "Xena Warrior Princess and the Texture of the Religious: Re-imagining the Role of Popular Culture in Academic Discourse"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
   Adcock - Xena Warrior Princess - JCRT 1.2

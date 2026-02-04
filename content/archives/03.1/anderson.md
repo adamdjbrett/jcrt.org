@@ -1,5 +1,11 @@
 ---
 title: "Book Profile: Exploring the Anthropology of Religion"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
      Anderson - Book Profile: Exploring the Anthropology of Religion - JCRT 3.1 

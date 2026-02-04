@@ -1,5 +1,11 @@
 ---
 title: "Left Traumatized:  Zizek's Lenin and Politics After 9/11"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Katz - Left Traumatized - JCRT 3.2 

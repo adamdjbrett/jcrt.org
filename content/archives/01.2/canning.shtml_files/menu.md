@@ -1,5 +1,11 @@
 ---
 title: "Wayback Machine"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
  Wayback Machine              

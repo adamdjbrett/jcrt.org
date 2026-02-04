@@ -1,5 +1,11 @@
 ---
 title: "Re-Constructing Theological Thought with Deleuze"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
   Lorentzen - Re-Constructing Theological Thought with Deleuze - JCRT 1.2

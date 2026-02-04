@@ -1,0 +1,27 @@
+---
+issue: 1
+season: 24
+title: Archive 24.1
+description:
+image:
+---
+
+{% set current_dir = page.inputPath | replace('/index.njk', '/') %}
+{% set items = [] %}
+
+{% for entry in collections.all %}
+  {% if entry.inputPath and entry.inputPath.startsWith(current_dir) %}
+    {% set relative_path = entry.inputPath | replace(current_dir, '') %}
+    {% if relative_path.endsWith('.md') and relative_path != 'index.md' and '/' not in relative_path %}
+      {% set items = items.concat([entry]) %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% set sorted_items = items | sort(false, false, 'data.article_number') %}
+
+<ul>
+{% for entry in sorted_items %}
+  <li><a href="{{ entry.url }}">{{ entry.data.article_number or '' }} {{ entry.fileSlug }}</a></li>
+{% endfor %}
+</ul>

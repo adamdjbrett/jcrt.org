@@ -1,5 +1,11 @@
 ---
 title: "Loosening Philosophy�s Tongue: A Conversation with Jack Caputo"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Caputo & Raschke - Loosening Philosophy�s Tongue - JCRT 3.2 

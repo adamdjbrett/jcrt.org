@@ -1,39 +1,61 @@
 ---
-title: "ARCHIVES"
-permalink: /archives/
+issue: 
+season: 
+title: 
+description:
+image:
 ---
-<style>
-  .archives-grid {
-    display: grid;
-    gap: 0.35rem 1rem;
-    grid-template-columns: max-content 1fr;
-    align-items: start;
-  }
-  .archives-issue a {
-    text-decoration: none;
-  }
-  .archives-season {
-    color: #444;
-  }
-  @media (max-width: 640px) {
-    .archives-grid {
-      grid-template-columns: 1fr;
-    }
-    .archives-season {
-      padding-left: 0;
-    }
-  }
-</style>
 
-{% if archives_list and archives_list.length %}
-<div class="archives-grid">
-  <div class="archives-issue"><strong>Issue</strong></div>
-  <div class="archives-season"><strong>Season</strong></div>
-  {% for item in archives_list %}
-  <div class="archives-issue"><a href="{{ item.url }}">{{ item.issue }}</a></div>
-  <div class="archives-season">{{ item.season }}</div>
+{% set current_dir = page.inputPath | replace('/index.njk', '/') %}
+{% set issues = [] %}
+
+{% for entry in collections.all %}
+  {% if entry.inputPath and entry.inputPath.startsWith(current_dir) %}
+    {% set relative_path = entry.inputPath | replace(current_dir, '') %}
+    {% if relative_path.endsWith('/index.njk') and relative_path.count('/') == 1 %}
+      {% set season_key = (entry.data.season|string).padStart(3, '0') %}
+      {% set issue_key = (entry.data.issue|string).padStart(3, '0') %}
+      {% set sort_key = season_key + '.' + issue_key %}
+      {% set issues = issues.concat([{
+        entry: entry,
+        sort_key: sort_key
+      }]) %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% set sorted_issues = issues | sort(false, false, 'sort_key') | reverse %}
+
+{% for issue_item in sorted_issues %}
+  {% set issue_entry = issue_item.entry %}
+  {% set issue_dir = issue_entry.inputPath | replace('/index.njk', '/') %}
+  {% set issue_articles = [] %}
+
+  <h2>
+    {{ issue_entry.data.season }}.{{ issue_entry.data.issue }}{% if issue_entry.data.title %} - {{ issue_entry.data.title }}{% endif %}
+  </h2>
+
+  {% for article in collections.all %}
+    {% if article.inputPath and article.inputPath.startsWith(issue_dir) %}
+      {% set article_relative = article.inputPath | replace(issue_dir, '') %}
+      {% if article_relative.endsWith('.md') and article_relative != 'index.md' and '/' not in article_relative %}
+        {% set issue_articles = issue_articles.concat([article]) %}
+      {% endif %}
+    {% endif %}
   {% endfor %}
-</div>
-{% else %}
-<p>Archives list is unavailable.</p>
-{% endif %}
+
+  {% set sorted_articles = issue_articles | sort(false, false, 'data.article_number') %}
+
+  {% for article in sorted_articles %}
+    <h3>
+      <a href="{{ article.url }}">{{ article.data.title or article.fileSlug }}</a>
+    </h3>
+    {% if article.data.author or article.data.affilation %}
+      <p>
+        {% if article.data.author %}{{ article.data.author }}{% endif %}
+        {% if article.data.author and article.data.affilation %}<br>{% endif %}
+        {% if article.data.affilation %}{{ article.data.affilation }}{% endif %}
+      </p>
+    {% endif %}
+  {% endfor %}
+{% endfor %}

@@ -1,5 +1,11 @@
 ---
 title: "De-Nominating Religion and Postmodernism: A Conversation between Jean-Luc Marion and Jacques Derrida"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Robbins - De-Nominating Religion and Postmodernism - JCRT 2.2 

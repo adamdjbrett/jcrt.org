@@ -1,5 +1,11 @@
 ---
 title: "Book Profile: Sacred Pain"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Druen - Book Profile: Sacred Pain - JCRT 3.3 

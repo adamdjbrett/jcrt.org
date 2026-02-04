@@ -1,5 +1,11 @@
 ---
 title: "Blessed Are They Who Mourn: Roman Catholic Sex/Gender Ideology after Vatican II"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Ronan - Blessed Are They Who Mourn - JCRT 2.3 

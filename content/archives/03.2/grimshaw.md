@@ -1,5 +1,11 @@
 ---
 title: "Preacher, or the Death of God in Pictures"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Grimshaw - Preacher, or the Death of God in Pictures - JCRT 3.2 

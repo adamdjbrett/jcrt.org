@@ -1,5 +1,11 @@
 ---
 title: "Rebellious No"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
   Vahanian - Rebellious No - JCRT 1.2

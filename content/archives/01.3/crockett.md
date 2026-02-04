@@ -1,5 +1,11 @@
 ---
 title: "Crockett - Economies of Studying Religion - JCRT 1.3"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
     Crockett - Economies of Studying Religion - JCRT 1.3 

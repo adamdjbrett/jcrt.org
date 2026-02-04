@@ -1,5 +1,11 @@
 ---
 title: "Jesus Christ Holocaust: Fabulation of the Jews in Christian and Nazi History"
+article_number:
+author:
+affilation:
+abstract:
+keywords: []
+pdf:
 ---
 
         Canning - Jesus Christ Holocaust - JCRT 1.2
