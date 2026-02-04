@@ -1,120 +1,108 @@
 ---
-layout: jcrt/base.njk
+layout: base.njk
 ---
-<article class="container my-5">
-    <div class="row justify-content-center">
-        <div class="col-lg-9 bg-white shadow-sm rounded-bottom overflow-hidden">
-            
-            <div class="p-4 p-md-5 text-center border-bottom">
-                {% if tags %}
-                <span class="text-uppercase text-muted small fw-bold spacing-1">
-                    {{ tags | filterTagList | first }}
-                </span>
-                {% endif %}
-                
-                <h1 class="display-5 serif fw-bold my-3">{{ title }}</h1>
-                
-                <div class="d-flex justify-content-center align-items-center mt-4">
-                    {% if author %}
-                        {% set authorList = author if author is iterable and author is not string else [author] %}
-                        {% for aKey in authorList %}
-                            {% set authorData = collections.authors | getAuthorObj(aKey) %}
-                            {% if authorData %}
-                                <div class="d-flex align-items-center me-3">
-                                    <img src="{{ authorData.data.image or jcrt.image }}" class="rounded-circle me-2" width="40" height="40" alt="{{ authorData.data.name }}">
-                                    <div class="text-start">
-                                        <h6 class="mb-0 fw-bold">{{ authorData.data.name or authorData.data.title }}</h6>
-                                        {%if date %}<small class="text-muted">{{ date | postDate }}</small>{% endif %}
-                                    </div>
-                                </div>
-                            {% endif %}
-                        {% endfor %}
-                    {% else %}
-                        <div class="text-start">
-                            <h6 class="mb-0 fw-bold">Admin</h6>
-                            {%if date %}<small class="text-muted">{{ date | postDate }}</small>{% endif %}
-                        </div>
-                    {% endif %}
+<div class="col-md-10 mx-auto">
+  {% include "partials/nav_desktop.njk" %}
+  <div class="row">
+    <div class="col-md-12 p-3 p-md-5">
+      <div class="mb-5 col-md-8 mx-auto">
+        {% if date %}<p class="text-secondary">{{ date | readableDate("dd LLLL yyyy") }}</p>{% endif %}
+        <h1 class="hero-post-title"><strong>{{ title }}</strong></h1>
+        {% if description %}<h2 class="lead text-secondary">{{ description }}</h2>{% endif %}
+        
+        <p>
+          {% if social %}
+            {% for s in social %}
+              <a href="{{ s.url }}" title="{{ s.title }}"><i class="{{ s.icon }} me-2"></i></a>
+            {% endfor %}
+          {% endif %}
+        </p>
+        
+        <p>
+          {% if button %}
+            {% for b in button %}
+              <a href="{{ b.url }}" class="btn btn-pink me-2 text-white">{{ b.title }}</a>
+            {% endfor %}
+          {% endif %}
+        </p>
+      </div>
+
+      {% if image %}
+        <img class="img-post mb-5 rounded" alt="{{ title }}" width="100%" height="auto" src="{{ image }}"/>
+      {% endif %}
+
+      <article class="col-md-8 mx-auto">
+        {{ content | toc | safe }}
+        {{ content | safe }}
+
+        {% if tags %}
+          <hr/>
+          <p class="small">
+            Tags: 
+            {%- for tag in tags | filterTagList %}
+              {%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+              <a href="{{ tagUrl }}" class="btn btn-sm btn-pink ms-2">{{ tag }}</a>
+            {% endfor %}
+          </p>
+          <hr/>
+        {% endif %}
+
+        {% if author %}
+          {% set authorKeys = author.split(',') %}
+          <div class="author-box-container row">
+            {%- for authorKey in authorKeys %}
+              {% set trimmedKey = authorKey | trim %}
+              {% set currentAuthor = collections.authors | getAuthorObj(trimmedKey) %}
+              
+              {% if currentAuthor %}
+                <div class="col-md-6 mb-4">
+                  <div class="row align-items-center">
+                    <div class="col-4">
+                      <a href="{{ currentAuthor.url }}">
+                        <img src="{{ currentAuthor.data.image or '/img/default-author.jpg' }}"
+                             class="img-thumb rounded-circle w-100"
+                             style="aspect-ratio: 1/1; object-fit: cover;" 
+                             alt="{{ currentAuthor.data.name or currentAuthor.data.title }}"/>
+                      </a>
+                    </div>
+                    <div class="col-8 author-info">
+                      <p class="text-secondary mb-1">AUTHOR</p>
+                      <h3 class="h5"><strong>{{ currentAuthor.data.name or currentAuthor.data.title }}</strong></h3>  
+                      <p class="small text-muted">{{ currentAuthor.data.description or currentAuthor.data.bio }}</p>
+                      <a href="{{ currentAuthor.url }}" class="small text-pink">View Profile →</a>
+                    </div>
+                  </div>
                 </div>
+              {% endif %}
+            {% endfor -%}
+          </div>
+        {% endif %}
+      </article>
+
+      {%- if collections.posts %}
+        {%- set previousPost = collections.posts | getPreviousCollectionItem %}
+        {%- set nextPost = collections.posts | getNextCollectionItem %}
+        {%- if nextPost or previousPost %}
+          <div class="col-md-12 p-3 p-md-5 border-top mt-5">
+            <div class="row">
+              <div class="col-6">
+                {%- if previousPost %}
+                  <a href="{{ previousPost.url }}" class="btn btn-pink">
+                    <i class="fas fa-arrow-left me-3"></i> Previous
+                  </a>
+                {% endif %}
+              </div>
+              <div class="col-6 text-end">
+                {%- if nextPost %}
+                  <a href="{{ nextPost.url }}" class="btn btn-pink">
+                    Next <i class="fas fa-arrow-right ms-3"></i>
+                  </a>
+                {% endif %}
+              </div>
             </div>
-
-            {% if image %}
-            <div class="post-featured-image">
-                <img src="{{ image }}" class="img-fluid w-100" alt="{{ title }}">
-            </div>
-            {% endif %}
-
-            <div class="p-4 p-md-5 serif fs-5 post-body">
-                {% if description %}
-                    <p class="lead mb-4">{{ description }}</p>
-                {% endif %}
-
-                {{ content | safe }}
-
-                {% if button %}
-                <div class="mt-5">
-                    {% for b in button %}
-                        <a href="{{ b.url }}" class="btn btn-pink me-2 text-white">{{ b.title }}</a>
-                    {% endfor %}
-                </div>
-                {% endif %}
-            </div>
-
-            {% if tags or author %}
-            <div class="p-4 p-md-5 border-top bg-light">
-                {% if tags %}
-                <div class="mb-4">
-                    <p class="small fw-bold text-muted text-uppercase mb-2">Tags</p>
-                    {% for tag in tags | filterTagList %}
-                        <a href="/tags/{{ tag | slugify }}/" class="btn btn-sm btn-outline-secondary me-1 mb-1">{{ tag }}</a>
-                    {% endfor %}
-                </div>
-                {% endif %}
-
-                {% if author %}
-                <div class="row g-4 mt-2">
-                    {% set authorList = author if author is iterable and author is not string else [author] %}
-                    {% for aKey in authorList %}
-                        {% set authorData = collections.authors | getAuthorObj(aKey) %}
-                        {% if authorData %}
-                        <div class="col-md-6">
-                            <div class="d-flex align-items-center p-3 border rounded bg-white">
-                                <img src="{{ authorData.data.image or jcrt.image }}" class="rounded-circle me-3" width="60" height="60">
-                                <div>
-                                    <h6 class="mb-1 fw-bold">{{ authorData.data.name }}</h6>
-                                    <p class="small text-muted mb-1">{{ authorData.data.description | truncate(60) }}</p>
-                                    <a href="{{ authorData.url }}" class="small text-pink text-decoration-none">Profile →</a>
-                                </div>
-                            </div>
-                        </div>
-                        {% endif %}
-                    {% endfor %}
-                </div>
-                {% endif %}
-            </div>
-            {% endif %}
-
-            {% set previousPost = collections.posts | getPreviousCollectionItem %}
-            {% set nextPost = collections.posts | getNextCollectionItem %}
-            {% if nextPost or previousPost %}
-            <div class="border-top p-4 bg-dark d-flex justify-content-between">
-                {% if previousPost %}
-                <a href="{{ previousPost.url }}" class="btn btn-outline-light btn-sm text-start" style="max-width: 45%;">
-                    <small class="d-block text-light">← Previous</small>
-                    <span class="fw-bold d-none d-md-inline small">{{ previousPost.data.title }}</span>
-                </a>
-                {% else %}
-                <div></div>
-                {% endif %}
-
-                {% if nextPost %}
-                <a href="{{ nextPost.url }}" class="btn btn-outline-light btn-sm text-end" style="max-width: 45%;">
-                    <small class="d-block text-light">Next →</small>
-                    <span class="fw-bold d-none d-md-inline small">{{ nextPost.data.title }}</span>
-                </a>
-                {% endif %}
-            </div>
-            {% endif %}
-        </div>
-    </div>
-</article>
+          </div>
+        {%- endif %}
+      {%- endif %}
+    </div> 
+  </div>
+</div> 

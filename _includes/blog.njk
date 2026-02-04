@@ -1,91 +1,33 @@
 ---
-layout: jcrt/base.njk
+layout: base.njk
 ---
+{% include "partials/nav_desktop.njk" %}
 <div class="container-fluid">
-    <div class="col-md-12 p-3 p-md-5">
-        <h3><strong><span class="bgb-pink">{{ title }}</span></strong></h3>
-    </div>
-
-    <div class="row px-md-4">
-        {% for b in pagination.items %}
-            {% set authorData = collections.authors | getAuthorObj(b.data.author) %}
-            
-            <div class="col-md-4 p-3"> 
-                <div class="news-card h-100">
-                    {% if b.data.image or metadata.image %}
-                    <div class="img-zoom-container">
-                        <a href="{{ b.url }}">
-                            <img src="{{ b.data.image or metadata.image }}" class="card-img-top img-post" alt="{{ b.data.title }}" width="100%">
-                        </a>
-                    </div>
-                    {% endif %}
-                    
-                    <div class="card-body">
-                        {% if b.data.tags %}
-                            {% for tag in b.data.tags %}
-                                {% if tag != "posts" and tag != "post" %}
-                                <a href="/tags/{{ tag | slugify }}/" class="small text-muted text-uppercase fw-bold text-decoration-none">{{ tag }}</a>
-                                {% endif %}
-                            {% endfor %}
-                        {% endif %}
-
-                        <h3 class="card-title mt-2"><a href="{{ b.url }}"><strong>{{ b.data.title }}</strong></a></h3>
-                        
-                        {% if b.data.description %}
-                        <p class="card-text small text-secondary">
-                            {{ b.data.description | truncate(110) }}
-                        </p>
-                        {% endif %}
-
-                       <div class="author-box">
-    {% if b.data.author %}
-        {% if b.data.author is string %}
-            {% set authorList = [b.data.author] %}
-        {% else %}
-            {% set authorList = b.data.author %}
-        {% endif %}
-        
-        {% for aKey in authorList %}
-            {% set authorData = collections.authors | getAuthorObj(aKey) %}
-            
-            {% if authorData %}
-                <span class="d-inline-flex align-items-center">
-                    <img src="{{ authorData.data.image or jcrt.image }}" class="author-img" alt="{{ authorData.data.name }}">
-                    <span class="date-text small ms-1">
-                        <a href="{{ authorData.url }}" class="text-decoration-none text-dark">
-                            <strong>{{ authorData.data.name or authorData.data.title }}</strong>
-                        </a>
-                    </span>
-                </span>
-            {% else %}
-                <span class="date-text small"><strong>{{ aKey }}</strong></span>
-            {% endif %}
-            {% if not loop.last %}
-                <span class="small mx-1">&</span>
-            {% endif %}
-        {% endfor %}
-    {% else %}
-        <span class="date-text small"><strong>Admin</strong></span>
-    {% endif %}
-    
-    <span class="date-text small text-muted ms-1">&middot; {{ b.date | postDate }}</span>
+<div class="col-md-12 p-3  p-md-5">
+<h3><strong><span class="bgb-pink">{{title}}</span></strong></h3>
 </div>
-                    </div>
-                </div>
-            </div>
-        {% endfor %}
-    </div>
-
-    <div class="row col-md-12 mt-5">
-        <div class="col-md-6 p-3">
-            {% if pagination.href.previous %}
-                <a class="btn btn-lg btn-dark text-white col-6" href="{{ pagination.href.previous }}">Prev</a>
-            {% endif %}
-        </div>
-        <div class="col-md-6 text-end p-3">
-            {% if pagination.href.next %}
-                <a class="btn btn-lg btn-dark text-white col-6" href="{{ pagination.href.next }}">Next</a>
-            {% endif %}
-        </div>
-    </div>
+<div class="row mt-3 mb-3">
+{% for b in pagination.items | reverse %}
+<div class="col-md-6 col-lg-4 p-3 small p-md-5"> 
+<div class="img-zoom-container">
+<a href="{{b.url}}" title="{{b.data.title}}"><img class="img-post rounded" width="100%" height="100%" alt="{{b.data.title}}" src="{{b.data.image or metadata.image}}"/></a>
+</div>
+<h3>{{b.data.title}}</h3>
+<p>
+{{b.data.description}}
+</p>
+<p><a href="{{b.url}}" class="btn btn-sm btn-pink p-2">
+Learn More
+</a></p>
+</div>
+{% endfor %}
+</div>
+<div class="row col-md-12">
+<div class="col-md-6 p-3">
+{% if pagination.href.previous %}<a class="btn btn-lg btn-pink text-white col-6" href="{{ pagination.href.previous }}">Prev </a>{% endif %}
+</div>
+<div class="col-md-6 text-end p-3">
+{% if pagination.href.next %}<a class="btn btn-lg btn-pink text-white col-6" href="{{ pagination.href.next }}">Next </a>{% endif %}
+</div>
+</div>
 </div>

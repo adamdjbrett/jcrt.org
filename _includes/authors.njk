@@ -1,77 +1,68 @@
 ---
-layout: jcrt/base.njk
+layout: base.njk
 ---
-<main class="container my-5">
+<div class="col-md-10 mx-auto">
+  {% include "partials/nav_desktop.njk" %}
+
+  <div class="container-fluid">
     <div class="row">
-        <aside class="col-lg-4 mb-5">
-            <div class="bg-white p-4 rounded shadow-sm text-center border sticky-top" style="top: 2rem; z-index: 10;">
-                <img src="{{ image or 'https://ui-avatars.com/api/?name=' ~ title ~ '&size=200&background=000&color=fff' }}" 
-                     class="rounded-circle mb-4 shadow" 
-                     width="150" height="150"
-                     style="object-fit: cover;">
-                
-                <h2 class="serif fw-bold">{{ title }}</h2>
-                
-                {% if position %}
-                <p class="text-muted small text-uppercase fw-bold border-bottom pb-3 mb-3">{{ position }}</p>
-                {% endif %}
-                
-                <p class="text-secondary small mb-4">
-                    {{ description or bio }}
-                </p>
-                
-                <div class="d-flex justify-content-center gap-3">
-                    {% if social %}
-                        {% for s in social %}
-                        <a href="{{ s.url }}" class="text-dark small text-decoration-none">
-                            <i class="{{ s.icon or 'bi bi-link' }}"></i> {{ s.title }}
-                        </a>
-                        {% endfor %}
-                    {% endif %}
-                </div>
-                            <p>
-              {% if button %}
-                {% for b in button %}
-                  <a href="{{ b.url }}" class="btn btn-outline-dark me-2">{{ b.title }}</a>
+      <div class="col-md-12 p-3 p-md-5">
+        {% set authorKey = page.fileSlug %}
+        {% set postsByAuthor = collections.posts | getPostsByAuthor(authorKey) %}
+
+        {% if postsByAuthor.length %}
+          <div class="text-center text-secondary mb-5">
+            <img class="img-thumb rounded-circle mb-3" alt="{{ title }}" width="150" height="150" 
+                 style="object-fit:cover;" src="{{ image or '/img/default-author.jpg' }}"/>
+            <h1><strong><span class="none text-dark">{{ title }}</span></strong></h1>
+            <h2 class="lead text-uppercase mb-3">{{ description }}</h2>
+            
+            <p>
+              {{ postsByAuthor.length }} Posts |
+              {% if social %}
+                {% for s in social %}
+                  <a href="{{ s.url }}" title="{{ s.title }}"><i class="{{ s.icon }} me-2"></i></a>
                 {% endfor %}
               {% endif %}
             </p>
-            </div>
-        </aside>
 
-    
-<div class="col-lg-8 ps-lg-5">
-    {% set authorKey = page.fileSlug %}
-    {% set postsByAuthor = collections.posts | getPostsByAuthor(authorKey) %}
-    
-    
-    <h3 class="serif fw-bold mb-4 border-bottom pb-2">Articles by {{ title }}</h3>
-    
-    <div class="row g-4">
-        {% if postsByAuthor.length %}
-            {% for post in postsByAuthor | reverse %}
-            <div class="col-md-6">
-                <div class="news-card h-100 bg-white border">
-                    {% if post.data.image %}
-                    <img src="{{ post.data.image }}" class="card-img-top" alt="{{ post.data.title }}" style="height: 200px; object-fit: cover;">
-                    {% endif %}
-                    <div class="card-body">
-                        <h5 class="serif fw-bold h6">
-                            <a href="{{ post.url }}" class="text-dark text-decoration-none stretched-link">
-                                {{ post.data.title }}
-                            </a>
-                        </h5>
-                        <p class="small text-muted mb-0">{{ post.date | postDate }}</p>
-                    </div>
+            <p>
+              {% if button %}
+                {% for b in button %}
+                  <a href="{{ b.url }}" class="btn btn-pink me-2 text-white">{{ b.title }}</a>
+                {% endfor %}
+              {% endif %}
+            </p>
+          </div>
+
+          <hr/>
+          <div class="row mt-4">
+            {% for b in postsByAuthor | reverse %}
+              <div class="col-md-4 col-lg-4 p-3 p-md-4"> 
+                <div class="img-zoom-container mb-3">
+                  <a href="{{ b.url }}" title="{{ b.data.title }}">
+                    <img class="img-post rounded" width="100%" height="auto" 
+                         alt="{{ b.data.title }}" src="{{ b.data.image or metadata.image }}"/>
+                  </a>
                 </div>
-            </div>
+                <h3 class="h5"><strong>{{ b.data.title }}</strong></h3>
+                <p class="small text-muted">
+                  {{ b.data.description }}
+                </p>
+                <p>
+                  <a href="{{ b.url }}" class="btn btn-sm btn-pink">Learn More</a>
+                </p>
+              </div>
             {% endfor %}
+          </div>
+
         {% else %}
-            <div class="col-12">
-                <p class="text-muted italic">No publications found yet.</p>
-            </div>
+          <div class="text-center p-5">
+            <p class="lead">Nothing Post by <strong>{{ title }}</strong>.</p>
+          </div>
         {% endif %}
+
+      </div>
     </div>
+  </div>
 </div>
-    </div>
-</main>
