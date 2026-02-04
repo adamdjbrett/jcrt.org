@@ -83,3 +83,5 @@ Total:         48s → ~10s
     2. Elbuso Mendano mchange to media theory make clickable
     3. Klompen Capir - cultural theory make clickable
     4. Bulgoso Dugonge - political theory make clickable
+
++ I'm Sorry - Revert About MissCom
