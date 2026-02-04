@@ -3,4 +3,5 @@ node_modules/
 .cache
 .DS_Store
 .env
-RAW/
+.catatan.md
+RAW
