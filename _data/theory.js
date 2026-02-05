@@ -5,14 +5,34 @@ import fs from "fs";
 import yaml from "js-yaml";
 import AdmZip from "adm-zip";
 
-export default async function() {
-    const dataPath = path.join(process.cwd(), "_data/theory_archive.json");
-    
-    // Fast path: In CI, use cached theory_archive.json to skip ZIP download (~12s savings)
-    if (process.env.USE_CACHED_THEORY === "1" && fs.existsSync(dataPath)) {
-        console.log("[Theory] Using cached theory_archive.json (CI mode)");
-        return JSON.parse(fs.readFileSync(dataPath, "utf8"));
-    }
+let memoryCachedData = null;
+let memoryCachedMtimeMs = null;
+
+function readCachedTheory(dataPath) {
+	const stat = fs.statSync(dataPath);
+	if (memoryCachedData && memoryCachedMtimeMs === stat.mtimeMs) {
+		return memoryCachedData;
+	}
+	memoryCachedData = JSON.parse(fs.readFileSync(dataPath, "utf8"));
+	memoryCachedMtimeMs = stat.mtimeMs;
+	return memoryCachedData;
+}
+
+export default async function () {
+	const dataPath = path.join(process.cwd(), "_data/theory_archive.json");
+
+	const shouldUseCachedTheory =
+		process.env.USE_CACHED_THEORY === "1" ||
+		process.env.ELEVENTY_RUN_MODE === "serve" ||
+		Boolean(process.env.FAST_BUILD);
+
+	// In `--serve` we prefer the existing cache to avoid re-downloading/unzipping/parsing
+	// the upstream repo on every rebuild (big perf + memory win).
+	if (shouldUseCachedTheory && fs.existsSync(dataPath)) {
+		const mode = process.env.ELEVENTY_RUN_MODE || "unknown";
+		console.log(`[Theory] Using cached theory_archive.json (${mode} mode)`);
+		return readCachedTheory(dataPath);
+	}
     
     const metadataPath = path.join(process.cwd(), "_data/metadata.yaml");
     const metadata = yaml.load(fs.readFileSync(metadataPath, "utf8"));
@@ -111,12 +131,14 @@ export default async function() {
         fs.writeFileSync(dataPath, JSON.stringify(finalData, null, 2));
 
         console.log(`[Theory] Updated: ${formattedPosts.length} posts saved to archive.`);
+		memoryCachedData = finalData;
+		memoryCachedMtimeMs = fs.statSync(dataPath).mtimeMs;
         return finalData;
 
     } catch (error) {
         console.error("[Theory] Error, menggunakan data lama:", error.message);
         if (fs.existsSync(dataPath)) {
-            return JSON.parse(fs.readFileSync(dataPath, "utf8"));
+            return readCachedTheory(dataPath);
         }
         return { posts: [], pages: [], authors: {} };
     }

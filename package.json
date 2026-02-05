@@ -4,16 +4,16 @@
 	"description": "JCRT Project develop by Adam Dj Brett.",
 	"type": "module",
 	"scripts": {
-		"kill": "rd /s /q _site",
-		"start": "npx @11ty/eleventy --serve",
-		"build": "npx @11ty/eleventy",
+		"kill": "npx rimraf _site",
+		"start": "cross-env NODE_OPTIONS='--max-old-space-size=8192' npx @11ty/eleventy --serve --incremental",
+		"build": "cross-env NODE_OPTIONS='--max-old-space-size=8192' npx @11ty/eleventy",
 		"clear": "npx rimraf _site theory_data_cache.json .cache",
-		"build-nocolor": "cross-env NODE_DISABLE_COLORS=1 npx @11ty/eleventy",
-		"build-ghpages": "npx @11ty/eleventy --pathprefix=/jcrt.org/",
-		"start-ghpages": "npx @11ty/eleventy --pathprefix=/jcrt.org/ --serve --quiet",
-		"debug": "cross-env DEBUG=Eleventy* npx @11ty/eleventy",
-		"debugstart": "cross-env DEBUG=Eleventy* npx @11ty/eleventy --serve --quiet",
-		"benchmark": "cross-env DEBUG=Eleventy:Benchmark* npx @11ty/eleventy"
+		"build-nocolor": "cross-env NODE_DISABLE_COLORS=1 NODE_OPTIONS='--max-old-space-size=8192' npx @11ty/eleventy",
+		"build-ghpages": "cross-env NODE_OPTIONS='--max-old-space-size=8192' npx @11ty/eleventy --pathprefix=/jcrt.org/",
+		"start-ghpages": "cross-env NODE_OPTIONS='--max-old-space-size=8192' npx @11ty/eleventy --pathprefix=/jcrt.org/ --serve --quiet --incremental",
+		"debug": "cross-env DEBUG=Eleventy* NODE_OPTIONS='--max-old-space-size=8192' npx @11ty/eleventy",
+		"debugstart": "cross-env DEBUG=Eleventy* NODE_OPTIONS='--max-old-space-size=8192' npx @11ty/eleventy --serve --quiet --incremental",
+		"benchmark": "cross-env DEBUG=Eleventy:Benchmark* NODE_OPTIONS='--max-old-space-size=8192' npx @11ty/eleventy"
 	},
 	"repository": {
 		"type": "git",
@@ -56,6 +56,7 @@
 		"markdown-it-container": "^4.0.0",
 		"markdown-it-footnote": "^4.0.0",
 		"markdown-it-table-of-contents": "^0.8.0",
+		"memoize": "^10.2.0",
 		"moment": "^2.30.1",
 		"pagefind": "^1.4.0",
 		"slugify": "^1.6.6",

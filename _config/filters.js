@@ -31,8 +31,10 @@ export default function(eleventyConfig) {
         return (tags || []).filter(tag => ["all", "posts", "authors", "nav"].indexOf(tag) === -1);
     });
 
-    eleventyConfig.addFilter("sortAlphabetically", strings =>
-        [...(strings || [])].sort((a, b) => a.localeCompare(b))
+    eleventyConfig.addFilter("sortAlphabetically", (strings) =>
+        [...(strings || [])].sort((a, b) =>
+            String(a ?? "").localeCompare(String(b ?? ""))
+        )
     );
 
     // --- Custom Business Logic Filters ---

@@ -14,6 +14,8 @@ const IMAGE_EXTS = new Set([
 
 const PDF_EXTS = new Set([".pdf"]);
 
+let serveCache = null;
+
 function normalizeSlashes(p) {
 	return p.replace(/\\/g, "/");
 }
@@ -50,6 +52,12 @@ function toAssetList({ baseDir, urlPrefix }, filesAbs) {
 }
 
 export default async function () {
+	const isServeLike =
+		process.env.ELEVENTY_RUN_MODE === "serve" || Boolean(process.env.FAST_BUILD);
+	if (isServeLike && serveCache) {
+		return serveCache;
+	}
+
 	const roots = [
 		{ baseDir: "public", urlPrefix: "/" },
 		{ baseDir: "content/archives", urlPrefix: "/archives/" },
@@ -84,6 +92,9 @@ export default async function () {
 	images = dedupeByUrl(images).sort((a, b) => a.url.localeCompare(b.url));
 	pdfs = dedupeByUrl(pdfs).sort((a, b) => a.url.localeCompare(b.url));
 
-	return { images, pdfs };
+	const result = { images, pdfs };
+	if (isServeLike) {
+		serveCache = result;
+	}
+	return result;
 }
-
