@@ -8,5 +8,5 @@ sort_id: 00
 volume: 24
 issue: 1
 season: winter
-pages:
+pages: bios.pdf
 ---

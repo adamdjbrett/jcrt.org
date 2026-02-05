@@ -76,25 +76,25 @@ Total:         48s → ~10s
 
 ## Changelog - Crow
 ## Controlled vocabulary
-1. archives = content/archives
-2. each folder in content/archives is named number.number. left of the decimal is volume. right of the decimal is issue. so 01.1 is volume 1 issue 1. 
-3. each folder is comprised of articles. 
-    1. the articles used to be just .md then they became just .pdf that is bad practice
-    2. we are making very short and to the point .md article pages to make this soup clearer
-4. Except for early volumes and issues every folder in archives should have a *.md and *.pdf with the same filenames. filename.md and filename.pdf. (except for times they didnt follow this practice)
-5. each folder has an index.njk file which is the table of contents. in order for those to work each .md needs to have an article number.
-6. to get the article numbers go to the live site and visually look at how they are appearing in order. then number the .md files accordingly
+1. archives = content/archives - DONE
+2. each folder in content/archives is named number.number. left of the decimal is volume. right of the decimal is issue. so 01.1 is volume 1 issue 1. - DONE
+3. each folder is comprised of articles. - DONE
+    1. the articles used to be just .md then they became just .pdf that is bad practice - DONE
+    2. we are making very short and to the point .md article pages to make this soup clearer - DONE
+4. Except for early volumes and issues every folder in archives should have a *.md and *.pdf with the same filenames. filename.md and filename.pdf. (except for times they didnt follow this practice) - DONE
+5. each folder has an index.njk file which is the table of contents. in order for those to work each .md needs to have an article number. - DONE
+6. to get the article numbers go to the live site and visually look at how they are appearing in order. then number the .md files accordingly - IN PROGRESS
 
 ## Todos
-1. have VS Code, the live site <https://jcrt.org>, and the demo site: localhost:8080 open at the same time.
-2. please note that the demo site is a work in progress and most of the time you will need to type the url you need to visit directly (I'm sorry)
-3. check all folders to see if there are duplicate entries. Find and ensure which one is the source of truth.
-4. Search for and resolve duplicates
-5. ensure all .md are linked ot their pdf if there is a pdf in the folder add the pdf to the corresponding md file at usually line 8: just ```filename.pdf``` is al lthat is needed at this point
-6. verify the frontmatter of all .md files 
-7. add two digit ```sort_id:``` to ensure the table of contents index.njk properly orders the articles.
-8. create a list of all solo authored /archives/ and then add afilliations to them
-9. fix footnotes to proper markdown-it footnotes look for #_etn and #_ftn and fix those references to the proper format. Here is an example of bad: ```[\[1\]](#_ftn1)```
+1. have VS Code, the live site <https://jcrt.org>, and the demo site: localhost:8080 open at the same time. - DONE
+2. please note that the demo site is a work in progress and most of the time you will need to type the url you need to visit directly (I'm sorry) - DONE
+3. check all folders to see if there are duplicate entries. Find and ensure which one is the source of truth. - IN PROGRESS
+4. Search for and resolve duplicates - IN PROGRESS
+5. ensure all .md are linked to their pdf if there is a pdf in the folder add the pdf to the corresponding md file at usually line 8: just ```filename.pdf``` is al lthat is needed at this point - DONE
+6. verify the frontmatter of all .md files - DONE
+7. add two digit ```article_number:``` to ensure the table of contents index.njk properly orders the articles. - IN PROGRESS
+8. create a list of all solo authored /archives/ and then add afilliations to them - IN PROGRESS
+9. fix footnotes to proper markdown-it footnotes look for #_etn and #_ftn and fix those references to the proper format. - DONE Here is an example of bad: ```[\[1\]](#_ftn1)```
 [markdown it footnote guide](https://github.com/markdown-it/markdown-it-footnote)
 ```md
 Here is a footnote reference,[^1] and another.[^longnote]
@@ -106,23 +106,26 @@ Here is a footnote reference,[^1] and another.[^longnote]
     Subsequent paragraphs are indented to show that they
 belong to the previous footnote.
 ```
-10. ensure all index.njk files in /archives haves artwork. if their issue does not have artwork use /img/jcrt.jpg
-11. add editors to /archives/index.njks as optional front matter for if/when tehres a special issue.
+10. ensure all index.njk files in /archives haves artwork. if their issue does not have artwork use /img/jcrt.jpg - DONE
+11. add editors to /archives/index.njks as optional front matter for if/when tehres a special issue. - DONE
 12. wireup authors, tags, categories, for /religioustheory as well
 
 ## Changelog - Dre
-1. increase the size of the nav and the css to match <https://editorial.ghost.io>
-2. why does it say "JUDUL TIDAK DITEMUKAN - PERLU EDIT MANUAL" everywhere?
-   - 
-3. change "Erat Lacinia" to Trending Keywords. 
+1. increase the size of the nav and the css to match <https://editorial.ghost.io> - DONE
+2. why does it say "JUDUL TIDAK DITEMUKAN - PERLU EDIT MANUAL" everywhere? - because not have a title - DONE
+3. change "Erat Lacinia" to Trending Keywords. - DONE
     1. Portitor ullamcorper change to religious theory make clickable
     2. Elbuso Mendano mchange to media theory make clickable
     3. Klompen Capir - cultural theory make clickable
     4. Bulgoso Dugonge - political theory make clickable
-6. confirm pagefind works on build
-7. give each /archives/ entry keywords automated using the .json in _data for inspiration
+6. confirm pagefind works on build - DONE
+7. give each /archives/ entry keywords automated using the .json in _data for inspiration - DONE
 9. ensure all authors have an author page with affiliation - create and automate like we did for journal-thenewpolis
-author pages should have as front matter: name, affiliation, orcid, bio, show all /archives, /blogs, /religioustheory with headers listed below bio and orcid
+author pages should have as front matter: name, affiliation, orcid, bio, show all /archives, /blogs, /religioustheory with headers listed below bio and orcid - DONE
 
 ## Before Launch
-1. run ```git lfs migrate import``` everyone then reclone repo, clean up space
+1. ~~run ```git lfs migrate import``` everyone then reclone repo, clean up space~~ - DONE (Git LFS enabled, 637 PDFs migrated)
+
+## Missing PDFS
+EDLINGER
+Gaetano
