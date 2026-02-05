@@ -1,11 +1,25 @@
 ---
 title: "LAUGHTER AS GESTURE: HILARITY AND THE ANTI-SUBLIME"
-article_number:
 author: "Stephen G Nichols"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - self-philosophy
+  - body
+  - human-philosophy
+  - language-and-languages-philosophy
+  - max
+  - 1902-1944
+  - gesture
+  - kommerell
+  - laughter
+  - wit-and-humor
 pdf:
+sort_id:
+volume: 4
+issue: 2
+season: spring
+pages:
 ---
 
  Nichols - Laughter as Gesture - JCRT 4.2 

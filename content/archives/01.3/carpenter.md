@@ -1,11 +1,15 @@
 ---
 title: "THE RELIGIOUS ART OF ANDY WARHOL"
-article_number:
 author: "Benjamin Bennett-Carpenter"
 affilation:
 abstract:
 keywords: []
 pdf:
+sort_id:
+volume: 1
+issue: 3
+season: summer
+pages:
 ---
 
     Bennett-Carpenter - The Divine Simulacrum of Andy Warhol - JCRT 1.3 

@@ -1,11 +1,15 @@
 ---
 title: "THE PRAYERS AND TEARS OF JACQUES DERRIDA: RELIGION WITHOUT RELIGION"
-article_number: 07
 author: "Martin Kavka"
 affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 07
+volume: 1
+issue: 1
+season: winter
+pages:
 ---
 
   Kavka - Rationality of Derrida's Religion - JCRT 1.1 

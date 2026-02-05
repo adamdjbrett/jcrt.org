@@ -1,9 +1,16 @@
 ---
-article_number:
 title: "THE ONE IS NOT - ON THE FATE OF UNITY IN POST-METAPHYSICAL PHILOSOPHY."
 author: "JUSSI BACKMAN"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - metaphysics
+  - christian-philosophy
+  - aristotelianism-philosophy
 pdf: Backman.pdf
+sort_id:
+volume: 17
+issue: 3
+season: summer
+pages: 480-485
 ---

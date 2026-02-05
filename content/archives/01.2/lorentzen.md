@@ -1,11 +1,15 @@
 ---
 title: "DIFFERENCE AND REPETITION"
-article_number:
 author: "Oz Lorentzen"
 affilation:
 abstract:
 keywords: []
 pdf:
+sort_id:
+volume: 1
+issue: 2
+season: spring
+pages:
 ---
 
   Lorentzen - Re-Constructing Theological Thought with Deleuze - JCRT 1.2

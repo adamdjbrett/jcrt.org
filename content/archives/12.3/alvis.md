@@ -1,9 +1,20 @@
 ---
-article_number:
 title: "THE INDISCRETE IMAGE: INFINITUDE AND CREATION OF THE HUMAN."
 author: "JASON ALVIS"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - human-beings
+  - nonfiction
+  - thomas
+  - the-book
+  - anthropology
+  - carlson
+  - indiscrete-image-infinitude-creation-of-the-human
 pdf: alvis.pdf
+sort_id:
+volume: 12
+issue: 3
+season: summer
+pages: 165-167
 ---

@@ -1,9 +1,23 @@
 ---
 title: "THE SHEPHERD MEETS THE DIVINE ECONOMY: FOUCAULT, AGAMBEN, AND THE CHRISTIAN GENEALOGY OF GOVERNANCE."
-article_number:
 author: "LAURI SIISIÄINEN"
 affilation:
 abstract: "The article focuses on the Christian genealogy of governance according to the views and works of philosophers Giorgio Agamben and Michel Foucault."
-keywords: []
+keywords:
+  - religion
+  - foucault
+  - 1926-1984
+  - michel
+  - marketing-research-and-public-opinion-polling
+  - political-attitudes
+  - 1942
+  - agamben
+  - giorgio
+  - governmentality
 pdf: lauri.pdf
+sort_id:
+volume: 14
+issue: 1
+season: winter
+pages: 53-69
 ---

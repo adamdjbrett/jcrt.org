@@ -1,11 +1,31 @@
 ---
 title: "THE SEMIOTICS OF EMBODIMENT: RADICAL ORTHODOXY AND JEWISH-CHRISTIAN RELATIONS"
-article_number:
 author: "Randi Rashkover"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - semiotics
+  - christians
+  - christianity
+  - jews
+  - judaism
+  - human-body-in-religion
+  - 1955
+  - torah-commentaries
+  - narrative-theology
+  - community-and-religion
+  - radical-orthodoxy-movement
+  - desire-religious-aspects-comparative-studies
+  - graham
+  - interreligious-relations
+  - jesus-christ-incarnation
+  - ward
 pdf:
+sort_id:
+volume: 3
+issue: 3
+season: summer
+pages:
 ---
 
     Rashkover - The Semiotics of Embodiment - JCRT 3.3 

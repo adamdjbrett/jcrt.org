@@ -1,11 +1,15 @@
 ---
 title: "THE SCANDAL OF THE EVANGELICAL MIND"
-article_number:
 author: "Michael Tadashi Sugimoto"
 affilation:
 abstract:
 keywords: []
 pdf:
+sort_id:
+volume: 2
+issue: 1
+season: winter
+pages:
 ---
 
  Sugimoto - Nation as University - JCRT 2.1 

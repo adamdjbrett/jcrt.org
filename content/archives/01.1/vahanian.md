@@ -1,11 +1,26 @@
 ---
 title: "THE OTHERNESS OF TIME: SECULARISATION AS WORLDING OF THE WORD AND THE HALLOWING OF TIME"
-article_number: 04
 author: "Gabriel Vahanian; Warren Clarnette"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - memory
+  - time-in-the-bible
+  - saint
+  - knowledge
+  - theory-of-religion
+  - augustine
+  - of-hippo
+  - 354-430-philosophy
+  - time-in-religion
+  - history-religious-aspects-christianity
+  - history-in-religion
 pdf:
+sort_id: 04
+volume: 1
+issue: 1
+season: winter
+pages:
 ---
 
   Vahanian - The Otherness of Time - JCRT 1.1

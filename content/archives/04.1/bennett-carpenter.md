@@ -1,11 +1,30 @@
 ---
 title: "QUOTING MIEKE BAL’S NAVEL: CONTEMPORARY THEORY, PREPOSTEROUS RELIGION"
-article_number:
 author: "Benjamin Bennett-Carpenter"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - art-philosophy
+  - body
+  - human-philosophy
+  - jacques
+  - religion-philosophy
+  - 1930-2004
+  - derrida
+  - language-and-languages-philosophy
+  - phenomenology
+  - 1946
+  - representation-philosophy
+  - bal
+  - mieke
+  - navel
+  - quotations
 pdf:
+sort_id:
+volume: 4
+issue: 1
+season: winter
+pages:
 ---
 
     Bennett-Carpenter - Quoting Mieke Bal's Navel - JCRT 4.1 

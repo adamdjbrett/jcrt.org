@@ -1,11 +1,26 @@
 ---
 title: "DIVERSITY IN THE HISTORY OF RELIGIONS"
-article_number:
 author: "Philip P Arnold"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - language-and-religion
+  - religious-pluralism
+  - indigenous-peoples-of-north-america
+  - 1907-1986
+  - e-liade
+  - mirce-a
+  - aztecs-religion
+  - elling
+  - kurt
+  - onondaga-north-american-people
+  - religionsgeschichtliche-schule
 pdf:
+sort_id:
+volume: 2
+issue: 2
+season: spring
+pages:
 ---
 
     Arnold - Diversity in the History of Religions - JCRT 2.2 

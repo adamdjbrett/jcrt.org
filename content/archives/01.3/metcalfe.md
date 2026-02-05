@@ -1,11 +1,20 @@
 ---
 title: "WONDER, CREATIVITY AND KNOWLEDGE"
-article_number:
 author: "Andrew W Metcalfe"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - gratitude
+  - wonder
+  - knowledge
+  - theory-of-religion
+  - creative-ability
 pdf:
+sort_id:
+volume: 1
+issue: 3
+season: summer
+pages:
 ---
 
     Metcalfe - Wonder, Creativity and Knowledge - JCRT 1.3 

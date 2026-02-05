@@ -1,11 +1,30 @@
 ---
 title: "DIFFÉRANCE THAT COMES AS ONE UNKNOWN: CHRISTOLOGY AFTER DERRIDA’S ‘STRUCTURE, SIGN, AND PLAY IN THE DISCOURSE OF THE HUMAN SCIENCES’"
-article_number:
 author: "Jeffrey F Keuss"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - theology
+  - bible-gospels
+  - criticism
+  - deconstruction-criticism
+  - poetics
+  - 2000
+  - etc
+  - interpretation
+  - difference-philosophy
+  - jacques
+  - 1930-2004
+  - derrida
+  - doctrinal-methodology
+  - jesus-christ-history-of-doctrines
+  - structuralism
 pdf:
+sort_id:
+volume: 3
+issue: 1
+season: winter
+pages:
 ---
 
      Keuss - Diff'rance That Comes As One Unknown - JCRT 3.1 

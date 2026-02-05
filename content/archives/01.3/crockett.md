@@ -1,11 +1,19 @@
 ---
 title: "ECONOMIES OF STUDYING RELIGION"
-article_number:
 author: "Clayton Crockett"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - religions-study-and-teaching
+  - psychoanalysis-and-religion
+  - capitalism-and-religion
+  - poststructuralism
 pdf:
+sort_id:
+volume: 1
+issue: 3
+season: summer
+pages:
 ---
 
     Crockett - Economies of Studying Religion - JCRT 1.3 

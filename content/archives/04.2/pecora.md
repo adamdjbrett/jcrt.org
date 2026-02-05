@@ -1,11 +1,25 @@
 ---
 title: "RELIGION AND MODERNITY IN CURRENT DEBATE"
-article_number:
 author: "Vincent P Pecora"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - secularization-sociology
+  - modernity
+  - arab-israeli-conflict
+  - christianity-and-politics
+  - economics-and-religion
+  - religion-philosophy
+  - 2001-2009
+  - war-on-terrorism
+  - islam-and-politics
+  - social-conflict
 pdf:
+sort_id:
+volume: 4
+issue: 2
+season: spring
+pages:
 ---
 
     Pecora - Religion and Modernity in Current Debate - JCRT 4.2 

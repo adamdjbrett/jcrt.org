@@ -1,11 +1,15 @@
 ---
 title: "A Private Happiness for All, Or, How to Cure National Depression, Hold Down a Career, Fulfill the Maternal Function and Still Wage Feminist Battle with a Smile"
-article_number:
 author: "M Gail Hamner"
 affilation:
 abstract:
 keywords: []
 pdf:
+sort_id:
+volume: 4
+issue: 1
+season: winter
+pages:
 ---
 
     Hamner - A Private Happiness for All ... - JCRT 4.1 

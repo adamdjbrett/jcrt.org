@@ -1,9 +1,13 @@
 ---
-article_number:
 title: "THE FACE OF THE DEEP: A THEOLOGY OF BECOMING"
 author: "Derek Michaud"
 affilation:
 abstract:
 keywords: []
 pdf: michaud.pdf
+sort_id:
+volume: 4
+issue: 3
+season: summer
+pages:
 ---

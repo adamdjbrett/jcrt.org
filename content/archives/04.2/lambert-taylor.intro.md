@@ -1,11 +1,17 @@
 ---
 title: "THE FUTURE OF THEORY"
-article_number:
 author: "Victor E Taylor; Gregg Lambert"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - postmodernism
+  - theory
 pdf:
+sort_id:
+volume: 4
+issue: 2
+season: spring
+pages:
 ---
 
   Taylor & Lambert - The Future of Theory - JCRT 4.2 

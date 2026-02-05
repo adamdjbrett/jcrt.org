@@ -1,11 +1,24 @@
 ---
 title: "‘MISRECOGNITION OF THE LIMITS’: BOURDIEU’S RELIGIOUS CAPITAL AND SOCIAL TRANSFORMATION"
-article_number:
 author: "Lora Stone"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - religion-and-sociology
+  - institutionalism-religion
+  - ordination-of-women
+  - social-change
+  - religion-and-politics
+  - social-movements
+  - 1930-2002
+  - bourdieu
+  - pierre
 pdf:
+sort_id:
+volume: 3
+issue: 1
+season: winter
+pages:
 ---
 
      Stone - "Misrecognition of the Limits" - JCRT 3.1 

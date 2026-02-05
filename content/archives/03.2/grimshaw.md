@@ -1,11 +1,15 @@
 ---
 title: "PREACHER"
-article_number:
 author: "Mike Grimshaw"
 affilation:
 abstract:
 keywords: []
 pdf:
+sort_id:
+volume: 3
+issue: 2
+season: spring
+pages:
 ---
 
     Grimshaw - Preacher, or the Death of God in Pictures - JCRT 3.2 

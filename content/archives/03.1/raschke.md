@@ -1,11 +1,26 @@
 ---
 title: "THE DEPOSITION OF THE SIGN: POSTMODERNISM AND THE CRISIS OF RELIGIOUS STUDIES"
-article_number:
 author: "Carl A. Raschke"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - semiotics
+  - postmodernism
+  - methodology
+  - religions-study-and-teaching
+  - phenomenology
+  - 1859-1938
+  - edmund
+  - husserl
+  - philosophy-terminology
+  - theology-study-and-teaching
+  - theology-terminology
 pdf:
+sort_id:
+volume: 3
+issue: 1
+season: winter
+pages:
 ---
 
      Raschke - The Deposition of the Sign - JCRT 3.1 

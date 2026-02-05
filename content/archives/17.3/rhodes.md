@@ -1,9 +1,15 @@
 ---
-article_number:
 title: "TIME EMPTIED AND TIME RENEWED: THE DOMINION OF CAPITAL AND A THEO-POLITICS OF CONTRETEMPS."
 author: "DANIEL RHODES"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - communism
+  - practical-politics
 pdf: Rhodes.pdf
+sort_id:
+volume: 17
+issue: 3
+season: summer
+pages: 527-557
 ---

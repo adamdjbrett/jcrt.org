@@ -1,11 +1,30 @@
 ---
 title: "LEFT TRAUMATIZED: ZIZEK’S LENIN AND POLITICS AFTER 9/11"
-article_number:
 author: "Adam Katz"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - postmodernism
+  - universalism
+  - self-philosophy
+  - 1949
+  - slavoj
+  - z-iz-ek
+  - abraham
+  - 2001
+  - september-11-terrorist-attacks
+  - right-and-left-political-science
+  - 1809-1865
+  - 1870-1924
+  - lenin
+  - lincoln
+  - vladimir-il-ich
 pdf:
+sort_id:
+volume: 3
+issue: 2
+season: spring
+pages:
 ---
 
     Katz - Left Traumatized - JCRT 3.2 

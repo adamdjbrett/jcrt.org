@@ -1,11 +1,15 @@
 ---
 title: "ACROSS THE BOUNDARIES OF BELIEF: CONTEMPORARY ISSUES IN THE ANTHROPOLOGY OF RELIGION"
-article_number:
 author: "Carol S Anderson"
 affilation:
 abstract:
 keywords: []
 pdf:
+sort_id:
+volume: 3
+issue: 1
+season: winter
+pages:
 ---
 
      Anderson - Book Profile: Exploring the Anthropology of Religion - JCRT 3.1 

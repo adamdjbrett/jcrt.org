@@ -1,11 +1,27 @@
 ---
 title: "DESIRE AND MOURNING: THEOLOGY AND THE LITERARY IMAGINATION"
-article_number:
 author: "Victor E Taylor"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - philosophy-and-theology
+  - 1925-1995
+  - deleuze
+  - gilles
+  - literature-themes
+  - religion-and-literature
+  - mourning
+  - 1828-1910
+  - desire-in-literature
+  - graf
+  - leo
+  - tolstoy
 pdf:
+sort_id:
+volume: 3
+issue: 2
+season: spring
+pages:
 ---
 
     Taylor - Desire and Mourning: Theology and the Literary Imagination - JCRT 3.2 

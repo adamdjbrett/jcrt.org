@@ -1,11 +1,15 @@
 ---
 title: "THE CITY OF K: FRANZ KAFKA AND PRAGUE"
-article_number:
 author: "Victor E Taylor"
 affilation:
 abstract:
 keywords: []
 pdf:
+sort_id:
+volume: 3
+issue: 3
+season: summer
+pages:
 ---
 
     Taylor - Encircling Kafka: A Review of the City of K. - JCRT 3.3 

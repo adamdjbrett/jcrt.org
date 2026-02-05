@@ -1,11 +1,31 @@
 ---
 title: "THE THEOLOGICAL CHALLENGE OF CYBERSPACE AND THE LOGIC OF SIMULATION"
-article_number:
 author: "Andrew Tatusko"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - postmodernism
+  - self-philosophy
+  - technology-and-civilization
+  - community-and-religion
+  - 1931-1994
+  - debord
+  - guy
+  - virtual-reality
+  - 1929-2007
+  - baudrillard
+  - jean
+  - representation-philosophy
+  - sherry
+  - technology-and-religion
+  - turkle
+  - virtualchurch-org
 pdf:
+sort_id:
+volume: 2
+issue: 2
+season: spring
+pages:
 ---
 
     Tatusko - The Theological Challenge of Cyberspace and the Logic of Simulation - JCRT 2.2 

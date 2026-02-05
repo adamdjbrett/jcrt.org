@@ -1,11 +1,23 @@
 ---
 title: "THE WORD OF FREUD: OUR GOD IS LOGOS"
-article_number:
 author: "Robert Metcalf"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - logos
+  - rationalism
+  - religion-and-culture
+  - religion-and-science
+  - psychoanalysis-and-religion
+  - 1856-1939
+  - freud
+  - sigmund
 pdf:
+sort_id:
+volume: 3
+issue: 2
+season: spring
+pages:
 ---
 
     Metcalf - The Word of Freud - JCRT 3.2 

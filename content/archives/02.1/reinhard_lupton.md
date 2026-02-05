@@ -1,11 +1,23 @@
 ---
 title: "REVELATION: LACAN AND THE TEN COMMANDMENTS"
-article_number:
 author: "Kenneth Reinhard; Julia Reinhard Lupton"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - law
+  - united-states
+  - ten-commandments
+  - 1901-1981
+  - jacques
+  - lacan
+  - psychoanalysis-and-religion
+  - revelation-on-sinai
 pdf:
+sort_id:
+volume: 2
+issue: 1
+season: winter
+pages:
 ---
 
  Reinhard & Lupton - Revelation - JCRT 2.1 

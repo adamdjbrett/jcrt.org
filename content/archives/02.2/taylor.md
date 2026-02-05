@@ -1,11 +1,29 @@
 ---
 title: "THE METAPHYSICS OF INDETERMINACY: POSTMODERN RELIGIOUS THEORY AND THE RUIN OF REFERENTIALITY"
-article_number:
 author: "Victor E Taylor"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - ontology
+  - difference-philosophy
+  - knowledge
+  - thomas
+  - 1925-1995
+  - deleuze
+  - gilles
+  - paul
+  - theory-of-religion
+  - 1605-1682
+  - 1879-1940
+  - browne
+  - klee
+  - sir
 pdf:
+sort_id:
+volume: 2
+issue: 2
+season: spring
+pages:
 ---
 
     Taylor - The Metaphysics of Indeterminacy - JCRT 2.2 

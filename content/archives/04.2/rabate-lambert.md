@@ -1,11 +1,30 @@
 ---
 title: "‘CREATE, SHE SAID’: DELEUZE AND FEMINISM (ON DOROTHEA OLKOWSKI’S GILLES DELEUZE AND THE RUIN OF REPRESENTATION)"
-article_number:
 author: "Gregg Lambert"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - ontology
+  - art-philosophy
+  - jacques
+  - 1930-2004
+  - derrida
+  - 1944
+  - feminist-theory
+  - 1925-1995
+  - deleuze
+  - gilles
+  - representation-philosophy
+  - mary
+  - dorothea
+  - kelly
+  - olkowski
 pdf:
+sort_id:
+volume: 4
+issue: 2
+season: spring
+pages:
 ---
 
  Rabaté & Lambert - Conversation on The Future of Theory - JCRT 4.2 

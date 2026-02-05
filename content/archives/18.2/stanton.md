@@ -1,9 +1,16 @@
 ---
-article_number:
 title: "IF THE QUR’AN IS GOD’S SPEECH, HOW DOES GOD SPEAK? DIVINE SPEAKING IN CONTEMPORARY MUSLIM DISCOURSE."
 author: "ANDREA L. STANTON"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - islamic-theology
+  - muslims
+  - qur-an
 pdf: Stanton.pdf
+sort_id:
+volume: 18
+issue: 2
+season: spring
+pages: 202-213
 ---

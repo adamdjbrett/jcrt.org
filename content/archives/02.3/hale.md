@@ -1,11 +1,15 @@
 ---
 title: "THE CRITIQUE OF THEOLOGICAL REASON"
-article_number:
 author: "David Hale"
 affilation:
 abstract:
 keywords: []
 pdf:
+sort_id:
+volume: 2
+issue: 3
+season: summer
+pages:
 ---
 
      Hale - Book Profile: The Critique of Theological Reason - JCRT 2.3 

@@ -1,11 +1,24 @@
 ---
 title: "THEORY CHANGE"
-article_number:
 author: "Jeffrey J Williams"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - postmodernism
+  - intellectual-life
+  - theory
+  - 1922-1996
+  - criticism-historiography
+  - criticism-methodology
+  - kuhn
+  - paradigms
+  - thomas-s
 pdf:
+sort_id:
+volume: 4
+issue: 2
+season: spring
+pages:
 ---
 
    Williams - Theory Change - JCRT 4.2 

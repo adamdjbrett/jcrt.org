@@ -1,9 +1,17 @@
 ---
-article_number:
 title: "ALTIZER’S APOCALYPTIC JESUS."
 author: "THEODORE W. JENNINGS"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - jesus-christ
+  - 1927-2018
+  - altizer
+  - thomas-j-j
 pdf: Jennings.pdf
+sort_id:
+volume: 19
+issue: 1
+season: winter
+pages: 103-117
 ---

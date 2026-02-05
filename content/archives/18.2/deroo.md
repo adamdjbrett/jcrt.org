@@ -1,9 +1,16 @@
 ---
-article_number:
 title: "THE DANGERS OF DEALING WITH DERRIDA: REVISITING THE CAPUTO-HÄGGLUND DEBATE ON THE"
 author: "NEAL DEROO"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - religious-studies
+  - debate
+  - deconstruction
 pdf: DeRoo.pdf
+sort_id:
+volume: 18
+issue: 2
+season: spring
+pages: 362-381
 ---

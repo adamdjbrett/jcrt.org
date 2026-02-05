@@ -1,9 +1,26 @@
 ---
-article_number:
 title: "DERRIDA AND THE RETURN OF RELIGION: RELIGIOUS THEORY AFTER POSTMODERNISM"
 author: "Carl A. Raschke"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - faith-and-reason
+  - exchange-theory-sociology
+  - postmodernism
+  - economics-and-religion
+  - 1949
+  - jacques
+  - psychoanalysis-and-religion
+  - religion-philosophy
+  - slavoj
+  - z-iz-ek
+  - 1930-2004
+  - derrida
+  - poststructuralism
 pdf: raschke.pdf
+sort_id:
+volume: 6
+issue: 2
+season: spring
+pages:
 ---

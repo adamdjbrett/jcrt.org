@@ -1,11 +1,25 @@
 ---
 title: "ARISTOTLE AND RELIGIOUS THEORY"
-article_number:
 author: "Alan J Richard"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - relation-theology
+  - semiotics
+  - ontology
+  - philosophy-and-theology
+  - plato
+  - methodology
+  - religions-study-and-teaching
+  - knowledge
+  - aristotle
+  - theory-of-religion
 pdf:
+sort_id:
+volume: 1
+issue: 3
+season: summer
+pages:
 ---
 
     Richard - Aristotle and Religious Theory - JCRT 1.3 

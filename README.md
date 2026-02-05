@@ -92,7 +92,7 @@ Total:         48s → ~10s
 4. Search for and resolve duplicates
 5. ensure all .md are linked ot their pdf if there is a pdf in the folder add the pdf to the corresponding md file at usually line 8: just ```filename.pdf``` is al lthat is needed at this point
 6. verify the frontmatter of all .md files 
-7. add two digit ```article_number:``` to enure the table of contents index.njk properly orders the articles.
+7. add two digit ```sort_id:``` to ensure the table of contents index.njk properly orders the articles.
 8. create a list of all solo authored /archives/ and then add afilliations to them
 9. fix footnotes to proper markdown-it footnotes look for #_etn and #_ftn and fix those references to the proper format. Here is an example of bad: ```[\[1\]](#_ftn1)```
 [markdown it footnote guide](https://github.com/markdown-it/markdown-it-footnote)

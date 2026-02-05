@@ -1,9 +1,15 @@
 ---
-article_number:
 title: "THE IMMANENT REFUSAL OF CONVERSION."
 author: "DANIEL COLUCCIELLO BARBER"
 affilation:
 abstract: "The article discusses the immanent refusal of conversion, which is often regarded as a moment of turning."
-keywords: []
+keywords:
+  - conversion-religion
+  - logic
 pdf: barber.pdf
+sort_id:
+volume: 13
+issue: 1
+season: winter
+pages: 142-150
 ---

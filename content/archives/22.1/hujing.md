@@ -1,9 +1,22 @@
 ---
 title: "BINDING FREEDOM: EMBODIMENT OF THE SECULAR AND RELIGIOUS"
-article_number:
 author: "Kevin Hujing"
 affilation:
 abstract: 
-keywords: []
+keywords:
+  - religion
+  - philosophical-anthropology
+  - free-will-and-determinism
+  - secularism
+  - culture-philosophy
+  - body
+  - human-philosophy
+  - freedom-philosophy
+  - tradition-philosophy
 pdf:
+sort_id:
+volume: 22
+issue: 1
+season: winter
+pages: 62-76
 ---

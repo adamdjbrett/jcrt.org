@@ -1,11 +1,15 @@
 ---
 title: "IN OUR IMAGE: ARTIFICIAL INTELLIGENCE AND THE HUMAN SPIRIT"
-article_number:
 author: "Dennis M Weiss"
 affilation:
 abstract:
 keywords: []
 pdf:
+sort_id:
+volume: 3
+issue: 3
+season: summer
+pages:
 ---
 
     Weiss - Review of In Our Image - JCRT 3.3 

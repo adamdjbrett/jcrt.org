@@ -1,11 +1,22 @@
 ---
 title: "THE DIVISION OF RELIGION WITH SIGNS FOLLOWING"
-article_number:
 author: "Victor E Taylor"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - postmodernism
+  - philosophy-and-religion
+  - methodology
+  - religions-study-and-teaching
+  - modern
+  - art
+  - universities-and-colleges-curricula
 pdf:
+sort_id:
+volume: 1
+issue: 2
+season: spring
+pages:
 ---
 
   Taylor - The Division of Religion - JCRT 1.2_

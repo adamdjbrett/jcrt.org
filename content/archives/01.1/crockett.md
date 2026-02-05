@@ -2,12 +2,36 @@
 title: "ANXIETY AND THE S(UB)LIME BODY OF GOD"
 tags: 
   - cat
-article_number: 05
 author: "Clayton Crockett"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - science-fiction
+  - desire-and-religion
+  - other-philosophy
+  - human-body-in-religion
+  - 1901-1981
+  - 1949
+  - jacques
+  - lacan
+  - psychoanalysis-and-religion
+  - slavoj
+  - z-iz-ek
+  - the
+  - feminist-theory
+  - subject-philosophy
+  - 1856-1939
+  - freud
+  - sigmund
+  - sublime
+  - bergeron
+  - danielle
 pdf:
+sort_id: 05
+volume: 1
+issue: 1
+season: winter
+pages:
 ---
 
   Crockett - Anxiety and the S(ub)lime Body of God - JCRT 1.1

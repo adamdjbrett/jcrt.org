@@ -1,9 +1,17 @@
 ---
-article_number:
 title: "TRANS-SORTAL KNOWING IN THE CLOUD OF UNKNOWING AND BOOK OF PRIVY COUNSELLING: SOME PHENOMENOLOGICAL CONSIDERATIONS."
 author: "JAMES G. HART"
 affilation:
 abstract: "The overall theme of"
-keywords: []
+keywords:
+  - philosophy
+  - the-book
+  - phenomenology
+  - cloud-of-unknowing
 pdf: Hart.pdf
+sort_id:
+volume: 17
+issue: 2
+season: spring
+pages: 369-395
 ---

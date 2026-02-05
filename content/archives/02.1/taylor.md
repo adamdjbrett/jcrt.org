@@ -1,11 +1,18 @@
 ---
 title: "ARTIST’S STATEMENT"
-article_number:
 author: "Christopher M Taylor; Christopher M Taylor"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - art-philosophy
+  - exhibitions
+  - slides
 pdf:
+sort_id:
+volume: 2
+issue: 1
+season: winter
+pages:
 ---
 
  Taylor - Art Exhibit - JCRT 2.1 

@@ -1,11 +1,15 @@
 ---
 title: "BEYOND FOUNDATIONALISM: SHAPING THEOLOGY IN A POSTMODERN CONTEXT"
-article_number:
 author: "Paul Lakeland"
 affilation:
 abstract:
 keywords: []
 pdf:
+sort_id:
+volume: 2
+issue: 3
+season: summer
+pages:
 ---
 
      Lakeland - Book Profile: Beyond Foundationalism - JCRT 2.3 

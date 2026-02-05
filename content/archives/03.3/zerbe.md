@@ -1,11 +1,15 @@
 ---
 title: "ANAXIMANDER AND THE ARCHITECTS: THE CONTRIBUTIONS OF EGYPTIAN AND GREEK ARCHITECTURAL TECHNOLOGIES TO THE ORIGINS OF GREEK PHILOSOPHY"
-article_number:
 author: "Michael J Zerbe"
 affilation:
 abstract:
 keywords: []
 pdf:
+sort_id:
+volume: 3
+issue: 3
+season: summer
+pages:
 ---
 
     Zerbe - Book Profile: Anaximander and the Architects - JCRT 3.3 

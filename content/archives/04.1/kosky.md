@@ -1,11 +1,31 @@
 ---
 title: "ICONIC REVISIONS OF THE MODERN WORLD PICTURE"
-article_number:
 author: "Jeffrey L Kosky"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - philosophical-anthropology
+  - self-philosophy
+  - technology-and-civilization
+  - art-philosophy
+  - 1892-1940
+  - benjamin
+  - walter
+  - 1889-1976
+  - heidegger
+  - martin
+  - idols-and-images
+  - representation-theology
+  - 1401-1464
+  - cardinal
+  - nicholas
+  - of-cusa
 pdf:
+sort_id:
+volume: 4
+issue: 1
+season: winter
+pages:
 ---
 
     Kosky - Iconic Revisions of the Modern World Picture - JCRT 4.1 

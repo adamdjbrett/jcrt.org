@@ -1,11 +1,22 @@
 ---
 title: "ABOUT ABOUT RELIGION: A CONVERSATION WITH MARK C. TAYLOR"
-article_number:
 author: "Mark C Taylor; Carl A. Raschke"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - language-and-religion
+  - semiotics
+  - ontology
+  - postmodernism
+  - the
+  - holy
+  - theory-philosophy
 pdf:
+sort_id:
+volume: 2
+issue: 2
+season: spring
+pages:
 ---
 
     Taylor & Raschke - About About Religion - JCRT 2.2 

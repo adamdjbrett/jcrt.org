@@ -1,11 +1,23 @@
 ---
 title: "XENA WARRIOR PRINCESS AND THE TEXTURE OF THE RELIGIOUS: RE-IMAGINING THE ROLE OF POPULAR CULTURE IN ACADEMIC DISCOURSE"
-article_number:
 author: "David A Adcock"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - united-states
+  - language-and-religion
+  - postmodernism
+  - religion-and-culture
+  - language-and-languages-philosophy
+  - popular-culture
+  - warrior-princess-television-program
+  - xena
 pdf:
+sort_id:
+volume: 1
+issue: 2
+season: spring
+pages:
 ---
 
   Adcock - Xena Warrior Princess - JCRT 1.2

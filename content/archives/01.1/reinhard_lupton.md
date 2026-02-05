@@ -1,11 +1,21 @@
 ---
 title: "JEWISH STUDIES AND THE SECULAR UNIVERSITY: RELIGION BETWEEN CULTURE AND PHILOSOPHY"
-article_number: 06
 author: "Kenneth Reinhard; Julia Reinhard Lupton"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - secularization-religion
+  - universities-and-colleges-curricula
+  - judaism-study-and-teaching
+  - judaism-and-philosophy
+  - judaism-and-culture
+  - secular-institutes
 pdf:
+sort_id: 06
+volume: 1
+issue: 1
+season: winter
+pages:
 ---
 
    Reinhard/Lupton - Jewish Studies and the Secular University - JCRT 1.1

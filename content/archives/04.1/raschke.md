@@ -1,11 +1,30 @@
 ---
 title: "FROM RELIGION TO FAITH: LEVINASIAN ETHICS AND THE GRAMMAR OF ADDRESS"
-article_number:
 author: "Carl A. Raschke"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - apophatic-theology
+  - ethics
+  - god-philosophy
+  - ontology
+  - postmodernism
+  - consciousness
+  - other-philosophy
+  - 1906-1995
+  - emmanuel
+  - le-vinas
+  - language-and-languages-philosophy
+  - rene
+  - theology-methodology
+  - 1596-1650
+  - descartes
 pdf:
+sort_id:
+volume: 4
+issue: 1
+season: winter
+pages:
 ---
 
     Raschke - From Religion to Faith - JCRT 4.1 

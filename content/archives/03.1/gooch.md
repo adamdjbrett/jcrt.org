@@ -1,11 +1,26 @@
 ---
 title: "THE EPISTEMIC STATUS OF VALUE-COGNITION IN MAX SCHELER’S PHILOSOPHY OF RELIGION"
-article_number:
 author: "Todd A Gooch"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - ethics
+  - emotions
+  - consciousness
+  - religion-philosophy
+  - knowledge
+  - act-philosophy
+  - 1874-1928
+  - max
+  - phenomenology
+  - scheler
+  - theory-of-religion
 pdf:
+sort_id:
+volume: 3
+issue: 1
+season: winter
+pages:
 ---
 
      Gooch - The Epistemic Status of Value-Cognition - JCRT 3.1 

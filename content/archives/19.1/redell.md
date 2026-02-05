@@ -1,9 +1,17 @@
 ---
-article_number:
 title: "ALTIZER AND DELEUZE: MATERIAL METAPHYSICS FOR DISASTROUS TIMES."
 author: "PETRA CARLSSON REDELL"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - metaphysics
+  - 1927-2018
+  - altizer
+  - thomas-j-j
 pdf: Redell.pdf
+sort_id:
+volume: 19
+issue: 1
+season: winter
+pages: 33-44
 ---

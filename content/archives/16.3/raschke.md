@@ -1,9 +1,16 @@
 ---
 title: "THE END OF THEOLOGY AND THE EVENT OF TRUTH: AN INTRODUCTION"
-article_number:
 author: "CARL RASCHKE"
 affilation:
 abstract: 
-keywords: []
+keywords:
+  - genealogy
+  - salvation-in-christianity
+  - all-other-personal-services
 pdf:
+sort_id:
+volume: 16
+issue: 3
+season: summer
+pages: 260-270
 ---

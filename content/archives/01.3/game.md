@@ -1,11 +1,25 @@
 ---
 title: "FALLING"
-article_number:
 author: "Ann Game"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - experience-religion
+  - knowledge
+  - michel
+  - paul
+  - the-apostle
+  - theory-of-religion
+  - epilepsy
+  - falls-accidents
+  - saint-conversion
+  - tournier
 pdf:
+sort_id:
+volume: 1
+issue: 3
+season: summer
+pages:
 ---
 
     Game - Falling - JCRT 1.3 

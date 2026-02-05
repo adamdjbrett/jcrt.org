@@ -1,9 +1,26 @@
 ---
 title: "EVOLUTION OF COLONIAL GENDER ROLES"
-article_number:
 author: "Kevin Grane"
 affilation:
 abstract: 
-keywords: []
+keywords:
+  - patriarchy
+  - imperialism
+  - colonialism-and-neocolonialism
+  - colonies
+  - etc
+  - prophecy
+  - heterosexism
+  - homophobia
+  - laws
+  - male-domination-social-structure
+  - sex-discrimination-against-women
+  - women-legal-status
+  - women-s-rights
 pdf:
+sort_id:
+volume: 22
+issue: 1
+season: winter
+pages: 45-56
 ---

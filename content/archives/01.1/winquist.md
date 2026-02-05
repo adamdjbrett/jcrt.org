@@ -1,11 +1,23 @@
 ---
 title: "THE AMBIGUOUS GIFT OF DESIRE"
-article_number: 02
 author: "Charles E Winquist"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - ontology
+  - knowledge
+  - 1925-1995
+  - deleuze
+  - gilles
+  - theory-of-religion
+  - immanence-philosophy
+  - desire-comparative-studies
 pdf:
+sort_id: 02
+volume: 1
+issue: 1
+season: winter
+pages:
 ---
 
   Winquist - Ambiguous Gift of Desire - JCRT 1.1

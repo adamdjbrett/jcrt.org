@@ -1,11 +1,15 @@
 ---
 title: "GOD, THE GIFT, AND POSTMODERNISM"
-article_number:
 author: "Jeffrey W Robbins"
 affilation:
 abstract:
 keywords: []
 pdf:
+sort_id:
+volume: 2
+issue: 2
+season: spring
+pages:
 ---
 
     Robbins - De-Nominating Religion and Postmodernism - JCRT 2.2 

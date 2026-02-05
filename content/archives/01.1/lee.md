@@ -1,11 +1,25 @@
 ---
 title: "DECONSTRUCTING THE GREAT CHAIN OF BEING"
-article_number: 09
 author: "Jonathan Scott Lee"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - apophatic-theology
+  - jacques
+  - 1930-2004
+  - derrida
+  - language-and-languages-philosophy
+  - theology-methodology
+  - 205-270
+  - chain-of-being-philosophy
+  - mysticism-comparative-studies
+  - plotinus
 pdf:
+sort_id: 09
+volume: 1
+issue: 1
+season: winter
+pages:
 ---
 
   Lee - Deconstructing the Great Chain of Being - JCRT 1.1

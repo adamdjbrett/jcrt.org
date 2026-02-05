@@ -1,9 +1,16 @@
 ---
 title: "LARS VON TRIER: THE IMPOSSIBILITY OF THE GOOD AS A WORK."
-article_number:
 author: "TYLER TRITTEN"
 affilation:
 abstract: "The article critiques the book"
-keywords: []
+keywords:
+  - dignity-social-aspects
+  - republic
+  - the-book-plato
 pdf: trier.pdf
+sort_id:
+volume: 14
+issue: 1
+season: winter
+pages:
 ---

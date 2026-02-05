@@ -1,9 +1,20 @@
 ---
-article_number:
 title: "JESUS BEYOND CHRIST: ERRI DE LUCA AND THE"
 author: "ELISE MON℡-HURLIN"
 affilation:
 abstract: "The author highlights how the act of translating the Bible has allowed Italian left-wing activist Erri de Luca to come into contact with an"
-keywords: []
+keywords:
+  - poetics
+  - philosophy
+  - old-testament
+  - bible-translating
+  - de-luca
+  - erri
+  - new-testament
 pdf: hurlin.pdf
+sort_id:
+volume: 12
+issue: 2
+season: spring
+pages: 228-239
 ---

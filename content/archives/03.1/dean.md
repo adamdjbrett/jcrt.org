@@ -1,11 +1,15 @@
 ---
 title: "THE PRIMAL ROOTS OF AMERICAN PHILOSOPHY: PRAGMATISM, PHENOMENOLOGY, AND NATIVE AMERICAN THOUGHT"
-article_number:
 author: "William D Dean"
 affilation:
 abstract:
 keywords: []
 pdf:
+sort_id:
+volume: 3
+issue: 1
+season: winter
+pages:
 ---
 
      Dean - The Archaeology of American Thought - JCRT 3.1 

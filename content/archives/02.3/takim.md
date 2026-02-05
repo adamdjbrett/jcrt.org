@@ -1,11 +1,15 @@
 ---
 title: "MUSLIMS: THEIR RELIGIOUS BELIEFS AND PRACTICES"
-article_number:
 author: "Liyakatali Takim"
 affilation:
 abstract:
 keywords: []
 pdf:
+sort_id:
+volume: 2
+issue: 3
+season: summer
+pages:
 ---
 
      Takim - Book Profile: Islamic Ethics of Life - JCRT 2.3 

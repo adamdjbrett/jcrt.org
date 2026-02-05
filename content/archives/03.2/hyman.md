@@ -1,11 +1,38 @@
 ---
 title: "RADICAL ORTHODOXY, ETHICS AND AMBIVALENCE"
-article_number:
 author: "Gavin Hyman"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - postmodernism
+  - secularization-theology
+  - taylor
+  - jacques
+  - 1930-2004
+  - derrida
+  - john
+  - 1946
+  - jean-luc
+  - marion
+  - 1925-1986
+  - certeau
+  - michel-de
+  - milbank
+  - radical-orthodoxy-movement
+  - christian-ethics
+  - 1934-2024
+  - fredric
+  - jameson
+  - 1945
+  - mark-c
+  - ambivalence
+  - whole-and-parts-philosophy
 pdf:
+sort_id:
+volume: 3
+issue: 2
+season: spring
+pages:
 ---
 
     Hyman - Radical Orthodoxy, Ethics and Ambivalence - JCRT 3.2 

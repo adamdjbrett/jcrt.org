@@ -1,11 +1,23 @@
 ---
 title: "LANGUAGE, CONCEPTUALIZATION AND AWAKENING: ON THE PARADOX OF DISCOURSE IN CLASSICAL INDIAN YOGACARA"
-article_number:
 author: "John Y Cha"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - language-and-religion
+  - ontology
+  - knowledge
+  - theory-of-religion
+  - ineffability
+  - buddhism-doctrine
+  - buddhism-sacred-books
+  - yoga-ca-ra-buddhist-school
 pdf:
+sort_id:
+volume: 2
+issue: 3
+season: summer
+pages:
 ---
 
     Cha - Language, Conceptualization and Awakening - JCRT 2.3 

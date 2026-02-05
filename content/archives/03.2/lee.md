@@ -1,11 +1,15 @@
 ---
 title: "DEAD MAN"
-article_number:
 author: "C Jason Lee"
 affilation:
 abstract:
 keywords: []
 pdf:
+sort_id:
+volume: 3
+issue: 2
+season: spring
+pages:
 ---
 
     Lee - Life after death, or death as life? Dead Man, postmodernism, and ontology - JCRT 3.2 

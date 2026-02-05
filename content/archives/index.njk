@@ -45,9 +45,21 @@ image: /img/jcrt.jpg
     {% endif %}
   {% endfor %}
 
-  {% set sorted_articles = issue_articles | sort(false, false, 'data.article_number') %}
+  {# Sort by sort_id if present, else by pages (first page), else last #}
+  {% set sortable_articles = [] %}
+  {% for article in issue_articles %}
+    {% set sort_id = article.data.sort_id %}
+    {% set pages = article.data.pages %}
+    {% set pages_first = (pages or "").toString().split("-")[0].trim() %}
+    {% set pages_num = pages_first.replace("S", "").replace("s", "").replace("P", "").replace("p", "").trim() %}
+    {% set sort_key = (sort_id or pages_num or "999999").toString().padStart(6, "0") %}
+    {% set sortable_articles = sortable_articles.concat([{ article: article, sort_key: sort_key }]) %}
+  {% endfor %}
 
-  {% for article in sorted_articles %}
+  {% set sorted_articles = sortable_articles | sort(false, false, "sort_key") %}
+
+  {% for item in sorted_articles %}
+    {% set article = item.article %}
     <h3>
       <a href="{{ article.url }}">{{ article.data.title or article.fileSlug }}</a>
     </h3>

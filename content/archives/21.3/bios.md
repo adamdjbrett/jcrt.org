@@ -1,8 +1,12 @@
 ---
 title: Author Bios
-article_number: 00
 affilation:
 abstract:
 keywords: []
 pdf: bios.pdf
+sort_id: 00
+volume: 21
+issue: 3
+season: summer
+pages:
 ---

@@ -1,11 +1,25 @@
 ---
 title: "EKPHRASTIC PLASTIC FRAGMENTS: MARK C. TAYLOR IN AND OUT OF CONTEXT"
-article_number:
 author: "Camelia Elias"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - deconstruction-criticism
+  - taylor
+  - literary
+  - style
+  - 1945
+  - mark-c
+  - representation-theology
+  - form-philosophy
+  - krieger
+  - murray
 pdf:
+sort_id:
+volume: 2
+issue: 2
+season: spring
+pages:
 ---
 
     Elias - Ekphrastic Plastic Fragments - JCRT 2.2 

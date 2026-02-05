@@ -1,9 +1,17 @@
 ---
-article_number:
 title: "PSYCHOANALYSIS, VETERANS, AND THE PROBLEM OF THE REAL: OR, ON WAR AND ENUNCIATION."
 author: "MICHAEL McANDREW"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - psychoanalysis
+  - administration-of-veterans-affairs
+  - enunciation
+  - veterans
 pdf: McAndrew.pdf
+sort_id:
+volume: 18
+issue: 1
+season: winter
+pages: 20-25
 ---

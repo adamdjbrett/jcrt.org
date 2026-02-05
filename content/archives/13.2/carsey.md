@@ -1,9 +1,18 @@
 ---
 title: "BEYOND THE PULPIT: WOMEN’S RHETORICAL ROLES IN THE ANTEBELLUM RELIGIOUS PRESS."
-article_number:
 author: "KERRIE L. CARSEY"
 affilation:
 abstract: 
-keywords: []
+keywords:
+  - nonfiction
+  - beyond-the-pulpit-women-s-rhetorical-roles-in-the-antebellum-religious-press-book
+  - lisa-j
+  - shaver
+  - women-religion
 pdf:
+sort_id:
+volume: 13
+issue: 2
+season: spring
+pages: 132-137
 ---

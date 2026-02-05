@@ -1,11 +1,21 @@
 ---
 title: "ABSOLUTE NOTHINGNESS AND TAYLOR’S IMAGOLOGY"
-article_number:
 author: "Thomas J J Altizer"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - art-and-religion
+  - aesthetics
+  - taylor
+  - theology-methodology
+  - 1945
+  - mark-c
 pdf:
+sort_id:
+volume: 2
+issue: 2
+season: spring
+pages:
 ---
 
     Altizer - Absolute Nothingness and Taylor's Imagology - JCRT 2.2 

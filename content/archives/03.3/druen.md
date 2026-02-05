@@ -1,11 +1,15 @@
 ---
 title: "SACRED PAIN: HURTING THE BODY FOR THE SAKE OF THE SOUL"
-article_number:
 author: "Perri Druen"
 affilation:
 abstract:
 keywords: []
 pdf:
+sort_id:
+volume: 3
+issue: 3
+season: summer
+pages:
 ---
 
     Druen - Book Profile: Sacred Pain - JCRT 3.3 

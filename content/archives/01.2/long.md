@@ -1,11 +1,23 @@
 ---
 title: "MIRCEA ELIADE AND THE IMAGINATION OF MATTER"
-article_number:
 author: "Charles H Long"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - theological-anthropology
+  - knowledge
+  - 1907-1986
+  - e-liade
+  - mirce-a
+  - theory-of-religion
+  - religions-comparative-studies
+  - work-and-religion
 pdf:
+sort_id:
+volume: 1
+issue: 2
+season: spring
+pages:
 ---
 
   Long - Mircea Eliade and the Imagination of Matter - JCRT 1.2

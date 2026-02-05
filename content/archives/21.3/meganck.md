@@ -1,9 +1,16 @@
 ---
-article_number:
 title: "PHILOSOPHY AS LOVE: UNBLOCKING THE ROAD FROM ATHENS TO JERUSALEM."
 author: "ERIK MEGANCK"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - love
+  - wisdom
+  - philosophy
 pdf: Meganck.pdf
+sort_id:
+volume: 21
+issue: 3
+season: summer
+pages: 306-328
 ---

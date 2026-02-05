@@ -1,11 +1,32 @@
 ---
 title: "THE CITY AND THE STARS: POLITICS AND ALTERITY IN HEIDEGGER, LEVINAS AND BLANCHOT"
-article_number:
 author: "Lars Iyer"
 affilation:
 abstract: 
-keywords: []
+keywords:
+  - authority
+  - philosophy
+  - other-philosophy
+  - greek
+  - 1906-1995
+  - emmanuel
+  - le-vinas
+  - 1889-1976
+  - heidegger
+  - martin
+  - friedrich
+  - maurice
+  - 1907-2003
+  - blanchot
+  - 1770-1843
+  - ho-lderlin
+  - political-science
 pdf:
+sort_id:
+volume: 3
+issue: 3
+season: summer
+pages:
 ---
 The City and the Stars: Politics and Alterity in Heidegger, Levinas and Blanchot
 ================================================================================

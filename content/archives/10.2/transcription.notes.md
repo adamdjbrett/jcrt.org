@@ -1,9 +1,20 @@
 ---
 title: "Transcription Notes"
-article_number:
 author: "Robert Duncan; Amy Evans"
 affilation:
 abstract: 
-keywords: []
+keywords:
+  - poetry
+  - modern
+  - robert
+  - 1886-1961
+  - 1919-1988
+  - duncan
+  - h-d-hilda-doolittle
 pdf: transcription.notes.pdf
+sort_id:
+volume: 10
+issue: 2
+season: spring
+pages:
 ---

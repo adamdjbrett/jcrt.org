@@ -1,9 +1,16 @@
 ---
-article_number:
 title: "TO NOT LOSE SIGHT OF THE GOOD: NOTES ON THE ZAPATISMO ETHIC."
 author: "MATT ROSEN"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - neoliberalism
+  - ejercito-zapatista-de-liberacion-nacional-mexico
+  - political-participation
 pdf: Rosen.pdf
+sort_id:
+volume: 19
+issue: 2
+season: spring
+pages: 365-376
 ---

@@ -1,11 +1,24 @@
 ---
 title: "HEIDEGGER, RELIGION, AND THE TRANSIENCE OF DIGITAL MEMORY"
-article_number:
 author: "Neal Magee"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - philosophical-theology
+  - memory
+  - knowledge
+  - theory-of
+  - 1889-1976
+  - heidegger
+  - martin
+  - god-hiddenness
+  - information-networks
 pdf:
+sort_id:
+volume: 2
+issue: 3
+season: summer
+pages:
 ---
 
     Magee - Heidegger, Religion, and the Transience of Digital Memory - JCRT 2.3 

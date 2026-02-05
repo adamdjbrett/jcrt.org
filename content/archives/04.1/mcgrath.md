@@ -1,11 +1,15 @@
 ---
 title: "PHÄNOMENOLOGIE DES RELIGIÖSEN LEBENS"
-article_number:
 author: "Sean J McGrath"
 affilation:
 abstract:
 keywords: []
 pdf:
+sort_id:
+volume: 4
+issue: 1
+season: winter
+pages:
 ---
 
     McGrath - Young Heidegger's Problematic Reading of Augustine - JCRT 4.1 

@@ -1,11 +1,26 @@
 ---
 title: "THE RIDE OF PASSAGE: THE PURSUIT OF DANGER, TRANCE, AND FAILURE IN MARK TWAIN, PAUL BOWLES, AND US"
-article_number:
 author: "Frederick J Ruf"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - diaries
+  - death-in-literature
+  - paul
+  - mark
+  - study-and-teaching
+  - 1835-1910
+  - bowles
+  - literature-themes
+  - religion-and-literature
+  - travel
+  - twain
 pdf:
+sort_id:
+volume: 1
+issue: 2
+season: spring
+pages:
 ---
 
   Ruf - Ride of Passage - JCRT 1.2

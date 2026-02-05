@@ -1,9 +1,17 @@
 ---
 title: "THE GHOSTS OF PENDLETON: ARTIST’S STATEMENT."
-article_number:
 author: "APRIL O'BRIEN"
 affilation:
 abstract: 
-keywords: []
+keywords:
+  - social-justice
+  - humanities
+  - ulmer
+  - gregory
 pdf: Obrien.pdf
+sort_id:
+volume: 16
+issue: 1
+season: winter
+pages: 52-55
 ---

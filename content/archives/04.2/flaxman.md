@@ -1,11 +1,34 @@
 ---
 title: "PAST IMPERFECT, FUTURE UNKNOWN: THE DISCOURSE OF THEORY"
-article_number:
 author: "Gregory Flaxman"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - criticism
+  - postmodernism
+  - philosophy
+  - self-philosophy
+  - 1901-1981
+  - 1949
+  - jacques
+  - lacan
+  - psychoanalysis
+  - paul
+  - french
+  - philosophy-history
+  - 1919-1983
+  - communication-theory
+  - theory
+  - de-man
+  - hysteria
+  - jean-michel
+  - rabate
 pdf:
+sort_id:
+volume: 4
+issue: 2
+season: spring
+pages:
 ---
 
     Flaxman - Past Imperfect, Future Unknown - JCRT 4.2 

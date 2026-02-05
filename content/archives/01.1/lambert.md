@@ -1,11 +1,23 @@
 ---
 title: "THE WORK OF ART IN THE AGE OF ALIEN REPRODUCTION"
-article_number:
 author: "Gregg Lambert; Jorge Sicre"
 affilation: 03
 abstract:
-keywords: []
+keywords:
+  - theological-anthropology
+  - mind-and-body
+  - 1724-1804
+  - immanuel
+  - kant
+  - art-criticism
+  - extraterrestrial-beings
+  - primitivism
 pdf:
+sort_id:
+volume: 1
+issue: 1
+season: winter
+pages:
 ---
 
  Lambert - The Work of Art - JCRT 1.1 

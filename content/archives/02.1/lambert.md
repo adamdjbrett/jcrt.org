@@ -1,11 +1,32 @@
 ---
 title: "REDEMPTION: LACAN AVEC MARX"
-article_number:
 author: "Gregg Lambert"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - ethics
+  - redemption
+  - 1957
+  - karl
+  - 1901-1981
+  - jacques
+  - lacan
+  - time-philosophy
+  - 1818-1883
+  - marx
+  - 1963
+  - julia-reinhard
+  - lupton
+  - capital
+  - kenneth
+  - reinhard
+  - sabbath
 pdf:
+sort_id:
+volume: 2
+issue: 1
+season: winter
+pages:
 ---
 
  Lambert - Redemption: Lacan avec Marx - JCRT 2.1 

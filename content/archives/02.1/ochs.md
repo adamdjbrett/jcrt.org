@@ -1,11 +1,15 @@
 ---
 title: "IDOLATRY AND REPRESENTATION: THE PHILOSOPHY OF FRANZ ROSENZWEIG RECONSIDERED"
-article_number:
 author: "Peter Ochs"
 affilation:
 abstract:
 keywords: []
 pdf:
+sort_id:
+volume: 2
+issue: 1
+season: winter
+pages:
 ---
 
    Ochs - Rosenzweig as Postcritical Jewish Philosopher - JCRT 2.1 

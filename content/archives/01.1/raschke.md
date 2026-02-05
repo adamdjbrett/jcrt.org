@@ -1,11 +1,23 @@
 ---
 title: "THEORIZING RELIGION AT THE TURN OF THE MILLENNIUM: FROM THE SACRED TO THE SEMIOTIC"
-article_number: 01
 author: "Carl A. Raschke"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - semiotics
+  - postmodernism
+  - methodology
+  - jacques
+  - religion-philosophy
+  - 1930-2004
+  - derrida
+  - religion-study-and-teaching
 pdf:
+sort_id: 01
+volume: 1
+issue: 1
+season: winter
+pages:
 ---
 
   Raschke - Theorizing Religion at the Turn of the Millennium - JCRT 1.1

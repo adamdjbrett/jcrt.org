@@ -1,11 +1,27 @@
 ---
 title: "SPLITTING RELIGION: HETERONOMY, AUTONOMY, AND REFLECTION"
-article_number:
 author: "James J DiCenso"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - individual-and-society
+  - religions-study-and-teaching
+  - other-philosophy
+  - imagination
+  - psychoanalysis
+  - 1946
+  - 1922-1997
+  - autonomy-psychology
+  - castoriadis
+  - cornelius
+  - gauchet
+  - marcel
 pdf:
+sort_id:
+volume: 1
+issue: 3
+season: summer
+pages:
 ---
 
     DiCenso - Splitting Religion - JCRT 1.3 

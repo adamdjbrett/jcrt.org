@@ -1,11 +1,23 @@
 ---
 title: "CREATION: LACAN IN KANSAS"
-article_number:
 author: "Richard Halpern"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - religion
+  - creationism
+  - creation
+  - 1901-1981
+  - jacques
+  - lacan
+  - psychoanalysis-and-religion
+  - kansas
 pdf:
+sort_id:
+volume: 2
+issue: 1
+season: winter
+pages:
 ---
 
  Halpern - Creation: Lacan in Kansas - JCRT 2.1 

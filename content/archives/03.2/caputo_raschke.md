@@ -1,11 +1,33 @@
 ---
 title: "LOOSENING PHILOSOPHY’S TONGUE: A CONVERSATION WITH JACK CAPUTO"
-article_number:
 author: "John D Caputo; Carl A. Raschke"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - deconstruction-criticism
+  - kingdom-of-god
+  - postmodernism
+  - taylor
+  - jacques
+  - religion-philosophy
+  - 1930-2004
+  - derrida
+  - 1889-1976
+  - heidegger
+  - martin
+  - 1813-1855
+  - kierkegaard
+  - s-ren
+  - phenomenology
+  - theology-methodology
+  - 1945
+  - mark-c
 pdf:
+sort_id:
+volume: 3
+issue: 2
+season: spring
+pages:
 ---
 
     Caputo & Raschke - Loosening Philosophy's Tongue - JCRT 3.2 

@@ -1,11 +1,15 @@
 ---
 title: "BLUEBIRD: DELIBERATE CREATION OF MULTIPLE PERSONALITY BY PSYCHIATRISTS"
-article_number:
 author: "Martin H Katchen"
 affilation:
 abstract:
 keywords: []
 pdf:
+sort_id:
+volume: 2
+issue: 3
+season: summer
+pages:
 ---
 
       Katchen - Book Profile: Psychiatric Abuse and the Intelligence Community - JCRT 2.3 

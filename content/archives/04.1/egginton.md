@@ -1,11 +1,30 @@
 ---
 title: "THE CHRISTIANIZATION OF DECONSTRUCTION"
-article_number:
 author: "William Egginton"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - criticism
+  - deconstruction-criticism
+  - philosophy-and-christianity
+  - christianity
+  - desire-and-religion
+  - etc
+  - interpretation
+  - 1813-1855
+  - kierkegaard
+  - s-ren
+  - bible-genesis
+  - ethics-methodology
+  - sacrifice-biblical-teaching
+  - christianity-essence
+  - sin-biblical-teaching
 pdf:
+sort_id:
+volume: 4
+issue: 1
+season: winter
+pages:
 ---
 
     Egginton - The Christianization of Deconstruction - JCRT 4.1 

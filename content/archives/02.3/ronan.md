@@ -1,11 +1,39 @@
 ---
 title: "BLESSED ARE THEY WHO MOURN: ROMAN CATHOLIC SEX/GENDER IDEOLOGY AFTER VATICAN II"
-article_number:
 author: "Marian Ronan"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - 1900-1999
+  - freedom-of-religion
+  - vatican-council-2nd-1962-1965
+  - history
+  - christianity
+  - catholic-church
+  - psychoanalysis-and-religion
+  - sex-and-religion
+  - pope
+  - 1955
+  - eric-l
+  - santner
+  - mary
+  - 1792-1878
+  - blessed
+  - blessed-virgin
+  - catholics-identity
+  - constitutio-pastoralis-de-ecclesia-in-mundo-huius-temporis-vatican-council
+  - ix
+  - modernism-catholic-church
+  - mourning
+  - pius
+  - pope-1963-1978-paul-vi-humanae-vitae
+  - saint-history-of-doctrines
 pdf:
+sort_id:
+volume: 2
+issue: 3
+season: summer
+pages:
 ---
 
     Ronan - Blessed Are They Who Mourn - JCRT 2.3 

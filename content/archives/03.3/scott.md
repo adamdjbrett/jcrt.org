@@ -1,11 +1,15 @@
 ---
 title: "WHY GOD WON’T GO AWAY: BRAIN SCIENCE AND THE BIOLOGY OF BELIEF"
-article_number:
 author: "Noel Dane Scott"
 affilation:
 abstract:
 keywords: []
 pdf:
+sort_id:
+volume: 3
+issue: 3
+season: summer
+pages:
 ---
 
     Scott - Brain Science Supports Contemporary Religious Trends - JCRT 3.3 

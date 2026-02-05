@@ -1,9 +1,18 @@
 ---
-article_number:
 title: "THE CURIOUS WHITEHEADIAN PROCLIVITY IN SCHELER’S ACCOUNT OF GOD AND PERSONS."
 author: "J. EDWARD HACKETT"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - panentheism
+  - 1874-1928
+  - max
+  - phenomenology
+  - scheler
 pdf: Hackett.pdf
+sort_id:
+volume: 19
+issue: 2
+season: spring
+pages: 243-261
 ---

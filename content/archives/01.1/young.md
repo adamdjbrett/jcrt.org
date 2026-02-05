@@ -1,11 +1,15 @@
 ---
 title: "POLITICS OF FRIENDSHIP"
-article_number: 08
 author: "William W Young"
 affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 08
+volume: 1
+issue: 1
+season: winter
+pages:
 ---
 
   Young - God and Derrida's Politics - JCRT 1.1

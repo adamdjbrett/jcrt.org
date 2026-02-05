@@ -1,9 +1,33 @@
 ---
-article_number:
 title: "MINIMAL DIFFERENCE WITH MAXIMAL IMPORT: ‘DEEP PRAGMATISM’ AND GLOBAL RELIGION: AN INTERVIEW WITH HENT DE VRIES"
 author: "Victor E Taylor; Hent Vries"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - philosophy-and-theology
+  - social-change
+  - public-theology
+  - intellectual-life
+  - globalization-and-religion
+  - politics-and-government
+  - jacques
+  - 1929
+  - frankfurt-school-of-sociology
+  - habermas
+  - ju-rgen
+  - 1930-2004
+  - derrida
+  - religion-study-and-teaching
+  - interdisciplinary-study
+  - communism
+  - netherlands
+  - poststructuralism
+  - pragmatism
+  - socialism
 pdf: de-vries.pdf
+sort_id:
+volume: 11
+issue: 3
+season: summer
+pages:
 ---

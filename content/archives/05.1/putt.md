@@ -1,9 +1,13 @@
 ---
-article_number:
 title: "CITIES OF GOD"
 author: "B Keith Putt"
 affilation:
 abstract:
 keywords: []
 pdf: putt.pdf
+sort_id:
+volume: 5
+issue: 1
+season: winter
+pages:
 ---

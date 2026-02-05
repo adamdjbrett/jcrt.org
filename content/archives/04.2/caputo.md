@@ -1,11 +1,25 @@
 ---
 title: "AFTER JACQUES DERRIDA COMES THE FUTURE"
-article_number:
 author: "John D Caputo"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - deconstruction-criticism
+  - future
+  - philosophy
+  - jacques
+  - religion-philosophy
+  - the
+  - 1930-2004
+  - derrida
+  - french
+  - theory
 pdf:
+sort_id:
+volume: 4
+issue: 2
+season: spring
+pages:
 ---
 
     Caputo - After Jacques Derrida Comes the Future - JCRT 4.2 

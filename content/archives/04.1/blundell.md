@@ -1,11 +1,15 @@
 ---
 title: "The New Ricoeur Scholarship"
-article_number:
 author: "Boyd Blundell"
 affilation:
 abstract:
 keywords: []
 pdf:
+sort_id:
+volume: 4
+issue: 1
+season: winter
+pages:
 ---
 
     Blundell - Book Profile: The New Ricoeur Scholarship - JCRT 4.1 

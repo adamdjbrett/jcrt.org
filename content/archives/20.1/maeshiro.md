@@ -1,9 +1,16 @@
 ---
-article_number:
 title: "MODERN THEOLOGY AND THE DIALECTIC OF GOD."
 author: "KELLY MAESHIRO"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - liberalism-religion
+  - doctrinal-theology
+  - god
 pdf: Maeshiro.pdf
+sort_id:
+volume: 20
+issue: 1
+season: winter
+pages: 50-92
 ---

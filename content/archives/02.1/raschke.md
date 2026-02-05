@@ -1,11 +1,27 @@
 ---
 title: "PARA/THEOLOGY: THE STUDY OF RELIGION AND THE SCIENCE OF THE NEGATIVE"
-article_number:
 author: "Carl A. Raschke"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - apophatic-theology
+  - language-and-religion
+  - postmodernism
+  - methodology
+  - taylor
+  - religions-study-and-teaching
+  - other-philosophy
+  - jacques
+  - 1930-2004
+  - derrida
+  - 1945
+  - mark-c
 pdf:
+sort_id:
+volume: 2
+issue: 1
+season: winter
+pages:
 ---
 
  Raschke - Para/theology - JCRT 2.1 

@@ -1,11 +1,31 @@
 ---
 title: "TAKING SHAPE: ON THE CURRENT CONSTELLATION OF (RELIGIOUS) THOUGHT"
-article_number:
 author: "Clayton Crockett"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - institutionalism-religion
+  - philosophical-theology
+  - ethics
+  - postmodernism
+  - culture-philosophy
+  - jacques
+  - 1906-1995
+  - emmanuel
+  - le-vinas
+  - knowledge
+  - 1930-2004
+  - derrida
+  - 1724-1804
+  - immanuel
+  - kant
+  - theory-of-religion
 pdf:
+sort_id:
+volume: 3
+issue: 3
+season: summer
+pages:
 ---
 
  Crockett - Taking Shape: On the Current Constellation - JCRT 3.3 

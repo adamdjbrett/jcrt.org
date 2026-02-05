@@ -1,11 +1,15 @@
 ---
 title: "JOURNAL FOR CULTURAL AND RELIGIOUS THEORY - ISSUE 4.2 - APRIL 2003"
-article_number:
 author:
 affilation:
 abstract:
 keywords: []
 pdf:
+sort_id:
+volume: 4
+issue: 1
+season: winter
+pages:
 ---
 
  Journal for Cultural and Religious Theory - Issue 4.2 - April 2003   

@@ -1,9 +1,16 @@
 ---
 title: "STREET ART AND CIVIC DIALOGUE: AN INTERVIEW WITH GAIA."
-article_number:
 author: "SHELLY CLAY-ROBINSON"
 affilation:
 abstract: 
-keywords: []
+keywords:
+  - graffiti
+  - mural-art
+  - street-artists
 pdf:
+sort_id:
+volume: 16
+issue: 1
+season: winter
+pages:
 ---

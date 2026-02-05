@@ -1,11 +1,34 @@
 ---
 title: "JESUS CHRIST HOLOCAUST: FABULATION OF THE JEWS IN CHRISTIAN AND NAZI NISTORY"
-article_number:
 author: "Peter Canning"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - christianity-and-judaism
+  - scapegoat
+  - antisemitism
+  - 1901-1981
+  - jacques
+  - lacan
+  - psychoanalysis
+  - national-socialism
+  - holocaust
+  - 1856-1939
+  - freud
+  - sigmund
+  - 1627-1704
+  - blood-accusation
+  - bossuet
+  - bp
+  - germany
+  - jacques-be-nigne
+  - jewish-1939-1945-historiography
 pdf:
+sort_id:
+volume: 1
+issue: 2
+season: spring
+pages:
 ---
 
   Canning - Jesus Christ Holocaust - JCRT 1.2

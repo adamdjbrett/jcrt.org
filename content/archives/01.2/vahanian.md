@@ -1,9 +1,22 @@
 ---
 title: "REBELLIOUS NO"
-article_number:
 author: "Nöelle Vahanian"
 affilation:
 abstract: 
-keywords: []
+keywords:
+  - language-and-religion
+  - cosmology
+  - emotions
+  - the
+  - language-and-languages-philosophy
+  - finite
+  - 1861-1947
+  - alfred-north
+  - whitehead
 pdf:
+sort_id:
+volume: 1
+issue: 2
+season: spring
+pages:
 ---

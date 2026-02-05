@@ -1,11 +1,15 @@
 ---
 title: "AN ETHICS OF REMEMBERING: HISTORY, HETEROLOGY, AND THE NAMELESS OTHERS"
-article_number:
 author: "Steven G Smith"
 affilation:
 abstract:
 keywords: []
 pdf:
+sort_id:
+volume: 1
+issue: 2
+season: spring
+pages:
 ---
 
   Smith - Difficult History - JCRT 1.2 

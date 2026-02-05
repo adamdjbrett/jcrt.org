@@ -1,11 +1,15 @@
 ---
 title: "IN MEMORIAM: DR. CHARLES E. WINQUIST - JCRT 3.2"
-article_number:
 author:
 affilation:
 abstract:
 keywords: []
 pdf:
+sort_id:
+volume: 3
+issue: 2
+season: spring
+pages:
 ---
 
     In Memoriam: Dr. Charles E. Winquist - JCRT 3.2  

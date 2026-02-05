@@ -1,11 +1,15 @@
 ---
 title: "Terror and the Sacred"
-article_number:
 author: "David Hale"
 affilation:
 abstract:
 keywords: []
 pdf:
+sort_id:
+volume: 3
+issue: 2
+season: spring
+pages:
 ---
 
     Hale - Book Profile: Terror and the Sacred - JCRT 3.2 

@@ -1,11 +1,30 @@
 ---
 title: "A CONVERSATION ON THE FUTURE OF THEORY"
-article_number:
 author: "Jean-Michel Rabaté; Gregg Lambert"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - postmodernism
+  - philosophy
+  - 1901-1981
+  - jacques
+  - lacan
+  - 1930-2004
+  - derrida
+  - philosophy-methodology
+  - 1947
+  - french
+  - theory
+  - hysteria
+  - camille
+  - paglia
+  - twenty-first-century-forecasts
 pdf:
+sort_id:
+volume: 4
+issue: 2
+season: spring
+pages:
 ---
 
  Lambert - "Create, She Said.": Deleuze and Feminism - JCRT 4.2 

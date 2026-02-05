@@ -1,9 +1,15 @@
 ---
-article_number:
 title: "ON BECOMING A RADICAL THEOLOGIAN."
 author: "RICHARD L. RUBENSTEIN"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - theologians
+  - minesweepers
 pdf: Rubenstein.pdf
+sort_id:
+volume: 19
+issue: 1
+season: winter
+pages: 208-215
 ---

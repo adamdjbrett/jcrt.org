@@ -1,9 +1,16 @@
 ---
-article_number:
 title: "KENOSIS, EMANCIPATION, PASTNESS: REFLECTIONS FROM A JEW."
 author: "SARAH PESSIN"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - christianity
+  - jewish-scholars
+  - kenosis-theology
 pdf: Pessin.pdf
+sort_id:
+volume: 18
+issue: 2
+season: spring
+pages: 214-223
 ---

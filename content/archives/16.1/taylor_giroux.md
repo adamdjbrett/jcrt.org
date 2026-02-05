@@ -1,9 +1,19 @@
 ---
 title: "AN INTERVIEW WITH HENRY GIROUX"
-article_number:
 author: "VICTOR TAYLOR; Henry Giroux"
 affilation:
 abstract: 
-keywords: []
+keywords:
+  - 1943
+  - administration-of-general-economic-programs
+  - giroux
+  - henry-a
+  - municipal-art
+  - social-criticism
 pdf:
+sort_id:
+volume: 16
+issue: 1
+season: winter
+pages: 163-175
 ---

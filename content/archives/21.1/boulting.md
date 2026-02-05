@@ -1,9 +1,17 @@
 ---
-article_number:
 title: "‘SCALE RELATIVE ONTOLOGY’ AND SIMONE WEIL’S SPIRITUAL PHILOSOPHY."
 author: "N. E. BOULTING"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - philosophy
+  - 1909-1943
+  - simone
+  - weil
 pdf: Boulting.pdf
+sort_id:
+volume: 21
+issue: 1
+season: winter
+pages: 23-43
 ---

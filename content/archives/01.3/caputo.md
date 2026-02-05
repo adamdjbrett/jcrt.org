@@ -1,11 +1,24 @@
 ---
 title: "FOR LOVE OF THE THINGS THEMSELVES: DERRIDA’S HYPER-REALISM"
-article_number:
 author: "John D Caputo"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - deconstruction-criticism
+  - realism
+  - difference-philosophy
+  - other-philosophy
+  - jacques
+  - 1930-2004
+  - derrida
+  - phenomenology
+  - love-in-religion
 pdf:
+sort_id:
+volume: 1
+issue: 3
+season: summer
+pages:
 ---
 
      Caputo - For Love of Things Themselves - JCRT 1.3 

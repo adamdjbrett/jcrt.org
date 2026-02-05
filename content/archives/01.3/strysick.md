@@ -1,11 +1,15 @@
 ---
 title: "CULTURE WARS, RELIGION, AND THE POSTMODERN SACRED"
-article_number:
 author: "Michael Strysick"
 affilation:
 abstract:
 keywords: []
 pdf:
+sort_id:
+volume: 1
+issue: 3
+season: summer
+pages:
 ---
 
     Strysick - Culture Wars, Religion, and the Postmodern Sacred - JCRT 1.3 

@@ -1,11 +1,15 @@
 ---
 title: "HOW WE BECAME POSTHUMAN: VIRTUAL BODIES IN CYBERNETICS, LITERATURE, AND INFORMATICS"
-article_number:
 author: "Dennis M Weiss"
 affilation:
 abstract:
 keywords: []
 pdf:
+sort_id:
+volume: 1
+issue: 3
+season: summer
+pages:
 ---
 
      Weiss - Posthuman Pleasures - JCRT 1.3

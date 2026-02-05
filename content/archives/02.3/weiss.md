@@ -1,11 +1,15 @@
 ---
 title: "A. I: ARTIFICIAL INTELLIGENCE"
-article_number:
 author: "Dennis M Weiss"
 affilation:
 abstract:
 keywords: []
 pdf:
+sort_id:
+volume: 2
+issue: 3
+season: summer
+pages:
 ---
 
     Weiss - Mecha Love: A Review of Steven Spielberg's A.I. - JCRT 2.3 

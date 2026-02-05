@@ -1,9 +1,25 @@
 ---
 title: "THE ENVIRONMENTAL ETHICS OF POPE FRANCIS: PARSING KEY TERMS AND CLAIMS IN LAUDATO SI"
-article_number:
 author: "Thomas Massaro"
 affilation:
 abstract: 
-keywords: []
+keywords:
+  - liberation-theology
+  - climatic-changes
+  - environmental-ethics
+  - christianity
+  - catholic-church
+  - ecology-and-religion
+  - environmentalism
+  - global-warming
+  - intergenerational-relations
+  - pope-2013-2025-francis-laudato-si
+  - technology-philosophy
+  - technology-and-civilization
 pdf: Massaro.pdf
+sort_id:
+volume: 23
+issue: 1
+season: winter
+pages: 65-73
 ---

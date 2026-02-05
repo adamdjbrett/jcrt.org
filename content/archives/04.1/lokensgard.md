@@ -1,11 +1,31 @@
 ---
 title: "THE MATTER OF RESPONSIBILITY: DERRIDA AND GIFTING ACROSS CULTURES"
-article_number:
 author: "Ken Lokensgard"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - exchange-theory-sociology
+  - cross-cultural-studies
+  - christians
+  - indigenous-peoples-of-north-america
+  - europe
+  - economics-and-religion
+  - gifts
+  - jacques
+  - 1930-2004
+  - derrida
+  - language-and-languages-philosophy
+  - marcel
+  - 1872-1950
+  - blackfoot-confederacy-north-american-people
+  - comparative-economics
+  - mauss
 pdf:
+sort_id:
+volume: 4
+issue: 1
+season: winter
+pages:
 ---
 
     Lokensgard - The Matter of Responsibility - JCRT 4.1 

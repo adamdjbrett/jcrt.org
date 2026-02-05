@@ -1,9 +1,16 @@
 ---
-article_number:
 title: "REFRAMING THE ADWA VICTORY AS A DECOLONIZING PRAXIS: DISCOURSE AROUND COLONIZATION IN THE ETHIOPIAN CONTEXT."
 author: "RODE MOLLA"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - colonization
+  - psychoanalysis
+  - ethiopians
 pdf: Molla.pdf
+sort_id:
+volume: 19
+issue: 2
+season: spring
+pages: 452-462
 ---

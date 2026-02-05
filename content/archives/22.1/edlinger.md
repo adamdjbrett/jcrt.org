@@ -1,9 +1,15 @@
 ---
 title: "THE SACRED AS BORDERING PRACTICE."
-article_number:
 author: "ANNA-MARIA EDLINGER"
 affilation:
 abstract: 
-keywords: []
+keywords:
+  - prophecy
+  - sacredness
 pdf:
+sort_id:
+volume: 22
+issue: 1
+season: winter
+pages: 28-44
 ---

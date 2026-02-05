@@ -1,11 +1,32 @@
 ---
 title: "ON CONTAGIONS: LEVITICUS AND THE FASCINATION OF THE ABOMINATION"
-article_number:
 author: "Gerald Majer"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - criticism
+  - bible-leviticus
+  - etc
+  - interpretation
+  - paul
+  - jean-luc
+  - 1913-2005
+  - ricoeur
+  - 1921-2007
+  - 1940-2021
+  - communication-theory
+  - douglas
+  - mary
+  - nancy
+  - purity
+  - ritual-biblical-teaching
+  - sacrifice-biblical-teaching
 pdf:
+sort_id:
+volume: 2
+issue: 2
+season: spring
+pages:
 ---
 
     Majer - On Contagions - JCRT 2.2 

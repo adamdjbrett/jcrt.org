@@ -1,11 +1,29 @@
 ---
 title: "THE BENEFIT OF THE DOUBT: MEROLD WESTPHAL’S PROPHETIC PHILOSOPHY OF RELIGION"
-article_number:
 author: "B Keith Putt"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - belief-and-doubt
+  - postmodernism
+  - religion-philosophy
+  - knowledge
+  - phenomenology
+  - paul
+  - 1913-2005
+  - theory-of-religion
+  - ricoeur
+  - 1888-1965
+  - eliot
+  - merold
+  - t-s-thomas-stearns
+  - westphal
 pdf:
+sort_id:
+volume: 3
+issue: 3
+season: summer
+pages:
 ---
 
     Putt - The Benefit of the Doubt - JCRT 3.3 

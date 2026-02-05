@@ -1,9 +1,17 @@
 ---
-article_number:
 title: "RESEARCHING THE PAST TO WRITE THE PRESENT: ARCHIVAL RESEARCH, CIVIC ENGAGEMENT, AND LIBERAL ARTS ADVOCACY."
 author: "LYDIA E. FERGUSON"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - community-involvement
+  - cultural-property
+  - historical-sites
+  - humanistic-education
 pdf: Ferguson.pdf
+sort_id:
+volume: 16
+issue: 1
+season: winter
+pages: 40-51
 ---

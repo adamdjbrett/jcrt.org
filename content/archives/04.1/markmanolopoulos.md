@@ -1,11 +1,33 @@
 ---
 title: "WHEN MARION’S THEOLOGY SEEKS CERTAINTY"
-article_number:
 author:
 affilation:
 abstract:
-keywords: []
+keywords:
+  - god-philosophy
+  - metaphysics
+  - deconstruction-criticism
+  - orthodoxy
+  - faith
+  - ambiguity
+  - jacques
+  - 1930-2004
+  - derrida
+  - caputo
+  - 1946
+  - jean-luc
+  - marion
+  - 1940
+  - theology-methodology
+  - john-d
+  - cappadocian-fathers
+  - certainty
 pdf:
+sort_id:
+volume: 4
+issue: 1
+season: winter
+pages:
 ---
 
     Manolopolous - When Marion's Theology Seeks Certainty - JCRT 4.1 

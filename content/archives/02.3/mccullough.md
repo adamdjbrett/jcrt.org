@@ -1,11 +1,25 @@
 ---
 title: "JEAN BAUDRILLARD AND THE DEATH OF GOD"
-article_number:
 author: "Lissa McCullough"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - death-of-god-philosophy
+  - image-of-god
+  - christianity
+  - knowledge
+  - theory-of
+  - time-in-religion
+  - 1929-2007
+  - baudrillard
+  - jean
+  - representation-theology
 pdf:
+sort_id:
+volume: 2
+issue: 3
+season: summer
+pages:
 ---
 
     McCullough - Jean Baudrillard and the Death of God - JCRT 2.3 

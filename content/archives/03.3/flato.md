@@ -1,11 +1,15 @@
 ---
 title: "CHRISTIANITY IN JEWISH TERMS"
-article_number:
 author: "Jason M Flato"
 affilation:
 abstract:
 keywords: []
 pdf:
+sort_id:
+volume: 3
+issue: 3
+season: summer
+pages:
 ---
 
     Flato - Book Profile: Christianity in Jewish Terms - JCRT 3.3 

@@ -1,11 +1,29 @@
 ---
 title: "CONTEMPORARY ENCOUNTERS WITH APOPHATIC THEOLOGY: THE CASE OF EMMANUEL LEVINAS"
-article_number:
 author: "Jeffrey L Kosky"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - apophatic-theology
+  - metaphysics
+  - ontology
+  - jacques
+  - 1906-1995
+  - emmanuel
+  - le-vinas
+  - 1930-2004
+  - derrida
+  - phenomenology
+  - theology-methodology
+  - god-knowableness
+  - pseudo-dionysius
+  - the-areopagite
 pdf:
+sort_id:
+volume: 1
+issue: 3
+season: summer
+pages:
 ---
 
     Kosky - Contemporary Encounters with Apophatic Theology - JCRT 1.3 

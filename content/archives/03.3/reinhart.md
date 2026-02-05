@@ -1,11 +1,15 @@
 ---
 title: "ON COSMOPOLITANISM AND FORGIVENESS"
-article_number:
 author: "David Reinhart"
 affilation:
 abstract:
 keywords: []
 pdf:
+sort_id:
+volume: 3
+issue: 3
+season: summer
+pages:
 ---
 
     Reinhart - Why and how does humanity have a capacity for inhumanity? - JCRT 3.3 

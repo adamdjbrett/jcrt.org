@@ -1,11 +1,15 @@
 ---
 title: "THE BOOK OF THE HEART"
-article_number:
 author: "Dorina Miller Parmenter"
 affilation:
 abstract:
 keywords: []
 pdf:
+sort_id:
+volume: 3
+issue: 2
+season: spring
+pages:
 ---
 
     Parmenter - Book Profile: Writing the Medieval Self - JCRT 3.2 

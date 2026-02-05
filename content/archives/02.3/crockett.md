@@ -1,11 +1,15 @@
 ---
 title: "CONTRIBUTIONS TO PHILOSOPHY (FROM ENOWNING)"
-article_number:
 author: "Clayton Crockett"
 affilation:
 abstract:
 keywords: []
 pdf:
+sort_id:
+volume: 2
+issue: 3
+season: summer
+pages:
 ---
 
     Crockett - Review of Heidegger's Contributions to Philosophy - JCRT 2.3 

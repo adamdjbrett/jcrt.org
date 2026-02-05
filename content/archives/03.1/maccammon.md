@@ -1,11 +1,15 @@
 ---
 title: "THE JUST"
-article_number:
 author: "Linda M MacCammon"
 affilation:
 abstract:
 keywords: []
 pdf:
+sort_id:
+volume: 3
+issue: 1
+season: winter
+pages:
 ---
 
      MacCammon - Justice and Fundamental Anthropology - JCRT 3.1 

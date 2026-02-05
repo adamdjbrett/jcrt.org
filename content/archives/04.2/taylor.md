@@ -1,11 +1,27 @@
 ---
 title: "REFUSING THEORY: AVITAL RONELL AND THE STRUCTURE OF STUPIDITY"
-article_number:
 author: "Victor E Taylor"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - postmodernism
+  - criticism-philosophy
+  - knowledge
+  - theory-of
+  - language-and-languages-philosophy
+  - 1925-1995
+  - deleuze
+  - gilles
+  - theory
+  - avital
+  - ronell
+  - stupidity
 pdf:
+sort_id:
+volume: 4
+issue: 2
+season: spring
+pages:
 ---
 
   Taylor - Refusing Theory - JCRT 4.2 

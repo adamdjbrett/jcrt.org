@@ -1,7 +1,11 @@
 ---
-article_number: 01
 affilation:
 abstract:
 keywords: []
 pdf: abstracts.pdf
+sort_id: 01
+volume: 24
+issue: 1
+season: winter
+pages:
 ---

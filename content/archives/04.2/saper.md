@@ -1,11 +1,23 @@
 ---
 title: "OF SPECTACULARIZATION: WRITING NEW MEDIA THEORY"
-article_number:
 author: "Craig J Saper"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - postmodernism
+  - critical-theory
+  - the
+  - spectacular
+  - communication-theory
+  - film-criticism
+  - social-control
+  - theory
 pdf:
+sort_id:
+volume: 4
+issue: 2
+season: spring
+pages:
 ---
 
     Saper - Of Spectacularization - JCRT 4.2 
