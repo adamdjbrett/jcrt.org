@@ -146,10 +146,6 @@ export default async function (eleventyConfig) {
 						"--site _site",
 						'--glob \"**/*.html\"',
 						"--force-language en",
-						// Skip author bio landing pages and the PDFs themselves.
-						'--exclude \"**/bios/index.html\"',
-						'--exclude \"**/bios.html\"',
-						'--exclude \"**/bios.pdf\"',
 					].join(" "),
 					{ encoding: "utf-8" }
 				);
@@ -197,6 +193,11 @@ export default async function (eleventyConfig) {
 	// Single shared markdown-it instance for the "md" template filter (memoized)
 	const mdSimple = new markdownIt({ html: true, breaks: true, linkify: true });
 	eleventyConfig.addFilter("md", memoize((content) => mdSimple.render(content || "")));
+
+	// Override built-in slugify with a memoized version (~25,000 calls saved).
+	const builtinSlugify = eleventyConfig.getFilter("slugify");
+	const memoizedSlugify = memoize((input) => builtinSlugify(input));
+	eleventyConfig.addFilter("slugify", memoizedSlugify);
 
   let options = {
     html: true,
@@ -275,12 +276,8 @@ eleventyConfig.addFilter("getPostsByAuthor", (posts, authorKey) => {
         });
     });
 
-	// Copy static archive assets (PDFs/images) so /archives/* links resolve.
-	// Copying the full directory (incl. markdown) is slow and can be unstable in --serve.
-	eleventyConfig.addPassthroughCopy("content/archives/**/*.pdf", { concurrency: 16 });
-	eleventyConfig.addPassthroughCopy("content/archives/**/*.{jpg,jpeg,png,gif,webp,svg}", {
-		concurrency: 16,
-	});
+	// Archive PDFs & images are pre-copied by scripts/pre-copy-assets.sh (hardlinks)
+	// before Eleventy runs. This is ~10s faster than Eleventy's passthrough copy for 637 files / 211MB.
 eleventyConfig.addCollection("archives", function(collectionApi) {
         return collectionApi.getFilteredByGlob("content/archives/**/*.md");
     });
@@ -321,9 +318,31 @@ eleventyConfig.addCollection("archives", function(collectionApi) {
 
 	// Image optimization: transforms <img> tags to responsive formats.
 	// In --serve mode, images are only processed on-request for speed.
+	// Skip external/remote URLs—many legacy archive pages reference images on
+	// jcrt.org or other hosts that no longer exist (404), so attempting to fetch
+	// them wastes time and can cause fatal build errors.
+	// Use `failOnError: false` so 404 images don't crash the build.
+
+	// Pre-transform: mark remote <img> tags with eleventy:ignore so the image
+	// plugin skips them entirely (avoids wasted HTTP 404 requests).
+	eleventyConfig.htmlTransformer.addPosthtmlPlugin("html", (context) => {
+		return (tree) => {
+			tree.match({ tag: "img" }, (node) => {
+				const src = node.attrs?.src || "";
+				if (src.startsWith("http://") || src.startsWith("https://") || src.startsWith("//")) {
+					node.attrs = node.attrs || {};
+					node.attrs["eleventy:ignore"] = "";
+				}
+				return node;
+			});
+			return tree;
+		};
+	}, { priority: 0 }); // 0 > -1, so this runs BEFORE image transform at -1 (descending sort)
+
 	eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
 		extensions: "html",
 		formats: ["avif", "webp", "auto"],
+		failOnError: false,
 		defaultAttributes: {
 			loading: "lazy",
 			decoding: "async",
