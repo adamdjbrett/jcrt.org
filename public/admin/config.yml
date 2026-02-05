@@ -98,7 +98,8 @@ collections:
     label: "Author Profiles"
     folder: "content/authors"
     create: true
-    slug: "{{title | slug}}"
+    identifier_field: "key"
+    slug: "{{key}}"
     fields:
       - {label: "Title", name: "title", widget: "string", hint: "Full name of the author."}
       - {label: "Description", name: "description", widget: "string", hint: "Description of authors example University of Denver."}
@@ -135,18 +136,19 @@ collections:
     label: "Archives"
     folder: "content/archives"
     create: true
-    path: "{{volume}}.{{issue}}/index"
-    slug: "{{title | slug}}"
-    editor:
-      preview: false
+    path: "{{volume}}.{{issue}}/{{slug}}" 
+    extension: "md"
+    format: "frontmatter"
     fields:
-      - {label: "Volume", name: "volume", widget: "string", hint: "Contoh: 01"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "archives.njk"}
+      - {label: "Article Number", name: "article_number", widget: "string", hint: "Gunakan 01, 02, dst (Poin 7 Adam)"}
+      - {label: "Volume", name: "volume", widget: "string", hint: "Contoh: 24"}
       - {label: "Issue", name: "issue", widget: "string", hint: "Contoh: 1"}
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Author Name", name: "author", widget: "string", hint: "Nama lengkap penulis"}
+      - {label: "Affiliation", name: "affiliation", widget: "string", required: false, hint: "Poin 8 Adam"}
       - {label: "Description", name: "description", widget: "text"}
-      - {label: "Image", name: "image", widget: "image"}
-      - {label: "PDF", name: "pdf", widget: "file"}
-      - {label: "Authors_key", name: "authors", widget: "string"}
+      - {label: "PDF File", name: "pdf", widget: "file", required: false, hint: "Poin 5 Adam"}
       - {label: "Body", name: "body", widget: "markdown", required: false}
   - name: "metadata"
     label: "Metadata"
