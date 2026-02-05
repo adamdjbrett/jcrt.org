@@ -1,9 +1,0 @@
-[build]
-	publish = "_site"
-	command = "npm run build"
-
-# Cache the archive assets across builds so PDFs don't re-copy every deploy
-[[plugins]]
-  package = "netlify-plugin-cache"
-  [plugins.inputs]
-    paths = ["_site/archives"]

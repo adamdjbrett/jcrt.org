@@ -19,10 +19,9 @@ permissions:
 
 env:
   ELEVENTY_RUN_MODE: build
-  # Use cached theory data - skip GitHub ZIP download
+  NODE_OPTIONS: "--max-old-space-size=8192"
+  # Use cached theory data — skip GitHub ZIP download in CI
   USE_CACHED_THEORY: "1"
-  # Skip HTML transforms in CI for speed
-  FAST_BUILD: "1"
 
 jobs:
   deploy:
@@ -32,15 +31,30 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          lfs: true
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
           cache: 'npm'
+
+      # Cache the Eleventy build output (.cache for eleventy-img, etc.)
+      - name: Cache Eleventy
+        uses: actions/cache@v4
+        with:
+          path: |
+            .cache
+          key: eleventy-cache-${{ runner.os }}-${{ hashFiles('content/archives/**/*.pdf') }}
+          restore-keys: |
+            eleventy-cache-${{ runner.os }}-
 
       - name: Install dependencies
         run: npm ci --prefer-offline --no-audit --no-fund
+
+      - name: Pre-copy archive assets (hardlinks)
+        run: bash scripts/pre-copy-assets.sh
 
       - name: Build site
         run: |
@@ -48,6 +62,7 @@ jobs:
           npx @11ty/eleventy --quiet
           end_time=$(date +%s%3N)
           echo "⚡ Build completed in $((end_time - start_time))ms"
+          echo "📦 Output: $(find _site -type f | wc -l) files, $(du -sh _site | cut -f1)"
 
       - name: Deploy to XMIT
         env:
@@ -60,8 +75,3 @@ jobs:
 
       - name: Summary
         run: echo "✅ Deployed to https://${{ env.XMIT_SITE }}"
-    #       tar -czf site.tar.gz -C _site .
-    #       curl -f -X POST \
-    #         -H "Authorization: Bearer $XMIT_KEY" \
-    #         -F "bundle=@site.tar.gz" \
-    #         https://api.xmit.example/deploy?site=$XMIT_SITE
