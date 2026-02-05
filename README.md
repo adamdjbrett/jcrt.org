@@ -123,3 +123,6 @@ belong to the previous footnote.
 7. give each /archives/ entry keywords automated using the .json in _data for inspiration
 9. ensure all authors have an author page with affiliation - create and automate like we did for journal-thenewpolis
 author pages should have as front matter: name, affiliation, orcid, bio, show all /archives, /blogs, /religioustheory with headers listed below bio and orcid
+
+## Before Launch
+1. run ```git lfs migrate import``` everyone then reclone repo, clean up space
