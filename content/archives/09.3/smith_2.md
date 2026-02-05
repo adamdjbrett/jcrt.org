@@ -6,5 +6,4 @@ affilation:
 abstract: 
 keywords: []
 pdf: smith.pdf
-pdf: smith.pdf
 ---

@@ -6,5 +6,4 @@ affilation:
 abstract: "The article critiques the film"
 keywords: []
 pdf: aldinger.pdf
-pdf: aldinger.pdf
 ---

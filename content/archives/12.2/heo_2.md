@@ -6,5 +6,4 @@ affilation:
 abstract: 
 keywords: []
 pdf: heo.pdf
-pdf: heo.pdf
 ---

@@ -6,5 +6,4 @@ affilation:
 abstract: 
 keywords: []
 pdf: mackendrick.pdf
-pdf: mackendrick.pdf
 ---

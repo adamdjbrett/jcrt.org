@@ -6,5 +6,4 @@ affilation:
 abstract: 
 keywords: []
 pdf: fong.pdf
-pdf: fong.pdf
 ---

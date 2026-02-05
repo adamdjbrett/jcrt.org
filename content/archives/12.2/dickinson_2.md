@@ -6,5 +6,4 @@ affilation:
 abstract: 
 keywords: []
 pdf: dickinson.pdf
-pdf: dickinson.pdf
 ---

@@ -6,5 +6,4 @@ affilation:
 abstract: 
 keywords: []
 pdf: crockett.pdf
-pdf: crockett.pdf
 ---

@@ -6,5 +6,4 @@ affilation:
 abstract: 
 keywords: []
 pdf: goodchild.pdf
-pdf: goodchild.pdf
 ---
