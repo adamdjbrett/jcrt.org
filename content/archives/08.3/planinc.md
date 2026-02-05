@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "READING THE MERCHANT OF VENICE THROUGH ADORNO"
+author: "Zdravko Planinc"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "TRUTH AND GENESIS: PHILOSOPHY AS DIFFERENTIAL ONTOLOGY"
+author: "Matthew S Linck"
 affilation:
 abstract:
 keywords: []

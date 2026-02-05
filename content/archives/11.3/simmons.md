@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "IN WHOM, THEN, DO WE PUT TRUST?"
+author: "J Aaron Simmons"
 affilation:
 abstract:
 keywords: []

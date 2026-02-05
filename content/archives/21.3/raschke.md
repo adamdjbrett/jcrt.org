@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "A CRITICAL CONVERSATION ON “POLITICAL ERASURE”"
+author: "Arthur Bradley; Carl A. Raschke; Roger Green"
 affilation:
 abstract:
 keywords: []

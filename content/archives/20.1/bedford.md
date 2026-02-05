@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "BUSHWHACKING DERRIDA: PERCEPTION"
+author: "GARY BEDFORD"
 affilation:
 abstract:
 keywords: []

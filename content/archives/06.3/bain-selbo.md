@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "TRUE TO LIFE: WHY TRUTH MATTERS"
+author: "Eric Bain-Selbo"
 affilation:
 abstract:
 keywords: []

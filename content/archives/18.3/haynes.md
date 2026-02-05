@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "TOWARD DECOLONIZING PHILOSOPHY OF RELIGION: THINKING HERETICALLY WITH AFRICAN INDIGENOUS RELIGIONS."
+author: "PATRICE HAYNES"
 affilation:
 abstract:
 keywords: []

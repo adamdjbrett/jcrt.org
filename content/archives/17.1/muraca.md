@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THEOLOGY AS THE PRACTICE OF (RADICAL) ALTERNATIVES: A CHOREOGRAPHIC ENCOUNTER WITH CLOUD OF THE IMPOSSIBLE."
+author: "BARBARA MURACA"
 affilation:
 abstract:
 keywords: []

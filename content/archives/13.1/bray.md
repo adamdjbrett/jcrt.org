@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "EXPLORING THE DECOLONIAL IMAGINARY: FOUR TRANSNATIONAL LIVES."
+author: "KAREN BRAY"
 affilation:
 abstract:
 keywords: []

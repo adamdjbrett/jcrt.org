@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "FREUD’S SOCIOGENESIS, AND OURS: THE"
+author: "ALAN JAY RICHARD"
 affilation:
 abstract:
 keywords: []

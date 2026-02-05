@@ -1,7 +1,7 @@
 ---
-title: "Book Profile"
+title: "MUSLIMS: THEIR RELIGIOUS BELIEFS AND PRACTICES"
 article_number:
-author:
+author: "Liyakatali Takim"
 affilation:
 abstract:
 keywords: []
@@ -14,16 +14,16 @@ pdf:
 
 Andrew Rippin, _Muslims: Their Religious Beliefs and Practices_. London: Routledge, 2001. 346 pages. Second edition. ISBN 0-415-21782-2.
 
-\[an error occurred while processing this directive\]
+
 
 Liyakatali Takim  
 University of Denver
 
 * * *
 
-![T](https://jcrt.org/images/alpha/T.gif) he book is a revised edition of the author's first work that was published in two volumes. Designed as a textbook for students in Islam the book consists of seventeen chapters covering different topics related to the teaching of Islam in a department of religious studies. The period covered includes the emergence of Islam in seventh century Arabia, the formation and consolidation of Islamic identity in the classical period of Islam extending to the modern vision and re-vision of Islam. The intent of the author is to examine the beliefs and practices of Muslims in their social, cultural and historical settings and the integration of these diverse factors in the formation of the Islamic tradition. His discussion shows why Islam should not be regarded as a monolithic entity. The author also attempts to redress what he claims to be a lack of critical analysis that is apparent in many introductory textbooks on Islam (pg 1). Thus he discusses not only the crystallization of Muslim beliefs and practices but also, by examining the textual sources, the literary formation of Islam in its classical heritage � a remnant of the orientalist approach to the study of Islamic civilization.
+T he book is a revised edition of the author's first work that was published in two volumes. Designed as a textbook for students in Islam the book consists of seventeen chapters covering different topics related to the teaching of Islam in a department of religious studies. The period covered includes the emergence of Islam in seventh century Arabia, the formation and consolidation of Islamic identity in the classical period of Islam extending to the modern vision and re-vision of Islam. The intent of the author is to examine the beliefs and practices of Muslims in their social, cultural and historical settings and the integration of these diverse factors in the formation of the Islamic tradition. His discussion shows why Islam should not be regarded as a monolithic entity. The author also attempts to redress what he claims to be a lack of critical analysis that is apparent in many introductory textbooks on Islam (pg 1). Thus he discusses not only the crystallization of Muslim beliefs and practices but also, by examining the textual sources, the literary formation of Islam in its classical heritage ' a remnant of the orientalist approach to the study of Islamic civilization.
 
-3.  As the author admits, the scope and length of the book necessitate that he merely sketch out rather than fully argue for the material he presents (pg. 2). The large amount of material covered inevitably means that important issues are treated in a rather cursory manner and significant details are compromised. The section of Sufism, for example, has no mention of the contribution of eminent mystical figures like Rabi�a al-�Adawiya and Jalal al-din Rumi. If the work is to be used as a textbook for an introductory course in Islam, supplementary readings like Frederick Denny's _Introduction to Islam_ or John Esposito's _Islam_ will be required to provide a more nuanced discussion of the subject matter and to fill significant gaps that appear in the topics covered in this work.
+3.  As the author admits, the scope and length of the book necessitate that he merely sketch out rather than fully argue for the material he presents (pg. 2). The large amount of material covered inevitably means that important issues are treated in a rather cursory manner and significant details are compromised. The section of Sufism, for example, has no mention of the contribution of eminent mystical figures like Rabi'a al-'Adawiya and Jalal al-din Rumi. If the work is to be used as a textbook for an introductory course in Islam, supplementary readings like Frederick Denny's _Introduction to Islam_ or John Esposito's _Islam_ will be required to provide a more nuanced discussion of the subject matter and to fill significant gaps that appear in the topics covered in this work.
     
 4.  In the recent works on Islam, Rippin's work stands out as a continuation of the now epistemologically questionable orientalist methodology of relying on the textual evidence without paying attention to the people who experience Islam. The works written by John Wansbrough, Gerald Hawting, Patricia Crone and Norman Calder on interpreting the textual data show the problem of essentialism in speaking about the cultural other.
     
@@ -37,9 +37,9 @@ University of Denver
     
 9.  The author's critical approach to the early sources also leads him to claim that in the early period of Islam, the basic Muslim creed (_shahada_) had yet to reach its mature formulation. He reaches this conclusion based on inscriptions on coins from the late seventh century. However, the absence of certain inscriptions on coins cannot be construed as indicating the lack of a systematic formulation of an article of faith which, after all, emerges directly from the Qur'an. It should also be born in mind that inscriptions on coins or on the dome of the rock do not necessarily attest to prevalent Muslim beliefs.
     
-10.  Rippin's discussion on how the Qur'an and traditions of Muhammad interacted to create the disciplines of Islamic law, theology and mysticism appears to compartmentalize rather than connect issues. Theological discussions (especially those pertaining to beliefs regarding free will and the createdness of the Qur'an) had political underpinnings, often serving the purpose of legitimizing the ruling elite. The Murji�ite doctrine of postponing the decision on the fate of the sinful Muslim, for example, was connected to supporting the Umayyad rulers of the time. The Mu�tazili emphasis on the doctrine of enjoining the good and forbidding the evil (_amr bi'l ma_�_ruf_) emerged from the Zaydi concept of a politically active leadership. Similarly, the rise of Sufism was a corollary to the worldly outlook of Muslim rulers. The intertwining of these fields and their political ramifications are overlooked by the author.
+10.  Rippin's discussion on how the Qur'an and traditions of Muhammad interacted to create the disciplines of Islamic law, theology and mysticism appears to compartmentalize rather than connect issues. Theological discussions (especially those pertaining to beliefs regarding free will and the createdness of the Qur'an) had political underpinnings, often serving the purpose of legitimizing the ruling elite. The Murji'ite doctrine of postponing the decision on the fate of the sinful Muslim, for example, was connected to supporting the Umayyad rulers of the time. The Mu'tazili emphasis on the doctrine of enjoining the good and forbidding the evil (_amr bi'l ma_'_ruf_) emerged from the Zaydi concept of a politically active leadership. Similarly, the rise of Sufism was a corollary to the worldly outlook of Muslim rulers. The intertwining of these fields and their political ramifications are overlooked by the author.
      
-11.  The work also has some factual errors that need correction. The author's statement that that there are no sources that can be trusted to be fully reliable to give information on the doctrinal stance and beliefs of the Shi�a prior to the tenth century is historically incorrect. Ninth century extant doctrinal and polemical Shi�i works like Fadl b. Shadhan's (d. 873) _Kitab al-Idah_ and Hasan al-Saffar's (d. 903) _Basa'ir al-Darajat_ articulate Shi�i beliefs and doctrines even before the minor occultation of the twelfth imam in 874 C.E.. Furthermore, Shi�i doctrinal positions are interspersed in ninth century Sunni biographical, polemical and heresiographical works like those of Ibn Sa�d's _Tabaqat_, the Mu�tazili al-Khayyat's _Kitab al-Intisar_, and al-Fasawi's _Kitab al-Ma_�_rifa_. The refutation of Shi�i beliefs in ninth century Sunni sources is sufficient evidence of the mature formulation of Shi�i beliefs in the eighth and ninth centuries.
+11.  The work also has some factual errors that need correction. The author's statement that that there are no sources that can be trusted to be fully reliable to give information on the doctrinal stance and beliefs of the Shi'a prior to the tenth century is historically incorrect. Ninth century extant doctrinal and polemical Shi'i works like Fadl b. Shadhan's (d. 873) _Kitab al-Idah_ and Hasan al-Saffar's (d. 903) _Basa'ir al-Darajat_ articulate Shi'i beliefs and doctrines even before the minor occultation of the twelfth imam in 874 C.E.. Furthermore, Shi'i doctrinal positions are interspersed in ninth century Sunni biographical, polemical and heresiographical works like those of Ibn Sa'd's _Tabaqat_, the Mu'tazili al-Khayyat's _Kitab al-Intisar_, and al-Fasawi's _Kitab al-Ma_'_rifa_. The refutation of Shi'i beliefs in ninth century Sunni sources is sufficient evidence of the mature formulation of Shi'i beliefs in the eighth and ninth centuries.
      
 
 * * *
@@ -48,10 +48,10 @@ University of Denver
 
 * * *
 
-> \[an error occurred while processing this directive\]
+> 
 
 * * *
 
-\[an error occurred while processing this directive\] [�](https://jcrt.org/copyright.shtml) 2001 Liyakatali Takim. All rights reserved.  
-Updated 07/28/21. [Feedback](https://jcrt.org/contact.html).  
+ ['](https://jcrt.org/copyright.shtml) 2001 Liyakatali Takim. All rights reserved.  
+Updated 07/28/21.   
 http://jcrt.org/archives/02.3/takim.shtml

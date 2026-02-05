@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE WEAKNESS OF GOD...AND OF THEOLOGICAL THOUGHT FOR THAT MATTER: ACTA EST FABULA PLAUDITE"
+author: "Carl A. Raschke"
 affilation:
 abstract:
 keywords: []

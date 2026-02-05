@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "TRAVERSING W.H. AUDEN’S RELIGIOUS AND AESTHETIC STATES."
+author: "RAJI SINGH SONI"
 affilation:
 abstract:
 keywords: []

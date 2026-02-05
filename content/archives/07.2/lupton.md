@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "HANNAH ARENDT’S RENAISSANCE: REMARKS ON NATALITY"
+author: "Julia Reinhard Lupton"
 affilation:
 abstract:
 keywords: []

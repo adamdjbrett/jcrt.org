@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "ST. PAUL AND THE EVENT"
+author: "Clayton Crockett"
 affilation:
 abstract:
 keywords: []

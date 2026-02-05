@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "IMPOSSIBLE GOD: DERRIDA’S THEOLOGY"
+author: "Apple Zefelius Igrek"
 affilation:
 abstract:
 keywords: []

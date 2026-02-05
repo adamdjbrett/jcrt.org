@@ -1,0 +1,15 @@
+---
+title: "BEYOND THE PULPIT: WOMEN’S RHETORICAL ROLES IN THE ANTEBELLUM RELIGIOUS PRESS."
+article_number:
+author: "KERRIE L. CARSEY"
+affilation:
+abstract: 
+keywords: []
+pdf:
+---
+
+# BEYOND THE PULPIT: WOMEN’S RHETORICAL ROLES IN THE ANTEBELLUM RELIGIOUS PRESS.
+
+KERRIE L. CARSEY
+
+https://research.ebsco.com/plink/09f87666-d273-34a6-b0fb-b5435439684e

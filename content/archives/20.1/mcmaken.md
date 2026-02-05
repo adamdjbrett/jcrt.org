@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE ULTIMATE AND THE PENULTIMATE: BONHOEFFER’S TWOFOLD CONTEXTUALISM AND ADJUDICATING BETWEEN COMPETING ETHICAL CLAIMS."
+author: "W. TRAVIS MCMAKEN"
 affilation:
 abstract:
 keywords: []

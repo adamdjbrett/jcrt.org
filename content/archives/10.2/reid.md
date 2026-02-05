@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "H.D. AND THE ARCHAEOLOGY OF RELIGION"
+author: "Colbey Emmerson-Reid"
 affilation:
 abstract:
 keywords: []

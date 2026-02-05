@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "WHO OWNS NATIVE CULTURE?"
+author: "Kenneth H Lokensgard"
 affilation:
 abstract:
 keywords: []

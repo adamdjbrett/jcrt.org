@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE ANTHROPOLOGIC EYE: H.D.‘S CALL FOR A NEW POETICS"
+author: "Lisa Simon"
 affilation:
 abstract:
 keywords: []

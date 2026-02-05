@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "BEGINNING TO THINK"
+author: "Jeffrey W Robbins"
 affilation:
 abstract:
 keywords: []

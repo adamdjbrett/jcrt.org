@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "COUNTERPATH: TRAVELLING WITH JACQUES DERRIDA"
+author: "Mark Cauchi"
 affilation:
 abstract:
 keywords: []

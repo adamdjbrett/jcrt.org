@@ -1,9 +1,9 @@
 ---
 article_number:
-title:
-author:
+title: "THE AUTONOMY OF THE NOW: CHRISTIANITY, SECULARISM, SUBJECTIVITY."
+author: "TIMOTHY SNEDIKER"
 affilation:
-abstract:
+abstract: "An essay concerning the autonomy of Christianity, secularism, and subjectivity."
 keywords: []
 pdf:
 ---

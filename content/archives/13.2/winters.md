@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "RELIGION AND HIP HOP."
+author: "JOSEPH WINTERS"
 affilation:
 abstract:
 keywords: []

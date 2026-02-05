@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "TSIMTSUM IN LIFE OF PI."
+author: "DANIEL REISER"
 affilation:
 abstract:
 keywords: []

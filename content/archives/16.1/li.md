@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "CIVIC ENGAGEMENTS THROUGH A TRANSDUCTIVE DISCOURSE OF CARE."
+author: "HUI-CHUN LI"
 affilation:
 abstract:
 keywords: []

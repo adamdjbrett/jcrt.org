@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "ON BECOMING A RADICAL THEOLOGIAN."
+author: "RICHARD L. RUBENSTEIN"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "DÉCONSTRUCTION DU CHRISTIANISME 1 LA DÉCLOSION"
+author: "Adam Kotsko"
 affilation:
 abstract:
 keywords: []

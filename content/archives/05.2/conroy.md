@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "RELIGION AND MEDIA"
+author: "Melissa Conroy"
 affilation:
 abstract:
 keywords: []

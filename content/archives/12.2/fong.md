@@ -1,9 +1,9 @@
 ---
 article_number:
-title:
-author:
+title: "SPHERES, VOLUME ONE: BUBBLES."
+author: "BENJAMIN FONG"
 affilation:
-abstract:
+abstract: "The article reviews the book"
 keywords: []
 pdf:
 ---

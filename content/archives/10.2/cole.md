@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "SYMPTOM OR INSPIRATION?: H.D., FREUD AND, THE QUESTION OF VISION"
+author: "Merrill Cole"
 affilation:
 abstract:
 keywords: []

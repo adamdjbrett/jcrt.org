@@ -1,9 +1,9 @@
 ---
+title: "THE RADICAL EVIL OF DECONSTRUCTION: A REPLY TO JOHN CAPUTO"
 article_number:
-title:
-author:
+author: "Martin Hägglund"
 affilation:
-abstract:
+abstract: 
 keywords: []
 pdf:
 ---

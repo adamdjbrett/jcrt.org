@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "ALTIZER AND DELEUZE: MATERIAL METAPHYSICS FOR DISASTROUS TIMES."
+author: "PETRA CARLSSON REDELL"
 affilation:
 abstract:
 keywords: []

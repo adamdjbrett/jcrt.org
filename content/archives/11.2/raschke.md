@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE MONSTROSITY OF ŽIŽEK’S CHRISTIANITY"
+author: "Carl A. Raschke"
 affilation:
 abstract:
 keywords: []

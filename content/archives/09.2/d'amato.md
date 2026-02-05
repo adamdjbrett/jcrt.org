@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "BUDDHISM, APOPHASIS, TRUTH"
+author: "Mario D'Amato"
 affilation:
 abstract:
 keywords: []

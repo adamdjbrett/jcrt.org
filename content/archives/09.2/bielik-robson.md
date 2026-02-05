@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE TRAPS OF THE SUBLIME"
+author: "Agata Bielik-Robson"
 affilation:
 abstract:
 keywords: []

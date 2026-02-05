@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "OUT OF THIS WORLD: DELEUZE AND THE PHILOSOPHY OF CREATION"
+author: "Joshua Delpech-Ramey"
 affilation:
 abstract:
 keywords: []

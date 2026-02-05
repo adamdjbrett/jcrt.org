@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "DERRIDA, SAID, AND INFINITY"
+author: "Geoffrey Galt Harpham"
 affilation:
 abstract:
 keywords: []

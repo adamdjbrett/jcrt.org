@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "BIO-PAULITICS"
+author: "Arne De Boever"
 affilation:
 abstract:
 keywords: []

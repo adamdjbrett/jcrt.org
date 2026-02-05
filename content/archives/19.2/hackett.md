@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE CURIOUS WHITEHEADIAN PROCLIVITY IN SCHELER’S ACCOUNT OF GOD AND PERSONS."
+author: "J. EDWARD HACKETT"
 affilation:
 abstract:
 keywords: []

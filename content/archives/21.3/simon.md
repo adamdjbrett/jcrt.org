@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "MORMONISM AND THE WHITE POSSESSIVE: MOVING CRITICAL INDIGENOUS STUDIES THEORY INTO THE RELIGIOUS REALM."
+author: "HEMOPEREKI SIMON"
 affilation:
 abstract:
 keywords: []

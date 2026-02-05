@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "DARWIN’S CATHEDRAL: EVOLUTION, RELIGION, AND THE NATURE OF SOCIETY"
+author: "John Hinshaw"
 affilation:
 abstract:
 keywords: []

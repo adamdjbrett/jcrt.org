@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE “NEW HEGEL” AND THE QUESTION OF GOD"
+author: "GAVIN HYMAN"
 affilation:
 abstract:
 keywords: []

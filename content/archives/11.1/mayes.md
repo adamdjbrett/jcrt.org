@@ -1,9 +1,9 @@
 ---
+title: "THE VIOLENCE OF CARE: AN ANALYSIS OF FOUCAULT’S PASTOR"
 article_number:
-title:
-author:
+author: "Christopher Mayes"
 affilation:
-abstract:
+abstract: 
 keywords: []
 pdf:
 ---

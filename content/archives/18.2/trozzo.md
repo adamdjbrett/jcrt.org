@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "JOHN THE POSSIBILIZER: THE PROMISE OF A KEARNIAN BAPTISMAL HERMENEUTIC."
+author: "ERIC TROZZO"
 affilation:
 abstract:
 keywords: []

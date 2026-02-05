@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE PASSION OF THE CHRIST"
+author: "Gabriel Vahanian"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "BORN AGAIN BODIES: FLESH AND SPIRIT IN AMERICAN CHRISTIANITY"
+author: "Aaron V Burton"
 affilation:
 abstract:
 keywords: []

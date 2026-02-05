@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "NORMATIVE ENCOUNTERS: A RADICAL PROPOSAL FOR PHILOSOPHY OF RELIGION."
+author: "BRADLEY ONISHI"
 affilation:
 abstract:
 keywords: []

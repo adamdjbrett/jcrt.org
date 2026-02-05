@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "CAPITALISM AND RELIGION: THE PRICE OF PIETY"
+author: "Lars Iyer"
 affilation:
 abstract:
 keywords: []

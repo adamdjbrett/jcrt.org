@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "WILLIAM JAMES AND THE SCIENCE OF RELIGIONS: REEXPERIENCING THE VARIETIES OF RELIGIOUS EXPERIENCE"
+author: "Oz Lorentzen"
 affilation:
 abstract:
 keywords: []

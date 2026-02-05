@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE POLITICS OF FEAR AND THE GOSPEL OF LIFE"
+author: "Daniel M Jr Bell"
 affilation:
 abstract:
 keywords: []

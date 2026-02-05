@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "AMERICA AND THE CHALLENGES OF RELIGIOUS DIVERSITY"
+author: "Robert E Alvis"
 affilation:
 abstract:
 keywords: []

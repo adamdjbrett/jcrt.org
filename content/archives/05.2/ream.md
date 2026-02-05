@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "AUGUSTINE AND MODERNITY"
+author: "Todd Ream"
 affilation:
 abstract:
 keywords: []

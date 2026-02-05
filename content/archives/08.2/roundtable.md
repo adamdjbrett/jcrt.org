@@ -1,9 +1,9 @@
 ---
+title: "A ROUNDTABLE ON GLOBALIZATION"
 article_number:
-title:
-author:
+author: "Gianni Vattimo; Charles Taylor; Richard Rorty"
 affilation:
-abstract:
+abstract: 
 keywords: []
 pdf:
 ---

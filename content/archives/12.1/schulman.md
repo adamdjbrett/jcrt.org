@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "SORTING OUT BIOPOLITICS"
+author: "Alex Schulman"
 affilation:
 abstract:
 keywords: []

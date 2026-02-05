@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "NIHILISM ON A ROLLERCOASTER?"
+author: "Ian McPherson"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE VIOLENCE OF CLASSIFICATION AND ETHICS OF SUICIDE: A REFLECTION ON QIU JIN’S DEATH"
+author: "Genn Ruan; Xiaoqian Zhang"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "ON BULLSHIT"
+author: "Berel Dov Lerner"
 affilation:
 abstract:
 keywords: []

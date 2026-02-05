@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "ALTIZER’S APOCALYPTIC JESUS."
+author: "THEODORE W. JENNINGS"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "LOVE AMONG THE DECONSTRUCTIBLES: A RESPONSE TO GREGG LAMBERT"
+author: "John D Caputo"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "TRAGIC THOUGHTS AT THE END OF PHILOSOPHY: LANGUAGE, LITERATURE AND ETHICAL THEORY"
+author: "Daniel L Tate"
 affilation:
 abstract:
 keywords: []

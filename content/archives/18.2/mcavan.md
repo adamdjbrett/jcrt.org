@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "SPRING IN ITALY: ANNA KARENINA AND THE GOD WHO MAY BE."
+author: "EMILY McAVAN"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE PROBLEM OF EVIL AND THE PROBLEM OF GOD"
+author: "Hermen Kroesbergen"
 affilation:
 abstract:
 keywords: []

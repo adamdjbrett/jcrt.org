@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "GODHEAD AND THE NOTHING"
+author: "Apple Zefelius Igrek"
 affilation:
 abstract:
 keywords: []

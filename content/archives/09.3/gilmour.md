@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE PARABLES OF DR. SEUSS"
+author: "Michael J Gilmour"
 affilation:
 abstract:
 keywords: []

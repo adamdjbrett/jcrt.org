@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "FREEDOM AND ORTHODOXY: ISLAM AND DIFFERENCE IN THE POST-ANDALUSIAN AGE"
+author: "Vincent F Biondo"
 affilation:
 abstract:
 keywords: []

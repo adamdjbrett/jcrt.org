@@ -1,9 +1,9 @@
 ---
+title: "ON THE PERSISTENCE OF CYNIC MOTIFS"
 article_number:
-title:
-author:
+author: "Sophie Fuggle"
 affilation:
-abstract:
+abstract: 
 keywords: []
 pdf:
 ---

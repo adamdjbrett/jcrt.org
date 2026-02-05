@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE CIVIC HUMANITIES AND THE CRISIS OF NEOLIBERALISM."
+author: "CARL RASCHKE"
 affilation:
 abstract:
 keywords: []

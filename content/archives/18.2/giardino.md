@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "DIVINE ABSENCE AS DIVINE PRESENCE."
+author: "JOSHUA GIARDINO"
 affilation:
 abstract:
 keywords: []

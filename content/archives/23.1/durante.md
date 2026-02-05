@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "RELIGIOUS FAITH IN PURSUIT OF ENVIRONMENTAL JUSTICE."
+author: "CHRIS DURANTE"
 affilation:
 abstract:
 keywords: []

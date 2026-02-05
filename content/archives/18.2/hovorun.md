@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "FROM CHRISTOLOGY TO POLITICAL THEOLOGY."
+author: "CYRIL HOVORUN"
 affilation:
 abstract:
 keywords: []

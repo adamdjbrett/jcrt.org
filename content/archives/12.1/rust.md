@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "POLITICAL THEOLOGY: SACRED FLESH AND SOCIAL FORM"
+author: "Jennifer R Rust"
 affilation:
 abstract:
 keywords: []

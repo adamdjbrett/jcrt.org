@@ -1,9 +1,9 @@
 ---
 article_number:
-title:
-author:
+title: "JEAN-PAUL SARTRE, NOTEBOOKS FOR AN ETHICS: THE ONTOLOGY OF THE GIFT."
+author: "RUUD WELTEN"
 affilation:
-abstract:
+abstract: "The article examines some passages on the gift as they appear in the book"
 keywords: []
 pdf:
 ---

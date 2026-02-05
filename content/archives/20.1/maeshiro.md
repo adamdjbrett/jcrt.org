@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "MODERN THEOLOGY AND THE DIALECTIC OF GOD."
+author: "KELLY MAESHIRO"
 affilation:
 abstract:
 keywords: []

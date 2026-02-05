@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "FOLLOWING THE WORDS: HEIDEGGER’S ACCOUNT OF RELIGION AS NACHFOLGE"
+author: "Robert D Metcalf"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "SPACED AND PLACED: HETERO-‘TOPIC’ INTERPRETATIONS OF THE WARSAW GHETTO."
+author: "MADISON TARLETON"
 affilation:
 abstract:
 keywords: []

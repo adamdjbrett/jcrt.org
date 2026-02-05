@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "RECLAIMING THE ENLIGHTENMENT: TOWARD A POLITICS OF RADICAL ENGAGEMENT"
+author: "Gary Grieve-Carlson"
 affilation:
 abstract:
 keywords: []

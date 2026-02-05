@@ -1,7 +1,7 @@
 ---
-title: "JUDUL TIDAK DITEMUKAN - PERLU EDIT MANUAL"
+title: "HETEROLOGICAL HISTORY: A CONVERSATION"
 article_number:
-author:
+author: "Edith Wyschogrod; Carl A. Raschke"
 affilation:
 abstract:
 keywords: []
@@ -1846,7 +1846,7 @@ theMenu.entry\[level1ID\].multiLine = true;
 
 level1ID = theMenu.addEntry (level1ID, "Folder", "Talk", "", "");
 
-level2ID = theMenu.addChild (level1ID, "Document", "Heterological History: A Conversation", "wyschogrod\_raschke.shtml", "Edith Wyschogrod and Carl Raschke");
+level2ID = theMenu.addChild (level1ID, "Document", "Heterological History: A Conversation", "wyschogrod\_raschke.shtml", "Edith Wyschogrod and Carl A. Raschke");
 
 theMenu.entry\[level2ID\].multiLine = true;
 

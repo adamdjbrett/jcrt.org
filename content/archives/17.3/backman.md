@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE ONE IS NOT - ON THE FATE OF UNITY IN POST-METAPHYSICAL PHILOSOPHY."
+author: "JUSSI BACKMAN"
 affilation:
 abstract:
 keywords: []

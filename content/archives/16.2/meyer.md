@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "BEYOND ECOLOGICAL DEMOCRACY: BLACK FEMINIST THOUGHT AND THE END OF MAN."
+author: "ERIC DARYL MEYER"
 affilation:
 abstract:
 keywords: []

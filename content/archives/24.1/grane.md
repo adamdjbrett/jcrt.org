@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "FAITH AND TRANSITIONS: RELIGIOUS NOTIONS OF ACCOUNTABILITY AND GENDER AFFIRMING CARE FOR YOUTH"
+author: "Kevin Grane"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "AFTER GOD"
+author: "Lissa McCullough"
 affilation:
 abstract:
 keywords: []

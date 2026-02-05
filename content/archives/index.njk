@@ -1,7 +1,7 @@
 ---
 issue: 
 season: 
-title: 
+title: Table of Contents
 description:
 image:
 ---
@@ -12,7 +12,8 @@ image:
 {% for entry in collections.all %}
   {% if entry.inputPath and entry.inputPath.startsWith(current_dir) %}
     {% set relative_path = entry.inputPath | replace(current_dir, '') %}
-    {% if relative_path.endsWith('/index.njk') and relative_path.count('/') == 1 %}
+    {% set relative_parts = relative_path.split('/') %}
+    {% if relative_path.endsWith('/index.njk') and (relative_parts | length) == 2 %}
       {% set season_key = (entry.data.season|string).padStart(3, '0') %}
       {% set issue_key = (entry.data.issue|string).padStart(3, '0') %}
       {% set sort_key = season_key + '.' + issue_key %}

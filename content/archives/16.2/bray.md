@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "ON IGNORANT AND INSIGHTFUL CHICKENS: WHY ŽIŽEKIAN POST SECULARITY NEEDS HALBERSTAM’S SHADOW FEMINISM."
+author: "KAREN BRAY"
 affilation:
 abstract:
 keywords: []

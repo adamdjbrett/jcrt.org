@@ -1,7 +1,7 @@
 ---
-title: "About <I>About Religion</I>:  A Conversation with Mark C. Taylor"
+title: "ABOUT ABOUT RELIGION: A CONVERSATION WITH MARK C. TAYLOR"
 article_number:
-author:
+author: "Mark C Taylor; Carl A. Raschke"
 affilation:
 abstract:
 keywords: []
@@ -15,14 +15,14 @@ pdf:
 Mark C. Taylor  
 Williams College
 
-\[an error occurred while processing this directive\]
 
-Carl Raschke  
+
+Carl A. Raschke  
 University of Denver
 
 * * *
 
-![M](https://jcrt.org/images/alpha/M.gif)_ark C. Taylor is widely known for his reworking of the theological enterprise in terms of the philosophy of Jacques Derrida and the movement within the humanities that came to be known as "deconstruction". Taylor himself has denoted this approach as "a/theology." In recent years he has turned his attention to the subjects of religion and "religious studies," which he argues can only be compassed in an interdisciplinary, or non-disciplinary, manner. The following conversation between Taylor and Carl A. Raschke, senior editor of the_ Journal for Cultural and Religious Theory_, engages in a free-wheeling style the sorts of themes and issues which Taylor has brought to the forefront. It takes as a point of departure Taylor's recent book entitled_ About Religion: Economies of Faith in Virtual Culture _(University of Chicago Press, 1999). There's something "about" religion? What is that all about? The conversation probes that question._
+_Mark C. Taylor is widely known for his reworking of the theological enterprise in terms of the philosophy of Jacques Derrida and the movement within the humanities that came to be known as "deconstruction". Taylor himself has denoted this approach as "a/theology." In recent years he has turned his attention to the subjects of religion and "religious studies," which he argues can only be compassed in an interdisciplinary, or non-disciplinary, manner. The following conversation between Taylor and Carl A. Raschke, senior editor of the_ Journal for Cultural and Religious Theory_, engages in a free-wheeling style the sorts of themes and issues which Taylor has brought to the forefront. It takes as a point of departure Taylor's recent book entitled_ About Religion: Economies of Faith in Virtual Culture _(University of Chicago Press, 1999). There's something "about" religion? What is that all about? The conversation probes that question._
 
 4.  **RASCHKE:** One of the most provocative statements you make in _About Religion_ is the following: "While I no longer believe in God, I can no longer avoid believing in the sacred." You also talk about the sacred as the "denegation of God" and vice-versa. And in a little further on you characterize the sacred as "that which allows God to be God by enabling God to be other than everything that is not God."
     
@@ -119,14 +119,14 @@ University of Denver
 
 > **Mark C. Taylor** is the Cluett Professor of Humanities at Williams College and the Co-Founder of the Global Education Network. He is the author of numerous books on theology, philosophy, art, architecture, and technology.
 > 
-> **Carl Raschke** is Professor of Religious Studies at the University of Denver. He is the author of many books and hundreds of articles on subjects ranging from postmodern religious thought to higher education and the digital revolution. He is the senior editor of the _Journal for Cultural and Religious Theory_.
+> **Carl A. Raschke** is Professor of Religious Studies at the University of Denver. He is the author of many books and hundreds of articles on subjects ranging from postmodern religious thought to higher education and the digital revolution. He is the senior editor of the _Journal for Cultural and Religious Theory_.
 
 * * *
 
-> \[an error occurred while processing this directive\]
+> 
 
 * * *
 
-\[an error occurred while processing this directive\] [�](https://jcrt.org/copyright.shtml) 2001 Mark C. Taylor and Carl Raschke. All rights reserved.  
-Updated 07/28/21. [Feedback](https://jcrt.org/contact.html).  
+ ['](https://jcrt.org/copyright.shtml) 2001 Mark C. Taylor and Carl A. Raschke. All rights reserved.  
+Updated 07/28/21.   
 http://jcrt.org/archives/02.2/taylor\_raschke.shtml

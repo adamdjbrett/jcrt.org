@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "BIOPOLITICS AND VAJRAYANA BUDDHISM."
+author: "PADRAIC FITZGERALD"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE SECRET THAT GOD KEEPS FROM US: ON THE NECESSARY PLURALITY OF RELIGIONS IN KANT"
+author: "Cory Stockwell"
 affilation:
 abstract:
 keywords: []

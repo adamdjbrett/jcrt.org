@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE RELIGIOUS SIGNIFICANCE OF MIRACLES: WHY HUME’S CRITIQUE OF MIRACLES IS SUPERFLUOUS."
+author: "ALBERTO URQUIDEZ"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "CLAUDE LEFORT AND THE ILLEGITIMACY OF MODERNITY"
+author: "Daniel Steinmetz-Jenkins"
 affilation:
 abstract:
 keywords: []

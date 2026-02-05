@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "WITHOUT SOVEREIGNTY, WITHOUT BEING: UNCONDITIONALITY, THE COMING OF GOD AND DERRIDA’S DEMOCRACY TO COME"
+author: "John D Caputo"
 affilation:
 abstract:
 keywords: []

@@ -1,9 +1,9 @@
 ---
+title: "HEART’S BLOOD: DERRIDA AND PORTIA ON TRANSLATION"
 article_number:
-title:
-author:
+author: "Oona Eisenstadt"
 affilation:
-abstract:
+abstract: 
 keywords: []
 pdf:
 ---

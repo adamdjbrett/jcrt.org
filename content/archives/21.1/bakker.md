@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "LOCATING THE OCEANIC IN SYLVIA WYNTER’S"
+author: "JUSTINE M. BAKKER"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "DEATH OF A DISCIPLINE"
+author: "Matthew Waggoner"
 affilation:
 abstract:
 keywords: []

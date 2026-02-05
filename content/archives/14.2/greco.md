@@ -1,9 +1,9 @@
 ---
 article_number:
-title:
-author:
+title: "DISPOSITIONS, HABITS AND VIRTUES: COMMENTS ON MULDER AND KELLY."
+author: "JOHN GRECO"
 affilation:
-abstract:
+abstract: "The article presents the author's views on dispositions, habits and virtues, highlighting the essays by Jack Mulder on philosopher Soren Kierkegaard's heritage on continental philosophy and Michael Kelly on the differences between emulation and envy. Also discussed are philosopher Aristotle's beliefs on habit and virtue, Mulder's claim that love is not a static property, and Kierkegaard's argument that love is unconditional."
 keywords: []
 pdf:
 ---

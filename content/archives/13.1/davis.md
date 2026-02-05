@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "MORE THAN BELIEF: A MATERIALIST THEORY OF RELIGION."
+author: "ELIJAH PREWITT-DAVIS"
 affilation:
 abstract:
 keywords: []

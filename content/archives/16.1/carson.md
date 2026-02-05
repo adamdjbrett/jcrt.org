@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "OWNING MY MASTERS: AN ARTIST’S INTRODUCTION."
+author: "A. D. CARSON"
 affilation:
 abstract:
 keywords: []

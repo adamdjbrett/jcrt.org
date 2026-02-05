@@ -1,9 +1,9 @@
 ---
+title: "Transcription Notes"
 article_number:
-title:
-author:
+author: "Robert Duncan; Amy Evans"
 affilation:
-abstract:
+abstract: 
 keywords: []
 pdf:
 ---

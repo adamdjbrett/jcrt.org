@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "A ‘SOCIAL CONSTRUCTIONIST’ APPROACH TO ‘MUSLIM BIOMEDICAL ETHICS’: EXAMINING ‘MUSLIM’ OPPOSITION TO PHYSICIAN-ASSISTED SUICIDE"
+author: "Hossein Godazgar"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "DELEUZE AND NEW TECHNOLOGY"
+author: "Michael J Ardoline"
 affilation:
 abstract:
 keywords: []

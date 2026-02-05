@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE PARALLAX VIEW"
+author: "Adam Kotsko"
 affilation:
 abstract:
 keywords: []

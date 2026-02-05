@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "INVENTING EDEN: PRIMITIVISM, MILLENNIALISM, AND THE MAKING OF NEW ENGLAND."
+author: "SANNA MELIN SCHYLLERT"
 affilation:
 abstract:
 keywords: []

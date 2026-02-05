@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "CRITIQUE IN A POSTSECULAR AGE: MAKING ROOM FOR TRADITION AS A MEDIUM"
+author: "Ori Rotlevy"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "RELIGION’S RELATIONSHIP WITH PUBLIC BIOETHICS: A CRITICAL HISTORICAL ASSESSMENT AND PRAGMATIC METHOD FOR INCLUSIVE DISCOURSE"
+author: "Christopher Durante"
 affilation:
 abstract:
 keywords: []

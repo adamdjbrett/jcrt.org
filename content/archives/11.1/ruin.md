@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "FAITH, GRACE, AND THE DESTRUCTION OF TRADITION: A HERMENEUTIC-GENEALOGICAL READING OF THE PAULINE LETTERS"
+author: "Hans Ruin"
 affilation:
 abstract:
 keywords: []

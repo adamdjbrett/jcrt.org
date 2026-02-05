@@ -1,7 +1,7 @@
 ---
-title: "Difficult History"
+title: "AN ETHICS OF REMEMBERING: HISTORY, HETEROLOGY, AND THE NAMELESS OTHERS"
 article_number:
-author:
+author: "Steven G Smith"
 affilation:
 abstract:
 keywords: []
@@ -19,7 +19,7 @@ Millsaps College
 
 > Review of Edith Wyschogrod, _An Ethics of Remembering: History, Heterology, and the Nameless Others_ (Chicago: University of Chicago Press, 1998)
 
-![T](https://jcrt.org/images/alpha/T.gif)ellers of historical truth need several basic conditions to be met. Most obviously, they need epistemologically safe access to the past: it must be possible to locate evidences of past events and draw inferences about them that are, if never guaranteed to be free of distortion, at least relatively corrigible, so that distinctions may be drawn between more and less credible historical propositions. Historians need reliable methods of communication and tractable materials, so that their telling of the _res gestae_ can yield a coherent _historia rerum gestarum__._ They need to assume a steady, clear production of durations and before-and-after positions, so that events and sequences can be given accurate temporal characterizations. They need a safe harbor for historical learning in human memory. Finally, historians need to anticipate that their work can help to sustain a community of understanding and action--that is, that history can be _appropriated_ in such a way as to strengthen substantial bonds between the subjects, tellers, and hearers of history.
+Tellers of historical truth need several basic conditions to be met. Most obviously, they need epistemologically safe access to the past: it must be possible to locate evidences of past events and draw inferences about them that are, if never guaranteed to be free of distortion, at least relatively corrigible, so that distinctions may be drawn between more and less credible historical propositions. Historians need reliable methods of communication and tractable materials, so that their telling of the _res gestae_ can yield a coherent _historia rerum gestarum__._ They need to assume a steady, clear production of durations and before-and-after positions, so that events and sequences can be given accurate temporal characterizations. They need a safe harbor for historical learning in human memory. Finally, historians need to anticipate that their work can help to sustain a community of understanding and action--that is, that history can be _appropriated_ in such a way as to strengthen substantial bonds between the subjects, tellers, and hearers of history.
 
 5.  Look on our age, historians, and despair. History's conditions are all in jeopardy. Postmodern thinkers, acting partly as sophisticated critics of modern intellectual projects (including "historical consciousness") and partly as on-the-spot observers of a new culture of referentless images and ownerless information, point out grave metaphysical and ethical problems with them. Somewhat like the undercover agent who has to find and disarm a whole network of terrorist bombs to save a public building, Edith Wyschogrod prowls the corridors of postmodern discourse to see whether an ethically obliged historian, one who _must_ tell the truth (and defy the untruth) about others who cannot speak, can get around the apparent unknowableness or unsharableness or unredeemableness of the past. Wyschogrod's problems and results generally parallel those of Kant's dialectic of practical reason: facing experiences that seem to render absurd the principle of a moral responsibility linking generations, she thinks her way toward reasonable faith that a metaphysically chastened but ethically responsible construction of history is feasible. Conversing with a very large array of classic and contemporary thinkers, she assumes and continually tests the stance of a historian of good (yet ironical) conscience, a "heterological" historian bound in relation to the cognitively unencompassable exteriority of others whose real lives cannot be ignored, a historian who deals in artful _ficciones_ (in a term taken from Borges) rather than in certifiable facts or destinies. The responsibility and claims of such a heterological historian would be fulfilled in "bringing forth the silences of the other" (32).
     
@@ -69,10 +69,10 @@ Millsaps College
 
 * * *
 
-\[an error occurred while processing this directive\]
+
 
 * * *
 
-[![Open this article in a new window.](https://jcrt.org/images/menu/window.gif)](smith.shtml) [![Contents of this issue.](https://jcrt.org/images/menu/home.gif)](https://jcrt.org/archives/01.2/index.html) [![Print this page.](https://jcrt.org/images/menu/print.gif)](javascript:print\(\)) [�](https://jcrt.org/copyright.shtml) 2000 Steven G. Smith. All rights reserved.  
-Updated 03|31|00. [Feedback](https://jcrt.org/contact.html).  
+[![Open this article in a new window.](https://jcrt.org/images/menu/window.gif)](smith.shtml) [![Contents of this issue.](https://jcrt.org/images/menu/home.gif)](https://jcrt.org/archives/01.2/index.html) [![Print this page.](https://jcrt.org/images/menu/print.gif)](javascript:print\(\)) ['](https://jcrt.org/copyright.shtml) 2000 Steven G. Smith. All rights reserved.  
+Updated 03|31|00.   
 http://jcrt.org/archives/01.2/smith.shtml

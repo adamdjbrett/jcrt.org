@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "PRAYER AFTER THE DEATH OF GOD."
+author: "ASHLEY GRAHAM"
 affilation:
 abstract:
 keywords: []

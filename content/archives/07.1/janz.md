@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "BODIES: THE EXHIBITION"
+author: "Bruce Janz"
 affilation:
 abstract:
 keywords: []

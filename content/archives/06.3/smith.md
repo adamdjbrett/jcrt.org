@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "FORMATIONS OF THE SECULAR: CHRISTIANITY, ISLAM, MODERNITY"
+author: "James K A Smith"
 affilation:
 abstract:
 keywords: []

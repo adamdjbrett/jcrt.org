@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "AVOIDING TRAGEDY IN THE MERCHANT OF VENICE"
+author: "Paul A Kottman"
 affilation:
 abstract:
 keywords: []

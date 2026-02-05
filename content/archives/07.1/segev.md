@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THOUGHT AND BELIEF: THE ATTEMPT AT SPECULATIVE SEEING IN HEGEL"
+author: "Alon Segev"
 affilation:
 abstract:
 keywords: []

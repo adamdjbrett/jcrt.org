@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "KENOTIC THEOLOGY, BUDDHISM, AND TIME."
+author: "BRIAN SHŪDŌ SCHROEDER"
 affilation:
 abstract:
 keywords: []

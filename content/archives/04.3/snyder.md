@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE PREDICAMENT OF POSTMODERN THEOLOGY: RADICAL ORTHODOXY OR NIHILIST TEXTUALISM?"
+author: "G Chad Snyder"
 affilation:
 abstract:
 keywords: []

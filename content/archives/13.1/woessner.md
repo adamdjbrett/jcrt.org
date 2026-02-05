@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE BORDERLINES OF THEODICY."
+author: "MARTIN WOESSNER"
 affilation:
 abstract:
 keywords: []

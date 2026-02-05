@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "ON TRANSLATION"
+author: "Jason Flato"
 affilation:
 abstract:
 keywords: []

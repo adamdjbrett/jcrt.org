@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "PSYCHOANALYSIS, VETERANS, AND THE PROBLEM OF THE REAL: OR, ON WAR AND ENUNCIATION."
+author: "MICHAEL McANDREW"
 affilation:
 abstract:
 keywords: []

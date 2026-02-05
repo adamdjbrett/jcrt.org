@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE MONSTROSITY OF THE OTHER"
+author: "Clayton Crockett"
 affilation:
 abstract:
 keywords: []

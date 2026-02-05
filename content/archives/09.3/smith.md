@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE THEATRE OF PRODUCTION: PHILOSOPHY AND INDIVIDUATION BETWEEN KANT AND DELEUZE"
+author: "Anthony Paul Smith"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "SENSIBLE ECSTASY: MYSTICISM, SEXUAL DIFFERENCE, AND THE DEMANDS OF HISTORY"
+author: "J Heath Atchley"
 affilation:
 abstract:
 keywords: []

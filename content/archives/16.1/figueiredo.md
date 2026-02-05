@@ -1,0 +1,15 @@
+---
+title: "INTRODUCTION TO THE JOURNAL OF CULTURAL AND RELIGIOUS THEORY SPECIAL ISSUE ON"
+article_number:
+author: "SERGIO C. FIGUEIREDO"
+affilation:
+abstract: 
+keywords: []
+pdf:
+---
+
+# INTRODUCTION TO THE JOURNAL OF CULTURAL AND RELIGIOUS THEORY SPECIAL ISSUE ON
+
+SERGIO C. FIGUEIREDO
+
+https://research.ebsco.com/plink/6189cdd1-97a1-38c8-841d-97deccd2201e

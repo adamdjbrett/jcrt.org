@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "DID GOD DIE IN THE CHRISTIAN CENTURY?"
+author: "Mike Grimshaw"
 affilation:
 abstract:
 keywords: []

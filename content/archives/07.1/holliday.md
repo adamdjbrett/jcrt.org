@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "WHAT IS GNOSTICISM?"
+author: "Lisa R Holliday"
 affilation:
 abstract:
 keywords: []

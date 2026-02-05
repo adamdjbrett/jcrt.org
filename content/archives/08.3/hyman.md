@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "NIHILISM, AND EMANCIPATION: ETHICS, POLITICS, LAW"
+author: "Gavin Hyman"
 affilation:
 abstract:
 keywords: []

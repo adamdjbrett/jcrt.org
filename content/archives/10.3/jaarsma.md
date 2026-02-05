@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "QUEERING KIERKEGAARD: SIN, SEX, AND CRITICAL THEORY"
+author: "Ada S Jaarsma"
 affilation:
 abstract:
 keywords: []

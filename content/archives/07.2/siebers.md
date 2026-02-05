@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "DISABILITY AESTHETICS"
+author: "Tobin Siebers"
 affilation:
 abstract:
 keywords: []

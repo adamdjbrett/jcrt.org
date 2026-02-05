@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "ALTIZER: PRESENCE IN ABSENCE."
+author: "EDWARD S. CASEY"
 affilation:
 abstract:
 keywords: []

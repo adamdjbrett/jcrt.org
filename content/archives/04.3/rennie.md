@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "INDIAN PHILOSOPHERS AND POSTMODERN THINKERS"
+author: "Bryan S Rennie"
 affilation:
 abstract:
 keywords: []

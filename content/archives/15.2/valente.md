@@ -1,9 +1,9 @@
 ---
 article_number:
-title:
-author:
+title: "THERE’S A GIRL INSIDE."
+author: "JOSEPH VALENTE"
 affilation:
-abstract:
+abstract: "The article critiques the film"
 keywords: []
 pdf:
 ---

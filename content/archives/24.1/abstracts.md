@@ -1,7 +1,5 @@
 ---
-article_number:
-title:
-author:
+article_number: 01
 affilation:
 abstract:
 keywords: []

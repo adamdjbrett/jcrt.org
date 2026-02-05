@@ -1,9 +1,9 @@
 ---
+title: "LARS VON TRIER: THE IMPOSSIBILITY OF THE GOOD AS A WORK."
 article_number:
-title:
-author:
+author: "TYLER TRITTEN"
 affilation:
-abstract:
+abstract: "The article critiques the book"
 keywords: []
 pdf:
 ---

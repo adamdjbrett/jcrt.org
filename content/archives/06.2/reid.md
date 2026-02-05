@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "PORNOGRAPHY, THE THEORY: WHAT UTILITARIANISM DID TO ACTION"
+author: "Colbey Emmerson-Reid"
 affilation:
 abstract:
 keywords: []

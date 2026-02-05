@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "LACAN AND PNEUMATOLOGY."
+author: "MARK MURPHY"
 affilation:
 abstract:
 keywords: []

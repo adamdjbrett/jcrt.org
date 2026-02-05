@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE CAMBRIDGE COMPANION TO POSTMODERN THEOLOGY"
+author: "James K A Smith"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE POLITICS OF PAUL"
+author: "Jeffrey W Robbins"
 affilation:
 abstract:
 keywords: []

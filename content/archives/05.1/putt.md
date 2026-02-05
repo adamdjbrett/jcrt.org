@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "CITIES OF GOD"
+author: "B Keith Putt"
 affilation:
 abstract:
 keywords: []

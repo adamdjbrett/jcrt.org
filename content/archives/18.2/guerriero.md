@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "NEW RELIGIONS IN BRAZIL: A GAME BETWEEN RELATIVISM AND FUNDAMENTALISM."
+author: "SILAS GUERRIERO"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "DIGITAL NATION: TOWARD AN INCLUSIVE INFORMATION SOCIETY"
+author: "Jeff Ritchie"
 affilation:
 abstract:
 keywords: []

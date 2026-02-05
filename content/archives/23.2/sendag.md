@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "HEALING AS MULTIMEDIA PRACTICE: CONTEMPORARY SPIRITUALITY IN TURKEY"
+author: "Duygu Sendag"
 affilation:
 abstract:
 keywords: []

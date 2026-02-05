@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "AN EXTRINSIC EAGLETON?"
+author: "Roland Boer"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "CHRIST, HISTORY AND APOCALYPTIC: THE POLITICS OF CHRISTIAN MISSION"
+author: "Daniel Colucciello Barber"
 affilation:
 abstract:
 keywords: []

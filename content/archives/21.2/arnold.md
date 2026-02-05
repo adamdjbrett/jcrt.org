@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "WHY THE WHITE GUY?"
+author: "PHILIP P. ARNOLD"
 affilation:
 abstract:
 keywords: []

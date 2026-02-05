@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "AFRICANS MAKING THE MODERN WORLD: ACCORDING TO DR. CHARLES H. LONG."
+author: "SHEILA S. WALKER"
 affilation:
 abstract:
 keywords: []

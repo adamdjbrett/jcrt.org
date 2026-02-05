@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE ASSUMPTION OF DESIRE: KIERKEGAARD, LACAN, AND THE TRAUMA OF THE EUCHARIST"
+author: "Marcus Pound"
 affilation:
 abstract:
 keywords: []

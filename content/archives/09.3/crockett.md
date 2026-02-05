@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE THEOLOGY OF MONEY"
+author: "Clayton Crockett"
 affilation:
 abstract:
 keywords: []

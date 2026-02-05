@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "BROKEN HEGEMONIES"
+author: "Peyman Vahabzadeh"
 affilation:
 abstract:
 keywords: []

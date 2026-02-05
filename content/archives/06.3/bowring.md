@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "PROSTHETIC GODS"
+author: "Jacky Bowring"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "OPERATION NEPTUNE SPEAR"
+author: "Jeffrey W Robbins"
 affilation:
 abstract:
 keywords: []

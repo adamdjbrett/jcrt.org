@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "RAPTURE MUSIC: INTENSITY AND ESCHATOLOGY WITHIN CHRISTIAN REVIVAL MOVEMENTS."
+author: "FRASER MACDONALD"
 affilation:
 abstract:
 keywords: []

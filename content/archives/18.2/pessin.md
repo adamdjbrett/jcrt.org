@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "KENOSIS, EMANCIPATION, PASTNESS: REFLECTIONS FROM A JEW."
+author: "SARAH PESSIN"
 affilation:
 abstract:
 keywords: []

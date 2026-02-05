@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "ABOVE ALL EARTHLY POW’RS, DAVID F. WELLS"
+author: "J Aaron Simmons"
 affilation:
 abstract:
 keywords: []

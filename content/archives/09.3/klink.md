@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE SLEEPING GIANT HAS AWOKEN: THE NEW POLITICS OF RELIGION IN THE UNITED STATES"
+author: "Aaron Klink"
 affilation:
 abstract:
 keywords: []

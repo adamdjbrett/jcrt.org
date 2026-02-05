@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "ANTINOMIAN FLESH."
+author: "DAVID KLINE"
 affilation:
 abstract:
 keywords: []

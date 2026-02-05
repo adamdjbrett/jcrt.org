@@ -1,5 +1,5 @@
 ---
-title: "Journal for Cultural and Religious Theory - Issue 4.2 - April 2003"
+title: "JOURNAL FOR CULTURAL AND RELIGIOUS THEORY - ISSUE 4.2 - APRIL 2003"
 article_number:
 author:
 affilation:
@@ -21,7 +21,7 @@ pdf:
 Articles 
 
 [_From Religion to Faith: Levinasian Ethics and the Grammar of Address._](raschke.shtml)  
-By Carl Raschke, University of Denver.  
+By Carl A. Raschke, University of Denver.  
 
  
 
@@ -55,6 +55,6 @@ Profile by Boyd Blundell, Boston College.
 
 * * *
 
-\[an error occurred while processing this directive\]
+
 
 [Homepage](../../index.html)  1  [Archives](https://jcrt.org/pastissues.shtml) 1  [Search](https://jcrt.org/searchengine.shtml)  1  [Blog](http://jcrt.typepad.com/)

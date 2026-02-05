@@ -1,9 +1,9 @@
 ---
 article_number:
-title:
-author:
+title: "PERFORMING RELIGIOUSLY BETWEEN PASSION AND RESISTANCE."
+author: "WILLIAM ROBERT"
 affilation:
-abstract:
+abstract: "The author describes how the examination of the double bind of passion and resistance as performed in Peter Shaffer's play"
 keywords: []
 pdf:
 ---

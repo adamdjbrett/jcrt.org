@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "CHRIST IN CIRCULATION: THE EUCHARISTIC EXCHANGE AND MONEY"
+author: "Geoffrey Holsclaw"
 affilation:
 abstract:
 keywords: []

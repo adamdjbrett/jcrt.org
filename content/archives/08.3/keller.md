@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE DARE OF DEMOCRACY: FEAR, FAITH AND FREEDOM"
+author: "Catherine Keller"
 affilation:
 abstract:
 keywords: []

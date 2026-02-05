@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "GLIMMER OF A NEW LEVIATHAN: TOTAL WAR IN THE REALISM OF NIEBUHR, MORGENTHAU, AND WALTZ"
+author: "Gary Grieve-Carlson"
 affilation:
 abstract:
 keywords: []

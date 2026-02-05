@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "GLOBALIZATION AND ITS ENEMIES"
+author: "Diane E Johnson"
 affilation:
 abstract:
 keywords: []

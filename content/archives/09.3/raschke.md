@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE NEW ORIENTALISTS: REPRESENTATIONS OF ISLAM FROM FOUCAULT TO BAUDRILLARD"
+author: "Carl A. Raschke"
 affilation:
 abstract:
 keywords: []

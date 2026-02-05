@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE FIRE SPREADS: HOLINESS AND PENTECOSTALISM IN THE AMERICAN SOUTH"
+author: "Stephen P Shoemaker"
 affilation:
 abstract:
 keywords: []

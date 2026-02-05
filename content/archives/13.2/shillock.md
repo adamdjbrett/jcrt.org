@@ -1,9 +1,9 @@
 ---
 article_number:
-title:
-author:
+title: "THE WALKING FLESH:ZOMBIES, NARRATIVE DESIRE, AND THE APOSTLE PAUL’S ANXIOUS ACCOUNT OF EMBODIMENT."
+author: "LARRY T. SHILLOCK"
 affilation:
-abstract:
+abstract: "An essay on the association of zombies with commercials, particularly in the television (TV) series"
 keywords: []
 pdf:
 ---

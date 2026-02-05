@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "HORIZON, TRANSCENDENCE, AND CORRELATION: SOME PHENOMENOLOGICAL CONSIDERATIONS."
+author: "BRANKO KLUN"
 affilation:
 abstract:
 keywords: []

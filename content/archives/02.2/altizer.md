@@ -1,7 +1,7 @@
 ---
-title: "Absolute Nothingness and Taylor's Imagology"
+title: "ABSOLUTE NOTHINGNESS AND TAYLOR’S IMAGOLOGY"
 article_number:
-author:
+author: "Thomas J J Altizer"
 affilation:
 abstract:
 keywords: []
@@ -12,14 +12,14 @@ pdf:
 
 # Absolute Nothingness and Taylor's Imagology
 
-\[an error occurred while processing this directive\]
+
 
 Thomas J. J. Altizer  
 SUNY Stony Brook, Emeritus
 
 * * *
 
-![M](https://jcrt.org/images/alpha/M.gif)ark Taylor has remarked many times recently that theology has come to an end in our new world and is now wholly anachronistic, but the question can be asked if Taylor's recent work is not in deep continuity with his previous theological work, a work whose seminal expression is in _Erring: A Postmodern A/theology._\[[1](#f1)\] For despite its comprehensive range, this book has a genuine theological center, and even a Christian one, as it calls forth a milieu of "unoriginal origin," which is an eternal cross(ing) of the word, and one revealing scripture anew. Here is a thoroughly incarnational Christology, and a truly Christocentric theology, but one in which the divine is _forever_ embodied, and the word is _always already_ inscribed. Yet this incarnation is an embodiment of the death of that God who is only God, for the word is never disembodied, and its kenotic emptying embodies the death of transcendent originality and the end of a solitary _causa sui_. While enacting the end of history, this book knows a history which begins with the incapacity or refusal to say "Yes to Nay," and ends with the ability and willingness to say Amen, an Amen which is a "Mazing Grace," and one in which the disappearance of origin is the "end of the end".\[[2](#f2)\] If thereby this is not an apocalyptic ending, it is nevertheless a genuine ending, and Taylor can ask if the disappearance of the subject, which is being realized in our midst, is an embodiment of that death of God, which is the realization of the dissemination of the incarnate word. Yet this dissemination is a nihilistic dissemination, one completing nihilism itself, but the completion of nihilism is a reversal of nihilism, a reversal in which the fullness of nihilism is identical with the will to overcome nihilism completely, and to overcome it through an eternal and kenotic cross(ing).
+Mark Taylor has remarked many times recently that theology has come to an end in our new world and is now wholly anachronistic, but the question can be asked if Taylor's recent work is not in deep continuity with his previous theological work, a work whose seminal expression is in _Erring: A Postmodern A/theology._[^1] For despite its comprehensive range, this book has a genuine theological center, and even a Christian one, as it calls forth a milieu of "unoriginal origin," which is an eternal cross(ing) of the word, and one revealing scripture anew. Here is a thoroughly incarnational Christology, and a truly Christocentric theology, but one in which the divine is _forever_ embodied, and the word is _always already_ inscribed. Yet this incarnation is an embodiment of the death of that God who is only God, for the word is never disembodied, and its kenotic emptying embodies the death of transcendent originality and the end of a solitary _causa sui_. While enacting the end of history, this book knows a history which begins with the incapacity or refusal to say "Yes to Nay," and ends with the ability and willingness to say Amen, an Amen which is a "Mazing Grace," and one in which the disappearance of origin is the "end of the end".[^2] If thereby this is not an apocalyptic ending, it is nevertheless a genuine ending, and Taylor can ask if the disappearance of the subject, which is being realized in our midst, is an embodiment of that death of God, which is the realization of the dissemination of the incarnate word. Yet this dissemination is a nihilistic dissemination, one completing nihilism itself, but the completion of nihilism is a reversal of nihilism, a reversal in which the fullness of nihilism is identical with the will to overcome nihilism completely, and to overcome it through an eternal and kenotic cross(ing).
 
 4.  If we always begin as having already begun, for we are always beginning again, this is a beginning erasing an absolute origin, but precisely thereby releasing the play of the divine milieu, a divine milieu which has never been so comprehensively manifest as it is in our new world. This is the world which Taylor explores in his more recent work, a world in which the word is always an image, as most clearly manifest in a new and all comprehensive simulation, one in which the essential is nothing, and nothing is essential, now virtuality is all in all, and reality itself becomes "imaginary." Yet virtuality also has a theological ground, for now the _Imago dei_ becomes _deus imagnis_ (_Imagologies_, 6-7), as once again a divine milieu is enacted, and now the disappearance of reality is the full and final appearance of the "no-thing." This is the disappearance which is most fully explored in _Disfiguring_ (1992), a reenactment of the transformation of modernity into postmodernity as it occurs in the visual imagination, and this is a genuinely theological exploration, one employing a theoesthetics and an a/theoesthetics, as for the first time the fullness of modern and postmodern art is investigated from a theological perspective. Modern art is understood as the presence of a total presence, but the presence of total presence is the death of the transcendent God, and modernity culminates in "nullity" or _das Nichts_.
     
@@ -61,19 +61,16 @@ SUNY Stony Brook, Emeritus
 
 ### Notes
 
-1.  Mark Taylor, _Erring: A Postmodern A/theology_ (Chicago: University of Chicago Press, 1984). [Back](#r1)
-2.  _Ibid._, 155. [Back](#r2)
-
 * * *
 
 > **Thomas J. J. Altizer** is thankfully retired from the State University of New York at Stony Brook where he was a professor of religious studies and is now engaged in furthering and hopefully completing his theological work which has always centered upon the death of God.
 
 * * *
 
-> \[an error occurred while processing this directive\]
+> 
 
 * * *
 
-\[an error occurred while processing this directive\] [�](https://jcrt.org/copyright.shtml) 2001 Thomas J. J. Altizer All rights reserved.  
-Updated 07/28/21. [Feedback](https://jcrt.org/contact.html).  
+ ['](https://jcrt.org/copyright.shtml) 2001 Thomas J. J. Altizer All rights reserved.  
+Updated 07/28/21.   
 http://jcrt.org/archives/02.2/altizer.shtml

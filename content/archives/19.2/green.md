@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "FETISHISM AND THE ERASURE OF INDIGENEITY."
+author: "ROGER K. GREEN"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "RELIGION, SECULARITY, GENDER, VIOLENCE, & DEATH."
+author: "BEATRICE MAROVICH"
 affilation:
 abstract:
 keywords: []

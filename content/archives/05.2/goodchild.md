@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE RETURN OF THE PROPHET: A DIALOGUE"
+author: "Richard Crudhington; Fiona Cranny; Sandra Burnup; Tom Eagle; David Dandy; Charlotte Merriman; Michael Cocksworth; Philip Goodchild"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "NEGOTIATING TERRAIN: GENDER AND THE POSTSECULAR?"
+author: "BEATRICE MAROVICH; ALEX DUBILET"
 affilation:
 abstract:
 keywords: []

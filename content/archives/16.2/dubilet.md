@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE CATASTROPHIC JOY OF ABANDONING SALVATION: THINKING THE POSTSECULAR WITH GEORGES BATAILLE."
+author: "Alex Dubilet"
 affilation:
 abstract:
 keywords: []

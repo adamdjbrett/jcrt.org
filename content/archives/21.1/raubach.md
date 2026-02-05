@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE BROKEN MIDDLE: GILLIAN ROSE AND PAUL AGAINST THE EMPTY SACRIFICES OF MODERNITY."
+author: "MICHAEL C. RAUBACH"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "KINKADE, KOONS, KITSCH"
+author: "Paul Maltby"
 affilation:
 abstract:
 keywords: []

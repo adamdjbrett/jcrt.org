@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE WRITING OF ETHNOGRAPHY: MAGICAL REALISM AND MICHAEL TAUSSIG"
+author: "Darlene M Juschka"
 affilation:
 abstract:
 keywords: []

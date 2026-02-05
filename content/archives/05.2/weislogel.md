@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "SCIENCE AND WISDOM"
+author: "Eric Weislogel"
 affilation:
 abstract:
 keywords: []

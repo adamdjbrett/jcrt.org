@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE TASK OF THE CRITIC: POETICS, PHILOSOPHY, RELIGION"
+author: "Robert Savino Oventile"
 affilation:
 abstract:
 keywords: []

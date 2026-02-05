@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "GLOBOCHRIST: THE GREAT COMMISSION TAKES A POSTMODERN TURN"
+author: "Christopher D Rodkey"
 affilation:
 abstract:
 keywords: []

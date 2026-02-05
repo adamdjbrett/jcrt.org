@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE SACRED END: EXPLORING THE ETHICAL PRACTICE OF SALLEKHANĀ IN JAINA TRADITION"
+author: "Nisha Daga; George Kodimattam Joseph"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "SEXUAL DIFFERENCE AND THE VATICAN: A LACANIAN RESPONSE."
+author: "MELISSA CONROY"
 affilation:
 abstract:
 keywords: []

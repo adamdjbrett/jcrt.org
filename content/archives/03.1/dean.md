@@ -1,7 +1,7 @@
 ---
-title: "Book Profile: The Archaeology of American Thought"
+title: "THE PRIMAL ROOTS OF AMERICAN PHILOSOPHY: PRAGMATISM, PHENOMENOLOGY, AND NATIVE AMERICAN THOUGHT"
 article_number:
-author:
+author: "William D Dean"
 affilation:
 abstract:
 keywords: []
@@ -12,14 +12,14 @@ pdf:
 
 # Book Profile: The Archaeology of American Thought
 
-Bruce Wilshire, _The Primal Roots of American Philosophy: Pragmatism, Phenomenology, and Native American Thought_. University Park, Pennsylvania: The Pennsylvania State University Press, 2000. 241 pages. ISBN: 0-271-02026-1. \[an error occurred while processing this directive\]
+Bruce Wilshire, _The Primal Roots of American Philosophy: Pragmatism, Phenomenology, and Native American Thought_. University Park, Pennsylvania: The Pennsylvania State University Press, 2000. 241 pages. ISBN: 0-271-02026-1. 
 
 William Dean  
 Iliff School of Theology
 
 * * *
 
-![A](https://jcrt.org/images/alpha/A.gif)fter 300 years, that great majority of philosophers who have regularly dismantled traditions of wisdom now seem like a rather predictable group. By those standards, today's true philosophical radicals are those who risk their reputations by affirming these traditions. Even so, it is still implicitly believed that good philosophers judiciously destroy, leaving judiciously, construction to the bad ones. Thus, for example, when Richard Rorty wrote _Achieving Our Country_ to endorse just one of America's traditions (the liberal political tradition) . . . well, this was slightly embarrassing.
+After 300 years, that great majority of philosophers who have regularly dismantled traditions of wisdom now seem like a rather predictable group. By those standards, today's true philosophical radicals are those who risk their reputations by affirming these traditions. Even so, it is still implicitly believed that good philosophers judiciously destroy, leaving judiciously, construction to the bad ones. Thus, for example, when Richard Rorty wrote _Achieving Our Country_ to endorse just one of America's traditions (the liberal political tradition) . . . well, this was slightly embarrassing.
 
 3.  Given these terms, Bruce Wilshire's intriguing _The Primal Roots of American Philosophy_ is truly radical and slightly embarrassing. He uncovers the primal roots of American philosophy not to logic-chop, but to transplant those roots at the headwaters of today's American philosophy. Further, he seeks to defend not just one tradition but an entire set of ideas implicit in classical pragmatism, as well as in much Native American thought and Continental phenomenology. If academic philosophy has been the revenge of the intellect on traditions of wisdom, Wilshire's book is the revenge of a particular traditional wisdom on academic philosophy.
     
@@ -39,10 +39,10 @@ Iliff School of Theology
 
 * * *
 
-> \[an error occurred while processing this directive\]
+> 
 
 * * *
 
-\[an error occurred while processing this directive\] [�](https://jcrt.org/copyright.shtml) 2001 William Dean. All rights reserved.  
-Updated 07/28/21. [Feedback](https://jcrt.org/contact.html).  
+ ['](https://jcrt.org/copyright.shtml) 2001 William Dean. All rights reserved.  
+Updated 07/28/21.   
 http://jcrt.org/archives/03.1/dean.shtml

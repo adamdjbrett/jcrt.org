@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "A CONVERSATION WITH RICHARD KEARNEY"
+author: "Victor E Taylor; Richard Kearney"
 affilation:
 abstract:
 keywords: []

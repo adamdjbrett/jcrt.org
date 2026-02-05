@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "CHOSEN"
+author: "Christopher D Rodkey"
 affilation:
 abstract:
 keywords: []

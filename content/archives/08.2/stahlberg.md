@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "DEMOCRACY AND TRADITION"
+author: "Ben Stahlberg"
 affilation:
 abstract:
 keywords: []

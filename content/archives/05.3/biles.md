@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "I, INSECT; OR, BATAILLE AND THE CRUSH FREAKS"
+author: "Jeremy Biles"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "TRUTH AND IRONY: THE CONCEPTION OF TRUTH BEYOND BINARY PATTERNS AND THE USE OF IRONY FOR THEOLOGICAL REASONING."
+author: "FLORIAN KLUG"
 affilation:
 abstract:
 keywords: []

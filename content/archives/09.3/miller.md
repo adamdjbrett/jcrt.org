@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THEOLOGY, PSYCHOANALYSIS, AND TRAUMA"
+author: "Adam S Miller"
 affilation:
 abstract:
 keywords: []

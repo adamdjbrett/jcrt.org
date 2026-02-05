@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "LACAN AND THE LIMITS OF LANGUAGE"
+author: "Melissa Conroy"
 affilation:
 abstract:
 keywords: []

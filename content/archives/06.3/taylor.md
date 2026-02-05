@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THEORIZING RELIGION II"
+author: "Victor E Taylor"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "SECULARISMS"
+author: "Jonathan A Seitz"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "DOES HUMAN RIGHTS NEED GOD?"
+author: "David B Dillard-Wright"
 affilation:
 abstract:
 keywords: []

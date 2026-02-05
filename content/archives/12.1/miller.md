@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "PAULINE BIOPOLITICS"
+author: "Nichole E Miller"
 affilation:
 abstract:
 keywords: []

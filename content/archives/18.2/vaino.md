@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "LUTHERAN THEOLOGY AND POSTMODERN PHILOSOPHY."
+author: "OLLI-PEKKA VAINO"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "LOVE, PSYCHOANALYSIS, AND LEFTIST POLITICAL ONTOLOGY."
+author: "DANIEL TUTT"
 affilation:
 abstract:
 keywords: []

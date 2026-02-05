@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "PLUNDERING A THEORY OF TRAUMA - CONFESSIONS OF A NOVICE AUTHOR ON LACAN AND THEOLOGY."
+author: "TAD DELAY"
 affilation:
 abstract:
 keywords: []

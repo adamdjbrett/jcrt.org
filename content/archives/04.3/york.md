@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "FLESH AND CONSCIOUSNESS: GEORGES BATAILLE AND THE DIONYSIAN"
+author: "Jonathan David York"
 affilation:
 abstract:
 keywords: []

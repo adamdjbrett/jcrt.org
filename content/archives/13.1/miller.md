@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE DARKER SIDE OF WESTERN MODERNITY: GLOBAL FUTURES, DECOLONIAL OPTIONS."
+author: "JORDAN E. MILLER"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE IRREDUCIBLE."
+author: "JEAN-LUC MARION"
 affilation:
 abstract:
 keywords: []

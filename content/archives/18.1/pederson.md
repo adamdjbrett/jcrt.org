@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "ESSENCE, ALIENATION, AND THE ECONOMICS OF LIBIDO."
+author: "TREVOR PEDERSON"
 affilation:
 abstract:
 keywords: []

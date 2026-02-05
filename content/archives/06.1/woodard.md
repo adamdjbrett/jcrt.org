@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "MULTITUDE: WAR AND DEMOCRACY IN THE AGE OF EMPIRE"
+author: "Jared Woodard"
 affilation:
 abstract:
 keywords: []

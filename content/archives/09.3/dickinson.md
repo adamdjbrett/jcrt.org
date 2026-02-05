@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "GOD AFTER METAPHYSICS: A THEOLOGICAL AESTHETIC"
+author: "Wilson Dickinson"
 affilation:
 abstract:
 keywords: []

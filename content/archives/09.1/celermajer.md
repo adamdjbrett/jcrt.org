@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "APOLOGY AND THE POSSIBILITY OF ETHICAL POLITICS"
+author: "Danielle Celermajer"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "RELIGIOUS STUDIES: THE FINAL COLONIZATION OF THE AMERICAN INDIAN."
+author: "TINK TINKER; OSAGE NATION"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "RETHINKING ANSELM’S ATONEMENT THEORY - “UNMAKING” THE INDEBTED MAN"
+author: "RYNE BEDDARD"
 affilation:
 abstract:
 keywords: []

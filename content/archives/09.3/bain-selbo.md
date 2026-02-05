@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE TASKS OF PHILOSOPHY: SELECTED ESSAYS 1"
+author: "Eric Bain-Selbo"
 affilation:
 abstract:
 keywords: []

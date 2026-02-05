@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE RELIGION OF FEAR: CONSERVATIVE EVANGELICALS, IDENTITY, AND ANTILIBERAL POP"
+author: "Jason Bivins"
 affilation:
 abstract:
 keywords: []

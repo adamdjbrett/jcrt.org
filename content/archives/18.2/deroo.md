@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE DANGERS OF DEALING WITH DERRIDA: REVISITING THE CAPUTO-HÄGGLUND DEBATE ON THE"
+author: "NEAL DEROO"
 affilation:
 abstract:
 keywords: []

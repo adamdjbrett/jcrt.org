@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "PHILOSOPHY & SCRIPTURE IN BOOK VII OF AUGUSTINE’S CONFESSIONS"
+author: "Adam S Miller"
 affilation:
 abstract:
 keywords: []

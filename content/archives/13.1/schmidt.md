@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "DECOLONIZING METHODOLOGIES: RESEARCH AND INDIGENOUS PEOPLES."
+author: "GEORGE SCHMIDT"
 affilation:
 abstract:
 keywords: []

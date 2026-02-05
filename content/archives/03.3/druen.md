@@ -1,7 +1,7 @@
 ---
-title: "Book Profile: Sacred Pain"
+title: "SACRED PAIN: HURTING THE BODY FOR THE SAKE OF THE SOUL"
 article_number:
-author:
+author: "Perri Druen"
 affilation:
 abstract:
 keywords: []
@@ -12,16 +12,16 @@ pdf:
 
 # Book Profile: _Sacred Pain_
 
-a review of Ariel Glucklich,�_[Sacred Pain](http://service.bfast.com/bfast/click?bfmid=2181&sourceid=27747321&bfpid=0195132548&bfmtype=book)_. Oxford University Press, 2001.�278pp. $21.00. ISBN: 0195132548
+a review of Ariel Glucklich,'_[Sacred Pain](http://service.bfast.com/bfast/click?bfmid=2181&sourceid=27747321&bfpid=0195132548&bfmtype=book)_. Oxford University Press, 2001.'278pp. $21.00. ISBN: 0195132548
 
-\[an error occurred while processing this directive\]
+
 
 Perri Druen  
 York College of Pennsylvania
 
 * * *
 
-![P](https://jcrt.org/images/alpha/P.gif)ain can be "medicine, a test, a rite of passage, or an alchemical agent of inner transformation" (210) and therefore sought with great passion.
+Pain can be "medicine, a test, a rite of passage, or an alchemical agent of inner transformation" (210) and therefore sought with great passion.
 
 3.  In conversation with a friend who had long suffered phantom pain and who was aghast at the notion that any sane person would seek pain, Ariel Glucklich began to formulate a compelling thesis about what he calls sacred pain. The centerpiece of his thesis is the contrast between the modern (perhaps mostly Western) view of pain as something to be avoided, treated, or escaped at all costs; and the traditional or religious view that pain can be desirable and a vehicle for communing with the spiritual world. Specifically, he proposes that pain has a unique relation to identity. The distinction between the modern and traditional view of pain hinges on the _desirability of eliminating versus fortifying the self_. In both cases, pain is seen as something that can disrupt or fracture the self: "...pain weakens the individual's feeling of being a discrete agent; it make the 'body-self' transparent..." (207).
     
@@ -38,10 +38,10 @@ York College of Pennsylvania
 
 * * *
 
-> \[an error occurred while processing this directive\]
+> 
 
 * * *
 
-\[an error occurred while processing this directive\] [�](https://jcrt.org/copyright.shtml) 2002 Perri Druen. All rights reserved.  
-Updated 07/28/21. [Feedback](https://jcrt.org/contact.html).  
+ ['](https://jcrt.org/copyright.shtml) 2002 Perri Druen. All rights reserved.  
+Updated 07/28/21.   
 http://jcrt.org/archives/03.3/druen.shtml

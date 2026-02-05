@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "“REAL CIRCUMCISION IS A MATTER OF THE HEART”: ON BADIOU’S PAUL AND BOYARIN’S JEWISH QUESTION."
+author: "JORDAN OSSERMAN"
 affilation:
 abstract:
 keywords: []

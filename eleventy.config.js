@@ -33,7 +33,7 @@ if (process.env.ELEVENTY_RUN_MODE === "build" && !process.env.SKIP_PAGEFIND) {
     eleventyConfig.on("eleventy.after", async () => {
         console.log("Running Pagefind search index...");
         try {
-            execSync(`npx pagefind --site _site --glob "**/*.html"`, {
+            execSync(`npx pagefind --site _site --glob "**/*.html" --exclude "**/bios/index.html" --exclude "**/bios.html" --exclude "**/bios.pdf"`, {
                 encoding: "utf-8",
             });
         } catch (e) {

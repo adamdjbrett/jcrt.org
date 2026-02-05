@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "KELLER, RESPONSE TO CAPUTO AND MURACA COSMOPOETIC ENTANGLEMENTS."
+author: "CATHERINE KELLER"
 affilation:
 abstract:
 keywords: []

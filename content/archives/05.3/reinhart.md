@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "PHILOSOPHY IN A TIME OF TERROR: DIALOGUES WITH JÜRGEN HABERMAS AND JACQUES DERRIDA"
+author: "David Reinhart"
 affilation:
 abstract:
 keywords: []

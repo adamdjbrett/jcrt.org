@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "BENJAMIN, METHOD, AND WEAK MESSIANISM"
+author: "Roger K Green"
 affilation:
 abstract:
 keywords: []

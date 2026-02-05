@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "INFINITELY DEMANDING: ETHICS OF COMMITMENT, POLITICS OF RESISTANCE"
+author: "Nathan S Hilberg"
 affilation:
 abstract:
 keywords: []

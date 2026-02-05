@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "A POST-NATIONAL THEOLOGY OF EMPIRE"
+author: "Jeffrey W Robbins"
 affilation:
 abstract:
 keywords: []

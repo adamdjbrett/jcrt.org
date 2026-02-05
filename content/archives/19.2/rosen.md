@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "TO NOT LOSE SIGHT OF THE GOOD: NOTES ON THE ZAPATISMO ETHIC."
+author: "MATT ROSEN"
 affilation:
 abstract:
 keywords: []

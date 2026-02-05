@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "HISTORY, THEORY, TEXT: HISTORIANS AND THE LINGUISTIC TURN"
+author: "B C Knowlton"
 affilation:
 abstract:
 keywords: []

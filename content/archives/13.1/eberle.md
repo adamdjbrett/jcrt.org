@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "REWRITING EXODUS: AMERICAN FUTURES FROM DU BOIS TO OBAMA."
+author: "BO EBERLE"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "DERRIDA AND THE RETURN OF RELIGION: RELIGIOUS THEORY AFTER POSTMODERNISM"
+author: "Carl A. Raschke"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "A THEOLOGY OF ENGAGEMENT"
+author: "Derek Michaud"
 affilation:
 abstract:
 keywords: []

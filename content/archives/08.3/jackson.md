@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "SHYLOCK: THE KNIGHT OF FAITH?"
+author: "Kenneth S Jackson"
 affilation:
 abstract:
 keywords: []

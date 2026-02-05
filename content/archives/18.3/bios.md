@@ -1,7 +1,6 @@
 ---
-title: Journal for Cultural and Religious Theory
-article_number:
-author:
+title: Author Bios
+article_number: 00
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "CREATION SET FREE: THE SPIRIT AS LIBERATOR OF NATURE"
+author: "Travis E (Travis Evan) Ables"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "DIVINE REVELATION IN THE LITERAL EXPRESSION."
+author: "GEORGE QUASHA"
 affilation:
 abstract:
 keywords: []

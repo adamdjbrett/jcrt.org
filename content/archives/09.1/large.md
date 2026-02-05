@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "TIME AND MONEY: PHILOSOPHY OF RELIGION AND THE CRITIQUE OF CAPITAL"
+author: "William Large"
 affilation:
 abstract:
 keywords: []

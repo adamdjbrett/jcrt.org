@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "ALTIZER AND THE CHRISTIAN EPIC TRADITION."
+author: "WILLIAM FRANKE"
 affilation:
 abstract:
 keywords: []

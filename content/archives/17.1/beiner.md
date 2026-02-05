@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "BENJAMIN’S CONCEPT OF HISTORY AS A SOURCE OF ARENDT’S IDEA OF JUDGMENT."
+author: "RONALD BEINER"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THINKING THE ABSOLUTE EDGE BETWEEN ALTIZER AND LEAHY."
+author: "ALINA N. FELD"
 affilation:
 abstract:
 keywords: []

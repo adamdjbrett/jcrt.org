@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "WITTGENSTEIN AND JUDAISM: A TRIUMPH OF CONCEALMENT"
+author: "Andrew Saldino"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "GRAFFITI THEOLOGY: CRITERIA AND AN AGENDA"
+author: "Thomas M Dicken"
 affilation:
 abstract:
 keywords: []

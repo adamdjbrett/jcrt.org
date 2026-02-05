@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "#SUBJECTIVITIES: #BLACKLIVESMATTER, AFFROPESSIMISM AND ALAIN BADIOU."
+author: "RYNE BEDDARD"
 affilation:
 abstract:
 keywords: []

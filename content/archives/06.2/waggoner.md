@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "GIVING UP THE GOOD: ADORNO, KIERKEGAARD AND THE CRITIQUE OF POLITICAL CULTURE"
+author: "Matthew Waggoner"
 affilation:
 abstract:
 keywords: []

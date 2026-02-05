@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "ANONYMOUS GOD"
+author: "Darrell J Fasching"
 affilation:
 abstract:
 keywords: []

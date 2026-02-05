@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "FROM KANT TO HÖLDERLIN: POETRY AND RELIGION IN THE WAKE OF PHILOSOPHICAL AESTHETICS."
+author: "JAKOB DEIBL"
 affilation:
 abstract:
 keywords: []

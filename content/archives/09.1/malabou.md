@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "A CONVERSATION WITH CATHERINE MALABOU"
+author: "Nöelle Vahanian; Catherine Malabou; Carissa Devine"
 affilation:
 abstract:
 keywords: []

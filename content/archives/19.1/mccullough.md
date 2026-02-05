@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "APOCALYPTICISM AS POLITICAL THEOLOGY."
+author: "LISSA MCCULLOUGH"
 affilation:
 abstract:
 keywords: []

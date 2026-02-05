@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "MISCHIEF, IDOLATRY, AND THE DEMONIC: TOWARD A HERMENEUTIC OF PLAY."
+author: "KEVIN LEWIS"
 affilation:
 abstract:
 keywords: []

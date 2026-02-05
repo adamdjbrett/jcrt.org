@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "GOD, TRUTH, AND WITNESS: ENGAGING STANLEY HAUERWAS"
+author: "J Aaron Simmons"
 affilation:
 abstract:
 keywords: []

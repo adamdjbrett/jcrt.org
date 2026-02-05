@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "ODRADEK’S LAUGHTER"
+author: "Erica Weitzman"
 affilation:
 abstract:
 keywords: []

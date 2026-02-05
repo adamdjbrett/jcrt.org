@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "LIFE AS ART: AESTHETIC VIRTUE AND MORAL OBLIGATION."
+author: "JOCHEN SCHMIDT"
 affilation:
 abstract:
 keywords: []

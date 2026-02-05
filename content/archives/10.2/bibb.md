@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "VISION, PARANOIA, AND THE CREATIVE POWER OF OBSESSIVE INTERPRETATION"
+author: "Aaron Bibb"
 affilation:
 abstract:
 keywords: []

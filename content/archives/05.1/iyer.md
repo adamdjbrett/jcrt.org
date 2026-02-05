@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "‘WRITE, WRITE’: TESTIMONY, JUDAISM AND THE INFINITE IN BLANCHOT, KOFMAN AND LEVINAS"
+author: "Lars Iyer"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "WEAK THEOLOGY"
+author: "Jeffrey W Robbins"
 affilation:
 abstract:
 keywords: []

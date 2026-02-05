@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "TOWARDS A NEW COMPARATIVE METHODOLOGY IN RELIGIOUS STUDIES."
+author: "KARA ROBERTS"
 affilation:
 abstract:
 keywords: []

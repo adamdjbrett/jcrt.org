@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "FROM HOLISTIC TO IN-BETWEEN THEOLOGY: THE ETHIOPIAN EVANGELICAL CHURCH MEKANE YESUS"
+author: "Rode Molla"
 affilation:
 abstract:
 keywords: []

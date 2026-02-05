@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "COLLECTIVE DESIRE AND THE PATHOLOGY OF THE INDIVIDUAL."
+author: "JODI DEAN"
 affilation:
 abstract:
 keywords: []

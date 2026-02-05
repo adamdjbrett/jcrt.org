@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE FLESH MIGHT LOOK FUNNY – IF YOU LOOK AT IT"
+author: "Jennifer (Art Nelson"
 affilation:
 abstract:
 keywords: []

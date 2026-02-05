@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "CONTINENTAL DIVIDE: HEIDEGGER, CASSIRER, DAVOS."
+author: "LESLIE C. MILLER"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "DIVISIBLE DERRIDAS"
+author: "Victor E Taylor"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "RELIGION: BEYOND A CONCEPT"
+author: "Matthew T Powell"
 affilation:
 abstract:
 keywords: []

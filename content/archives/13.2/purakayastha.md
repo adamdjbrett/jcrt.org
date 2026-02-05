@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "RELIGION, POLITICS, AND THE EARTH: THE NEW MATERIALISM."
+author: "ANINDYA SEKHAR PURAKAYASTHA"
 affilation:
 abstract:
 keywords: []

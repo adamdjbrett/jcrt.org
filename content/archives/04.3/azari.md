@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "GEORGES BATAILLE: A THEORETICAL RESOURCE FOR SCIENTIFIC INVESTIGATION OF RELIGIOUS EXPERIENCE"
+author: "Nina P Azari"
 affilation:
 abstract:
 keywords: []

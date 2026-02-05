@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE RELUCTANT FUNDAMENTALIST“ AND THE INHOSPITABLE STATE - ABRAHAMIC HOSPITALITY AND THE LIMITS OF MULTICULTURALISM"
+author: "EMILY MCAVAN"
 affilation:
 abstract:
 keywords: []

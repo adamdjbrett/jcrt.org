@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "OF THE TIES THAT B(L)IND."
+author: "NATE KOSER"
 affilation:
 abstract:
 keywords: []

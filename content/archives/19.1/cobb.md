@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "ALTIZER, MY THEOLOGICAL CONTEMPORARY."
+author: "JOHN B. COBB JR."
 affilation:
 abstract:
 keywords: []

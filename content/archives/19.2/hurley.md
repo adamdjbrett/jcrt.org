@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "HORROR FICTION AND CATHOLIC THEOLOGY - A RHETORICAL SYNTHESIS."
+author: "GAVIN HURLEY"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "A PREFACE TO THE GENEALOGY OF NEOLIBERALISM."
+author: "CARL RASCHKE"
 affilation:
 abstract:
 keywords: []

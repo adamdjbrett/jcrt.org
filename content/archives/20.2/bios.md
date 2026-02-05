@@ -1,6 +1,6 @@
 ---
-article_number:
-title:
+title: Author Bios
+article_number: 00
 author:
 affilation:
 abstract:

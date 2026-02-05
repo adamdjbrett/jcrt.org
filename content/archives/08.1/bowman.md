@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THREE PHILOSOPHICAL FILMMAKERS: HITCHCOCK, WELLES, RENOIR"
+author: "Donna Bowman"
 affilation:
 abstract:
 keywords: []

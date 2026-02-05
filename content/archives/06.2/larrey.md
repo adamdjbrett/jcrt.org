@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE FUTURE OF RELIGION"
+author: "Philip Larrey"
 affilation:
 abstract:
 keywords: []

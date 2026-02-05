@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "HOMOSEXUALITY AND THE CRISIS OF ANGLICANISM"
+author: "Gavin Hyman"
 affilation:
 abstract:
 keywords: []

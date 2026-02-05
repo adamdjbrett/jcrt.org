@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "TRANSMITTING CULTURE"
+author: "Pramod K Nayar"
 affilation:
 abstract:
 keywords: []

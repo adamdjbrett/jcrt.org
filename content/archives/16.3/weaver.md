@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "BADIOU AND PAULINE THEOLOGY: DETECTING A THEOLOGY OF DEATH."
+author: "TAYLOR WEAVER"
 affilation:
 abstract:
 keywords: []

@@ -1,7 +1,7 @@
 ---
-title: "Diversity in the History of Religions"
+title: "DIVERSITY IN THE HISTORY OF RELIGIONS"
 article_number:
-author:
+author: "Philip P Arnold"
 affilation:
 abstract:
 keywords: []
@@ -12,7 +12,7 @@ pdf:
 
 # Diversity in the History of Religions
 
-\[an error occurred while processing this directive\]
+
 
 Philip P. Arnold  
 Syracuse University
@@ -25,7 +25,7 @@ _
 
 * * *
 
-![I](https://jcrt.org/images/alpha/I.gif)  want to begin my reflections on diversity with a true story. A few weeks ago I was shoveling out my driveway when a young African American man approached me. I instantly recognized him as an evangelist coming to save me. He first handed me a pamphlet with an idyllic picture drawn of a beautiful Paradisiacal landscape and everyone in the picture was smiling and having a wonderful and wholesome time. There are what looks to be an Asian mother and daughter petting a bear near a berry bush; a Latino family petting an African lion; an African or African American man and woman, as well as a white boy carrying food. This is all set in an idyllic landscape with farmlands and mountains in the background. And, of course it is a splendid fall day. Everyone is smiling.
+I  want to begin my reflections on diversity with a true story. A few weeks ago I was shoveling out my driveway when a young African American man approached me. I instantly recognized him as an evangelist coming to save me. He first handed me a pamphlet with an idyllic picture drawn of a beautiful Paradisiacal landscape and everyone in the picture was smiling and having a wonderful and wholesome time. There are what looks to be an Asian mother and daughter petting a bear near a berry bush; a Latino family petting an African lion; an African or African American man and woman, as well as a white boy carrying food. This is all set in an idyllic landscape with farmlands and mountains in the background. And, of course it is a splendid fall day. Everyone is smiling.
 
 3.  I have seen pictures like this one and they give me a strange feeling of uneasiness simply because, in my experience people should stay away from bears and African lions and people who are deliriously happy for no apparent reason make me nervous. But what really made me mad was the title of the painting, "Life in a Peaceful NEW WORLD." The image that the young man gave me I will label a fantasy of multiculturalism. It is a very polite, cleaned-up fiction which we in the History of Religions might have jokingly referred to as the "take a Buddhist to lunch" notion of religious plurality. The reason it made me mad was that it was an image in which diversity of all sorts is stripped out of life.
     
@@ -41,7 +41,7 @@ _
     
 9.  But, as I have said, mine is a minority opinion these days. At the start of every major symposium on comparative religion, or in the introduction of every big book having to do with religion lately there is an obligatory chastising of Mircea Eliade. He is labeled as a romantic, an essentialist, a crypto-theologian, a Nazi, a monarchist, etc., etc., etc. His work is seen by most in my discipline as an impediment to the enhancement of comparative method. My sense is that what drives comparativists nuts about Eliade is his appeal to something he called "the sacred." There is, therefore, something at stake.
     
-10.  My first meeting with Eliade was in 1983 in Boulder, Colorado, when I was working as a research assistant in Davíd Carrasco's Mesoamerican Archive and Research Project. I was an undergraduate at the time and was just beginning my long fascination with Aztec traditions. Eliade was invited by Carrasco to view the photographs of the newly excavated Templo Mayor, the principal temple of the Aztec, which is located in the center of Mexico City. By this time Eliade was a feeble person, a breath of wind. As he sat looking at the slides of the excavated offering boxes he vigorously exclaimed that they were a "sacred language that contained in them the Aztec understanding of religion." Now, you have to understand that these are offering boxes that lay at the base of the temple which were crammed full of all kinds of ceremonial objects. I think he was looking at the most infamous one, offering #42, at the lowest level of which ocean shells were laid-out in an east-west direction. Above that were an assortment of animals of both land and sea, which were probably sacrificed during the ceremony. Above these were the skeletons of 47 children. Then finally, at the top, were about the same number of small figures of Tlaloc, the Mesoamerican god of rain and fertility. In other words, for a young, liberal minded undergraduate student this offering box was a horror! In spite of my visceral reaction to the Aztec, I thought that Eliade was probably right; those offering boxes were in fact a sacred language�one I didn't like. As I thought about it, the stratigraphies marked out by the archaeologists were also a cosmography. But I also knew that this language of the Aztec had no speakers. They had been silenced in various ways�the most pronounced of which was their conquest by the Spanish in 1521. So how was I to learn a language of a dead people, who were not my dead, but nonetheless significant dead people? Was I only to appeal to my own imagination or could I appeal to something tangible, something I could see, something obvious, in order to bring this language into appearance? Finally, why should I care about this language? Why would it speak to me, someone reared so far from the Aztec world?
+10.  My first meeting with Eliade was in 1983 in Boulder, Colorado, when I was working as a research assistant in Davíd Carrasco's Mesoamerican Archive and Research Project. I was an undergraduate at the time and was just beginning my long fascination with Aztec traditions. Eliade was invited by Carrasco to view the photographs of the newly excavated Templo Mayor, the principal temple of the Aztec, which is located in the center of Mexico City. By this time Eliade was a feeble person, a breath of wind. As he sat looking at the slides of the excavated offering boxes he vigorously exclaimed that they were a "sacred language that contained in them the Aztec understanding of religion." Now, you have to understand that these are offering boxes that lay at the base of the temple which were crammed full of all kinds of ceremonial objects. I think he was looking at the most infamous one, offering #42, at the lowest level of which ocean shells were laid-out in an east-west direction. Above that were an assortment of animals of both land and sea, which were probably sacrificed during the ceremony. Above these were the skeletons of 47 children. Then finally, at the top, were about the same number of small figures of Tlaloc, the Mesoamerican god of rain and fertility. In other words, for a young, liberal minded undergraduate student this offering box was a horror! In spite of my visceral reaction to the Aztec, I thought that Eliade was probably right; those offering boxes were in fact a sacred language'one I didn't like. As I thought about it, the stratigraphies marked out by the archaeologists were also a cosmography. But I also knew that this language of the Aztec had no speakers. They had been silenced in various ways'the most pronounced of which was their conquest by the Spanish in 1521. So how was I to learn a language of a dead people, who were not my dead, but nonetheless significant dead people? Was I only to appeal to my own imagination or could I appeal to something tangible, something I could see, something obvious, in order to bring this language into appearance? Finally, why should I care about this language? Why would it speak to me, someone reared so far from the Aztec world?
      
 11.  These are urgent questions, or questions that are asked before, during and after one's research. The History of Religions gave me a method for doing this work and that method had to do largely with the cipher of religion, or "the sacred." It culminated in my book _Eating_ _Landscape_. The cipher of religion was the one thing that Eliade insisted on throughout his life. After his major works like _Patterns in Comparative Religion_, _The Sacred and the Profane_, and _Myth of the Eternal Return_, he seems to have been moving away from the sacred as a firm reality and toward an understanding of the sacred as a necessary cipher. In his 1961 article "A New Humanism," which was the first article of the first issue of History of Religions (the founding editors of this journal were Eliade, Joseph Kitagawa and Charles H. Long), he says, "\[I\]t is not enough to grasp the meaning of a religious phenomenon in a certain culture and, consequently, to decipher its 'message' (for every religious phenomenon constitutes a 'cipher'); it is also necessary to study and understand its 'history,' that is, to unravel its changes and modifications and, ultimately, to elucidate its contribution to the entire culture. Thus, the historian of religions is in a position to grasp the permanence of what has been called man's specific existential situation of 'being in the world,' for the experience of the sacred is its correlate. In fact, man's becoming aware of his own mode of being and assuming his presence in the world together constitute a 'religious' experience" (_The Quest_, 8-9).
      
@@ -58,7 +58,7 @@ _
      > [![Get RealPlayer to hear this file](http://images.real.com/pics/real/home/realplyr_img.gif)](http://www.real.com/player/index.html?src=topnav)  
      > RealAudio: [28.8k](https://jcrt.org/archives/audio/esperanto_28.ram) | [ISDN](https://jcrt.org/archives/audio/esperanto_ISDN.ram) | [DSL](https://jcrt.org/archives/audio/esperanto_DSL.ram)
      > 
-     > "Esperanto," by Vince Mendoza and Kurt Elling, lyrics inspired by the poems of Pablo Neruda. Reproduced by kind permission of the artist. From the album _Live in Chicago_, �2000 Blue Note / Capitol Records. More information about Kurt Elling may be found at [http://www.kurtelling.com/](http://www.kurtelling.com/).
+     > "Esperanto," by Vince Mendoza and Kurt Elling, lyrics inspired by the poems of Pablo Neruda. Reproduced by kind permission of the artist. From the album _Live in Chicago_, '2000 Blue Note / Capitol Records. More information about Kurt Elling may be found at [http://www.kurtelling.com/](http://www.kurtelling.com/).
      > 
      > There's a secret that never dies,  
      > like a dance of hidden meanings that we never apprehend.  
@@ -102,10 +102,10 @@ _
 
 * * *
 
-> \[an error occurred while processing this directive\]
+> 
 
 * * *
 
-\[an error occurred while processing this directive\] [�](https://jcrt.org/copyright.shtml) 2001 Philip P. Arnold. All rights reserved.  
-Updated 07/28/21. [Feedback](https://jcrt.org/contact.html).  
+ ['](https://jcrt.org/copyright.shtml) 2001 Philip P. Arnold. All rights reserved.  
+Updated 07/28/21.   
 http://jcrt.org/archives/02.2/arnold.shtml

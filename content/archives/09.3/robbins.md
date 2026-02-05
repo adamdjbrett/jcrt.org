@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "LIBERAL THEOLOGY: A RADICAL VISION"
+author: "Jeffrey W Robbins"
 affilation:
 abstract:
 keywords: []

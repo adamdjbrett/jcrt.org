@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "I AM THE TRUTH: TOWARD A PHILOSOPHY OF CHRISTIANITY"
+author: "Anthony L Macri"
 affilation:
 abstract:
 keywords: []

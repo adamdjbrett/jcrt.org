@@ -74,7 +74,29 @@ Total:         48s → ~10s
 - [last update 2 weeks ago jekyll option](https://github.com/TurkuNLP/turkunlp.github.io)
 - [andrew - older but still good css](https://andrewbanchich.github.io/editorial-jekyll-theme/)
 
-## Changelog
+## Changelog - Crow
+1. have VS Code, the live site <https://jcrt.org>, and the demo site: localhost:8080 open at the same time.
+2. please note that the demo site is a work in progress and most of the time you will need to type the url you need to visit directly (I'm sorry)
+3. check all folders to see if there are duplicate entries. Find and ensure which one is the source of truth.
+4. In ```content/archives``` there are duplicate .md files. The .md files containing <https://research.ebsco.com/plink/> links are probably not needed. If that is the case delete the file.
+5. if there is a pdf in the folder add the pdf to the corresponding md file at usually line 8: just ```filename.pdf``` is al lthat is needed at this point
+6. verify the frontmatter of all .md files is correct
+7. add two digit ```article_number:``` to enure the table of contents index.njk properly orders the articles.
+8. fix footnotes to proper markdown-it footnotes look for #_etn and #_ftn and fix those references to the proper format. Here is an example of bad: ```[\[1\]](#_ftn1)```
+[markdown it footnote guide](https://github.com/markdown-it/markdown-it-footnote)
+```md
+Here is a footnote reference,[^1] and another.[^longnote]
+
+[^1]: Here is the footnote.
+
+[^longnote]: Here's one with multiple blocks.
+
+    Subsequent paragraphs are indented to show that they
+belong to the previous footnote.
+```
+
+
+## Changelog - Dre
 1. increase the size of the nav and the css to match <https://editorial.ghost.io>
 2. why does it say "JUDUL TIDAK DITEMUKAN - PERLU EDIT MANUAL" everywhere?
    - 
@@ -83,5 +105,6 @@ Total:         48s → ~10s
     2. Elbuso Mendano mchange to media theory make clickable
     3. Klompen Capir - cultural theory make clickable
     4. Bulgoso Dugonge - political theory make clickable
+6. confirm pagefind works on build
+7. 
 
-+ I'm Sorry - Revert About MissCom

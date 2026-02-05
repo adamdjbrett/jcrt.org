@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE LESSER EVIL: POLITICAL ETHICS IN THE AGE OF TERROR"
+author: "Peyman Vahabzadeh"
 affilation:
 abstract:
 keywords: []

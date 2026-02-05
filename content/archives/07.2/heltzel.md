@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "THE WEAKNESS OF GOD: A THEOLOGY OF THE EVENT"
+author: "Peter Heltzel"
 affilation:
 abstract:
 keywords: []

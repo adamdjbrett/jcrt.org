@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "WRITING: THE TRANSGRESSION OF RELIGION"
+author: "David Hale"
 affilation:
 abstract:
 keywords: []

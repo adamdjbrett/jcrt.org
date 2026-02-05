@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "BENJAMIN’S HABITS AND THE STUDY OF RELIGION"
+author: "Brian Britt"
 affilation:
 abstract:
 keywords: []

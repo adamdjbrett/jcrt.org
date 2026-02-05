@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "GIVING AN ACCOUNT OF ONESELF"
+author: "J Aaron Simmons"
 affilation:
 abstract:
 keywords: []

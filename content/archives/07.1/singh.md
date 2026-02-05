@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "ANOTHER INVESTIGATION OF POSTCOLONIAL FAILURE"
+author: "Bhrigupati Singh"
 affilation:
 abstract:
 keywords: []

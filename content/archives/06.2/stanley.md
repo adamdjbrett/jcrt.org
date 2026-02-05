@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "REDEEMING THE ICONS"
+author: "Timothy (Timothy W) Stanley"
 affilation:
 abstract:
 keywords: []

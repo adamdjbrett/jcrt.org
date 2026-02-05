@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "CHRISTIANITY AND CONTEMPORARY POLITICS: THE CONDITIONS AND POSSIBILITY OF FAITHFUL WITNESS."
+author: "LAURA E. ALEXANDER"
 affilation:
 abstract:
 keywords: []

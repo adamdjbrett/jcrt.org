@@ -1,9 +1,9 @@
 ---
+title: "ACCURATE MYSTERY: ROBERT DUNCAN’S H. D. BIBLIOGRAPHY CRITICALLY ANNOTATED"
 article_number:
-title:
-author:
+author: "Robert Duncan; Amy Evans"
 affilation:
-abstract:
+abstract: 
 keywords: []
 pdf:
 ---

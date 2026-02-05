@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "BATAILLE’S GIFT"
+author: "Carl A. Raschke"
 affilation:
 abstract:
 keywords: []

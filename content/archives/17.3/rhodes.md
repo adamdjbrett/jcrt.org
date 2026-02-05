@@ -1,7 +1,7 @@
 ---
 article_number:
-title:
-author:
+title: "TIME EMPTIED AND TIME RENEWED: THE DOMINION OF CAPITAL AND A THEO-POLITICS OF CONTRETEMPS."
+author: "DANIEL RHODES"
 affilation:
 abstract:
 keywords: []

@@ -1,0 +1,15 @@
+---
+title: "JOHN BOSWELL’S HISTORY OF (EUROCHRISTIAN) SEXUALITY AND THE CASE FOR TRANSCENDENTAL SOMATICS."
+article_number:
+author: "KIERYN E. WURTS"
+affilation:
+abstract: 
+keywords: []
+pdf:
+---
+
+# JOHN BOSWELL’S HISTORY OF (EUROCHRISTIAN) SEXUALITY AND THE CASE FOR TRANSCENDENTAL SOMATICS.
+
+KIERYN E. WURTS
+
+https://research.ebsco.com/plink/01c94f30-7fcb-342d-a183-f482ae1e8fdb

@@ -1,9 +1,9 @@
 ---
 article_number:
-title:
-author:
+title: "THE INTELLIGENCE OF THE BOOK: THE RELIGIOUS STUDIES CLASSROOM AS TRANSLATION WORKSHOP."
+author: "JOSEPH BALLAN"
 affilation:
-abstract:
+abstract: "The author describes how the ideas set forth by philosopher Jacques Rancière in his book"
 keywords: []
 pdf:
 ---

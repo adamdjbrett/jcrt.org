@@ -1,7 +1,7 @@
 ---
-title: "Book Profile: Psychiatric Abuse and the Intelligence Community"
+title: "BLUEBIRD: DELIBERATE CREATION OF MULTIPLE PERSONALITY BY PSYCHIATRISTS"
 article_number:
-author:
+author: "Martin H Katchen"
 affilation:
 abstract:
 keywords: []
@@ -16,14 +16,14 @@ Colin Ross, _Bluebird: Deliberate Creation of Multiple Personality By Psychiatri
 
 Cheryl Hersha and Lynn Hersha, with Dale Griffis and Ted Schwartz. _Secret Weapons: Two Sisters' Terrifying True Story of Spies and Sabotage._ Far Hills, NJ: New Horizons Press, 2001. 434 pages. ISBN: 0882821962.
 
-\[an error occurred while processing this directive\]
+
 
 Martin Katchen  
 Los Angeles, California
 
 * * *
 
-![S](https://jcrt.org/images/alpha/S.gif)ince Victor Marchetti and John Marks first published _The CIA and The Cult of Intelligence_ in 1980, the American public has been treated to a series of exposes that have been highly critical of CIA and military operations. These allegations against the CIA resulted in formation of the House Select Committee on Intelligence in 1978, which held hearings that uncovered evidence that the CIA in particular had engaged in experiments in "mind control" by using unwitting US citizens and foreign nationals.
+Since Victor Marchetti and John Marks first published _The CIA and The Cult of Intelligence_ in 1980, the American public has been treated to a series of exposes that have been highly critical of CIA and military operations. These allegations against the CIA resulted in formation of the House Select Committee on Intelligence in 1978, which held hearings that uncovered evidence that the CIA in particular had engaged in experiments in "mind control" by using unwitting US citizens and foreign nationals.
 
 5.  Out of these hearings came a number of well- researched books. They include John Marks _The Search for the Manchurian Candidate: The CIA and Mind Control 1986),_ which gives an overview of CIA mind control research under the rubric of Projects Artichoke, Bluebird, MKULTRA and MKDELTA; _Journey Into Madness: The True Story of CIA Mind Control and Medical Abuse_ by Gordon Thomas _(1989); Psychiatry and The CIA: Victims of Mind Control_ by Harvey Weinstein (1990). The last two focus on abusive medical experiments conducted by J. Ewen Cameron at the Allen Memorial Institute in the 1960s. Such abuses were the subject of a successful suit against the CIA by a number of victims.
     
@@ -41,7 +41,7 @@ Los Angeles, California
      
 12.  _Bluebird_ documents a pattern of CIA interest in the creation and utilisation of Dissociative Identity Disorder that started during World War II. Ross identifies the origin of this interest with George H. Estabrooks, who wrote as early as 1943 that it should be possible to manufacture the perfect spy through hypnotic creation of multiple personalities. Through diligent research, Ross documents the existence of a network of psychologists, many of whom, such as Ewen Cameron and Harold Wolff were already identified by previous researchers with MKULTRA and related projects. All apparently did work for the military and/or the CIA at one time or another.
      
-13.  If this was all that Ross had to say, _Bluebird_ would be a one �dimensional, reductionist work, similar in many respects to Weinstein's _Psychiatry and the CIA._ But Ross has more to his agenda than simply exposing possible CIA connections of many practicing psychiatrists and psychologists. The other half of _Bluebird_ is the documentation of the creation of "Manchurian Candidates", individuals with deliberately created alter identities who are under the orders of another person and for whom the host personality is unaware. Ross goes through a number of case studies from the little known story of Palle Hardrup, who engaged in bank robbery while under the hypnotic control of Bjorn Nielsen in Denmark in 1951, to better known examples such as Candy Jones, an alleged CIA courier, Patty Hearst, Sirhan Sirhan and even Mark David Chapman, whom he characterises as a "self-centered" Manchurian Candidate, not under the control of anyone else. He then goes on to show that in five cases that he personally examined, therapists treating DID did in fact induce false memories of ritual abuse where none had existed.
+13.  If this was all that Ross had to say, _Bluebird_ would be a one 'dimensional, reductionist work, similar in many respects to Weinstein's _Psychiatry and the CIA._ But Ross has more to his agenda than simply exposing possible CIA connections of many practicing psychiatrists and psychologists. The other half of _Bluebird_ is the documentation of the creation of "Manchurian Candidates", individuals with deliberately created alter identities who are under the orders of another person and for whom the host personality is unaware. Ross goes through a number of case studies from the little known story of Palle Hardrup, who engaged in bank robbery while under the hypnotic control of Bjorn Nielsen in Denmark in 1951, to better known examples such as Candy Jones, an alleged CIA courier, Patty Hearst, Sirhan Sirhan and even Mark David Chapman, whom he characterises as a "self-centered" Manchurian Candidate, not under the control of anyone else. He then goes on to show that in five cases that he personally examined, therapists treating DID did in fact induce false memories of ritual abuse where none had existed.
      
 14.  However, by documenting the amount of time and effort that is required to create a Manchurian Candidate, he shows that the creation of a Manchurian Candidate (and according to Ross, false memories) is not something that can be accomplished in the course of two-hour psychotherapy sessions a week. In doing so, he effectively damns with faint praise the premise behind False Memory Syndrome, and shows FMS to be in many ways, self-serving and dishonest. _Bluebird_ is a must for those who would understand the controversy over CIA and military fabrication of DID.
      
@@ -76,10 +76,10 @@ Los Angeles, California
 
 * * *
 
-> \[an error occurred while processing this directive\]
+> 
 
 * * *
 
-\[an error occurred while processing this directive\] [�](https://jcrt.org/copyright.shtml) 2001 Martin Katchen. All rights reserved.  
-Updated 07/28/21. [Feedback](https://jcrt.org/contact.html).  
+ ['](https://jcrt.org/copyright.shtml) 2001 Martin Katchen. All rights reserved.  
+Updated 07/28/21.   
 http://jcrt.org/archives/02.3/katchen.shtml
