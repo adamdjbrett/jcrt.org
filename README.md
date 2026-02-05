@@ -111,15 +111,15 @@ belong to the previous footnote.
 
 
 ## Changelog - Dre
-1. increase the size of the nav and the css to match <https://editorial.ghost.io>
-2. why does it say "JUDUL TIDAK DITEMUKAN - PERLU EDIT MANUAL" everywhere?
-   - 
-3. change "Erat Lacinia" to Trending Keywords. 
+1. increase the size of the nav and the css to match <https://editorial.ghost.io> - DONE
+2. why does it say "JUDUL TIDAK DITEMUKAN - PERLU EDIT MANUAL" everywhere? - because not have a title - DONE
+3. change "Erat Lacinia" to Trending Keywords. - DONE
     1. Portitor ullamcorper change to religious theory make clickable
     2. Elbuso Mendano mchange to media theory make clickable
     3. Klompen Capir - cultural theory make clickable
     4. Bulgoso Dugonge - political theory make clickable
-6. confirm pagefind works on build
-7. give each /archives/ entry keywords automated using the .json in _data for inspiration
+6. confirm pagefind works on build - DONE
+7. give each /archives/ entry keywords automated using the .json in _data for inspiration - DONE
 9. ensure all authors have an author page with affiliation - create and automate like we did for journal-thenewpolis
-author pages should have as front matter: name, affiliation, orcid, bio, show all /archives, /blogs, /religioustheory with headers listed below bio and orcid
+author pages should have as front matter: name, affiliation, orcid, bio, show all /archives, /blogs, /religioustheory with headers listed below bio and orcid - DONE
+

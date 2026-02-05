@@ -7,3 +7,12 @@ abstract: "The article offers the author's insights regarding the Crip/tography 
 keywords: []
 pdf: betcher.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

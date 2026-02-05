@@ -7,3 +7,12 @@ abstract:
 keywords: []
 pdf: Spickard2.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

@@ -7,3 +7,12 @@ abstract: "The article presents the author's views on faith with regard to wheth
 keywords: []
 pdf: gschwandtner.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

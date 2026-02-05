@@ -7,3 +7,12 @@ abstract: "The article focuses on the philosophical views of myth and it roles i
 keywords: []
 pdf: renger.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

@@ -2,6 +2,8 @@
 title: "Jon Jones"
 name: "Jon Jones"
 description: "Jon Bon Jones UFC Champ"
+affiliation: "University of UFC"
+orcid: "https://orcid.org/0000-0002-1825-0098"
 date: 2025-04-07
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Jon_Jones_-_Supporting_Brain_Health_Study.jpg/250px-Jon_Jones_-_Supporting_Brain_Health_Study.jpg"
 social:

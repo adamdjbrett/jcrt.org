@@ -7,3 +7,12 @@ abstract: "The author encourages Biblical scholars to take into closer considera
 keywords: []
 pdf: britt.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

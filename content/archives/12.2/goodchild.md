@@ -7,3 +7,12 @@ abstract: "The author presents his reflections on the three classical philosophi
 keywords: []
 pdf: goodchild.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

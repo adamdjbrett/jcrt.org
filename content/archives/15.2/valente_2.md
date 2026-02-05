@@ -7,3 +7,12 @@ abstract: "The author discusses how culture can sentimentalize autism as disable
 keywords: []
 pdf: valente2.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

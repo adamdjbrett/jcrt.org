@@ -21,6 +21,7 @@ import { fileURLToPath } from 'url';
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function (eleventyConfig) {
+	const filePath = path.resolve("_data/theory_archive.json");
 	const isFastBuild = Boolean(process.env.FAST_BUILD);
 	eleventyConfig.addGlobalData("isFastBuild", isFastBuild);
 
@@ -30,6 +31,35 @@ export default async function (eleventyConfig) {
 			return false;
 		}
 	});
+
+
+	// dev mode
+	if (process.env.QUICK_DEV) {
+    eleventyConfig.addPreprocessor("collections", "limit-dev", (collections) => {
+      const folders = ["archives", "blog", "religioustheory"];
+      folders.forEach(name => {
+        if (collections[name]) collections[name] = collections[name].slice(0, 5);
+      });
+
+      if (collections.all) {
+        Object.keys(collections).forEach(tagName => {
+          if (Array.isArray(collections[tagName])) {
+            collections[tagName] = collections[tagName].slice(0, 5);
+          }
+        });
+      }
+    });
+    eleventyConfig.addGlobalData("theory_archive", () => {
+      try {
+        const data = JSON.parse(fs.readFileSync("./_data/theory_archive.json", "utf-8"));
+        return { ...data, posts: data.posts.slice(0, 5) };
+      } catch (e) {
+        return { posts: [] };
+      }
+    });
+    console.log("🚀 QUICK_DEV MODE: Active (Everything limited to 5)");
+    console.log("🔗 Open: http://localhost:4000");
+  }
 
 	// Run Pagefind after a production build unless explicitly skipped.
 	// Use `SKIP_PAGEFIND=1` locally if Pagefind isn't available on your platform.
@@ -57,7 +87,7 @@ export default async function (eleventyConfig) {
 		});
 	}
 // If use sveltia cms
-//	eleventyConfig.addPassthroughCopy("sveltia.config.js");
+	eleventyConfig.addPassthroughCopy("sveltia.config.js");
 	eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
 	eleventyConfig
 		.addPassthroughCopy({
@@ -151,14 +181,17 @@ export default async function (eleventyConfig) {
             return key === authorKey.trim();
         });
     });
-eleventyConfig.addFilter("getPostsByAuthor", (posts, authorKey) => {
-    if (!posts || !authorKey) return [];
-    const targetKey = String(authorKey).trim().toLowerCase();
-    return posts.filter(post => {
-        const postAuthorData = post.data.author;
-        if (!postAuthorData) return false;
-        const authors = String(postAuthorData).split(',').map(a => a.trim().toLowerCase());
-        return authors.includes(targetKey);
+eleventyConfig.addFilter("getPostsByAuthor", (allPosts, authorKey) => {
+    if (!allPosts || !authorKey) return [];
+    
+    return allPosts.filter(post => {
+        const authorField = post.data.author;
+        if (!authorField) return false;
+
+        const normalizedKey = String(authorKey).toLowerCase().trim();
+        const authors = String(authorField).split(',').map(a => a.trim().toLowerCase());
+
+        return authors.includes(normalizedKey);
     });
 });
 eleventyConfig.addCollection("authors", function(collectionApi) {
@@ -183,6 +216,10 @@ const mdLib = markdownIt({
     linkify: true
   });
 	eleventyConfig.addFilter("md", (content) => mdLib.render(content || ""));
+eleventyConfig.addFilter("markdownify", (content) => {
+        if (!content) return "";
+        return md.render(String(content));
+    });
 
 	// creativitas code
 
@@ -213,6 +250,23 @@ const mdLib = markdownIt({
 		},
 	});
 
+eleventyConfig.addFilter("getKeywordsFromJSON", (pageTitle, theoryArchive) => {
+    if (!theoryArchive || !pageTitle) return "";
+    
+    const posts = theoryArchive.posts || [];
+    
+    const entry = posts.find(item => 
+        item.title && item.title.toLowerCase().trim() === pageTitle.toLowerCase().trim()
+    );
+
+    if (entry) {
+        const keywords = entry.categories || entry.keywords;
+        if (keywords) {
+            return Array.isArray(keywords) ? keywords.join(", ") : keywords;
+        }
+    }
+    return "";
+});
 	eleventyConfig.addPlugin(pluginFilters);
 	
 	eleventyConfig.watchIgnores.add("_data/theory_archive.json");

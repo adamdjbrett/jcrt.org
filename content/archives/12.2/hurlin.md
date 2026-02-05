@@ -7,3 +7,12 @@ abstract: "The author highlights how the act of translating the Bible has allowe
 keywords: []
 pdf: hurlin.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

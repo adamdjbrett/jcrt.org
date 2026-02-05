@@ -7,3 +7,12 @@ abstract: "Can the world be conceived as an artwork as Simone Weil sometimes sug
 keywords: []
 pdf: Boulting.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

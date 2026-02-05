@@ -7,3 +7,12 @@ abstract: "An essay concerning the theoretical framework of philosopher Alain Ba
 keywords: []
 pdf: settle.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

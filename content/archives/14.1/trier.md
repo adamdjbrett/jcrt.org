@@ -7,3 +7,12 @@ abstract: "The article critiques the book"
 keywords: []
 pdf: trier.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

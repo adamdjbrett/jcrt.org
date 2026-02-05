@@ -7,3 +7,12 @@ abstract: "The author discusses how the idea of intellectual emancipation develo
 keywords: []
 pdf: crockett.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

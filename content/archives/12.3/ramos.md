@@ -7,3 +7,12 @@ abstract: "The article focuses on reduction in fertility rate in globalization c
 keywords: []
 pdf: ramos.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

@@ -7,3 +7,12 @@ abstract: "The article discusses the syllogism of the Absolute Concept in the de
 keywords: []
 pdf: cohen.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

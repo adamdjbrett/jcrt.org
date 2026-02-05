@@ -7,3 +7,12 @@ abstract: "The author suggests that teaching Danish philosopher Søren Kierkegaa
 keywords: []
 pdf: dickinson-intro.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

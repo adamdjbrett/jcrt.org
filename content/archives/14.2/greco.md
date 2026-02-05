@@ -7,3 +7,12 @@ abstract: "The article presents the author's views on dispositions, habits and v
 keywords: []
 pdf: greco.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

@@ -7,3 +7,12 @@ abstract: "The article examines some passages on the gift as they appear in the 
 keywords: []
 pdf: welten.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

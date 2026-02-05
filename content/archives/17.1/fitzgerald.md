@@ -7,3 +7,12 @@ abstract:
 keywords: []
 pdf: Fitzgerald.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

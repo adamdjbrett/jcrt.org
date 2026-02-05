@@ -7,3 +7,12 @@ abstract: "An essay is presented on the representations of crip futurity in the 
 keywords: []
 pdf: sanchez.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

@@ -7,3 +7,12 @@ abstract: "The article discusses the evolution of the zombie in mainstream and g
 keywords: []
 pdf: reyes.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

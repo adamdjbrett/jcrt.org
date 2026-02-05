@@ -7,3 +7,12 @@ abstract: "A review of Mark C. Taylor, Confidence Games: Money and Markets in a 
 keywords: []
 pdf: vandeweg.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

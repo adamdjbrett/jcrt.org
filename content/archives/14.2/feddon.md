@@ -7,3 +7,12 @@ abstract: "The article presents the author's views on philosopher Ludwig Feuerba
 keywords: []
 pdf: feddon.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

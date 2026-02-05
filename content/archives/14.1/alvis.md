@@ -7,3 +7,12 @@ abstract: "The article focuses on the works and contribution of philosopher Jean
 keywords: []
 pdf: alvis.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

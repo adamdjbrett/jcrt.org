@@ -7,3 +7,12 @@ abstract: "Since its inception, phenomenology has been a forceful power against 
 keywords: []
 pdf: Bornemark.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

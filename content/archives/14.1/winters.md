@@ -7,3 +7,12 @@ abstract: "The article offers the author's insights on the thoughts of philosoph
 keywords: []
 pdf: winters.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

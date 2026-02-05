@@ -7,3 +7,12 @@ abstract: "The article discusses the concept of responsibility, according to Cze
 keywords: []
 pdf: schuback.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

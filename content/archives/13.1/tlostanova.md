@@ -7,3 +7,12 @@ abstract: "The author shows the decolonial option as a pluriverse wherein even t
 keywords: []
 pdf: tlostanova.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

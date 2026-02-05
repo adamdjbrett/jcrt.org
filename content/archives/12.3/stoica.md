@@ -7,3 +7,12 @@ abstract: "The article focuses on analysis of Gayatri Chakravorty Spivak's appro
 keywords: []
 pdf: stoica.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

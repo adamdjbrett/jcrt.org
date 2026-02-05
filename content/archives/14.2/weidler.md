@@ -7,3 +7,12 @@ abstract: "An essay is presented on philosopher Slavoj Žižek's promotion of th
 keywords: []
 pdf: weidler.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

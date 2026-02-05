@@ -7,3 +7,12 @@ abstract: "The author describes how the ideas set forth by philosopher Jacques R
 keywords: []
 pdf: ballan.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

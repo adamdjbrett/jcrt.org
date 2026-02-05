@@ -7,3 +7,12 @@ abstract: "This edition of  JCRT is a full translation from the German of the bo
 keywords: [translation]
 pdf: Praise.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

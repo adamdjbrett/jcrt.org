@@ -7,3 +7,12 @@ abstract: "The article discusses a study by French historian René Girard (1923-
 keywords: []
 pdf: hagedorn.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

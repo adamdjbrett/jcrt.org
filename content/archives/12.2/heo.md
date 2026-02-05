@@ -7,3 +7,12 @@ abstract: "The author looks at several models of ethnographic practices of field
 keywords: []
 pdf: heo.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

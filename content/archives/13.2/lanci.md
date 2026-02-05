@@ -7,3 +7,12 @@ abstract: "An essay on the collapse of civilization featured in contemporary zom
 keywords: []
 pdf: lanci.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

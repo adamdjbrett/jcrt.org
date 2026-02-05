@@ -7,3 +7,12 @@ abstract:
 keywords: []
 pdf: Bradley2.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

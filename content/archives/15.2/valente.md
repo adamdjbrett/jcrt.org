@@ -7,3 +7,12 @@ abstract: "The article critiques the film"
 keywords: []
 pdf: valente.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

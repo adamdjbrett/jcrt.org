@@ -7,3 +7,12 @@ abstract: "The religions of the book, Islam, Christianity, and Judaism, all acce
 keywords: []
 pdf: Mensch.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

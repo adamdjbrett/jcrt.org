@@ -7,3 +7,12 @@ abstract: "The author calls attention to the fracturing of temporality caused by
 keywords: []
 pdf: mackendrick.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

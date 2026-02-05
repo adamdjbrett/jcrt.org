@@ -7,3 +7,12 @@ abstract: "The author discusses how Aristotle's concept of hexis (commonly trans
 keywords: []
 pdf: cochrane.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

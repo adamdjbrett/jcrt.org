@@ -7,3 +7,12 @@ abstract: "The author describes how the examination of the double bind of passio
 keywords: []
 pdf: robert.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

@@ -7,3 +7,12 @@ abstract: "The article presents the author's views on God and epistemic authorit
 keywords: []
 pdf: moser.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

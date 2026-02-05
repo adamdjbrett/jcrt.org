@@ -7,3 +7,12 @@ abstract: "Phenomenology, as a particular idiom or style of philosophical reflec
 keywords: []
 pdf: Rivera.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

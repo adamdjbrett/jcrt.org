@@ -7,3 +7,12 @@ abstract: "The article focuses on the visual representation of feminist discours
 keywords: []
 pdf: yonker.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

@@ -8,7 +8,7 @@ layout: base.njk
     <div class="row">
       <div class="col-md-12 p-3 p-md-5">
         {% set authorKey = page.fileSlug %}
-        {% set postsByAuthor = collections.posts | getPostsByAuthor(authorKey) %}
+        {% set postsByAuthor = collections.all | getPostsByAuthor(authorKey) %}
 
         {% if postsByAuthor.length %}
           <div class="text-center text-secondary mb-5">
@@ -16,7 +16,19 @@ layout: base.njk
                  style="object-fit:cover;" src="{{ image or '/img/default-author.jpg' }}"/>
             <h1><strong><span class="none text-dark">{{ title }}</span></strong></h1>
             <h2 class="lead text-uppercase mb-3">{{ description }}</h2>
-            
+            {% if affiliation %}
+            <h2 class="h5 text-pink text-uppercase mb-1">{{ affiliation }}</h2>
+          {% endif %}
+          <p class="lead italic mb-3">{{ description }}</p>
+          
+          {% if orcid and orcid != "/" %}
+            <div class="mb-3">
+              <a href="{{ orcid }}" target="_blank" class="text-decoration-none text-dark small">
+                <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="16" class="me-1" alt="ORCID">
+                {{ orcid | replace("https://orcid.org/", "") }}
+              </a>
+            </div>
+          {% endif %}
             <p>
               {{ postsByAuthor.length }} Posts |
               {% if social %}

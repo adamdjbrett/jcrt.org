@@ -7,3 +7,12 @@ abstract: "An essay is presented on related to neoclassical pattern design grott
 keywords: []
 pdf: reid.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

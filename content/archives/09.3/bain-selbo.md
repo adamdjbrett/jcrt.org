@@ -8,3 +8,12 @@ abstract: "Review of Alasdair MacIntyre, The Tasks of Philosophy: Selected Essay
 keywords: []
 pdf: bain-selbo.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

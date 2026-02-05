@@ -7,3 +7,12 @@ abstract:
 keywords: []
 pdf: Prewitt-Davis.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

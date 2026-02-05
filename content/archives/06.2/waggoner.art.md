@@ -7,3 +7,12 @@ abstract:
 keywords: []
 pdf: waggoner.art.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

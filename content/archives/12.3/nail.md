@@ -7,3 +7,12 @@ abstract: "The article focuses on analysis of Occupy protest movement initiation
 keywords: []
 pdf: nail.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

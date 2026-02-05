@@ -7,3 +7,12 @@ abstract: "An interview of University of Denver's professor Carl A. Raschke that
 keywords: []
 pdf: taylor.raschke.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

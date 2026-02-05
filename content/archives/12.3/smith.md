@@ -7,3 +7,12 @@ abstract: "The article focuses on usage of remotely piloted aircraft (UAV) for a
 keywords: []
 pdf: smith.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

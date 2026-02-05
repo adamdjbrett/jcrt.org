@@ -7,3 +7,12 @@ abstract: "The article focuses on analysis of changes in Marx economic theory wi
 keywords: []
 pdf: bedford.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

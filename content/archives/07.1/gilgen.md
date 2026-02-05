@@ -7,3 +7,12 @@ abstract: "A review of Hent de Vries, Religion and Violence: Philosophical Persp
 keywords: []
 pdf: gilgen.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

@@ -6,7 +6,8 @@
 	"scripts": {
 		"kill": "rd /s /q _site",
 		"start": "npx @11ty/eleventy --serve",
-		"build": "npx @11ty/eleventy",
+		"dev": "set QUICK_DEV=true&&eleventy --serve --incremental --port=4000",
+		"build": "npx @11ty/eleventy && npx pagefind --site _site",
 		"clear": "npx rimraf _site theory_data_cache.json .cache",
 		"build-nocolor": "cross-env NODE_DISABLE_COLORS=1 npx @11ty/eleventy",
 		"build-ghpages": "npx @11ty/eleventy --pathprefix=/jcrt.org/",
@@ -50,6 +51,7 @@
 		"adm-zip": "^0.5.16",
 		"cheerio": "^1.1.2",
 		"eleventy-plugin-toc": "^1.1.5",
+		"globby": "^16.1.0",
 		"gray-matter": "^4.0.3",
 		"markdown-it": "^14.1.0",
 		"markdown-it-anchor": "^9.2.0",

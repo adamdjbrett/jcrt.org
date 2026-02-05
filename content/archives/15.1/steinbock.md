@@ -7,3 +7,12 @@ abstract: "The article examines the explication by German philosopher Martin Hei
 keywords: []
 pdf: steinbock.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+

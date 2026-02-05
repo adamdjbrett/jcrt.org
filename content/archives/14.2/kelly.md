@@ -7,3 +7,12 @@ abstract: "An essay is presented on the relevance of envy and emulation in the p
 keywords: []
 pdf: kelly.pdf
 ---
+
+---
+
+---
+
+---
+
+---
+
