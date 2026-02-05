@@ -1,0 +1,40 @@
+---
+permalink: /sitemap/journal-sitemap.xml
+layout: false
+---
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{%- for p in collections.all %}
+	{%- if p.url %}
+		{% set ip = p.inputPath or "" %}
+		{% if ip and ip.startsWith("./") %}{% set ip = ip.slice(2) %}{% endif %}
+
+		{%- set skip = false -%}
+		{%- if p.url == "/sitemap.xml" or p.url.startsWith("/sitemap/") %}{% set skip = true %}{% endif -%}
+		{%- if p.url.startsWith("/authors/") %}{% set skip = true %}{% endif -%}
+		{%- if p.url.startsWith("/blog/") and ip and ip.startsWith("content/blog/") %}{% set skip = true %}{% endif -%}
+		{%- if p.url.startsWith("/religioustheory/") %}{% set skip = true %}{% endif -%}
+		{%- if p.url.startsWith("/tags/") %}{% set skip = true %}{% endif -%}
+		{%- if p.url == "/feed/feed.xml" %}{% set skip = true %}{% endif -%}
+		{%- if p.url == "/robots.txt" or p.url == "/humans.txt" %}{% set skip = true %}{% endif -%}
+		{%- if p.url == "/404/" or p.url == "/404.html" %}{% set skip = true %}{% endif -%}
+
+		{%- if not skip %}
+			{%- set include = false -%}
+			{%- if ip and ip.startsWith("content/pages/") %}{% set include = true %}{% endif -%}
+			{%- if ip and ip.startsWith("content/archives/") %}{% set include = true %}{% endif -%}
+			{%- if ip == "content/index.md" %}{% set include = true %}{% endif -%}
+
+			{%- if include %}
+				{% set absoluteUrl %}{{ p.url | htmlBaseUrl(metadata.url) }}{% endset %}
+				<url>
+					<loc>{{ absoluteUrl }}</loc>
+					{% set lm = p.inputPath | lastModifiedDate %}
+					{% if lm %}<lastmod>{{ lm | htmlDateString }}</lastmod>{% endif %}
+					<priority>1.0</priority>
+				</url>
+			{%- endif %}
+		{%- endif %}
+	{%- endif %}
+{%- endfor %}
+</urlset>

@@ -7,58 +7,158 @@ layout: base.njk
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-12 p-3 p-md-5">
-        {% set authorKey = page.fileSlug %}
-        {% set postsByAuthor = collections.posts | getPostsByAuthor(authorKey) %}
+        {% set authorKey = key or page.fileSlug %}
+        {% set matchKeys = [authorKey] %}
+        {% set authorKeySlug = authorKey | authorSlug %}
+        {% if authorKeySlug and (authorKeySlug not in matchKeys) %}{% set matchKeys = matchKeys.concat([authorKeySlug]) %}{% endif %}
+        {% if name %}
+          {% set nameSlug = name | authorSlug %}
+          {% if nameSlug and (nameSlug not in matchKeys) %}{% set matchKeys = matchKeys.concat([nameSlug]) %}{% endif %}
+        {% endif %}
+        {% if aliases %}
+          {% for a in aliases %}
+            {% if a and (a not in matchKeys) %}{% set matchKeys = matchKeys.concat([a]) %}{% endif %}
+            {% set aSlug = a | authorSlug %}
+            {% if aSlug and (aSlug not in matchKeys) %}{% set matchKeys = matchKeys.concat([aSlug]) %}{% endif %}
+          {% endfor %}
+        {% endif %}
 
-        {% if postsByAuthor.length %}
-          <div class="text-center text-secondary mb-5">
-            <img class="img-thumb rounded-circle mb-3" alt="{{ title }}" width="150" height="150" 
-                 style="object-fit:cover;" src="{{ image or '/img/default-author.jpg' }}"/>
-            <h1><strong><span class="none text-dark">{{ title }}</span></strong></h1>
-            <h2 class="lead text-uppercase mb-3">{{ description }}</h2>
-            
-            <p>
-              {{ postsByAuthor.length }} Posts |
-              {% if social %}
-                {% for s in social %}
-                  <a href="{{ s.url }}" title="{{ s.title }}"><i class="{{ s.icon }} me-2"></i></a>
-                {% endfor %}
-              {% endif %}
-            </p>
+        {% set archiveMatched = [] %}
+        {% for p in collections.archives %}
+          {% if p.data.author %}
+            {% set keys = p.data.author | authorsToArray %}
+            {% set isMatch = false %}
+            {% for k in matchKeys %}
+              {% if k in keys %}{% set isMatch = true %}{% endif %}
+            {% endfor %}
+            {% if isMatch %}
+              {% set archiveMatched = archiveMatched.concat([p]) %}
+            {% endif %}
+          {% endif %}
+        {% endfor %}
 
-            <p>
-              {% if button %}
-                {% for b in button %}
-                  <a href="{{ b.url }}" class="btn btn-pink me-2 text-white">{{ b.title }}</a>
-                {% endfor %}
-              {% endif %}
+        {% set theoryMatched = [] %}
+        {% for t in theory.posts %}
+          {% set tAuthor = t.authorData.name or t.author %}
+          {% set tKey = tAuthor | authorSlug %}
+          {% if tKey and (tKey in matchKeys) %}
+            {% set theoryMatched = theoryMatched.concat([t]) %}
+          {% endif %}
+        {% endfor %}
+
+        {% set blogMatched = [] %}
+        {% for b in collections.posts %}
+          {% if b.data.author %}
+            {% set isMatch = false %}
+            {% set raw = b.data.author.toString().split(';').join(',') %}
+            {% for part in raw.split(',') %}
+              {% set a = part | trim %}
+              {% if a and (a in matchKeys) %}{% set isMatch = true %}{% endif %}
+              {% set aSlug = a | authorSlug %}
+              {% if aSlug and (aSlug in matchKeys) %}{% set isMatch = true %}{% endif %}
+            {% endfor %}
+            {% if isMatch %}
+              {% set blogMatched = blogMatched.concat([b]) %}
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+
+        <div class="text-center text-secondary mb-5">
+          <img class="img-thumb rounded-circle mb-3" alt="{{ name or title }}" width="150" height="150"
+               style="object-fit:cover;" src="{{ image or '/img/jcrt.jpg' }}"/>
+          <h1><strong><span class="none text-dark">{{ name or title }}</span></strong></h1>
+          {% if affiliation or organization %}
+            <h2 class="lead text-uppercase mb-3">{{ affiliation or organization }}</h2>
+          {% endif %}
+
+          {% if bio %}
+            <div class="text-start text-body mt-4">{{ bio | md | safe }}</div>
+          {% endif %}
+
+          {% if social %}
+            <p class="mt-3">
+              {% for s in social %}
+                {% if s.url %}
+                  <a href="{{ s.url }}" title="{{ s.title }}">
+                    {% if s.icon %}<i class="{{ s.icon }} me-2"></i>{% endif %}
+                  </a>
+                {% endif %}
+              {% endfor %}
             </p>
-          </div>
+          {% endif %}
+        </div>
+
+        {% if archiveMatched.length or theoryMatched.length or blogMatched.length %}
+          {% if archiveMatched.length %}
+          {% set sortable = [] %}
+          {% for entry in archiveMatched %}
+            {% set vol = (entry.data.volume or '0').toString().padStart(3, '0') %}
+            {% set iss = (entry.data.issue or '0').toString().padStart(2, '0') %}
+            {% set pages = entry.data.pages %}
+            {% set pages_first = (pages or '').toString().split('-')[0].trim() %}
+            {% set pages_num = pages_first.replace('S','').replace('s','').replace('P','').replace('p','').trim() %}
+            {% set pages_key = (pages_num or '0').toString().padStart(6, '0') %}
+            {% set sort_key = vol + iss + pages_key + entry.fileSlug %}
+            {% set sortable = sortable.concat([{ entry: entry, sort_key: sort_key }]) %}
+          {% endfor %}
+          {% set sorted_items = sortable | sort(true, false, 'sort_key') %}
 
           <hr/>
-          <div class="row mt-4">
-            {% for b in postsByAuthor | reverse %}
-              <div class="col-md-4 col-lg-4 p-3 p-md-4"> 
-                <div class="img-zoom-container mb-3">
-                  <a href="{{ b.url }}" title="{{ b.data.title }}">
-                    <img class="img-post rounded" width="100%" height="auto" 
-                         alt="{{ b.data.title }}" src="{{ b.data.image or metadata.image }}"/>
-                  </a>
-                </div>
-                <h3 class="h5"><strong>{{ b.data.title }}</strong></h3>
-                <p class="small text-muted">
-                  {{ b.data.description }}
-                </p>
-                <p>
-                  <a href="{{ b.url }}" class="btn btn-sm btn-pink">Learn More</a>
-                </p>
-              </div>
+          <h2 class="h4 mt-4">Archives</h2>
+          <ul>
+            {% for item in sorted_items %}
+              {% set entry = item.entry %}
+              {% set pdfUrl = '' %}
+              {% if entry.data.pdf %}
+                {% set pdfUrl = entry.inputPath | replace('content/archives/', '/archives/') | replace(entry.fileSlug + '.md', entry.data.pdf) %}
+              {% endif %}
+              <li>
+                <a href="{{ pdfUrl or entry.url }}">{{ entry.data.title or entry.fileSlug }}</a>
+                {% if entry.data.volume and entry.data.issue %}
+                  <span class="text-muted"> (Vol {{ entry.data.volume }}, Issue {{ entry.data.issue }})</span>
+                {% endif %}
+              </li>
             {% endfor %}
-          </div>
+          </ul>
+          {% endif %}
 
+          {% if theoryMatched.length %}
+            <hr/>
+            <h2 class="h4 mt-4">Religious Theory</h2>
+            <ul>
+              {% for t in theoryMatched %}
+                <li>
+                  <a href="/religioustheory/posts/{{ t.slug }}/">{{ t.title }}</a>
+                  {% if t.date %}<span class="text-muted"> ({{ t.date | postDate }})</span>{% endif %}
+                </li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+
+          {% if blogMatched.length %}
+            {% set sortableBlog = [] %}
+            {% for entry in blogMatched %}
+              {% set d = entry.date | htmlDateString %}
+              {% set sort_key = (d or '0000-00-00') + entry.fileSlug %}
+              {% set sortableBlog = sortableBlog.concat([{ entry: entry, sort_key: sort_key }]) %}
+            {% endfor %}
+            {% set sortedBlog = sortableBlog | sort(true, false, 'sort_key') %}
+
+            <hr/>
+            <h2 class="h4 mt-4">Blog</h2>
+            <ul>
+              {% for item in sortedBlog %}
+                {% set entry = item.entry %}
+                <li>
+                  <a href="{{ entry.url }}">{{ entry.data.title or entry.fileSlug }}</a>
+                  {% if entry.date %}<span class="text-muted"> ({{ entry.date | readableDate("dd LLLL yyyy") }})</span>{% endif %}
+                </li>
+              {% endfor %}
+            </ul>
+          {% endif %}
         {% else %}
           <div class="text-center p-5">
-            <p class="lead">Nothing Post by <strong>{{ title }}</strong>.</p>
+            <p class="lead">No items found for <strong>{{ name or title }}</strong> yet.</p>
           </div>
         {% endif %}
 

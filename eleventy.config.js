@@ -7,7 +7,7 @@ import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
 import pluginNavigation from "@11ty/eleventy-navigation";
 import yaml from "js-yaml";
-import { execSync } from "child_process";
+import { execFileSync, execSync } from "child_process";
 import markdownIt from "markdown-it";
 import markdownItAnchor from "markdown-it-anchor";
 import markdownItFootnote from "markdown-it-footnote";
@@ -15,9 +15,55 @@ import markdownItAttrs from 'markdown-it-attrs';
 import markdownItTableOfContents from "markdown-it-table-of-contents";
 import pluginTOC from 'eleventy-plugin-toc';
 import pluginFilters from "./_config/filters.js";
+import { authorSlug, splitAuthors } from "./_config/authorSlug.js";
 import fs from "fs";
 import path from 'path'; 
 import { fileURLToPath } from 'url';
+
+const lastModifiedCache = new Map();
+
+function getLastModifiedDate(inputPath) {
+	if (!inputPath) return null;
+
+	let rawPath = String(inputPath);
+	rawPath = rawPath.replace(/^\.\//, "");
+
+	const fullPath = path.isAbsolute(rawPath)
+		? rawPath
+		: path.join(process.cwd(), rawPath);
+
+	const relPath = path.relative(process.cwd(), fullPath) || rawPath;
+	const cacheKey = relPath;
+	const cached = lastModifiedCache.get(cacheKey);
+	if (cached) return cached;
+
+	// Prefer git commit time so <lastmod> reflects what was pushed/deployed.
+	try {
+		const out = execFileSync(
+			"git",
+			["log", "-1", "--format=%cI", "--", relPath],
+			{ cwd: process.cwd(), encoding: "utf8", stdio: ["ignore", "pipe", "ignore"] }
+		).trim();
+		if (out) {
+			const d = new Date(out);
+			if (!Number.isNaN(d.valueOf())) {
+				lastModifiedCache.set(cacheKey, d);
+				return d;
+			}
+		}
+	} catch {
+		// fall back to filesystem
+	}
+
+	try {
+		const stat = fs.statSync(fullPath);
+		const d = stat.mtime;
+		lastModifiedCache.set(cacheKey, d);
+		return d;
+	} catch {
+		return null;
+	}
+}
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function (eleventyConfig) {
@@ -144,13 +190,22 @@ export default async function (eleventyConfig) {
 	}
 
 
-    eleventyConfig.addFilter("getAuthorObj", (authorsCollection, authorKey) => {
+	eleventyConfig.addFilter("getAuthorObj", (authorsCollection, authorKey) => {
         if (!authorKey || !authorsCollection) return null;
         return authorsCollection.find(author => {
             const key = author.data?.key || author.fileSlug;
             return key === authorKey.trim();
         });
     });
+
+	eleventyConfig.addFilter("authorSlug", (name) => authorSlug(name));
+	eleventyConfig.addFilter("authorsToArray", (authorField) =>
+		splitAuthors(authorField).map(authorSlug).filter(Boolean)
+	);
+
+	eleventyConfig.addFilter("lastModifiedDate", (inputPath) =>
+		getLastModifiedDate(inputPath)
+	);
 eleventyConfig.addFilter("getPostsByAuthor", (posts, authorKey) => {
     if (!posts || !authorKey) return [];
     const targetKey = String(authorKey).trim().toLowerCase();
@@ -177,6 +232,12 @@ eleventyConfig.addPassthroughCopy({ "content/archives": "archives" }, {
 eleventyConfig.addCollection("archives", function(collectionApi) {
         return collectionApi.getFilteredByGlob("content/archives/**/*.md");
     });
+
+	eleventyConfig.addCollection("sitemaps", function (collectionApi) {
+		return collectionApi
+			.getFilteredByGlob("content/sitemap/*.xml.njk")
+			.sort((a, b) => (a.url || "").localeCompare(b.url || ""));
+	});
 const mdLib = markdownIt({
     html: true,
     breaks: true,

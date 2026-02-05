@@ -1,0 +1,43 @@
+---js
+const pagination = {
+	data: "theory.posts",
+	size: 1,
+	alias: "category",
+	before: function(posts) {
+		const cats = [];
+		const seen = {};
+		for (const post of posts || []) {
+			for (const c of post.categories || []) {
+				if (!c || seen[c]) continue;
+				seen[c] = true;
+				cats.push(c);
+			}
+		}
+		return cats.sort((a, b) => String(a).localeCompare(String(b)));
+	},
+};
+
+const eleventyComputed = {
+	title: data => `Category: ${data.category}`,
+	permalink: function(data) {
+		return `/religioustheory/categories/${this.slugify(data.category)}/`;
+	},
+};
+---
+<div class="col-md-10 mx-auto">
+  {% include "partials/nav_desktop.njk" %}
+
+  <h1>Category: {{ category }}</h1>
+  <p><a href="/religioustheory/categories/">← Back to categories</a></p>
+
+  <ul>
+    {% for post in theory.posts %}
+      {% if post.categories and (category in post.categories) %}
+        <li class="p-2">
+          <a href="/religioustheory/posts/{{ post.slug }}/">{{ post.title }}</a>
+          {% if post.date %}<small class="text-muted">({{ post.date | postDate }})</small>{% endif %}
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>

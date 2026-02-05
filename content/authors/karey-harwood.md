@@ -1,0 +1,9 @@
+---
+name: Karey Harwood
+affiliation:
+bio:
+social:
+  - title: "website"
+    url: ""
+    icon: fa-solid fa-link
+---

@@ -81,16 +81,36 @@ export default async function() {
             authorData: authors[post.author] || { name: post.author || "Editors" }
         })).sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
 
-        const finalData = {
+        const nextData = {
             posts: formattedPosts,
             pages: pages,
             authors: authors,
-            lastUpdated: new Date().toISOString()
         };
 
+        // Avoid rewriting the cache file on every watch/build—this prevents noisy git diffs
+        // and reduces the chance of rebuild loops.
+        if (fs.existsSync(dataPath)) {
+            try {
+                const previous = JSON.parse(fs.readFileSync(dataPath, "utf8"));
+                const prevComparable = {
+                    posts: previous?.posts || [],
+                    pages: previous?.pages || [],
+                    authors: previous?.authors || {},
+                };
+
+                if (JSON.stringify(prevComparable) === JSON.stringify(nextData)) {
+                    console.log(`[Theory] No changes: using existing theory_archive.json.`);
+                    return previous;
+                }
+            } catch {
+                // ignore parse errors and overwrite below
+            }
+        }
+
+        const finalData = { ...nextData, lastUpdated: new Date().toISOString() };
         fs.writeFileSync(dataPath, JSON.stringify(finalData, null, 2));
-        
-        console.log(`[Theory] Success: ${formattedPosts.length} posts saved to archive.`);
+
+        console.log(`[Theory] Updated: ${formattedPosts.length} posts saved to archive.`);
         return finalData;
 
     } catch (error) {

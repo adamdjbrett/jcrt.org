@@ -1,5 +1,5 @@
 ---
 layout: author-list.njk
-title: The Author
-description: Our Author List
+title: Our Authors
+description: A list of our contributors
 ---

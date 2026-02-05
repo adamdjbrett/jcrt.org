@@ -1,0 +1,9 @@
+---
+name: Thomas M Dicken
+affiliation:
+bio:
+social:
+  - title: "website"
+    url: ""
+    icon: fa-solid fa-link
+---

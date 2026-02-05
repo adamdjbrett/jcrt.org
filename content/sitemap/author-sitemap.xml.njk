@@ -1,0 +1,28 @@
+---
+permalink: /sitemap/author-sitemap.xml
+layout: false
+---
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	{% set latest = "0000-00-00" %}
+	{%- for a in collections.authors %}
+		{% set d = (a.inputPath | lastModifiedDate) | htmlDateString %}
+		{% if d > latest %}{% set latest = d %}{% endif %}
+	{%- endfor %}
+
+	<url>
+		<loc>{{ "/authors/" | htmlBaseUrl(metadata.url) }}</loc>
+		{% if latest != "0000-00-00" %}<lastmod>{{ latest }}</lastmod>{% endif %}
+		<priority>0.5</priority>
+	</url>
+
+{%- for a in collections.authors %}
+	{% set absoluteUrl %}{{ a.url | htmlBaseUrl(metadata.url) }}{% endset %}
+	<url>
+		<loc>{{ absoluteUrl }}</loc>
+		{% set lm = a.inputPath | lastModifiedDate %}
+		{% if lm %}<lastmod>{{ lm | htmlDateString }}</lastmod>{% endif %}
+		<priority>0.5</priority>
+	</url>
+{%- endfor %}
+</urlset>

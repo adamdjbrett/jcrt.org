@@ -1,0 +1,16 @@
+---
+permalink: /sitemap/image-sitemap.xml
+layout: false
+---
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{%- for img in assets.images %}
+	{% set absoluteUrl %}{{ img.url | htmlBaseUrl(metadata.url) }}{% endset %}
+	<url>
+		<loc>{{ absoluteUrl }}</loc>
+		{% set lm = img.path | lastModifiedDate %}
+		{% if lm %}<lastmod>{{ lm | htmlDateString }}</lastmod>{% endif %}
+		<priority>0.2</priority>
+	</url>
+{%- endfor %}
+</urlset>

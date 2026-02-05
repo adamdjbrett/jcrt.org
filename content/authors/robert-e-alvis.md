@@ -1,0 +1,9 @@
+---
+name: Robert E Alvis
+affiliation:
+bio:
+social:
+  - title: "website"
+    url: ""
+    icon: fa-solid fa-link
+---

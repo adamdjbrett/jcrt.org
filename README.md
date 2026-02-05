@@ -108,7 +108,7 @@ belong to the previous footnote.
 ```
 10. ensure all index.njk files in /archives haves artwork. if their issue does not have artwork use /img/jcrt.jpg
 11. add editors to /archives/index.njks as optional front matter for if/when tehres a special issue.
-
+12. wireup authors, tags, categories, for /religioustheory as well
 
 ## Changelog - Dre
 1. increase the size of the nav and the css to match <https://editorial.ghost.io>
