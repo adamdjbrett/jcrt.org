@@ -1,5 +1,5 @@
 ---
-title: "THE SACRED AS BORDERING PRACTICE."
+title: "THE SACRED AS BORDERING PRACTICE"
 author: "ANNA-MARIA EDLINGER"
 affilation:
 abstract: 

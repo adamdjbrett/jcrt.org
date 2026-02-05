@@ -107,6 +107,9 @@ Develope by <a href="https://adamdjbrett.com" target="_blank">Adamdjbrett</a>
             </header>
 
             <div class="content-body wp-legacy-content" data-pagefind-body>
+                <div class="p-3 bg-light">
+                  {{ content | toc | safe }}
+                </div>
                 {{ content | safe }}
             </div>
         </article>

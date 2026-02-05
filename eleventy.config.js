@@ -154,8 +154,8 @@ export default async function (eleventyConfig) {
 			}
 		});
 	}
-// If use sveltia cms
-//	eleventyConfig.addPassthroughCopy("sveltia.config.js");
+// Sveltia CMS config (passthrough so it's available at site root)
+	eleventyConfig.addPassthroughCopy("sveltia.config.js");
 	eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
 	eleventyConfig
 		.addPassthroughCopy({
@@ -325,16 +325,24 @@ eleventyConfig.addCollection("archives", function(collectionApi) {
 
 	// Pre-transform: mark remote <img> tags with eleventy:ignore so the image
 	// plugin skips them entirely (avoids wasted HTTP 404 requests).
-	eleventyConfig.htmlTransformer.addPosthtmlPlugin("html", (context) => {
-		return (tree) => {
-			tree.match({ tag: "img" }, (node) => {
-				const src = node.attrs?.src || "";
-				if (src.startsWith("http://") || src.startsWith("https://") || src.startsWith("//")) {
-					node.attrs = node.attrs || {};
-					node.attrs["eleventy:ignore"] = "";
-				}
-				return node;
-			});
+		eleventyConfig.htmlTransformer.addPosthtmlPlugin("html", (context) => {
+			return (tree) => {
+				tree.match({ tag: "img" }, (node) => {
+					const src = node.attrs?.src || "";
+					// Skip remote images (avoid wasted HTTP) and root-relative public assets
+					// (our Eleventy input dir is `content`, but these live in `public/`).
+					if (
+						src.startsWith("http://") ||
+						src.startsWith("https://") ||
+						src.startsWith("//") ||
+						src.startsWith("/img/") ||
+						src.startsWith("/images/")
+					) {
+						node.attrs = node.attrs || {};
+						node.attrs["eleventy:ignore"] = "";
+					}
+					return node;
+				});
 			return tree;
 		};
 	}, { priority: 0 }); // 0 > -1, so this runs BEFORE image transform at -1 (descending sort)

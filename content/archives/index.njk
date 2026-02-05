@@ -14,9 +14,9 @@ image: /img/jcrt.jpg
     {% set relative_path = entry.inputPath | replace(current_dir, '') %}
     {% set relative_parts = relative_path.split('/') %}
     {% if relative_path.endsWith('/index.njk') and (relative_parts | length) == 2 %}
-      {% set season_key = (entry.data.season|string).padStart(3, '0') %}
+      {% set volume_key = (entry.data.volume|string).padStart(3, '0') %}
       {% set issue_key = (entry.data.issue|string).padStart(3, '0') %}
-      {% set sort_key = season_key + '.' + issue_key %}
+      {% set sort_key = volume_key + '.' + issue_key %}
       {% set issues = issues.concat([{
         entry: entry,
         sort_key: sort_key
@@ -32,8 +32,8 @@ image: /img/jcrt.jpg
   {% set issue_dir = issue_entry.inputPath | replace('/index.njk', '/') %}
   {% set issue_articles = [] %}
 
-  <h2>
-    {{ issue_entry.data.season }}.{{ issue_entry.data.issue }}{% if issue_entry.data.title %} - {{ issue_entry.data.title }}{% endif %}
+ <h2>
+    {{ issue_entry.data.volume }}.{{ issue_entry.data.issue }} {{ issue_entry.data.season }} {% if issue_entry.data.title %} - {{ issue_entry.data.title }}{% endif %}
   </h2>
 
   {% for article in collections.all %}

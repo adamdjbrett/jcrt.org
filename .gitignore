@@ -3,6 +3,5 @@ node_modules/
 .cache
 .DS_Store
 .env
-.catatan.md
-RAW
+RAW/
 _logs/
