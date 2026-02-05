@@ -5,5 +5,5 @@ author: "Kris Sealey"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: sealey.pdf
 ---

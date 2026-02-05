@@ -5,5 +5,5 @@ author: "TIMOTHY SNEDIKER"
 affilation:
 abstract: "An essay concerning the autonomy of Christianity, secularism, and subjectivity."
 keywords: []
-pdf:
+pdf: snediker.pdf
 ---

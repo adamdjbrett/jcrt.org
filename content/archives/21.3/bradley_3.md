@@ -5,11 +5,5 @@ author: "ARTHUR BRADLEY"
 affilation:
 abstract: 
 keywords: []
-pdf:
+pdf: Bradley3.pdf
 ---
-
-# A RESPONSE TO NIALL GILDEA.
-
-ARTHUR BRADLEY
-
-https://research.ebsco.com/plink/48e08dc0-16df-3a98-807b-a527ce906b86

@@ -5,5 +5,5 @@ author: "JASON ALVIS"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: alvis.pdf
 ---

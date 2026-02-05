@@ -5,5 +5,5 @@ author: "Matthew Waggoner"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: waggoner.pdf
 ---

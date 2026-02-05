@@ -5,5 +5,5 @@ author: "Hans Ruin"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: ruin.pdf
 ---

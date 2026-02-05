@@ -5,5 +5,5 @@ author: "Gabriel Vahanian"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: vahanian.pdf
 ---

@@ -5,11 +5,6 @@ author: "William Robert"
 affilation:
 abstract: 
 keywords: []
-pdf:
+pdf: robert.pdf
+pdf: robert.pdf
 ---
-
-# PERFORMING RELIGIOUSLY BETWEEN PASSION AND RESISTANCE
-
-William Robert
-
-https://research.ebsco.com/plink/d2d20e83-ce4c-3fc9-bbf3-7208c4cce9fc

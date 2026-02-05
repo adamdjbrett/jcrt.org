@@ -5,5 +5,5 @@ author: "WILLIAM FRANKE"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Franke.pdf
 ---

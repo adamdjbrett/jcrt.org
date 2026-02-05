@@ -5,5 +5,5 @@ author: "LYDIA E. FERGUSON"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Ferguson.pdf
 ---

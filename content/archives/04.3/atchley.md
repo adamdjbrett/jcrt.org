@@ -5,5 +5,5 @@ author: "J Heath Atchley"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: atchley.pdf
 ---

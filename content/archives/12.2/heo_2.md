@@ -5,11 +5,6 @@ author: "Angie Heo"
 affilation:
 abstract: 
 keywords: []
-pdf:
+pdf: heo.pdf
+pdf: heo.pdf
 ---
-
-# THREE CLASSIC READINGS OF ‘ETHNOGRAPHIC PRACTICE’ IN RELIGIOUS STUDIES‘
-
-Angie Heo
-
-https://research.ebsco.com/plink/b1253de9-090d-3c51-9aba-7187d0e1d9ce

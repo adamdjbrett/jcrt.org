@@ -5,5 +5,5 @@ author: "Daniel M Finer"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: finer.pdf
 ---

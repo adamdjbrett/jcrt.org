@@ -5,5 +5,5 @@ author: "Mary B Campbell"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: campbell.pdf
 ---

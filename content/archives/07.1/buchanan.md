@@ -5,5 +5,5 @@ author: "Brian Buchanan"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: buchanan.pdf
 ---

@@ -5,5 +5,5 @@ author: "Jenifer Whiting"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: whiting.pdf
 ---

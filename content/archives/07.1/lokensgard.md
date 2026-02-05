@@ -5,5 +5,5 @@ author: "Kenneth H Lokensgard"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: lokensgard.pdf
 ---

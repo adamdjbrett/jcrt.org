@@ -5,5 +5,5 @@ author: "Jonathan A Seitz"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: seitz.pdf
 ---

@@ -5,5 +5,5 @@ author: "Eric D Smaw"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Smaw.pdf
 ---

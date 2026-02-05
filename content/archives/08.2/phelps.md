@@ -5,5 +5,5 @@ author: "Hollis Phelps"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: phelps.pdf
 ---

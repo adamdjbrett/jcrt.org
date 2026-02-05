@@ -5,5 +5,5 @@ author: "Gregg Lambert"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: lambert.pdf
 ---

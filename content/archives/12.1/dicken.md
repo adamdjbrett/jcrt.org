@@ -5,5 +5,5 @@ author: "Thomas M Dicken"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: dicken.pdf
 ---

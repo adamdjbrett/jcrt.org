@@ -5,5 +5,5 @@ author: "James C. (James Craig) Livingston"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: livingston.pdf
 ---

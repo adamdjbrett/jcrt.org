@@ -5,5 +5,5 @@ author: "Cory Stockwell"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: stockwell.pdf
 ---

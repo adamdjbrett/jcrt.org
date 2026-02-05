@@ -5,5 +5,5 @@ author: "GEORGE QUASHA"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Quasha.pdf
 ---

@@ -5,5 +5,5 @@ author: "Stephen P Shoemaker"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: shoemaker.pdf
 ---

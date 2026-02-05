@@ -5,5 +5,5 @@ author: "Jeffrey Hanson"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: hanson.pdf
 ---

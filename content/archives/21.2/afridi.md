@@ -5,5 +5,5 @@ author: "MEHNAZ AFRIDI"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Afridi.pdf
 ---

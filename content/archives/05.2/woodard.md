@@ -5,5 +5,5 @@ author: "Jared Woodard"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: woodard.pdf
 ---

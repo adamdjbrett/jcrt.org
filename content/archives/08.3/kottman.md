@@ -5,5 +5,5 @@ author: "Paul A Kottman"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Kottman.pdf
 ---

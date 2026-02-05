@@ -5,5 +5,5 @@ author: "Geoffrey Holsclaw"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: holsclaw.pdf
 ---

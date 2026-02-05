@@ -5,5 +5,5 @@ author: "JOSHUA GIARDINO"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Giardino.pdf
 ---

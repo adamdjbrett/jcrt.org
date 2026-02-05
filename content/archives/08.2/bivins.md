@@ -5,5 +5,5 @@ author: "Jason Bivins"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: bivins.pdf
 ---

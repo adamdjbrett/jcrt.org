@@ -5,5 +5,5 @@ author: "ANINDYA SEKHAR PURAKAYASTHA"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: purakayastha.pdf
 ---

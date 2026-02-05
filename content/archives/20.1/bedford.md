@@ -5,5 +5,5 @@ author: "GARY BEDFORD"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Bedford.pdf
 ---

@@ -5,5 +5,5 @@ author: "ANDREA L. STANTON"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Stanton.pdf
 ---

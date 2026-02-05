@@ -5,5 +5,5 @@ author: "TYLER TRITTEN"
 affilation:
 abstract: "The article critiques the book"
 keywords: []
-pdf:
+pdf: trier.pdf
 ---

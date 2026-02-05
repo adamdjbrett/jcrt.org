@@ -5,5 +5,5 @@ author: "Lisa Simon"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: simon.pdf
 ---

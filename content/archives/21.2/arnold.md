@@ -5,5 +5,5 @@ author: "PHILIP P. ARNOLD"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Arnold.pdf
 ---

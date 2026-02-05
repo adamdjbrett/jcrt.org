@@ -5,5 +5,5 @@ author: "Richard Crudhington; Fiona Cranny; Sandra Burnup; Tom Eagle; David Dand
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: goodchild.pdf
 ---

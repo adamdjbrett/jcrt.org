@@ -5,5 +5,5 @@ author: "SHARON L. COGGAN"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: coggan.pdf
 ---

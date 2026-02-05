@@ -5,5 +5,5 @@ author: "TAYLOR WEAVER"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Weaver.pdf
 ---

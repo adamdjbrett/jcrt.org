@@ -5,5 +5,5 @@ author: "CARL RASCHKE; DAVID HALE"
 affilation:
 abstract: "The article presents an interview with journal editor Carl A. Raschke who discusses his book"
 keywords: []
-pdf:
+pdf: raschke.pdf
 ---

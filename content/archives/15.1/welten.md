@@ -5,5 +5,5 @@ author: "RUUD WELTEN"
 affilation:
 abstract: "The article examines some passages on the gift as they appear in the book"
 keywords: []
-pdf:
+pdf: welten.pdf
 ---

@@ -5,5 +5,5 @@ author: "Michael Purcell"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: purcell.pdf
 ---

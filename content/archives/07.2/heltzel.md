@@ -5,5 +5,5 @@ author: "Peter Heltzel"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: heltzel.pdf
 ---

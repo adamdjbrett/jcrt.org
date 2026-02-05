@@ -5,5 +5,5 @@ author: "AMY M. GREEN"
 affilation:
 abstract: "The article critiques the film"
 keywords: []
-pdf:
+pdf: green.pdf
 ---

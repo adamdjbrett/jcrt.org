@@ -7,9 +7,3 @@ abstract:
 keywords: []
 pdf:
 ---
-
-# SLOW JOURNALISM? ETHNOGRAPHY AS A MEANS OF UNDERSTANDING RELIGIOUS SOCIAL ACTIVISM.
-
-JAMES V. SPICKARD
-
-https://research.ebsco.com/plink/9df04a24-bb3d-3863-8cbe-a61b360ef44c

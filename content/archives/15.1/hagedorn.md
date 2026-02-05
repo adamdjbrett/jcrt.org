@@ -5,5 +5,5 @@ author: "LUDGER HAGEDORN"
 affilation:
 abstract: "The article discusses a study by French historian René Girard (1923-2015) titled"
 keywords: []
-pdf:
+pdf: hagedorn.pdf
 ---

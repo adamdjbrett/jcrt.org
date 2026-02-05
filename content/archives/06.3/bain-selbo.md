@@ -5,5 +5,5 @@ author: "Eric Bain-Selbo"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: bain-selbo.pdf
 ---

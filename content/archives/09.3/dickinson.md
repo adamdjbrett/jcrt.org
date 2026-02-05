@@ -5,5 +5,5 @@ author: "Wilson Dickinson"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: dickinson.pdf
 ---

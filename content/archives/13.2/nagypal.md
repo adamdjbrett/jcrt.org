@@ -5,5 +5,5 @@ author: "TAMAS NAGYPAL"
 affilation:
 abstract: "The article explores the biopolitical conflicts surrounding the undead body in zombie films"
 keywords: []
-pdf:
+pdf: nagypal.pdf
 ---

@@ -5,5 +5,5 @@ author: "Oz Lorentzen"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: lorentzen.pdf
 ---

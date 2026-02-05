@@ -5,5 +5,5 @@ author: "Erica Weitzman"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: weitzman.pdf
 ---

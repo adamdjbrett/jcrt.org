@@ -5,5 +5,5 @@ author: "COLBEY EMMERSON REID"
 affilation:
 abstract: "An essay is presented on related to neoclassical pattern design grottesche which was featured in the science fiction novel"
 keywords: []
-pdf:
+pdf: reid.pdf
 ---

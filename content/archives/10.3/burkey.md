@@ -5,5 +5,5 @@ author: "John Burkey"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: burkey.pdf
 ---

@@ -5,5 +5,5 @@ author: "Luke Fodor"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: fodor.pdf
 ---

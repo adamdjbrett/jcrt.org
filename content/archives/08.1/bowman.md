@@ -5,5 +5,5 @@ author: "Donna Bowman"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: bowman.pdf
 ---

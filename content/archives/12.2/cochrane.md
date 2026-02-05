@@ -5,5 +5,5 @@ author: "RICH COCHRANE"
 affilation:
 abstract: "The author discusses how Aristotle's concept of hexis (commonly translated as"
 keywords: []
-pdf:
+pdf: cochrane.pdf
 ---

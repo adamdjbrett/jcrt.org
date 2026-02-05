@@ -5,5 +5,5 @@ author: "BENJAMIN FONG"
 affilation:
 abstract: "The article reviews the book"
 keywords: []
-pdf:
+pdf: fong.pdf
 ---

@@ -5,5 +5,5 @@ author: "TINK TINKER; OSAGE NATION"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Tinker.pdf
 ---

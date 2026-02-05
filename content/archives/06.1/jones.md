@@ -5,5 +5,5 @@ author: "Andrea Sun-Mee Jones"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: jones.pdf
 ---

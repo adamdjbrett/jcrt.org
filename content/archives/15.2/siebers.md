@@ -5,5 +5,5 @@ author: "TOBIN SIEBERS"
 affilation:
 abstract: "The author discusses how arts captures women with mental disability and the aesthetics of human disqualification based on the"
 keywords: []
-pdf:
+pdf: siebers.pdf
 ---

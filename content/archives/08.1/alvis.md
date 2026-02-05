@@ -5,5 +5,5 @@ author: "Robert E Alvis"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: alvis.pdf
 ---

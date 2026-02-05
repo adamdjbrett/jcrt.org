@@ -5,5 +5,5 @@ author: "NATE KOSER"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Koser.pdf
 ---

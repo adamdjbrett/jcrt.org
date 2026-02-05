@@ -5,5 +5,5 @@ author: "Adam Kotsko"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: kotsko.pdf
 ---

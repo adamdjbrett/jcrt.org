@@ -5,5 +5,5 @@ author: "JOSEPH WINTERS"
 affilation:
 abstract: "The article offers the author's insights on the thoughts of philosopher Theodor Adorno on hope and the claims that his thought leads to negativism."
 keywords: []
-pdf:
+pdf: winters.pdf
 ---

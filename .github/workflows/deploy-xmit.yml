@@ -19,7 +19,6 @@ permissions:
 
 env:
   ELEVENTY_RUN_MODE: build
-  SKIP_PAGEFIND: "1"
   # Use cached theory data - skip GitHub ZIP download
   USE_CACHED_THEORY: "1"
   # Skip HTML transforms in CI for speed
@@ -46,10 +45,7 @@ jobs:
       - name: Build site
         run: |
           start_time=$(date +%s%3N)
-          npx @11ty/eleventy --quiet &
-          eleventy_pid=$!
-          wait $eleventy_pid
-          npx pagefind --site _site --glob "**/*.html" --force-language en
+          npx @11ty/eleventy --quiet
           end_time=$(date +%s%3N)
           echo "⚡ Build completed in $((end_time - start_time))ms"
 

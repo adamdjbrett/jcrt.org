@@ -5,5 +5,5 @@ author: "Robert D Metcalf"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: metcalf.pdf
 ---

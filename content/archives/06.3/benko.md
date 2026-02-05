@@ -5,5 +5,5 @@ author: "Stephen Benko"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: benko.pdf
 ---

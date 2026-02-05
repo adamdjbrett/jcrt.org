@@ -5,5 +5,5 @@ author: "Erin M McNellis"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: mcnellis.pdf
 ---

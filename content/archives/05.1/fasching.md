@@ -5,5 +5,5 @@ author: "Darrell J Fasching"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: fasching.pdf
 ---

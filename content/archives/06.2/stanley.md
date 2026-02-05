@@ -5,5 +5,5 @@ author: "Timothy (Timothy W) Stanley"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: stanley.pdf
 ---

@@ -5,5 +5,5 @@ author: "Jonathan David York"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: york.pdf
 ---

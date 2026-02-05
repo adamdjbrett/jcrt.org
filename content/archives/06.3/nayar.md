@@ -5,5 +5,5 @@ author: "Pramod K Nayar"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: nayar.pdf
 ---

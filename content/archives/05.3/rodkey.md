@@ -5,5 +5,5 @@ author: "Christopher D Rodkey"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: rodkey.pdf
 ---

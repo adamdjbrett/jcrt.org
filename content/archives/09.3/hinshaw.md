@@ -5,5 +5,5 @@ author: "John Hinshaw"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: hinshaw.pdf
 ---

@@ -5,5 +5,5 @@ author: "Julia Reinhard Lupton"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Lupton.pdf
 ---

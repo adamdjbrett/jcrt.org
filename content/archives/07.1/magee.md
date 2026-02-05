@@ -5,5 +5,5 @@ author: "Neal Magee"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: magee.pdf
 ---

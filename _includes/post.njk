@@ -6,11 +6,13 @@ layout: base.njk
   <div class="row">
     <div class="col-md-12 p-3 p-md-5">
       <div class="mb-5 col-md-8 mx-auto">
-        {% if date %}<p class="text-secondary">{{ date | readableDate("dd LLLL yyyy") }}</p>{% endif %}
-        <h1 class="hero-post-title"><strong>{{ title }}</strong></h1>
-        {% if description %}<h2 class="lead text-secondary">{{ description }}</h2>{% endif %}
-        
-        <p>
+	        {% if date %}<p class="text-secondary">{{ date | readableDate("dd LLLL yyyy") }}</p>{% endif %}
+	        <h1 class="hero-post-title"><strong>{{ title }}</strong></h1>
+	        {% if description %}<h2 class="lead text-secondary">{{ description }}</h2>{% endif %}
+	        {% if page.url and page.url.startsWith('/archives/') and author %}<p class="text-secondary">{{ author }}</p>{% endif %}
+	        {% if page.url and page.url.startsWith('/archives/') and abstract %}<p class="text-secondary">{{ abstract }}</p>{% endif %}
+	        
+	        <p>
           {% if social %}
             {% for s in social %}
               <a href="{{ s.url }}" title="{{ s.title }}"><i class="{{ s.icon }} me-2"></i></a>
@@ -31,9 +33,9 @@ layout: base.njk
         <img class="img-post mb-5 rounded" alt="{{ title }}" width="100%" height="auto" src="{{ image }}"/>
       {% endif %}
 
-      <article class="col-md-8 mx-auto">
-        {{ content | toc | safe }}
-        {{ content | safe }}
+	      <article class="col-md-8 mx-auto"{% if isFastBuild and page.url and page.url.startsWith('/archives/') %} data-pagefind-ignore{% endif %}>
+	        {{ content | toc | safe }}
+	        {{ content | safe }}
 
         {% if tags %}
           <hr/>

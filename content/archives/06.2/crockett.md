@@ -5,5 +5,5 @@ author: "Clayton Crockett"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: crockett.pdf
 ---

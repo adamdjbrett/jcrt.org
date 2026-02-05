@@ -5,5 +5,5 @@ author: "KELLY MAESHIRO"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Maeshiro.pdf
 ---

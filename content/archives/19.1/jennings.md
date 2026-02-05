@@ -5,5 +5,5 @@ author: "THEODORE W. JENNINGS"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Jennings.pdf
 ---

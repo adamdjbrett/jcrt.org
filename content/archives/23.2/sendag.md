@@ -5,5 +5,5 @@ author: "Duygu Sendag"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Sendag.pdf
 ---

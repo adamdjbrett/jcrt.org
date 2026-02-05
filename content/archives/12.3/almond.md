@@ -5,5 +5,5 @@ author: "IAN ALMOND"
 affilation:
 abstract: "The article focuses on analysis of literary work of Bibhutibhushan Banerji based on Messianic as theme for different South Asian literature; and analysis of Baneji's"
 keywords: []
-pdf:
+pdf: almond.pdf
 ---

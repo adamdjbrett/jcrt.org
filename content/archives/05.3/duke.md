@@ -5,5 +5,5 @@ author: "James O Duke"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: duke.pdf
 ---

@@ -5,5 +5,5 @@ author: "Nina P Azari"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: azari.pdf
 ---

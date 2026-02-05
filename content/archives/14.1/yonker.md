@@ -5,5 +5,5 @@ author: "MADELINE YONKER"
 affilation:
 abstract: "The article focuses on the visual representation of feminist discourse in the cover art of the books"
 keywords: []
-pdf:
+pdf: yonker.pdf
 ---

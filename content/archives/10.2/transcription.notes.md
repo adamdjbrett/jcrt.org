@@ -5,5 +5,5 @@ author: "Robert Duncan; Amy Evans"
 affilation:
 abstract: 
 keywords: []
-pdf:
+pdf: transcription.notes.pdf
 ---

@@ -5,5 +5,5 @@ author: "W. EZEKIEL GOGGIN"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Goggin.pdf
 ---

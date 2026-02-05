@@ -5,5 +5,5 @@ author: "Anthony Shelton"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: shelton.pdf
 ---

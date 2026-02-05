@@ -5,5 +5,5 @@ author: "Ward Blanton"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: blanton.pdf
 ---

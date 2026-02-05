@@ -5,5 +5,5 @@ author: "JEFFREY SCHOLES"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: scholes.pdf
 ---

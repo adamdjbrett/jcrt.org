@@ -5,5 +5,5 @@ author: "John D Caputo"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: caputo.pdf
 ---

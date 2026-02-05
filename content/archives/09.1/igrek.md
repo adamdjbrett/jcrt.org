@@ -5,5 +5,5 @@ author: "Apple Zefelius Igrek"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Igrek.pdf
 ---

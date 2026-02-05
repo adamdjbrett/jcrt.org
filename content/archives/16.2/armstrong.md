@@ -5,5 +5,5 @@ author: "Amaryah Armstrong"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Armstrong.pdf
 ---

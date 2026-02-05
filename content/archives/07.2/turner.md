@@ -5,5 +5,5 @@ author: "Donald L Turner"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: turner.pdf
 ---

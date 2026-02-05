@@ -5,5 +5,5 @@ author: "David Reinhart"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: reinhart.pdf
 ---

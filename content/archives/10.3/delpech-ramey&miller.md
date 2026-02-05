@@ -5,5 +5,5 @@ author: "Joshua Delpech-Ramey; DJ Spooky That Subliminal Kid"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: delpech-ramey&miller.pdf
 ---

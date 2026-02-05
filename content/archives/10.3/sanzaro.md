@@ -5,5 +5,5 @@ author: "Francis Sanzaro"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: sanzaro.pdf
 ---

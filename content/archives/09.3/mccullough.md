@@ -5,5 +5,5 @@ author: "Lissa McCullough"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: mccullough.pdf
 ---

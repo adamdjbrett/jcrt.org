@@ -5,5 +5,5 @@ author: "B Keith Putt"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: putt.pdf
 ---

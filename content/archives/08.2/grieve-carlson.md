@@ -5,5 +5,5 @@ author: "Gary Grieve-Carlson"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: grieve-carlson.pdf
 ---

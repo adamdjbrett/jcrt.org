@@ -5,5 +5,5 @@ author: "T. WILSON DICKINSON"
 affilation:
 abstract: "The author suggests that teaching Danish philosopher Søren Kierkegaard's 1832 book"
 keywords: []
-pdf:
+pdf: dickinson-intro.pdf
 ---

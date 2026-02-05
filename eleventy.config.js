@@ -21,6 +21,9 @@ import { fileURLToPath } from 'url';
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function (eleventyConfig) {
+	const isFastBuild = Boolean(process.env.FAST_BUILD);
+	eleventyConfig.addGlobalData("isFastBuild", isFastBuild);
+
 	// Removed manual authors.json loading. Eleventy will auto-load _data/authors.yaml and _data/authors.json as global data.
 	eleventyConfig.addPreprocessor("drafts", "*", (data, content) => {
 		if (data.draft && process.env.ELEVENTY_RUN_MODE === "build") {
@@ -28,19 +31,31 @@ export default async function (eleventyConfig) {
 		}
 	});
 
-// Run Pagefind only in local builds (CI sets SKIP_PAGEFIND=1)
-if (process.env.ELEVENTY_RUN_MODE === "build" && !process.env.SKIP_PAGEFIND) {
-    eleventyConfig.on("eleventy.after", async () => {
-        console.log("Running Pagefind search index...");
-        try {
-            execSync(`npx pagefind --site _site --glob "**/*.html" --exclude "**/bios/index.html" --exclude "**/bios.html" --exclude "**/bios.pdf"`, {
-                encoding: "utf-8",
-            });
-        } catch (e) {
-            console.error("Pagefind error:", e.message);
-        }
-    });
-}
+	// Run Pagefind after a production build unless explicitly skipped.
+	// Use `SKIP_PAGEFIND=1` locally if Pagefind isn't available on your platform.
+	if (process.env.ELEVENTY_RUN_MODE === "build" && !process.env.SKIP_PAGEFIND) {
+		eleventyConfig.on("eleventy.after", async () => {
+			console.log("Running Pagefind search index...");
+			try {
+				// Prefer local dependency; avoid `npx` attempting network installs.
+				execSync(
+					[
+						"npx --no-install pagefind",
+						"--site _site",
+						'--glob \"**/*.html\"',
+						"--force-language en",
+						// Skip author bio landing pages and the PDFs themselves.
+						'--exclude \"**/bios/index.html\"',
+						'--exclude \"**/bios.html\"',
+						'--exclude \"**/bios.pdf\"',
+					].join(" "),
+					{ encoding: "utf-8" }
+				);
+			} catch (e) {
+				console.error("Pagefind error:", e.message);
+			}
+		});
+	}
 // If use sveltia cms
 //	eleventyConfig.addPassthroughCopy("sveltia.config.js");
 	eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
@@ -53,21 +68,30 @@ if (process.env.ELEVENTY_RUN_MODE === "build" && !process.env.SKIP_PAGEFIND) {
 	eleventyConfig.addWatchTarget("css/**/*.css");
 	eleventyConfig.addWatchTarget("content/**/*.{svg,webp,png,jpg,jpeg,gif}");
 
-	eleventyConfig.addBundle("css", {
-		toFileDirectory: "dist",
-		bundleHtmlContentFromSelector: "style",
-	});
-	eleventyConfig.addBundle("js", {
-		toFileDirectory: "dist",
-		bundleHtmlContentFromSelector: 'script[type="module"]',
-	});
+	if (!isFastBuild) {
+		eleventyConfig.addBundle("css", {
+			toFileDirectory: "dist",
+			bundleHtmlContentFromSelector: "style",
+		});
+		eleventyConfig.addBundle("js", {
+			toFileDirectory: "dist",
+			bundleHtmlContentFromSelector: 'script[type="module"]',
+		});
+	} else {
+		// Templates reference `{% getBundle "css" %}` / `{% getBundle "js" %}`.
+		// In fast builds we skip bundling entirely for speed, so provide a no-op.
+		eleventyConfig.addShortcode("getBundle", () => "");
+	}
 
 	eleventyConfig.addPlugin(pluginSyntaxHighlight, {
 		preAttributes: { tabindex: 0 },
 	});
 	eleventyConfig.addPlugin(pluginNavigation);
-	eleventyConfig.addPlugin(HtmlBasePlugin);
-	eleventyConfig.addPlugin(InputPathToUrlTransformPlugin);
+	// HTML transforms are expensive; CI sets `FAST_BUILD=1` to skip these.
+	if (!isFastBuild) {
+		eleventyConfig.addPlugin(HtmlBasePlugin);
+		eleventyConfig.addPlugin(InputPathToUrlTransformPlugin);
+	}
 	const md = new markdownIt({
 		html: true,
 		breaks: true,
@@ -101,7 +125,7 @@ if (process.env.ELEVENTY_RUN_MODE === "build" && !process.env.SKIP_PAGEFIND) {
 			slugify: eleventyConfig.getFilter("slugify")
 		});
 	});
-	  eleventyConfig.addPlugin(pluginTOC, {
+	eleventyConfig.addPlugin(pluginTOC, {
 		tags: ['h2', 'h3', 'h4', 'h5'],
 		  id: 'toci', 
 		  class: 'list-group',
@@ -110,12 +134,14 @@ if (process.env.ELEVENTY_RUN_MODE === "build" && !process.env.SKIP_PAGEFIND) {
 		wrapper: 'div'
 	  });
 
-	eleventyConfig.addPlugin(IdAttributePlugin, {
-		slugify: (text) => {
-			const slug = eleventyConfig.getFilter("slugify")(text);
-			return `print-${slug}`;
-		},
-	});
+	if (!isFastBuild) {
+		eleventyConfig.addPlugin(IdAttributePlugin, {
+			slugify: (text) => {
+				const slug = eleventyConfig.getFilter("slugify")(text);
+				return `print-${slug}`;
+			},
+		});
+	}
 
 
     eleventyConfig.addFilter("getAuthorObj", (authorsCollection, authorKey) => {

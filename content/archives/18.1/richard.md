@@ -5,5 +5,5 @@ author: "ALAN JAY RICHARD"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Richard.pdf
 ---

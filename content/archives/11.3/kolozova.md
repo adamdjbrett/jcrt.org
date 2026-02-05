@@ -5,5 +5,5 @@ author: "Katerina Kolozova"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: kolozova.pdf
 ---

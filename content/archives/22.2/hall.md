@@ -5,5 +5,5 @@ author: "Joshua M Hall"
 affilation:
 abstract: 
 keywords: []
-pdf:
+pdf: Hall.pdf
 ---

@@ -5,5 +5,5 @@ author: "Jake S Sirota"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Sirota.pdf
 ---

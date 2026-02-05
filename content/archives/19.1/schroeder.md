@@ -5,5 +5,5 @@ author: "BRIAN SHŪDŌ SCHROEDER"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Schroeder.pdf
 ---

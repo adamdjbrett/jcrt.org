@@ -5,5 +5,5 @@ author:
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: lupton.gordon.pdf
 ---

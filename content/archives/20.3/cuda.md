@@ -5,5 +5,5 @@ author: "JOHN CUDA"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Cuda.pdf
 ---

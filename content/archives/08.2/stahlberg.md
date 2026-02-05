@@ -5,5 +5,5 @@ author: "Ben Stahlberg"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: stahlberg.pdf
 ---

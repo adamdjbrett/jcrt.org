@@ -5,5 +5,5 @@ author: "Shannon McRae"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: mcrae.pdf
 ---

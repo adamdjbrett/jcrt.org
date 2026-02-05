@@ -5,5 +5,5 @@ author: "GEORGE SCHMIDT"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: schmidt.pdf
 ---

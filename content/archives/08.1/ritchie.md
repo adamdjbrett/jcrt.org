@@ -5,5 +5,5 @@ author: "Jeff Ritchie"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: ritchie.pdf
 ---

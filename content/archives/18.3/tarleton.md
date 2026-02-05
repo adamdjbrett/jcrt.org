@@ -5,5 +5,5 @@ author: "MADISON TARLETON"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Tarleton.pdf
 ---

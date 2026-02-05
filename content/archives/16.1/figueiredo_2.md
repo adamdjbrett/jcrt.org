@@ -7,9 +7,3 @@ abstract:
 keywords: []
 pdf:
 ---
-
-# THEOPRAXESIS AND THE FUTURE OF H’MMM IN THE UNIVERSITY: AN INTERVIEW WITH GREGORY L. ULMER.
-
-SERGIO C. FIGUEIREDO
-
-https://research.ebsco.com/plink/883d6a61-a9b7-3fe7-b544-17ba6fc3915b

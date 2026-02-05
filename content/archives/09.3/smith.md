@@ -5,5 +5,5 @@ author: "Anthony Paul Smith"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: smith.pdf
 ---

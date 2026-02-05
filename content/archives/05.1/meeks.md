@@ -5,5 +5,5 @@ author: "John L Meeks"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: meeks.pdf
 ---

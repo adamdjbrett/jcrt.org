@@ -5,5 +5,5 @@ author: "David Hale"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: hale.pdf
 ---

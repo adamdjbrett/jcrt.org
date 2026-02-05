@@ -5,5 +5,5 @@ author: "Merrill Cole"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: cole.pdf
 ---

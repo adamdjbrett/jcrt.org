@@ -5,5 +5,5 @@ author: "Bruce Janz"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: janz.pdf
 ---

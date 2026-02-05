@@ -5,5 +5,5 @@ author: "Daniel Colucciello Barber; Anthony Paul Smith"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: barber&smith.pdf
 ---

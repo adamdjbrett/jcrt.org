@@ -5,5 +5,5 @@ author: "Eric Weislogel"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: weislogel.pdf
 ---

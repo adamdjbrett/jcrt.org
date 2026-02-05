@@ -5,5 +5,5 @@ author: "DAVID W. CONGDON"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Congdon.pdf
 ---

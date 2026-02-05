@@ -5,5 +5,5 @@ author: "Joshua Nichols"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: nichols.pdf
 ---

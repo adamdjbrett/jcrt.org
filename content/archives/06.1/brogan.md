@@ -5,5 +5,5 @@ author: "Michael J Brogan"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: brogan.pdf
 ---

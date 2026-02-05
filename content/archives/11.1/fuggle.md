@@ -5,5 +5,5 @@ author: "Sophie Fuggle"
 affilation:
 abstract: 
 keywords: []
-pdf:
+pdf: fuggle.pdf
 ---

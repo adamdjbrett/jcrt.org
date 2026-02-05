@@ -5,5 +5,5 @@ author: "Daniel Colucciello Barber"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: barber.pdf
 ---

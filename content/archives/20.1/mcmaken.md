@@ -5,5 +5,5 @@ author: "W. TRAVIS MCMAKEN"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: McMaken.pdf
 ---

@@ -5,5 +5,5 @@ author: "Owen Ware"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: ware.pdf
 ---

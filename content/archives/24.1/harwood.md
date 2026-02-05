@@ -5,5 +5,5 @@ author: "Karey Harwood"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Harwood.pdf
 ---

@@ -5,5 +5,5 @@ author: "Aaron V Burton"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: burton.pdf
 ---

@@ -5,5 +5,5 @@ author: "Daniel J McClain"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: mcclain.pdf
 ---

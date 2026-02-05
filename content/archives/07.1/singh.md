@@ -5,5 +5,5 @@ author: "Bhrigupati Singh"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: singh.pdf
 ---

@@ -5,5 +5,5 @@ author: "Gianni Vattimo; Charles Taylor; Richard Rorty"
 affilation:
 abstract: 
 keywords: []
-pdf:
+pdf: roundtable.pdf
 ---

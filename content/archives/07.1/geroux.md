@@ -5,5 +5,5 @@ author: "Robert Geroux"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: geroux.pdf
 ---

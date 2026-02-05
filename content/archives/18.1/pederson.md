@@ -5,5 +5,5 @@ author: "TREVOR PEDERSON"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Pederson.pdf
 ---

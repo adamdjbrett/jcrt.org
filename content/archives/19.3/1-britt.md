@@ -5,5 +5,5 @@ author: "Brian Britt"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: 1-Britt.pdf
 ---

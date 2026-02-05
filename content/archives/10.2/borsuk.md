@@ -5,5 +5,5 @@ author: "Amaranth Borsuk"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: borsuk.pdf
 ---

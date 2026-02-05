@@ -5,5 +5,5 @@ author: "JOSEPH VALENTE"
 affilation:
 abstract: "The article critiques the film"
 keywords: []
-pdf:
+pdf: valente.pdf
 ---

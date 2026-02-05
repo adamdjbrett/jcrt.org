@@ -5,5 +5,5 @@ author: "CLAYTON CROCKETT"
 affilation:
 abstract: "The author discusses how the idea of intellectual emancipation developed in Jacques Rancière's book"
 keywords: []
-pdf:
+pdf: crockett.pdf
 ---

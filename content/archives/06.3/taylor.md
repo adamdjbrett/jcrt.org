@@ -5,5 +5,5 @@ author: "Victor E Taylor"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: taylor.pdf
 ---

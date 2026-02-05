@@ -5,5 +5,5 @@ author: "Matthew Chrulew"
 affilation:
 abstract: 
 keywords: []
-pdf:
+pdf: chrulew.pdf
 ---

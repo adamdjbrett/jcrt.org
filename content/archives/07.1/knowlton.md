@@ -5,5 +5,5 @@ author: "B C Knowlton"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: knowlton.pdf
 ---

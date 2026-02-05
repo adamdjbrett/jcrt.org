@@ -5,5 +5,5 @@ author: "Gavin Hyman"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: hyman.pdf
 ---

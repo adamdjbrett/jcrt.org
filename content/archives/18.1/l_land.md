@@ -7,9 +7,3 @@ abstract:
 keywords: []
 pdf:
 ---
-
-# THE MODERN PHILOSOPHERS‘ PAUL: RECLAIMING PAULINE INTROSPECTION AND REVIVING LEGACIES OF ANTI-JUDAISM.
-
-OLE JAKOB LØLAND
-
-https://research.ebsco.com/plink/f02ad767-1a4c-3c06-a5b3-7c97e80f7a81

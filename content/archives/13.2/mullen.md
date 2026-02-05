@@ -5,5 +5,5 @@ author: "GARY A. MULLEN"
 affilation:
 abstract: "The article explores the pervasiveness of the zombie in popular culture and mass killing, based on the works of philosopher Slavoj Zizek, using the"
 keywords: []
-pdf:
+pdf: mullen.pdf
 ---

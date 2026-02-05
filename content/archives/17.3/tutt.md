@@ -5,5 +5,5 @@ author: "DANIEL TUTT"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Tutt.pdf
 ---

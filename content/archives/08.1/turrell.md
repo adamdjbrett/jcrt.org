@@ -5,5 +5,5 @@ author: "Ford Turrell"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: turrell.pdf
 ---

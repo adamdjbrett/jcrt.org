@@ -5,5 +5,5 @@ author: "ERIC TROZZO"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Trozzo.pdf
 ---

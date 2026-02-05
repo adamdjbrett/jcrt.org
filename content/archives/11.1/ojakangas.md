@@ -5,5 +5,5 @@ author: "Mika Ojakangas"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: ojakangas.pdf
 ---

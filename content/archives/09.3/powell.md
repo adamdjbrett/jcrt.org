@@ -5,5 +5,5 @@ author: "Matthew T Powell"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: powell.pdf
 ---

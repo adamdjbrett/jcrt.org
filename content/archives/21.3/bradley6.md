@@ -5,5 +5,5 @@ author:
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Bradley6.pdf
 ---

@@ -5,5 +5,5 @@ author: "OLLI-PEKKA VAINO"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Vaino.pdf
 ---

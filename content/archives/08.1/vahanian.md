@@ -5,5 +5,5 @@ author: "Nöelle Vahanian"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: vahanian.pdf
 ---

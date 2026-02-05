@@ -5,5 +5,5 @@ author: "Alex Schulman"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: schulman.pdf
 ---

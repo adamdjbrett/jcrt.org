@@ -5,5 +5,5 @@ author: "Daniel L Tate"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: tate.pdf
 ---

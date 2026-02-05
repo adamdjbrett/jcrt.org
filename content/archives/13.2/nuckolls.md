@@ -5,5 +5,5 @@ author: "CHARLES NUCKOLLS"
 affilation:
 abstract: "The article explores the television (TV) series"
 keywords: []
-pdf:
+pdf: nuckolls.pdf
 ---

@@ -5,5 +5,5 @@ author: "Rocco Gangle"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Gangle.pdf
 ---

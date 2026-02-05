@@ -5,5 +5,5 @@ author: "BO EBERLE"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: eberle.pdf
 ---

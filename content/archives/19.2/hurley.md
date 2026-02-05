@@ -5,5 +5,5 @@ author: "GAVIN HURLEY"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Hurley.pdf
 ---

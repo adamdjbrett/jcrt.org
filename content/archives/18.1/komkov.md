@@ -7,9 +7,3 @@ abstract:
 keywords: []
 pdf:
 ---
-
-# THE VERTICAL FORM - THE ICONOLOGICAL DIMENSION ON 2OTH CENTURY RUSSIAN RELIGIOUS AESTHETICS AND LITERARY CRITICISM.
-
-OLEG KOMKOV
-
-https://research.ebsco.com/plink/d1631cb9-6373-38c5-9fbf-c7cec0ba4f48

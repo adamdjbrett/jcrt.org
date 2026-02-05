@@ -5,5 +5,5 @@ author: "Bryan S Rennie"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: rennie.pdf
 ---

@@ -5,5 +5,5 @@ author: "Aaron Urbanczyk"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: urbanczyk.pdf
 ---

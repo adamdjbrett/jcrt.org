@@ -5,5 +5,5 @@ author: "Jason Flato"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: flato.pdf
 ---

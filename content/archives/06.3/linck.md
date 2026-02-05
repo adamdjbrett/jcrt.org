@@ -5,5 +5,5 @@ author: "Matthew S Linck"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: linck.pdf
 ---

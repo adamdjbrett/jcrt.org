@@ -5,5 +5,5 @@ author: "David B Dillard-Wright"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: wright.pdf
 ---

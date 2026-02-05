@@ -5,5 +5,5 @@ author: "David R Glowacki"
 affilation:
 abstract: 
 keywords: []
-pdf:
+pdf: glowacki.pdf
 ---

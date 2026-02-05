@@ -5,5 +5,5 @@ author: "JERRY BURKETTE"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Burkette.pdf
 ---

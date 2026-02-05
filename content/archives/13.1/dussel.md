@@ -5,5 +5,5 @@ author: "ENRIQUE DUSSEL"
 affilation:
 abstract: "The article discusses the origin of the philosophical anti-discourse of modernity."
 keywords: []
-pdf:
+pdf: dussel.pdf
 ---

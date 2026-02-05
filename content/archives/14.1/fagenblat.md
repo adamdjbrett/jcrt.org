@@ -5,5 +5,5 @@ author: "MICHAEL FAGENBLAT"
 affilation:
 abstract: "The article focuses on the aspects of the antisemitism of European philosopher Martin Heidegger and the return to the Zionism, a movement which look towards the creation of the Jewish state in Palestine."
 keywords: []
-pdf:
+pdf: fagenblat.pdf
 ---

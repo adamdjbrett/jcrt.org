@@ -5,11 +5,5 @@ author: "KEVIN S. GRANE"
 affilation:
 abstract: 
 keywords: []
-pdf:
+pdf: Grane.pdf
 ---
-
-# RELIGIOUS SACRIFICIAL SYMPATHY: HOW MAN BECAME MORE VALUABLE THAN BEAST.
-
-KEVIN S. GRANE
-
-https://research.ebsco.com/plink/dffa42cb-f746-348d-b061-9afac1c2d70e

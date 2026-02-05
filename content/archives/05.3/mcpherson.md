@@ -5,5 +5,5 @@ author: "Ian McPherson"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: mcpherson.pdf
 ---

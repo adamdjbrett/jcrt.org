@@ -5,5 +5,5 @@ author: "LAURI SIISIÄINEN"
 affilation:
 abstract: "The article focuses on the Christian genealogy of governance according to the views and works of philosophers Giorgio Agamben and Michel Foucault."
 keywords: []
-pdf:
+pdf: lauri.pdf
 ---

@@ -5,5 +5,5 @@ author: "Valérie Nicolet Anderson"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: nicolet-anderson.pdf
 ---

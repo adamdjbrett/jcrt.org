@@ -5,5 +5,5 @@ author: "MARIKA ROSE"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Rose.pdf
 ---

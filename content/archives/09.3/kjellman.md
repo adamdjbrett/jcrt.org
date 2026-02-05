@@ -5,5 +5,5 @@ author: "Mark Kjellman"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: kjellman.pdf
 ---

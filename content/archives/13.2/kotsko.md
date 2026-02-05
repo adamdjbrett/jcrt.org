@@ -5,5 +5,5 @@ author: "ADAM KOTSKO"
 affilation:
 abstract: "The article explores"
 keywords: []
-pdf:
+pdf: kotsko.pdf
 ---

@@ -5,5 +5,5 @@ author: "Will Buckingham"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: buckingham.pdf
 ---

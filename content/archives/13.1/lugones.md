@@ -5,5 +5,5 @@ author: "MARIA LUGONES"
 affilation:
 abstract: "The article discusses the resistances to inclusion in dominant feminisms by Women of Color feminists."
 keywords: []
-pdf:
+pdf: lugones.pdf
 ---

@@ -5,5 +5,5 @@ author: "Mario D'Amato"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: d'amato.pdf
 ---

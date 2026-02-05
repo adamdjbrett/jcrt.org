@@ -5,5 +5,5 @@ author: "Drew M Dalton"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: dalton.pdf
 ---

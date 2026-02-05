@@ -5,5 +5,5 @@ author: "Todd Ream"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: ream.pdf
 ---

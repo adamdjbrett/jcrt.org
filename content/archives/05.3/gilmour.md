@@ -5,5 +5,5 @@ author: "Michael J Gilmour"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: gilmour.pdf
 ---

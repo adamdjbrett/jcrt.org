@@ -7,9 +7,3 @@ abstract:
 keywords: []
 pdf:
 ---
-
-# THE MYTHOLOGY OF AFTERLIFE BELIEFS AND THEIR IMPACT ON RELIGIOUS CONFLICT.
-
-BRIGID BURKE
-
-https://research.ebsco.com/plink/36e6c06c-722e-31a9-a8cb-19d719500f59

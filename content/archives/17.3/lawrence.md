@@ -5,5 +5,5 @@ author: "JOSHUA LAWRENCE"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Lawrence.pdf
 ---

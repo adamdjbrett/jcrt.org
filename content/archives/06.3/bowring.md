@@ -5,5 +5,5 @@ author: "Jacky Bowring"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: bowring.pdf
 ---

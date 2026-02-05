@@ -5,5 +5,5 @@ author: "Kenneth S Jackson"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Jackson.pdf
 ---

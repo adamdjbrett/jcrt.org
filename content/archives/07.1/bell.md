@@ -5,5 +5,5 @@ author: "Daniel M Jr Bell"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: bell.pdf
 ---

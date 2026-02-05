@@ -5,5 +5,5 @@ author: "Anthony L Macri"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: macri.pdf
 ---

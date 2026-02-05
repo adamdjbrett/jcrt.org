@@ -5,5 +5,5 @@ author: "Zdravko Planinc"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Planinc.pdf
 ---

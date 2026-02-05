@@ -5,5 +5,5 @@ author: "Geoffrey Galt Harpham"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: harpham.pdf
 ---

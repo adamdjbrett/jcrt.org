@@ -5,5 +5,5 @@ author: "Derek Michaud"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: michaud.pdf
 ---

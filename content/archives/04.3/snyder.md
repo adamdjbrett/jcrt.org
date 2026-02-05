@@ -5,5 +5,5 @@ author: "G Chad Snyder"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: snyder.pdf
 ---

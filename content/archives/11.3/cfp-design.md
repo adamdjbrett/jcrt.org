@@ -5,5 +5,5 @@ author:
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: cfp-design.pdf
 ---

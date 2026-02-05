@@ -5,5 +5,5 @@ author: "Jennifer R Rust"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: rust.pdf
 ---

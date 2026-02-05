@@ -5,5 +5,5 @@ author: "Jennifer (Art Nelson"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: nelson.pdf
 ---

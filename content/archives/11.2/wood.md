@@ -5,5 +5,5 @@ author: "Simon A Wood"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: wood.pdf
 ---

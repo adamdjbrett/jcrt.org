@@ -5,5 +5,5 @@ author: "James K A Smith"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: smith.pdf
 ---

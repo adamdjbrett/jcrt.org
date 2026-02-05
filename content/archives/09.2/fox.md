@@ -5,5 +5,5 @@ author: "Chris Fox"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: fox.pdf
 ---

@@ -5,5 +5,5 @@ author: "JORDAN OSSERMAN"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Osserman.pdf
 ---

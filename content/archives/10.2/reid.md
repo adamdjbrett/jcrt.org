@@ -5,5 +5,5 @@ author: "Colbey Emmerson-Reid"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: reid.pdf
 ---

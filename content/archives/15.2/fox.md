@@ -5,5 +5,5 @@ author: "ANN M. FOX"
 affilation:
 abstract: "An essay is presented on feminist disability studies focusing on the sculpture"
 keywords: []
-pdf:
+pdf: fox.pdf
 ---

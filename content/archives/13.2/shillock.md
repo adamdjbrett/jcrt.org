@@ -5,5 +5,5 @@ author: "LARRY T. SHILLOCK"
 affilation:
 abstract: "An essay on the association of zombies with commercials, particularly in the television (TV) series"
 keywords: []
-pdf:
+pdf: shillock.pdf
 ---

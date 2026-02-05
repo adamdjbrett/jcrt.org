@@ -5,5 +5,5 @@ author: "RYNE BEDDARD"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Beddard.pdf
 ---

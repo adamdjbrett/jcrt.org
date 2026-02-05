@@ -5,5 +5,5 @@ author: "Nathaniel J Morehouse"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: morehouse.pdf
 ---

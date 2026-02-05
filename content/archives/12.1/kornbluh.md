@@ -5,5 +5,5 @@ author: "Anna Kornbluh"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: kornbluh.pdf
 ---

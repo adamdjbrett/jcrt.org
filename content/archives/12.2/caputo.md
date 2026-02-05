@@ -5,5 +5,5 @@ author: "JOHN D. CAPUTO; T. WILSON DICKINSON"
 affilation:
 abstract: "An interview with theologian and philosopher of religion John D. Caputo is presented. Caputo proposes a new framework for education built on the concept of the"
 keywords: []
-pdf:
+pdf: caputo.pdf
 ---

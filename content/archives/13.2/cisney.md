@@ -5,5 +5,5 @@ author: "VERNON W. CISNEY"
 affilation:
 abstract: "The article discusses the characterization of zombies by filmmaker George A. Romero in films including"
 keywords: []
-pdf:
+pdf: cisney.pdf
 ---

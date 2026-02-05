@@ -5,5 +5,5 @@ author: "CARL RASCHKE"
 affilation:
 abstract: "The article offers information on philosopher Peter Sloterdijk that includes absence in translations of Sloterdijk's philosophical teachings; consideration of Sloterdijk's teaching as pop-cultural; and assessment of phenomenology towards globalization conditions."
 keywords: []
-pdf:
+pdf: raschke.pdf
 ---

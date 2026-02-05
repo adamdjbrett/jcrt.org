@@ -5,5 +5,5 @@ author: "LUCAS MCCRACKEN"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: McCracken.pdf
 ---

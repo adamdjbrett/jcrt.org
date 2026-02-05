@@ -7,9 +7,3 @@ abstract:
 keywords: []
 pdf:
 ---
-
-# FRAMING RELIGIOUS CONFLICT AND VIOLENCE - INSIGHTS FROM HISTORICAL INSTITUTIONALISM.
-
-VIVEK SWAROOP SHARMA
-
-https://research.ebsco.com/plink/113e5237-d935-3e50-80dc-66321cca6b2a

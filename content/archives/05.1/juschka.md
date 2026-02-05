@@ -5,5 +5,5 @@ author: "Darlene M Juschka"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: juschka.pdf
 ---

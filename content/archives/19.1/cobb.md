@@ -5,5 +5,5 @@ author: "JOHN B. COBB JR."
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: Cobb.pdf
 ---

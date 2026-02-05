@@ -5,5 +5,5 @@ author: "Craig (Craig Edward) Martin"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: martin.pdf
 ---

@@ -5,5 +5,5 @@ author: "KAREN BRAY"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: bray.pdf
 ---

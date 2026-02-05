@@ -5,5 +5,5 @@ author: "Aaron Bibb"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: bibb.pdf
 ---
