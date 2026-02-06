@@ -1,11 +1,29 @@
 ---
 title: "THE SOLAR NUN: THE PROPHETIC ACTION AND THOUGHT OF SR. PAULA GONZALEZ, S.C"
-article_number:
 author: "Elijah Prewitt-Davis"
 affilation:
 abstract: 
-keywords: []
+keywords:
+  - dissent
+  - women-in-christianity
+  - christianity
+  - ecology-and-religion
+  - nature-in-religion
+  - gonzalez
+  - nature-conservation
+  - nuns
+  - paula
+  - political
+  - religion-and-science
+  - renewable-energy-sources
+  - solar-energy
+  - women-religious-life
 pdf: Prewitt-Davis.pdf
+sort_id:
+volume: 23
+issue: 1
+season: winter
+pages: 123-131
 ---
 
 ---

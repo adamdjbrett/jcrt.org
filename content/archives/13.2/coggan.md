@@ -1,11 +1,20 @@
 ---
-article_number:
 title: "BEYOND RELIGION: FROM SHAMANISM TO RELIGION TO POST-RELIGIOUS SPIRITUALITY."
 author: "SHARON L. COGGAN"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - nonfiction
+  - beyond-religion-from-shamanism-to-religion-to-post-religious-spirituality-book
+  - religions
+  - thompson
+  - william-irwin
 pdf: coggan.pdf
+sort_id:
+volume: 13
+issue: 2
+season: spring
+pages: 129-131
 ---
 
 ---

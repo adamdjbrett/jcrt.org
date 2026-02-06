@@ -1,11 +1,33 @@
 ---
-article_number:
 title: "CHRIST IN CIRCULATION: THE EUCHARISTIC EXCHANGE AND MONEY"
 author: "Geoffrey Holsclaw"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - dissent
+  - grace-theology
+  - lord-s-supper-real-presence
+  - political
+  - the
+  - 1942
+  - marxian-economics
+  - 1941
+  - chauvet
+  - eucharistic-prayers
+  - exchange
+  - government
+  - karatani
+  - ko-jin
+  - louis-marie
+  - money
+  - resistance-to
+  - state
 pdf: holsclaw.pdf
+sort_id:
+volume: 11
+issue: 2
+season: spring
+pages:
 ---
 
 ---

@@ -1,11 +1,18 @@
 ---
-article_number:
 title: "OWNING MY MASTERS: AN ARTIST’S INTRODUCTION."
 author: "A. D. CARSON"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - hip-hop-culture
+  - rap-music
+  - spoken-word-poetry
 pdf: Carson.pdf
+sort_id:
+volume: 16
+issue: 1
+season: winter
+pages: 56-57
 ---
 
 ---

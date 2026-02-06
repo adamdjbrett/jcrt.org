@@ -1,11 +1,18 @@
 ---
-article_number:
 title: "ON IGNORANT AND INSIGHTFUL CHICKENS: WHY ŽIŽEKIAN POST SECULARITY NEEDS HALBERSTAM’S SHADOW FEMINISM."
 author: "KAREN BRAY"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - feminism
+  - postsecularism
+  - gender-differences-psychology
 pdf: Bray.pdf
+sort_id:
+volume: 16
+issue: 2
+season: spring
+pages: 142-162
 ---
 
 ---

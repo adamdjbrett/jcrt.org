@@ -1,11 +1,33 @@
 ---
 title: "SIKHS AS SUBALTERNS: VOICE, INEQUALITY AND POWER"
-article_number:
 author: "Nirvikar Singh"
 affilation:
 abstract: 
-keywords: []
+keywords:
+  - postcolonialism
+  - social-ethics
+  - social-psychology
+  - decolonization
+  - methodology
+  - religions-study-and-teaching
+  - oppression-psychology
+  - 1891-1937
+  - antonio
+  - gramsci
+  - guha
+  - marginality
+  - ranajit
+  - research-ethics
+  - sikh
+  - sikhs
+  - social
+  - subaltern-studies-collective
 pdf: Singh.pdf
+sort_id:
+volume: 22
+issue: 2
+season: spring
+pages: 269-295
 ---
 
 ---

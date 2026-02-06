@@ -1,11 +1,18 @@
 ---
 title: "A RESPONSE TO NIALL GILDEA."
-article_number:
 author: "ARTHUR BRADLEY"
 affilation:
 abstract: 
-keywords: []
+keywords:
+  - gildea
+  - history-of-philosophy
+  - niall
 pdf: Bradley3.pdf
+sort_id:
+volume: 21
+issue: 3
+season: summer
+pages: 422-425
 ---
 
 ---

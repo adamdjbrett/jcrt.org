@@ -1,0 +1,29 @@
+---
+layout: theory.njk
+permalink: /religioustheory/categories/index.html
+---
+<div class="col-md-10 mx-auto">
+  {% include "partials/nav_desktop.njk" %}
+
+  <h1>Categories</h1>
+  <p class="text-muted">Topics from the Religious Theory archive.</p>
+
+  {% set categories = [] %}
+  {% for post in theory.posts %}
+    {% if post.categories %}
+      {% for c in post.categories %}
+        {% if c and (c not in categories) %}
+          {% set categories = categories.concat([c]) %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+  {% set categories = categories | sortAlphabetically %}
+
+  <ul>
+    {% for c in categories %}
+      <li><a href="/religioustheory/categories/{{ c | slugify }}/">{{ c }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+

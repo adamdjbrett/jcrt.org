@@ -1,11 +1,19 @@
 ---
-article_number:
 title: "THE ULTIMATE AND THE PENULTIMATE: BONHOEFFER’S TWOFOLD CONTEXTUALISM AND ADJUDICATING BETWEEN COMPETING ETHICAL CLAIMS."
 author: "W. TRAVIS MCMAKEN"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - 1906-1945
+  - bonhoeffer
+  - contextualism-philosophy
+  - dietrich
 pdf: McMaken.pdf
+sort_id:
+volume: 20
+issue: 1
+season: winter
+pages: 93-106
 ---
 
 ---

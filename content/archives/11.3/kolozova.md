@@ -1,11 +1,25 @@
 ---
-article_number:
 title: "THE FIGURE OF THE STRANGER: A POSSIBILITY FOR TRANSCENDENTAL MINIMALISM OR RADICAL SUBJECTIVITY"
 author: "Katerina Kolozova"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - transcendence
+  - philosophical-anthropology
+  - subjectivity
+  - self-philosophy
+  - psychoanalysis
+  - 1937
+  - alienation-philosophy
+  - franc-ois
+  - laruelle
+  - strangers
 pdf: kolozova.pdf
+sort_id:
+volume: 11
+issue: 3
+season: summer
+pages:
 ---
 
 ---

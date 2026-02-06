@@ -1,11 +1,18 @@
 ---
-article_number:
 title: "COLLECTIVE DESIRE AND THE PATHOLOGY OF THE INDIVIDUAL."
 author: "JODI DEAN"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - capitalism
+  - berardi
+  - franco
 pdf: Dean.pdf
+sort_id:
+volume: 17
+issue: 1
+season: winter
+pages: 36-49
 ---
 
 ---

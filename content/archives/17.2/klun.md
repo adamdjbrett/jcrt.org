@@ -1,11 +1,20 @@
 ---
-article_number:
 title: "HORIZON, TRANSCENDENCE, AND CORRELATION: SOME PHENOMENOLOGICAL CONSIDERATIONS."
 author: "BRANKO KLUN"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - phenomenology
+  - 1859-1938
+  - edmund
+  - husserl
+  - transcendence-philosophy
 pdf: Klun.pdf
+sort_id:
+volume: 17
+issue: 2
+season: spring
+pages: 353-366
 ---
 
 ---

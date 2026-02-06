@@ -1,11 +1,15 @@
 ---
-article_number:
 title: "DEATH OF A DISCIPLINE"
 author: "Matthew Waggoner"
 affilation:
 abstract:
 keywords: []
 pdf: waggoner.art.pdf
+sort_id:
+volume: 6
+issue: 2
+season: spring
+pages:
 ---
 
 ---

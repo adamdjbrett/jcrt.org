@@ -1,11 +1,20 @@
 ---
-article_number:
 title: "BADIOU AND PAULINE THEOLOGY: DETECTING A THEOLOGY OF DEATH."
 author: "TAYLOR WEAVER"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - secularization-theology
+  - theologians
+  - 1937
+  - alain
+  - badiou
 pdf: Weaver.pdf
+sort_id:
+volume: 16
+issue: 3
+season: summer
+pages: 367-381
 ---
 
 ---

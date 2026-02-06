@@ -1,11 +1,26 @@
 ---
-article_number:
 title: "THE POLITICS OF PAUL"
 author: "Jeffrey W Robbins"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - philosophy-and-theology
+  - christianity-and-politics
+  - 1844-1900
+  - friedrich-wilhelm
+  - nietzsche
+  - paul
+  - 1937
+  - alain
+  - badiou
+  - the-apostle
+  - saint-theology
 pdf: robbins.pdf
+sort_id:
+volume: 6
+issue: 2
+season: spring
+pages:
 ---
 
 ---

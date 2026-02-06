@@ -1,11 +1,18 @@
 ---
-article_number:
 title: "RAPTURE MUSIC: INTENSITY AND ESCHATOLOGY WITHIN CHRISTIAN REVIVAL MOVEMENTS."
 author: "FRASER MACDONALD"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - hymns
+  - revival-movements-in-music
+  - social-movements
 pdf: Macdonald.pdf
+sort_id:
+volume: 21
+issue: 2
+season: spring
+pages: 174-201
 ---
 
 ---

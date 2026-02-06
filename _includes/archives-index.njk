@@ -1,0 +1,40 @@
+---
+layout: base.njk
+---
+<div class="col-md-10 mx-auto">
+  {% include "partials/nav_desktop.njk" %}
+  <div class="row">
+    <div class="col-md-12 p-3 p-md-5">
+      <div class="mb-5 col-md-8 mx-auto">
+	        {% if date %}<p class="text-secondary">{{ date | readableDate("dd LLLL yyyy") }}</p>{% endif %}
+	        <h1 class="hero-post-title"><strong>{{ title }}</strong></h1>
+	        {% if description %}<h2 class="lead text-secondary">{{ description }}</h2>{% endif %}
+	        
+	        <p>
+          {% if social %}
+            {% for s in social %}
+              <a href="{{ s.url }}" title="{{ s.title }}"><i class="{{ s.icon }} me-2"></i></a>
+            {% endfor %}
+          {% endif %}
+        </p>
+        
+        <p>
+          {% if button %}
+            {% for b in button %}
+              <a href="{{ b.url }}" class="btn btn-pink me-2 text-white">{{ b.title }}</a>
+            {% endfor %}
+          {% endif %}
+        </p>
+      </div>
+
+      {% if image %}
+        <img class="img-post mb-5 rounded" alt="{{ title }}" width="100%" height="auto" src="{{ image }}"/>
+      {% endif %}
+
+	      <article class="col-md-8 mx-auto">
+	        {{ content | toc | safe }}
+	        {{ content | safe }}
+      </article>
+    </div> 
+  </div>
+</div> 

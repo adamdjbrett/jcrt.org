@@ -1,11 +1,30 @@
 ---
-article_number:
 title: "THE TRAPS OF THE SUBLIME"
 author: "Agata Bielik-Robson"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - philosophical-theology
+  - god-philosophy
+  - 1901-1981
+  - jacques
+  - lacan
+  - psychoanalysis-and-religion
+  - the
+  - continental-philosophy
+  - clayton
+  - crockett
+  - 1856-1939
+  - freud
+  - sigmund
+  - sublime
+  - 1969
 pdf: bielik-robson.pdf
+sort_id:
+volume: 9
+issue: 2
+season: spring
+pages:
 ---
 
 ---

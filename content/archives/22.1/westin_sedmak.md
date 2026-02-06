@@ -1,11 +1,22 @@
 ---
 title: "EMBODIED TRAUMA AND HEALING"
-article_number:
 author: "Anna Westin; Magdalena Sedmak"
 affilation:
 abstract: 
-keywords: []
+keywords:
+  - philosophical-anthropology
+  - psychic-trauma
+  - interviews
+  - body
+  - human-philosophy
+  - psychology-philosophy
+  - physical-anthropology
 pdf:
+sort_id:
+volume: 22
+issue: 1
+season: winter
+pages: 135-138
 ---
 
 ---

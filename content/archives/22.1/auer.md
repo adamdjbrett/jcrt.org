@@ -1,11 +1,26 @@
 ---
 title: "EMBODIED RESTORATION: THE CULTIVATION OF QUALITY OF LIFE AND DEATH"
-article_number:
 author: "Stella Indira Auer"
 affilation:
 abstract: 
-keywords: []
+keywords:
+  - death
+  - philosophical-anthropology
+  - religious-aspects
+  - quality-of-life
+  - body
+  - human-philosophy
+  - choice-psychology
+  - health
+  - medicine-philosophy
+  - risk-assessment
+  - social-history
 pdf:
+sort_id:
+volume: 22
+issue: 1
+season: winter
+pages: 1-13
 ---
 
 ---

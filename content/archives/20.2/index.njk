@@ -4,7 +4,7 @@ issue: 2
 season: spring
 title: Table of Contents
 description:
-image: /img/jcrt.jpg
+image: /img/jcrt.svg
 ---
 
 {% set current_dir = page.inputPath | replace('/index.njk', '/') %}
@@ -19,10 +19,21 @@ image: /img/jcrt.jpg
   {% endif %}
 {% endfor %}
 
-{% set sorted_items = items | sort(false, false, 'data.article_number') %}
+{% set sortable = [] %}
+{% for entry in items %}
+  {% set sort_id = entry.data.sort_id %}
+  {% set pages = entry.data.pages %}
+  {% set pages_first = (pages or "").toString().split("-")[0].trim() %}
+  {% set pages_num = pages_first.replace("S", "").replace("s", "").replace("P", "").replace("p", "").trim() %}
+  {% set sort_key = (sort_id or pages_num or "999999").toString().padStart(6, "0") %}
+  {% set sortable = sortable.concat([{ entry: entry, sort_key: sort_key }]) %}
+{% endfor %}
+
+{% set sorted_items = sortable | sort(false, false, "sort_key") %}
 
 <ul>
-{% for entry in sorted_items %}
-  <li><a href="{{ entry.url }}">{{ entry.data.article_number or '' }} {{ entry.fileSlug }}</a></li>
+{% for item in sorted_items %}
+  {% set entry = item.entry %}
+  <li><a href="{{ entry.url }}">{{ entry.data.sort_id or entry.data.pages or "" }} {{ entry.fileSlug }}</a></li>
 {% endfor %}
 </ul>

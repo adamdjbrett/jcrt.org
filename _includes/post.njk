@@ -9,8 +9,11 @@ layout: base.njk
 	        {% if date %}<p class="text-secondary">{{ date | readableDate("dd LLLL yyyy") }}</p>{% endif %}
 	        <h1 class="hero-post-title"><strong>{{ title }}</strong></h1>
 	        {% if description %}<h2 class="lead text-secondary">{{ description }}</h2>{% endif %}
-	        {% if page.url and page.url.startsWith('/archives/') and author %}<p class="text-secondary">{{ author }}</p>{% endif %}
+	        {% if page.url and page.url.startsWith('/archives/') and author %}<p class="text-secondary">{% set authorNames = author.split(';') %}{% for aName in authorNames %}{% set trimmedName = aName | trim %}{% if trimmedName %}{% set aSlug = trimmedName | authorSlug %}{% set authorObj = collections.authors | getAuthorObj(aSlug) %}{% if authorObj %}<a href="{{ authorObj.url }}">{{ trimmedName }}</a>{% else %}{{ trimmedName }}{% endif %}{% if not loop.last %}; {% endif %}{% endif %}{% endfor %}{% if affilation %}&nbsp;|&nbsp;{{ affilation }}{% endif %}</p>{% endif %}
 	        {% if page.url and page.url.startsWith('/archives/') and abstract %}<p class="text-secondary">{{ abstract }}</p>{% endif %}
+	        {% if page.url and page.url.startsWith('/archives/') and pdf and pdfUrl %}
+	          <p><a href="{{ pdfUrl }}" class="btn btn-pink text-white" target="_blank" rel="noopener"><i class="fa-solid fa-file-pdf me-2"></i>View Article (PDF)</a></p>
+	        {% endif %}
 	        
 	        <p>
           {% if social %}
@@ -30,18 +33,25 @@ layout: base.njk
       </div>
 
       {% if image %}
-        <img class="img-post mb-5 rounded" alt="{{ title }}" width="100%" height="auto" src="{{ image }}"/>
+        {% if page.url and page.url.startsWith('/archives/') %}
+          <div class="col-md-8 mx-auto text-center mb-5">
+            <img class="img-post rounded" alt="{{ title }}" width="250" height="250" style="object-fit:cover" src="{{ image }}"/>
+          </div>
+        {% else %}
+          <img class="img-post mb-5 rounded" alt="{{ title }}" width="100%" height="auto" src="{{ image }}"/>
+        {% endif %}
       {% endif %}
 
 	      <article class="col-md-8 mx-auto"{% if isFastBuild and page.url and page.url.startsWith('/archives/') %} data-pagefind-ignore{% endif %}>
 	        {{ content | toc | safe }}
 	        {{ content | safe }}
 
-        {% if tags %}
+        {% set filteredTags = tags | filterTagList %}
+        {% if filteredTags | length %}
           <hr/>
           <p class="small">
             Tags: 
-            {%- for tag in tags | filterTagList %}
+            {%- for tag in filteredTags %}
               {%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
               <a href="{{ tagUrl }}" class="btn btn-sm btn-pink ms-2">{{ tag }}</a>
             {% endfor %}
@@ -49,7 +59,7 @@ layout: base.njk
           <hr/>
         {% endif %}
 
-        {% if author %}
+        {% if author and not (page.url and page.url.startsWith('/archives/')) %}
           {% set authorKeys = author.split(',') %}
           <div class="author-box-container row">
             {%- for authorKey in authorKeys %}
@@ -61,7 +71,7 @@ layout: base.njk
                   <div class="row align-items-center">
                     <div class="col-4">
                       <a href="{{ currentAuthor.url }}">
-                        <img src="{{ currentAuthor.data.image or '/img/default-author.jpg' }}"
+                        <img src="{{ currentAuthor.data.image or '/img/jcrt.svg' }}"
                              class="img-thumb rounded-circle w-100"
                              style="aspect-ratio: 1/1; object-fit: cover;" 
                              alt="{{ currentAuthor.data.name or currentAuthor.data.title }}"/>

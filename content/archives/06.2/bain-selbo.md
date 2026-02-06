@@ -1,11 +1,15 @@
 ---
-article_number:
 title: "DOUBLE EXPOSURE: CUTTING ACROSS BUDDHIST AND WESTERN DISCOURSES"
 author: "Eric Bain-Selbo"
 affilation:
 abstract:
 keywords: []
 pdf: bain-selbo.pdf
+sort_id:
+volume: 6
+issue: 2
+season: spring
+pages:
 ---
 
 ---

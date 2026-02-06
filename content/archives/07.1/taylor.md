@@ -1,11 +1,22 @@
 ---
 title: "A CONVERSATION WITH SLAVOJ ŽIŽEK"
-article_number:
 author: "Victor E Taylor; Slavoj Žižek"
 affilation:
 abstract: 
-keywords: []
+keywords:
+  - postmodernism
+  - culture-philosophy
+  - 1901-1981
+  - jacques
+  - lacan
+  - psychoanalysis-and-religion
+  - religion-philosophy
 pdf: zizek-taylor-intro.pdf
+sort_id:
+volume: 7
+issue: 1
+season: winter
+pages:
 ---
 
 ---

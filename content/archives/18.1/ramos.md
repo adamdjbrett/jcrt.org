@@ -1,11 +1,17 @@
 ---
 title: "THE SECULARIZING ETHOS AND THE END OF BIBLICAL AUTHORITY: HOW TODAY’S EVANGELICALS ABANDONED EVANGELICALISM."
-article_number:
 author: "JOSHUA RAMOS"
 affilation:
 abstract: 
-keywords: []
+keywords:
+  - evangelicalism
+  - doctrinal-theology
 pdf:
+sort_id:
+volume: 18
+issue: 1
+season: winter
+pages: 85-88
 ---
 
 ---

@@ -1,11 +1,36 @@
 ---
 title: "INTRODUCING SPIRIT DANCE: RECONSTRUCTED / SPIRITUAL PRACTICES"
-article_number:
 author: "Joshua M Hall"
 affilation:
 abstract: 
-keywords: []
+keywords:
+  - spirituality
+  - mystery-theology
+  - liberalism
+  - christianity
+  - shamanism
+  - administration-of
+  - political-science-philosophy
+  - 1844-1900
+  - bacchanalia
+  - communitarianism
+  - criminal-justice
+  - cultus
+  - dance-and-religion
+  - dionysus-greek-deity
+  - friedrich-wilhelm
+  - greek
+  - nietzsche
+  - political-violence
+  - revolutions
+  - vodou
+  - yanomamo-south-american-people
 pdf: Hall.pdf
+sort_id:
+volume: 22
+issue: 2
+season: spring
+pages: 185-207
 ---
 
 ---

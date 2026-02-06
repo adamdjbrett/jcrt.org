@@ -1,11 +1,27 @@
 ---
-article_number:
 title: "DERRIDA, SAID, AND INFINITY"
 author: "Geoffrey Galt Harpham"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - criticism
+  - colonialism-and-neocolonialism
+  - political-science-philosophy
+  - jacques
+  - the
+  - 1930-2004
+  - derrida
+  - language-and-languages-philosophy
+  - finite
+  - 1935-2003
+  - edward-w
+  - said
 pdf: harpham.pdf
+sort_id:
+volume: 6
+issue: 3
+season: summer
+pages:
 ---
 
 ---

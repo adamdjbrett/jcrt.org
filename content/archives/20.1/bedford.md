@@ -1,11 +1,20 @@
 ---
-article_number:
 title: "BUSHWHACKING DERRIDA: PERCEPTION"
 author: "GARY BEDFORD"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - ontology
+  - jacques
+  - 1930-2004
+  - derrida
+  - sensory-perception
 pdf: Bedford.pdf
+sort_id:
+volume: 20
+issue: 1
+season: winter
+pages: 14-18
 ---
 
 ---

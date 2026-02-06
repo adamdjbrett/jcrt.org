@@ -1,11 +1,30 @@
 ---
-article_number:
 title: "FOLLOWING THE WORDS: HEIDEGGER’S ACCOUNT OF RELIGION AS NACHFOLGE"
 author: "Robert D Metcalf"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - experience-religion
+  - hermeneutics
+  - discipleship
+  - self-philosophy
+  - tradition-philosophy
+  - religion-philosophy
+  - the
+  - holy
+  - 1889-1976
+  - heidegger
+  - martin
+  - 1906-1945
+  - bonhoeffer
+  - dietrich
+  - religion-essence
 pdf: metcalf.pdf
+sort_id:
+volume: 10
+issue: 3
+season: summer
+pages:
 ---
 
 ---

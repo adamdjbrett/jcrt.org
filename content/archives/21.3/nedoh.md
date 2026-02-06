@@ -1,11 +1,27 @@
 ---
 title: "UNDEAD"
-article_number:
 author: "Boštjan Nedoh"
 affilation:
 abstract: 
-keywords: []
+keywords:
+  - social-psychology
+  - political-theology
+  - 1949
+  - slavoj
+  - z-iz-ek
+  - 1892-1940
+  - arthur
+  - benjamin
+  - bradley
+  - memory-philosophy
+  - nothing-philosophy
+  - walter
 pdf:
+sort_id:
+volume: 21
+issue: 3
+season: summer
+pages: 440-447
 ---
 
 ---

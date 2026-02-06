@@ -1,11 +1,26 @@
 ---
-article_number:
 title: "THE DARE OF DEMOCRACY: FEAR, FAITH AND FREEDOM"
 author: "Catherine Keller"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - authoritarianism
+  - power-social-sciences
+  - new-right-christianity
+  - christianity-and-politics
+  - democracy
+  - civilization
+  - western
+  - 1953
+  - cornel
+  - democracy-and-religion
+  - west
 pdf: Keller.pdf
+sort_id:
+volume: 8
+issue: 3
+season: summer
+pages:
 ---
 
 ---

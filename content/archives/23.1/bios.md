@@ -1,10 +1,15 @@
 ---
+author: editors
 title: Author Bios
-article_number: 00
 affilation:
 abstract:
 keywords: []
 pdf: bios.pdf
+sort_id: 00
+volume: 23
+issue: 1
+season: winter
+pages:
 ---
 
 ---

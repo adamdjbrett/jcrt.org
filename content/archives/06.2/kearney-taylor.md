@@ -1,11 +1,24 @@
 ---
-article_number:
 title: "A CONVERSATION WITH RICHARD KEARNEY"
 author: "Victor E Taylor; Richard Kearney"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - dialogue
+  - difference-philosophy
+  - other-philosophy
+  - jacques
+  - imagination
+  - continental-philosophy
+  - 1930-2004
+  - derrida
+  - philosophy-methodology
 pdf: kearney-taylor.pdf
+sort_id:
+volume: 6
+issue: 2
+season: spring
+pages:
 ---
 
 ---

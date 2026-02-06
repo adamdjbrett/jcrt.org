@@ -1,11 +1,15 @@
 ---
-article_number:
 title: "RELIGIOUS EXPERIENCE AND THE END OF METAPHYSICS"
 author: "Luke Fodor"
 affilation:
 abstract:
 keywords: []
 pdf: fodor.pdf
+sort_id:
+volume: 5
+issue: 3
+season: summer
+pages:
 ---
 
 ---

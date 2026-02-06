@@ -1,0 +1,34 @@
+---
+permalink: /sitemap/category-sitemap.xml
+layout: false
+---
+{% set lastUpdated = theory.lastUpdated or (page.inputPath | lastModifiedDate) %}
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>{{ "/religioustheory/categories/" | htmlBaseUrl(metadata.url) }}</loc>
+		{% if lastUpdated %}<lastmod>{{ lastUpdated | htmlDateString }}</lastmod>{% endif %}
+		<priority>0.2</priority>
+	</url>
+
+	{% set categories = [] %}
+	{% for post in theory.posts %}
+		{% if post.categories %}
+			{% for c in post.categories %}
+				{% if c and (c not in categories) %}
+					{% set categories = categories.concat([c]) %}
+				{% endif %}
+			{% endfor %}
+		{% endif %}
+	{% endfor %}
+	{% set categories = categories | sortAlphabetically %}
+
+	{%- for c in categories %}
+		{% set url %}/religioustheory/categories/{{ c | slugify }}/{% endset %}
+		<url>
+			<loc>{{ url | htmlBaseUrl(metadata.url) }}</loc>
+			{% if lastUpdated %}<lastmod>{{ lastUpdated | htmlDateString }}</lastmod>{% endif %}
+			<priority>0.2</priority>
+		</url>
+	{%- endfor %}
+</urlset>

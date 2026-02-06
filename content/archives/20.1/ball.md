@@ -1,11 +1,20 @@
 ---
-article_number:
 title: "REVOLUTIONARY LOVE: KIERKEGAARD’S GIFT ECONOMY AS A RELIGIOUS CORRECTIVE TO THE LEVELING OF THE PUBLIC SPHERE."
 author: "ANDREW J. BALL"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - social-theory
+  - 1813-1855
+  - kierkegaard
+  - public-sphere
+  - s-ren
 pdf: Ball.pdf
+sort_id:
+volume: 20
+issue: 1
+season: winter
+pages: 1-13
 ---
 
 ---

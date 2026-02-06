@@ -1,11 +1,29 @@
 ---
 title: "RELIGION AND PSYCHOANALYSIS: THREE FUNDAMENTAL CONCEPTS"
-article_number:
 author: "Julia Reinhard Lupton"
 affilation:
 abstract: 
-keywords: []
+keywords:
+  - god-and-human-beings
+  - 1901-1981
+  - jacques
+  - lacan
+  - psychoanalysis-and-religion
+  - franz
+  - creation-history-of-doctrines
+  - 1856-1939
+  - freud
+  - sigmund
+  - 1886-1929
+  - rosenzweig
+  - revelation-on-sinai
+  - redemption-comparative-studies
 pdf:
+sort_id:
+volume: 2
+issue: 1
+season: winter
+pages:
 ---
 Religion and Psychoanalysis: Three Fundamental Concepts
 =======================================================

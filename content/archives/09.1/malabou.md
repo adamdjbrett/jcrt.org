@@ -1,11 +1,23 @@
 ---
-article_number:
 title: "A CONVERSATION WITH CATHERINE MALABOU"
 author: "Nöelle Vahanian; Catherine Malabou; Carissa Devine"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - jacques
+  - continental-philosophy
+  - 1930-2004
+  - derrida
+  - philosophy-methodology
+  - feminist-theory
+  - poststructuralism
+  - neurosciences
 pdf: Malabou.pdf
+sort_id:
+volume: 9
+issue: 1
+season: winter
+pages:
 ---
 
 ---

@@ -1,11 +1,27 @@
 ---
 title: "PARENTHESIS"
-article_number:
 author: "Niall Gildea"
 affilation:
 abstract: 
-keywords: []
+keywords:
+  - foucault
+  - sovereignty
+  - jacques
+  - arthur
+  - bradley
+  - nothing-philosophy
+  - 1926-1984
+  - 1930-2004
+  - biopolitics
+  - derrida
+  - michel
+  - biopolitics-sociobiology
 pdf:
+sort_id:
+volume: 21
+issue: 3
+season: summer
+pages: 418-421
 ---
 
 ---

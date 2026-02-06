@@ -1,11 +1,18 @@
 ---
-article_number:
 title: "TRANSCENDENTAL FRUSTRATION: A CRITICAL RE-EVALUATION OF THE HEGELIAN LEGACY FOR PHILOSOPHY OF RELIGION."
 author: "W. EZEKIEL GOGGIN"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - philosophy-of-religion
+  - hegelianism
+  - transcendentalism-philosophy
 pdf: Goggin.pdf
+sort_id:
+volume: 18
+issue: 3
+season: summer
+pages: 382-399
 ---
 
 ---

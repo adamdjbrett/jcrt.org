@@ -1,11 +1,26 @@
 ---
-article_number:
 title: "LIFE AFTER LIFE: A FIGURE OF THOUGHT IN WALTER BENJAMIN"
 author: "Daniel Weidner"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - philosophical-anthropology
+  - historicism
+  - criticism-philosophy
+  - future-life
+  - collective-memory
+  - religious-studies
+  - religion-philosophy
+  - 1892-1940
+  - benjamin
+  - walter
+  - history-philosophy
 pdf: 8-Weidner.pdf
+sort_id:
+volume: 19
+issue: 3
+season: summer
+pages: 463-475
 ---
 
 ---

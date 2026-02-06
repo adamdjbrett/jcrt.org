@@ -1,11 +1,20 @@
 ---
-article_number:
 title: "THE BORDERLINES OF THEODICY."
 author: "MARTIN WOESSNER"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - nonfiction
+  - crimes-against-women
+  - luevano
+  - rafael
+  - woman-killing-in-jua-rez-theodicy-at-the-border-book
 pdf: woessner.pdf
+sort_id:
+volume: 13
+issue: 1
+season: winter
+pages: 151-154
 ---
 
 ---

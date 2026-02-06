@@ -1,11 +1,27 @@
 ---
-article_number:
 title: "BENJAMIN, METHOD, AND WEAK MESSIANISM"
 author: "Roger K Green"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - messianism
+  - philosophy
+  - religious-studies
+  - methodology
+  - religions-study-and-teaching
+  - modern
+  - political-science-philosophy
+  - 1892-1940
+  - benjamin
+  - walter
+  - interdisciplinary-study
+  - philosophy-methodology
 pdf: 4-Green.pdf
+sort_id:
+volume: 19
+issue: 3
+season: summer
+pages: 413-427
 ---
 
 ---

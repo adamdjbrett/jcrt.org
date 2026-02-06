@@ -1,11 +1,37 @@
 ---
 title: "THE RADICAL EVIL OF DECONSTRUCTION: A REPLY TO JOHN CAPUTO"
-article_number:
 author: "Martin Hägglund"
 affilation:
 abstract: 
-keywords: []
+keywords:
+  - philosophical-theology
+  - god-philosophy
+  - evil
+  - atheism
+  - deconstruction-criticism
+  - future
+  - messianism
+  - atrocities
+  - jacques
+  - the
+  - 1930-2004
+  - derrida
+  - kearney
+  - richard
+  - finite
+  - caputo
+  - 1940
+  - violence-and-religion
+  - god-goodness
+  - hospitality
+  - john-d
+  - possibility
 pdf: hagglund.pdf
+sort_id:
+volume: 11
+issue: 2
+season: spring
+pages:
 ---
 
 ---

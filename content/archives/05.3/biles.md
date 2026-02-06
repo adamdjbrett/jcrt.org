@@ -1,11 +1,29 @@
 ---
-article_number:
 title: "I, INSECT; OR, BATAILLE AND THE CRUSH FREAKS"
 author: "Jeremy Biles"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - death
+  - mysticism
+  - sacrifice
+  - sex
+  - deviant-behavior
+  - georges
+  - jeff
+  - technology-and-society
+  - 1961
+  - 1897-1962
+  - bataille
+  - fetishism
+  - insects
+  - vilencia
 pdf: biles.pdf
+sort_id:
+volume: 5
+issue: 3
+season: summer
+pages:
 ---
 
 ---

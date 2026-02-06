@@ -1,11 +1,19 @@
 ---
-article_number:
 title: "HORROR FICTION AND CATHOLIC THEOLOGY - A RHETORICAL SYNTHESIS."
 author: "GAVIN HURLEY"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - catholic-church-doctrines
+  - exorcist
+  - horror-tales
+  - the-book
 pdf: Hurley.pdf
+sort_id:
+volume: 19
+issue: 2
+season: spring
+pages: 262-275
 ---
 
 ---

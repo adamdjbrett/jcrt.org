@@ -1,11 +1,21 @@
 ---
-article_number:
 title: "THE PROBLEM WITH GRACE: RECONFIGURING POLITICAL THEOLOGY."
 author: "JEFFREY SCHOLES"
 affilation:
 abstract:
-keywords: []
+keywords:
+  - nonfiction
+  - political-theology
+  - the-book
+  - lloyd
+  - problem-with-grace-reconfiguring-political-theology
+  - vincent-w
 pdf: scholes.pdf
+sort_id:
+volume: 13
+issue: 2
+season: spring
+pages: 123-125
 ---
 
 ---
