@@ -82,7 +82,7 @@ Total:         48s → ~10s
 - TODO archives 22.1 files dont look right at all, bios.md missing, none of the articles match the live site
 - archives 21.3, 21.2, 21.1,20.3 done
 - TODO archives 20.2 has four authors, none are given affiliations, none have cards in /authors
-- archives 20.1, 19.3 complete
+- archives 20.1, 19.3, complete
 
 
 
