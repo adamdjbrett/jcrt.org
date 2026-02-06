@@ -129,3 +129,8 @@ author pages should have as front matter: name, affiliation, orcid, bio, show al
 + what is the best way to set the metadata values for religioustheory homepage? - Auto Fetch Data title from content json from _data/theory_archive.json , the home page title description is on religioustheory/index.njk
 + Religious theory should show recent posts with images like https://editorial.ghost.io - DONE
 + there should be a /tags/ and /categories/ pages that show all tags and categories using <detail> and <summary> to make the accordion - done on /religioustheory/taxonomy/ , or /religioustheory/categories/
+
+
+Change Log: 
++ Archives Post Layout
++ Sidebar Nav Fixed

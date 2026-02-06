@@ -1,0 +1,127 @@
+---
+layout: base.njk
+---
+<div class="col-md-10 mx-auto">
+  {% include "partials/nav_desktop.njk" %}
+
+  <div class="container-fluid">
+    <article class="py-4">
+      <header class="mb-5 pb-2">
+        {% if article_number %}
+          <div class="text-pink fw-bold small text-uppercase mb-2">Article No. {{ article_number }}</div>
+        {% endif %}
+
+        <h1 class="serif fw-bold display-4 mb-3">{{ jsonEntry.title or title }}</h1>
+        
+        <div class="text-muted mb-4">
+          <span class="fw-bold text-dark">{{ jsonEntry.author or author }}</span>
+          {% if affilation %}<br><small class="text-secondary">{{ affilation }}</small>{% endif %}
+        </div>
+
+        <div class="d-flex flex-wrap gap-3 align-items-center small mt-3">
+          {% set displayDate = jsonEntry.date or date %}
+          {% if displayDate %}
+            <span class="text-muted"><i class="bi bi-calendar3"></i> {{ displayDate | postDate }}</span>
+          {% endif %}
+          
+          {% if pdfUrl %}
+            <a href="{{ pdfUrl }}" class="btn btn-sm btn-pink px-4 rounded-0 shadow-sm" target="_blank">
+              <i class="bi bi-file-earmark-pdf"></i> Download PDF
+            </a>
+          {% endif %}
+        </div>
+      </header>
+
+      {% if abstract %}
+      <section class="abstract mb-5 p-4 bg-light border-start border-4 border-pink">
+        <h5 class="fw-bold text-uppercase small text-pink">Abstract</h5>
+        <div class="serif italic">{{ abstract | markdownify | safe }}</div>
+      </section>
+      {% endif %}
+
+      <div class="article-body serif lh-lg archive-content" style="font-size: 1.15rem; text-align: justify;">   
+        {% set finalHTML = jsonEntry.content | markdownify if jsonEntry.content else content %}
+        
+        <div id="custom-toc-container" class="p-3 bg-light mb-4 d-none border">
+            <h4 class="h6 text-uppercase fw-bold border-bottom pb-2">Table of Contents</h4>
+            <ul id="toc-list" class="list-unstyled mb-0" style="font-size: 0.95rem;"></ul>
+        </div>
+
+        <div id="article-content">
+            {{ finalHTML | safe }}
+        </div>
+      </div>
+
+      {% if tags and tags.length > 0 %}
+      <footer class="mt-5 pt-4 border-top">
+        <div class="d-flex flex-wrap gap-2 align-items-center">
+          <span class="small text-muted text-uppercase fw-bold me-2">Keywords:</span>
+          {% for tag in tags %}
+            {% if tag != "posts" %}
+              <span class="badge bg-light text-dark border fw-normal">{{ tag }}</span>
+            {% endif %}
+          {% endfor %}
+        </div>
+      </footer>
+      {% endif %}
+    </article>
+  </div>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const content = document.getElementById('article-content');
+    const tocList = document.getElementById('toc-list');
+    const tocContainer = document.getElementById('custom-toc-container');
+    const headings = content.querySelectorAll('h2, h3');
+    
+    if (headings.length > 0) {
+        tocContainer.classList.remove('d-none');       
+        headings.forEach((heading, index) => {
+            if (!heading.id) heading.id = 'section-' + index;
+            const li = document.createElement('li');
+            li.className = heading.tagName === 'H3' ? 'ms-3 my-1' : 'my-1';
+            const a = document.createElement('a');
+            a.href = '#' + heading.id;
+            a.textContent = heading.textContent;
+            a.className = 'text-decoration-none text-dark hover-pink';
+            li.appendChild(a);
+            tocList.appendChild(li);
+        });
+    }
+});
+</script>
+
+<style>
+.archive-content hr {
+    border: 0;
+    height: 1px;
+    background: #eee;
+    margin: 2rem 0;
+    display: block;
+}
+
+.hover-pink:hover { color: #f14e95 !important; text-decoration: underline !important; }
+.italic { font-style: italic; }
+.border-pink { border-color: #f14e95 !important; }
+.archive-content img {
+    display: block; 
+    max-width: 100%;
+    height: auto;
+    margin: 2rem auto;
+    border-radius: 4px; 
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+.archive-content img + em, 
+.archive-content img + span {
+    display: block;
+    text-align: center;
+    font-size: 0.9rem;
+    color: #666;
+    margin-top: -1.5rem;
+    margin-bottom: 2rem;
+}
+.archive-content p {
+    margin-bottom: 1.5rem;
+}
+</style>
