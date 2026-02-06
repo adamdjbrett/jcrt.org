@@ -1,6 +1,6 @@
 ---
 name: Thomas Roberts
-affiliation:
+affiliation: "San Diego State University"
 bio:
 social:
   - title: "website"

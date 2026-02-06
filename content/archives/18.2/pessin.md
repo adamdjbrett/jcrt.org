@@ -8,7 +8,7 @@ keywords:
   - jewish-scholars
   - kenosis-theology
 pdf: Pessin.pdf
-sort_id:
+sort_id: 06
 volume: 18
 issue: 2
 season: spring

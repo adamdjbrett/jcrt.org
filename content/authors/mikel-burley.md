@@ -1,6 +1,6 @@
 ---
 name: Mikel Burley
-affiliation:
+affiliation: "University of Leeds"
 bio:
 social:
   - title: "website"

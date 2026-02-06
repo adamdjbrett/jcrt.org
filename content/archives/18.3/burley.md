@@ -9,10 +9,10 @@ keywords:
   - d-z
   - phillips
 pdf: Burley.pdf
-sort_id:
+sort_id: 08
 volume: 18
 issue: 3
-season: summer
+season: fall
 pages: 466-490
 ---
 

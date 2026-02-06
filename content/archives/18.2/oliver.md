@@ -8,7 +8,7 @@ keywords:
   - predestination
   - sexual-orientation
 pdf: Oliver.pdf
-sort_id:
+sort_id: 02
 volume: 18
 issue: 2
 season: spring

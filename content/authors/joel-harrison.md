@@ -1,6 +1,6 @@
 ---
 name: Joel Harrison
-affiliation:
+affiliation: "Northwestern University"
 bio:
 social:
   - title: "website"

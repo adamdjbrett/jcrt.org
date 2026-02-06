@@ -1,6 +1,6 @@
 ---
 name: Delbert Hayden
-affiliation:
+affiliation: "Western Kentucky University"
 bio:
 social:
   - title: "website"

@@ -1,6 +1,6 @@
 ---
 name: Patrice Haynes
-affiliation:
+affiliation: "Liverpool Hope College"
 bio:
 social:
   - title: "website"

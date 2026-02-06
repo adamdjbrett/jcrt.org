@@ -8,10 +8,10 @@ keywords:
   - inner-cities
   - philosophy-of-time
 pdf: Tarleton.pdf
-sort_id:
+sort_id: 15
 volume: 18
 issue: 3
-season: summer
+season: fall
 pages: 563-575
 ---
 

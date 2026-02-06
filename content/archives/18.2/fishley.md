@@ -10,7 +10,7 @@ keywords:
   - frye
   - northrop
 pdf: Fishley.pdf
-sort_id:
+sort_id: 04
 volume: 18
 issue: 2
 season: spring

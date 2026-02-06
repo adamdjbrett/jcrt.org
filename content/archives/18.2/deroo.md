@@ -8,7 +8,7 @@ keywords:
   - debate
   - deconstruction
 pdf: DeRoo.pdf
-sort_id:
+sort_id: 21
 volume: 18
 issue: 2
 season: spring

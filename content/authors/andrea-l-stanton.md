@@ -1,6 +1,6 @@
 ---
 name: Andrea L. Stanton
-affiliation:
+affiliation: "University of Denver"
 bio:
 social:
   - title: "website"

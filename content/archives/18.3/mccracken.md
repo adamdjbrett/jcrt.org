@@ -8,10 +8,10 @@ keywords:
   - continental-philosophy
   - philosophy-of-religion
 pdf: McCracken.pdf
-sort_id:
+sort_id: 05
 volume: 18
 issue: 3
-season: summer
+season: fall
 pages: 429-525
 ---
 

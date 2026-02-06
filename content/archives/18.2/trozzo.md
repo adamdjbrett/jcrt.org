@@ -9,7 +9,7 @@ keywords:
   - kearney
   - richard
 pdf: Trozzo.pdf
-sort_id:
+sort_id: 11
 volume: 18
 issue: 2
 season: spring

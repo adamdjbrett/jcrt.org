@@ -1,6 +1,6 @@
 ---
 name: Madison Tarleton
-affiliation:
+affiliation: "Uniiversity of Denver/Iliff School of Theology"
 bio:
 social:
   - title: "website"

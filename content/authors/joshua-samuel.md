@@ -1,6 +1,6 @@
 ---
-name: Neal Deroo
-affiliation: "The King’s University"
+name: "Joshua Samuel"
+affiliation: "Union Theological Seminary"
 bio:
 social:
   - title: "website"

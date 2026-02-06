@@ -1,6 +1,8 @@
 ---
 name: Bradley Onishi
-affiliation:
+affiliation: "Skidmore College"
+
+
 bio:
 social:
   - title: "website"
