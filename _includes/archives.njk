@@ -15,7 +15,21 @@ layout: base.njk
         
         <div class="text-muted mb-3">
           <i class="bi bi-person-fill"></i>
-          <span class="fw-bold text-dark">{{ jsonEntry.author or author }}</span>
+          {% set authorRaw = jsonEntry.author or author %}
+          {% if authorRaw %}
+            {% set authorNames = authorRaw | splitAuthors %}
+            <span class="fw-bold text-dark">
+              {%- for aName in authorNames -%}
+                {% set authorObj = collections.authors | getAuthorObj(aName) %}
+                {%- if authorObj -%}
+                  <a href="{{ authorObj.url }}" class="text-decoration-underline text-dark hover-pink">{{ aName }}</a>
+                {%- else -%}
+                  {{ aName }}
+                {%- endif -%}
+                {%- if not loop.last -%}; {% endif -%}
+              {%- endfor -%}
+            </span>
+          {% endif %}
           {% if affilation %}<br><small class="text-muted">{{ affilation }}</small>{% endif %}
         </div>
 

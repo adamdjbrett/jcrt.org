@@ -76,12 +76,16 @@ pagination:
             {% if article.data.author %}
               <p class="small mb-0">
                 <span class="text-muted">By</span>
-                {% set authorKeys = article.data.author.split(',') %}
-                {% for aKey in authorKeys %}
-                  {% set authorData = collections.authors | getAuthorObj(aKey | trim) %}
-                  <span class="fw-bold text-pink">{{ authorData.data.name if authorData else aKey | trim }}</span>
-                  {% if authorData.data.affiliation %}<span class="text-muted small"> ({{ authorData.data.affiliation }})</span>{% endif %}
-                  {% if not loop.last %} & {% endif %}
+                {% set authorNames = article.data.author | splitAuthors %}
+                {% for aName in authorNames %}
+                  {% set authorData = collections.authors | getAuthorObj(aName) %}
+                  {% if authorData %}
+                    <a href="{{ authorData.url }}" class="fw-bold text-pink text-decoration-none hover-pink">{{ authorData.data.name or authorData.data.title or aName }}</a>
+                    {% if authorData.data.affiliation %}<span class="text-muted small"> ({{ authorData.data.affiliation }})</span>{% endif %}
+                  {% else %}
+                    <span class="fw-bold text-pink">{{ aName }}</span>
+                  {% endif %}
+                  {% if not loop.last %}; {% endif %}
                 {% endfor %}
               </p>
             {% endif %}
