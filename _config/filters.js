@@ -43,7 +43,14 @@ export default function(eleventyConfig) {
             return Array.isArray(tags) ? tags.includes(tag) : tags === tag;
         });
     });
+eleventyConfig.addFilter("lastModifiedDate", (dateObj) => {
+  const date = new Date(dateObj);
+  if (isNaN(date.getTime())) {
+    return new Date().toISOString();
+  }
 
+  return date.toISOString();
+});
 eleventyConfig.addCollection("religioustheory", function(collectionApi) {
   return collectionApi.getFilteredByGlob("content/religioustheory/**/*")
     .filter(item => {
