@@ -8,7 +8,7 @@ pdf: Decoloniality.pdf
 sort_id:
 volume: 20
 issue: 3
-season: summer
+season: fall
 pages:
 ---
 

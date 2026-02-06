@@ -1,6 +1,6 @@
 ---
 name: Carlo Salzani
-affiliation:
+affiliation: "Messerli Research Institute"
 bio:
 social:
   - title: "website"

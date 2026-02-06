@@ -6,7 +6,7 @@ abstract: "This edition of  JCRT is a full translation from the German of the bo
 keywords:
   - translation
 pdf: Praise.pdf
-sort_id:
+sort_id: 02
 volume: 20
 issue: 2
 season: spring

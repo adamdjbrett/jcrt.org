@@ -1,6 +1,6 @@
 ---
 name: Alberto Urquidez
-affiliation:
+affiliation: "Bowdoin College"
 bio:
 social:
   - title: "website"

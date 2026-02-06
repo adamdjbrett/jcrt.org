@@ -1,6 +1,6 @@
 ---
 name: Ori Rotlevy
-affiliation:
+affiliation: "Tel Aviv University"
 bio:
 social:
   - title: "website"

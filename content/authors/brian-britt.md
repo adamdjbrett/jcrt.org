@@ -1,6 +1,6 @@
 ---
 name: Brian Britt
-affiliation:
+affiliation: "Virginia Tech"
 bio:
 social:
   - title: "website"

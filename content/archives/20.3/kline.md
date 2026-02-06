@@ -7,10 +7,10 @@ keywords:
   - etymology
   - social-theory
 pdf: Kline.pdf
-sort_id:
+sort_id: 06
 volume: 20
 issue: 3
-season: summer
+season: fall
 pages: 383-400
 ---
 

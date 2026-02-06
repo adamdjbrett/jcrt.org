@@ -10,7 +10,7 @@ keywords:
   - hume
   - philosophy-of-religion
 pdf: Urquidez.pdf
-sort_id:
+sort_id: 09
 volume: 20
 issue: 1
 season: winter

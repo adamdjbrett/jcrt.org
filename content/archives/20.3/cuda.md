@@ -7,10 +7,10 @@ keywords:
   - spirituality
   - alice-s-adventures-in-wonderland-book-carroll
 pdf: Cuda.pdf
-sort_id:
+sort_id: 03
 volume: 20
 issue: 3
-season: summer
+season: fall
 pages: 316-339
 ---
 

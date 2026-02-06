@@ -1,6 +1,6 @@
 ---
 name: Daniel Weidner
-affiliation:
+affiliation: "University of Halle"
 bio:
 social:
   - title: "website"

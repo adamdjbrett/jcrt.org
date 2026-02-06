@@ -1,6 +1,6 @@
 ---
 name: Nitzan Lebovic
-affiliation:
+affiliation: "Lehigh University"
 bio:
 social:
   - title: "website"
