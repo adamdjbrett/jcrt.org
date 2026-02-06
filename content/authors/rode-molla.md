@@ -1,6 +1,6 @@
 ---
 name: Rode Molla
-affiliation:
+affiliation: "Virginia Theological Seminary"
 bio:
 social:
   - title: "website"

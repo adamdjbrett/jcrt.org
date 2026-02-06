@@ -1,6 +1,6 @@
 ---
-name: Fraser Macdonald
-affiliation: "University of Waikato"
+name: "Lenart Škof"
+affiliation: "Science and Research Centre Koper"
 bio:
 social:
   - title: "website"

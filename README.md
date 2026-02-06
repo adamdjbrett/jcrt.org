@@ -77,10 +77,10 @@ Total:         48s → ~10s
 ## Changelog - Crow
 ## Crowcodes
 - TODO error: archive 24.1 XIAOQIAN ZHANG does not have files anywhere
-- archives 24.1 23.2 23.1 done
+- archives 24.1, 23.2, 23.1 done
 - archives 22.2 done
 - archives 22.1 files dont look right at all, bios.md missing, none of the articles match the live site
-- archives 21.3 done
+- archives 21.3, 21.2 done
 
 
 

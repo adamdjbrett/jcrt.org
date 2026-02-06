@@ -7,7 +7,7 @@ keywords:
   - theology
   - faith
 pdf: Burkette.pdf
-sort_id:
+sort_id: 04
 volume: 21
 issue: 1
 season: winter

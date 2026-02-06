@@ -1,6 +1,6 @@
 ---
-name: Fraser Macdonald
-affiliation: "University of Waikato"
+name: "Vinicius Marinho"
+affiliation: "University of Chicago Divinity School"
 bio:
 social:
   - title: "website"

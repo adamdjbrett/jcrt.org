@@ -9,7 +9,7 @@ keywords:
   - black-rice-the-african-origins-of-rice-cultivation-in-the-americas-book
   - religion-historians
 pdf: Walker.pdf
-sort_id:
+sort_id: 07
 volume: 21
 issue: 2
 season: spring
