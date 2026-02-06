@@ -1,9 +1,12 @@
 ---
-issue: 
-season: 
+layout: archives-index.njk
 title: Table of Contents
 description:
-image: /img/jcrt.jpg
+image: /img/jcrt.svg
+volume:
+issue: 
+season: 
+tags: []
 ---
 
 {% set current_dir = page.inputPath | replace('/index.njk', '/') %}
@@ -32,10 +35,6 @@ image: /img/jcrt.jpg
   {% set issue_dir = issue_entry.inputPath | replace('/index.njk', '/') %}
   {% set issue_articles = [] %}
 
- <h2>
-    {{ issue_entry.data.volume }}.{{ issue_entry.data.issue }} {{ issue_entry.data.season }} {% if issue_entry.data.title %} - {{ issue_entry.data.title }}{% endif %}
-  </h2>
-
   {% for article in collections.all %}
     {% if article.inputPath and article.inputPath.startsWith(issue_dir) %}
       {% set article_relative = article.inputPath | replace(issue_dir, '') %}
@@ -58,17 +57,22 @@ image: /img/jcrt.jpg
 
   {% set sorted_articles = sortable_articles | sort(false, false, "sort_key") %}
 
-  {% for item in sorted_articles %}
-    {% set article = item.article %}
-    <h3>
-      <a href="{{ article.url }}">{{ article.data.title or article.fileSlug }}</a>
-    </h3>
-    {% if article.data.author or article.data.affilation %}
-      <p>
-        {% if article.data.author %}{{ article.data.author }}{% endif %}
-        {% if article.data.author and article.data.affilation %}<br>{% endif %}
-        {% if article.data.affilation %}{{ article.data.affilation }}{% endif %}
-      </p>
-    {% endif %}
-  {% endfor %}
+  <details>
+    <summary>
+      <h2 style="display:inline">{{ issue_entry.data.volume }}.{{ issue_entry.data.issue }} {{ issue_entry.data.season }}{% if issue_entry.data.title %} — {{ issue_entry.data.title }}{% endif %} <small>({{ issue_articles | length }})</small></h2>
+    </summary>
+    {% for item in sorted_articles %}
+      {% set article = item.article %}
+      <h3>
+        <a href="{{ article.url }}">{{ article.data.title or article.fileSlug }}</a>
+      </h3>
+      {% if article.data.author or article.data.affilation %}
+        <p>
+          {% if article.data.author %}{{ article.data.author }}{% endif %}
+          {% if article.data.author and article.data.affilation %}<br>{% endif %}
+          {% if article.data.affilation %}{{ article.data.affilation }}{% endif %}
+        </p>
+      {% endif %}
+    {% endfor %}
+  </details>
 {% endfor %}

@@ -106,7 +106,7 @@ Here is a footnote reference,[^1] and another.[^longnote]
     Subsequent paragraphs are indented to show that they
 belong to the previous footnote.
 ```
-10. ensure all index.njk files in /archives haves artwork. if their issue does not have artwork use /img/jcrt.jpg - DONE
+10. ensure all index.njk files in /archives haves artwork. if their issue does not have artwork use /img/jcrt.svg - DONE
 11. add editors to /archives/index.njks as optional front matter for if/when tehres a special issue. - DONE
 12. wireup authors, tags, categories, for /religioustheory as well
 

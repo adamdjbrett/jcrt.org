@@ -1,9 +1,9 @@
 title: "JCRT"
 description: "Journal for Cultural and Religious Theory (JCRT), whitestone foundation publication"
-image: "/img/jcrt.jpg"
+image: "/img/jcrt.svg"
 language: "en"
 locale: en_US
-favicon: "/img/jcrt.jpg"
+favicon: "/img/jcrt.svg"
 #url: "https://editorial.000000076.xyz"
 url: http://localhost:8080
 homepage_archive: 
@@ -41,29 +41,31 @@ sidebar:
         url: /
       - nav: About
         url: /about/
-      - nav: Religious Theory
-        url: /religioustheory/
       - nav: Archives
         url: /archives/
-      - nav: Blog
+      - nav: News
         url: /blog/
+      - nav: Religious Theory
+        url: /religioustheory/
+      - nav: Submissions
+        url: /submissions/  
       - nav: Contact
         url: /
   info: 
-    title: Ante interdum
+    title: The New Polis
     list: 
-      - image: "https://images.unsplash.com/photo-1761602545494-4cd002b4d2b2?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyfHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=400"
-        text: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.
-        url: "#"
-      - image: "https://images.unsplash.com/photo-1761475145944-52df2def23e9?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=400"
-        text: Nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris
-        url: "#"
-      - image: "https://images.unsplash.com/photo-1761671263817-958770b10b9f?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwzMXx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=400"
-        text: Ipsum lorep dolor anterepous delsop maledo devolaro. nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris
-        url: "#"
+      - image: "/img/tnp.png"
+        text: "The New Polis is an online publication dedicated to critical theory, social analysis, and political philosophy and theology."
+        url: "https://thenewpolis.com/"
+      - image: "/img/tnpj.png"
+        text: "The New Polis Journal is a peer-reviewed academic journal publishing cutting-edge work in political philosophy, social theory, and related fields."
+        url: "https://journal.thenewpolis.com/"
+      - image: "/img/esthesis.png"
+        text: "Esthesis is an electronic magazine (“e-mag”) that publishes thoughtful, innovative, sometimes provocative, and even quirky articles on the arts and contemporary ideas and culture.  Esthesis draws on a variety of contributors, including artists and academics as well as community, business, and thought leaders.  Esthesis also explores certain unexplored dimensions of consumer trends and the world of fashion and advertising."
+        url: "https://esthesis.org/"
     button: 
-        text: More
-        url: /
+        text: Whitestone
+        url: https://thewhitestonefoundation.org
   contact: 
     title: Get in touch
     text: The Journal for Cultural and Religious Theory (JCRT) is a publication of The Whitestone Foundation, a 501(c)3 non-profit corporation registered in the state of Colorado.
