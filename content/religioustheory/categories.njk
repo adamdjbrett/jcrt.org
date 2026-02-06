@@ -1,29 +1,38 @@
 ---
 layout: theory.njk
+title: All Topics
 permalink: /religioustheory/categories/index.html
 ---
-<div class="col-md-10 mx-auto">
+<div class="col-md-10 mx-auto mt-5">
   {% include "partials/nav_desktop.njk" %}
 
-  <h1>Categories</h1>
-  <p class="text-muted">Topics from the Religious Theory archive.</p>
+  <header class="mb-5 border-bottom pb-4">
+    <h1 class="display-4 fw-bold">Categories</h1>
+    <p class="lead text-muted">Exploration topics from the Religious Theory archive.</p>
+  </header>
 
-  {% set categories = [] %}
-  {% for post in theory.posts %}
-    {% if post.categories %}
-      {% for c in post.categories %}
-        {% if c and (c not in categories) %}
-          {% set categories = categories.concat([c]) %}
-        {% endif %}
-      {% endfor %}
-    {% endif %}
-  {% endfor %}
-  {% set categories = categories | sortAlphabetically %}
-
-  <ul>
+  <div class="row row-cols-1 row-cols-md-2 g-4">
+    {% set categories = theory.posts | categoryTheory | sort %}
+    
     {% for c in categories %}
-      <li><a href="/religioustheory/categories/{{ c | slugify }}/">{{ c }}</a></li>
+      <div class="col">
+        <a href="/religioustheory/categories/{{ c | slugify }}/" class="text-decoration-none">
+          <div class="card h-100 shadow-sm hover-shadow transition-all border-0 bg-light">
+            <div class="card-body p-4 d-flex justify-content-between align-items-center">
+              <h3 class="h5 fw-bold mb-0 text-dark">{{ c | capitalize }}</h3>
+              <span class="text-pink fw-bold">Explore &rarr;</span>
+            </div>
+          </div>
+        </a>
+      </div>
     {% endfor %}
-  </ul>
+  </div>
 </div>
 
+<style>
+  .hover-shadow:hover { 
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1) !important;
+  }
+  .transition-all { transition: all 0.3s ease; }
+</style>

@@ -15,6 +15,7 @@ import markdownItAttrs from 'markdown-it-attrs';
 import markdownItTableOfContents from "markdown-it-table-of-contents";
 import pluginTOC from 'eleventy-plugin-toc';
 import pluginFilters from "./_config/filters.js";
+import { authorSlug, splitAuthors } from "./_config/authorSlug.js";
 import fs from "fs";
 import path from 'path'; 
 import { fileURLToPath } from 'url';
@@ -173,28 +174,110 @@ export default async function (eleventyConfig) {
 		});
 	}
 
+	eleventyConfig.addFilter("authorSlug", authorSlug);
+	eleventyConfig.addFilter("splitAuthors", splitAuthors);
+
+	const authorLookupCache = new WeakMap();
+	function getAuthorLookupMap(authorsCollection) {
+		if (!Array.isArray(authorsCollection)) return null;
+
+		let lookup = authorLookupCache.get(authorsCollection);
+		if (lookup) return lookup;
+
+		lookup = new Map();
+		for (const author of authorsCollection) {
+			if (!author) continue;
+			const directKey = (author.data?.key || author.fileSlug || "").trim();
+			if (directKey) lookup.set(directKey, author);
+
+			const fileSlug = (author.fileSlug || "").trim();
+			if (fileSlug) lookup.set(fileSlug, author);
+
+			const name = (author.data?.name || author.data?.title || "").trim();
+			const nameSlug = authorSlug(name);
+			if (nameSlug) lookup.set(nameSlug, author);
+
+			const keySlug = authorSlug(directKey);
+			if (keySlug) lookup.set(keySlug, author);
+		}
+
+		authorLookupCache.set(authorsCollection, lookup);
+		return lookup;
+	}
+
 
     eleventyConfig.addFilter("getAuthorObj", (authorsCollection, authorKey) => {
         if (!authorKey || !authorsCollection) return null;
-        return authorsCollection.find(author => {
-            const key = author.data?.key || author.fileSlug;
-            return key === authorKey.trim();
-        });
+		const lookup = getAuthorLookupMap(authorsCollection);
+		if (!lookup) return null;
+
+		const rawKey = String(authorKey).trim();
+		if (!rawKey) return null;
+
+		return lookup.get(rawKey) || lookup.get(authorSlug(rawKey)) || null;
     });
 eleventyConfig.addFilter("getPostsByAuthor", (allPosts, authorKey) => {
-    if (!allPosts || !authorKey) return [];
-    
-    return allPosts.filter(post => {
-        const authorField = post.data.author;
-        if (!authorField) return false;
+    if (!Array.isArray(allPosts) || !authorKey) return [];
 
-        const normalizedKey = String(authorKey).toLowerCase().trim();
-        const authors = String(authorField).split(',').map(a => a.trim().toLowerCase());
+	const rawKey = String(authorKey).trim();
+	if (!rawKey) return [];
 
-        return authors.includes(normalizedKey);
-    });
+	const normalizedKey = rawKey.toLowerCase();
+	const normalizedSlug = authorSlug(rawKey);
+
+	const postsByAuthor = allPosts.filter((post) => {
+		const authorField = post?.data?.author;
+		if (!authorField) return false;
+
+		const raw = String(authorField);
+		const parts = raw.includes(";") ? raw.split(";") : raw.split(",");
+
+		for (const part of parts) {
+			const name = String(part).trim();
+			if (!name) continue;
+
+			if (name.toLowerCase() === normalizedKey) return true;
+			if (authorSlug(name) === normalizedSlug) return true;
+		}
+		return false;
+	});
+
+	const groups = {
+		archives: [],
+		religioustheory: [],
+		blog: [],
+		other: [],
+	};
+
+	for (const post of postsByAuthor) {
+		const url = post?.url || "";
+		const inputPath = post?.inputPath || "";
+
+		if (url.startsWith("/archives/") || inputPath.includes("/content/archives/")) {
+			groups.archives.push(post);
+		} else if (url.startsWith("/religioustheory/") || inputPath.includes("/content/religioustheory/")) {
+			groups.religioustheory.push(post);
+		} else if (url.startsWith("/blog/") || inputPath.includes("/content/blog/")) {
+			groups.blog.push(post);
+		} else {
+			groups.other.push(post);
+		}
+	}
+
+	const sortByDateDesc = (a, b) => {
+		const aTime = a?.date instanceof Date ? a.date.getTime() : 0;
+		const bTime = b?.date instanceof Date ? b.date.getTime() : 0;
+		return bTime - aTime;
+	};
+
+	groups.archives.sort(sortByDateDesc);
+	groups.religioustheory.sort(sortByDateDesc);
+	groups.blog.sort(sortByDateDesc);
+	groups.other.sort(sortByDateDesc);
+
+	return [...groups.archives, ...groups.religioustheory, ...groups.blog, ...groups.other];
 });
-eleventyConfig.addCollection("authors", function(collectionApi) {
+	eleventyConfig.addCollection("authors", function(collectionApi) {
         return collectionApi.getFilteredByGlob("content/authors/*.md").sort((a, b) => {
             const nameA = (a.data.name || a.data.title || "").toLowerCase();
             const nameB = (b.data.name || b.data.title || "").toLowerCase();
@@ -202,11 +285,13 @@ eleventyConfig.addCollection("authors", function(collectionApi) {
         });
     });
 	eleventyConfig.addPassthroughCopy({ "public/js": "js" });
-eleventyConfig.addPassthroughCopy({ "content/archives": "archives" }, {
-        copyOptions: {
-            overwrite: true
-        }
-    });
+	// Archives contain PDFs/scans that need to be copied, but the markdown is built into HTML.
+	// Copy only the binary assets to keep passthrough copy fast and avoid duplicate outputs.
+	eleventyConfig.addPassthroughCopy("content/archives/**/*.pdf");
+	eleventyConfig.addPassthroughCopy("content/archives/**/*.jpg");
+	eleventyConfig.addPassthroughCopy("content/archives/**/*.jpeg");
+	eleventyConfig.addPassthroughCopy("content/archives/**/*.tif");
+	eleventyConfig.addPassthroughCopy("content/archives/**/*.tiff");
 eleventyConfig.addCollection("archives", function(collectionApi) {
         return collectionApi.getFilteredByGlob("content/archives/**/*.md");
     });

@@ -1,6 +1,6 @@
 export default {
   title: "Journal for Cultural and Religious Theory",
-  layout: "archives.njk",
+  layout: "archive-post.njk",
   eleventyComputed: {
     jsonEntry: (data) => {
       const slug = data.page.fileSlug;

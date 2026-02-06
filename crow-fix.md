@@ -17,6 +17,6 @@ If you don’t have `nvm`:
 2) Start the site in “fast dev” mode (avoids the heavy build steps)
 
 From inside the `jcrt.org` folder:
-- `SKIP_PAGEFIND=1 FAST_BUILD=1 npx @11ty/eleventy --serve --quiet`
+- `SKIP_PAGEFIND=1 FAST_BUILD=1 npx @11ty/eleventy --serve --quiet --incremental`
 
 Then open the URL Eleventy prints (usually `http://localhost:8080`).

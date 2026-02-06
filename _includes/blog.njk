@@ -4,7 +4,7 @@ layout: base.njk
 {% include "partials/nav_desktop.njk" %}
 <div class="container-fluid">
 <div class="col-md-12 p-3  p-md-5">
-<h3><strong><span class="bgb-pink">{{title}}</span></strong></h3>
+<h2><strong><span class="bgb-pink">{{title}}</span></strong></h2>
 </div>
 <div class="row mt-3 mb-3">
 {% for b in pagination.items | reverse %}
@@ -16,18 +16,43 @@ layout: base.njk
 <p>
 {{b.data.description}}
 </p>
-<p><a href="{{b.url}}" class="btn btn-sm btn-pink p-2">
+<p><a href="{{b.url}}" class="btn  btn-pink p-2">
 Learn More
 </a></p>
 </div>
 {% endfor %}
 </div>
-<div class="row col-md-12">
-<div class="col-md-6 p-3">
-{% if pagination.href.previous %}<a class="btn btn-lg btn-pink text-white col-6" href="{{ pagination.href.previous }}">Prev </a>{% endif %}
-</div>
-<div class="col-md-6 text-end p-3">
-{% if pagination.href.next %}<a class="btn btn-lg btn-pink text-white col-6" href="{{ pagination.href.next }}">Next </a>{% endif %}
-</div>
-</div>
+{% set totalPages = pagination.pages.length %}
+{% set currentPage = pagination.pageNumber + 1 %}
+
+{% if totalPages > 1 %}
+  <nav class="pagination-editorial border-top pt-5 mt-5 d-flex align-items-center justify-content-between px-md-5" role="navigation">
+      
+      {# Sisi Kiri: Tombol Newer atau Info Halaman #}
+      <div class="d-flex align-items-center" style="flex: 1;">
+          {% if pagination.href.previous %}
+              <a href="{{ pagination.href.previous }}" class="btn-editorial-ghost me-3">← Newer</a>
+          {% else %}
+              <span class="page-info text-secondary fw-bold small">Page {{ currentPage }} of {{ totalPages }}</span>
+          {% endif %}
+      </div>
+
+      <div class="text-center d-none d-md-block" style="flex: 1;">
+          {% if pagination.href.previous and pagination.href.next %}
+              <span class="page-info text-secondary fw-bold small">Page {{ currentPage }} of {{ totalPages }}</span>
+          {% endif %}
+      </div>
+
+      <div class="text-end" style="flex: 1;">
+          {% if pagination.href.next %}
+              <a href="{{ pagination.href.next }}" class="btn-editorial-ghost">Older →</a>
+          {% else %}
+            {% if pagination.href.previous %}
+                <span class="page-info text-secondary fw-bold small">Page {{ currentPage }} of {{ totalPages }}</span>
+              {% endif %}
+          {% endif %}
+      </div>
+  </nav>
+{% endif %}
+
 </div>
