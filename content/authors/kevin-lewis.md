@@ -1,6 +1,6 @@
 ---
 name: Kevin Lewis
-affiliation:
+affiliation: "University of South Carolina"
 bio:
 social:
   - title: "website"

@@ -1,6 +1,6 @@
 ---
 name: Theodore W. Jennings
-affiliation:
+affiliation: "Chicago Theological Seminary"
 bio:
 social:
   - title: "website"

@@ -9,7 +9,7 @@ keywords:
   - altizer
   - thomas-j-j
 pdf: Dise.pdf
-sort_id:
+sort_id: 09
 volume: 19
 issue: 1
 season: winter

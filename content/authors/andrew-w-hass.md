@@ -1,6 +1,6 @@
 ---
-name: Neal Deroo
-affiliation: "The King’s University"
+name: "Andrew W. Hass"
+affiliation: "University of Sterling"
 bio:
 social:
   - title: "website"

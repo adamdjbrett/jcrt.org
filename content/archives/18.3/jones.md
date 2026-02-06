@@ -8,10 +8,10 @@ keywords:
   - doctrinal-theology
   - christian-apologetics
 pdf: Jones.pdf
-sort_id:
+sort_id: 04
 volume: 18
 issue: 3
-season: summer
+season: fall
 pages: 415-428
 ---
 

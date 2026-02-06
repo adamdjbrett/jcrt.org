@@ -1,6 +1,6 @@
 ---
 name: Cyril Hovorun
-affiliation:
+affiliation: "Loyola Marymount University"
 bio:
 social:
   - title: "website"

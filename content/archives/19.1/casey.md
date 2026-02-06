@@ -9,7 +9,7 @@ keywords:
   - thomas-j-j
   - transformative-learning
 pdf: Casey.pdf
-sort_id:
+sort_id: 17
 volume: 19
 issue: 1
 season: winter

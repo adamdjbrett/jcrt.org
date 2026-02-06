@@ -8,7 +8,7 @@ keywords:
   - political-theology
   - christology
 pdf: Hovorun.pdf
-sort_id:
+sort_id: 15
 volume: 18
 issue: 2
 season: spring

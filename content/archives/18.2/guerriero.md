@@ -8,7 +8,7 @@ keywords:
   - protestant-fundamentalism
   - relativity
 pdf: Guerriero.pdf
-sort_id:
+sort_id: 19
 volume: 18
 issue: 2
 season: spring

@@ -8,7 +8,7 @@ keywords:
   - prayers
   - death-of-god
 pdf: Graham.pdf
-sort_id:
+sort_id: 20
 volume: 18
 issue: 2
 season: spring

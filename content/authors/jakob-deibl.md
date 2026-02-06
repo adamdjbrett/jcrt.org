@@ -1,6 +1,6 @@
 ---
 name: Jakob Deibl
-affiliation:
+affiliation: "University of Vienna"
 bio:
 social:
   - title: "website"

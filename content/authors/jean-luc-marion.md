@@ -1,6 +1,6 @@
 ---
 name: Jean-Luc Marion
-affiliation:
+affiliation: "University of Chicago"
 bio:
 social:
   - title: "website"

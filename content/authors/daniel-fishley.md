@@ -1,6 +1,6 @@
 ---
 name: Daniel Fishley
-affiliation:
+affiliation: "Emmanuel College of Victoria University in the University of Toronto"
 bio:
 social:
   - title: "website"

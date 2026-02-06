@@ -1,6 +1,6 @@
 ---
 name: William Franke
-affiliation:
+affiliation: "Vanderbilt University"
 bio:
 social:
   - title: "website"

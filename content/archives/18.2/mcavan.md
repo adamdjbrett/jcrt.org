@@ -8,7 +8,7 @@ keywords:
   - theologians
   - revenge
 pdf: McAvan.pdf
-sort_id:
+sort_id: 09
 volume: 18
 issue: 2
 season: spring

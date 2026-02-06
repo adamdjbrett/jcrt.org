@@ -7,7 +7,7 @@ keywords:
   - theologians
   - minesweepers
 pdf: Rubenstein.pdf
-sort_id:
+sort_id: 15
 volume: 19
 issue: 1
 season: winter

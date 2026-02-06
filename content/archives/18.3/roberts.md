@@ -9,10 +9,10 @@ keywords:
   - grantmaking-foundations
   - scholarships
 pdf: Roberts.pdf
-sort_id:
+sort_id: 12
 volume: 18
 issue: 3
-season: summer
+season: fall
 pages: 526-535
 ---
 

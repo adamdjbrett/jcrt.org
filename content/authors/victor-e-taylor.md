@@ -1,6 +1,6 @@
 ---
 name: Victor E Taylor
-affiliation: "South Dakota State University"
+affiliation: "South Dakota State University, York College of Pennsylvania "
 bio:
 social:
   - title: "website"

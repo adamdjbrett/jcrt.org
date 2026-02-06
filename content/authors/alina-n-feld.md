@@ -1,6 +1,6 @@
 ---
 name: Alina N. Feld
-affiliation:
+affiliation: "Hofstra University"
 bio:
 social:
   - title: "website"

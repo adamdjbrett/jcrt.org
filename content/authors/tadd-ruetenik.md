@@ -1,6 +1,6 @@
 ---
 name: Tadd Ruetenik
-affiliation:
+affiliation: "St. Ambrose University"
 bio:
 social:
   - title: "website"

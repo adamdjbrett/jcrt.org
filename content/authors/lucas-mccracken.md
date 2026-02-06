@@ -1,6 +1,6 @@
 ---
 name: Lucas Mccracken
-affiliation:
+affiliation: "University of California at Santa Barbara"
 bio:
 social:
   - title: "website"

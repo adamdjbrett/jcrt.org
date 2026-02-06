@@ -12,7 +12,7 @@ pdf:
 sort_id:
 volume: 18
 issue: 3
-season: summer
+season: fall
 pages: 536-550
 ---
 

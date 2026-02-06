@@ -1,6 +1,6 @@
 ---
 name: Richard L. Rubenstein
-affiliation:
+affiliation: "University of Bridgeport"
 bio:
 social:
   - title: "website"

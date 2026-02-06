@@ -8,7 +8,7 @@ keywords:
   - biblical-hermeneutics
   - old-testament
 pdf: Lewis.pdf
-sort_id:
+sort_id: 14
 volume: 18
 issue: 2
 season: spring

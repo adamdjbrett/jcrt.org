@@ -82,7 +82,13 @@ Total:         48s → ~10s
 - TODO archives 22.1 files dont look right at all, bios.md missing, none of the articles match the live site
 - archives 21.3, 21.2, 21.1,20.3 done
 - TODO archives 20.2 has four authors, none are given affiliations, none have cards in /authors
-- archives 20.1, 19.3, complete
+- archives 20.1, 19.3, 19.2, 19.1, 18.3 complete
+- TODO archives 18.2 "Speaking God’s Presence and Absence as Non-Contrastive Transcendent Distinction
+Joyce Ann Konigsburg" is listed but has no files, would be sort_id: 08
+- TODO archvives 18.2 "Religious Studies and Comparative Theology:
+An Appraisal Joshua Samuel, Union Theological Seminary" is listed but has no files, would be sort_id: 12
+- archives 18.2 done
+
 
 
 

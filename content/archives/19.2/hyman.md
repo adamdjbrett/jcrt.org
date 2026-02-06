@@ -9,7 +9,7 @@ keywords:
   - gillian
   - rose
 pdf: Hyman.pdf
-sort_id:
+sort_id: 05
 volume: 19
 issue: 2
 season: spring

@@ -10,7 +10,7 @@ keywords:
   - lindbeck
   - psychoanalysis
 pdf: Murphy.pdf
-sort_id:
+sort_id: 10
 volume: 19
 issue: 2
 season: spring

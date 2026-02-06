@@ -9,10 +9,10 @@ keywords:
   - edwards
   - jonathan
 pdf: Ruetenik.pdf
-sort_id:
+sort_id: 14
 volume: 18
 issue: 3
-season: summer
+season: fall
 pages: 551-562
 ---
 

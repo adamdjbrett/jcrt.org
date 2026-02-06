@@ -9,7 +9,7 @@ keywords:
   - altizer
   - thomas-j-j
 pdf: Feld.pdf
-sort_id:
+sort_id: 12
 volume: 19
 issue: 1
 season: winter

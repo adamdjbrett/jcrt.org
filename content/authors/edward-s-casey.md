@@ -1,6 +1,6 @@
 ---
-name: Edward S. Casey
-affiliation:
+name: Edward S. Casey 
+affiliation: "Stony Brook University"
 bio:
 social:
   - title: "website"
