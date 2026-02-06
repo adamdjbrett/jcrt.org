@@ -1,4 +1,4 @@
-<button id="menu-toggle-btn" class="menu-toggle-editorial" aria-label="Toggle Menu">
+<button id="menu-toggle-btn" class="menu-toggle-editorial">
     <i class="fas fa-bars"></i>
 </button>
 
@@ -22,7 +22,7 @@
 <ul class="nav-editorial">
   {% for n in metadata.sidebar.menu.list %}
     <li class="nav-item-editorial">
-      <a href="{{n.url}}">{{n.nav}}</a>
+      <a href="{{n.url}}" class="border-bottom">{{n.nav}}</a>
     </li>
   {% endfor %}
 </ul>

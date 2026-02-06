@@ -123,3 +123,9 @@ belong to the previous footnote.
 9. ensure all authors have an author page with affiliation - create and automate like we did for journal-thenewpolis
 author pages should have as front matter: name, affiliation, orcid, bio, show all /archives, /blogs, /religioustheory with headers listed below bio and orcid - DONE
 
++ increase the size of the menu hamburger to be more like editorial.ghost.io - DONE
++ navigational bar with pagination for /archives/, /religioustheory/ like you see on https://editorial.ghost.io look for Page 1 to see it /content/religioustheory - DONE
++ /content/religious theory homepage should look visually the same as /content/. - DONE
++ what is the best way to set the metadata values for religioustheory homepage? - Auto Fetch Data title from content json from _data/theory_archive.json , the home page title description is on religioustheory/index.njk
++ Religious theory should show recent posts with images like https://editorial.ghost.io - DONE
++ there should be a /tags/ and /categories/ pages that show all tags and categories using <detail> and <summary> to make the accordion - done on /religioustheory/taxonomy/ , or /religioustheory/categories/

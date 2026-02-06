@@ -34,7 +34,17 @@ export default function(eleventyConfig) {
             String(a ?? "").localeCompare(String(b ?? ""))
         )
     );
+eleventyConfig.addFilter("validImage", function(imgUrl, fallback) {
+    if (!imgUrl || imgUrl === "" || imgUrl === "null" || imgUrl === undefined) {
+        return fallback;
+    }
+    return imgUrl;
+});
 
+eleventyConfig.addFilter("unique", function(array) {
+    if (!Array.isArray(array)) return [];
+    return [...new Set(array)];
+});
     // --- Custom Business Logic Filters ---
     eleventyConfig.addFilter("filterByTag", (collection, tag) => {
         if (!tag || !collection) return collection;
@@ -74,6 +84,38 @@ eleventyConfig.addFilter("isoDate", (dateObj) => {
   });
   eleventyConfig.addFilter("currentYear", () => DateTime.now().toFormat("yyyy"));
 
+eleventyConfig.addFilter("categoryTheory", function(posts) {
+    let catSet = new Set();
+    if (!Array.isArray(posts)) return [];
+    
+    posts.forEach(post => {
+        if (post.categories && Array.isArray(post.categories)) {
+            post.categories.forEach(cat => catSet.add(cat));
+        }
+    });
+    return Array.from(catSet);
+});
+eleventyConfig.addFilter("tagTheory", function(posts) {
+    let tagSet = new Set();
+    if (!Array.isArray(posts)) return [];
+    
+    posts.forEach(post => {
+        if (post.tags && Array.isArray(post.tags)) {
+            post.tags.forEach(tag => tagSet.add(tag));
+        }
+    });
+    return Array.from(tagSet);
+});
+
+eleventyConfig.addFilter("hasTagTheory", function(postTags, targetTag) {
+    if (!Array.isArray(postTags)) return false;
+    return postTags.includes(targetTag);
+});
+
+eleventyConfig.addFilter("hasCategoryTheory", function(postCategories, targetCategory) {
+    if (!Array.isArray(postCategories)) return false;
+    return postCategories.includes(targetCategory);
+});
 eleventyConfig.addCollection("issueList", function(collectionApi) {
     const allEntries = collectionApi.getAll();
     const issues = [];

@@ -26,7 +26,7 @@ layout: base.njk
           {% endif %}
           
           {% if pdfUrl %}
-            <a href="{{ pdfUrl }}" class="btn btn-sm btn-outline-danger px-3 shadow-sm" target="_blank">
+            <a href="{{ pdfUrl }}" class="btn  btn-pink px-3 shadow-sm" target="_blank">
               <i class="bi bi-file-earmark-pdf"></i> Download PDF
             </a>
           {% endif %}
@@ -40,12 +40,50 @@ layout: base.njk
       </section>
       {% endif %}
 
-      <div class="article-body serif lh-lg" style="font-size: 1.15rem; text-align: justify;">
-       <div class="p-3 bg-light">
-        {{ content | toc | safe }}
-       </div>       
-        {{ jsonEntry.content | markdownify | safe if jsonEntry.content else content | safe }}
-      </div>
+      <div class="article-body serif lh-lg" style="font-size: 1.15rem; text-align: justify;">   
+    {% set finalHTML = jsonEntry.content | markdownify if jsonEntry.content else content %}
+    <div id="custom-toc-container" class="p-3 bg-light mb-4 d-none">
+        <h4 class="h6 text-uppercase fw-bold border-bottom pb-2">Table of Contents</h4>
+        <ul id="toc-list" class="list-unstyled mb-0" style="font-size: 0.95rem;"></ul>
+    </div>
+
+    <div id="article-content">
+        {{ finalHTML | safe }}
+    </div>
+</div>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const content = document.getElementById('article-content');
+    const tocList = document.getElementById('toc-list');
+    const tocContainer = document.getElementById('custom-toc-container');
+    
+    const headings = content.querySelectorAll('h2, h3');
+    
+    if (headings.length > 0) {
+        tocContainer.classList.remove('d-none');       
+        headings.forEach((heading, index) => {
+            if (!heading.id) {
+                heading.id = 'section-' + index;
+            }
+            const li = document.createElement('li');
+            li.className = heading.tagName === 'H3' ? 'ms-3 my-1' : 'my-1';
+            const a = document.createElement('a');
+            a.href = '#' + heading.id;
+            a.textContent = heading.textContent;
+            a.className = 'text-decoration-none text-primary hover-underline';
+            
+            li.appendChild(a);
+            tocList.appendChild(li);
+        });
+    }
+});
+</script>
+
+<style>
+.hover-underline:hover { text-decoration: underline !important; }
+#toc-list li a { color: #333; transition: color 0.2s; }
+#toc-list li a:hover { color: #f56a6a; }
+</style>
 
       {% if tags.length > 0 %}
       <footer class="mt-5 pt-3 border-top">
