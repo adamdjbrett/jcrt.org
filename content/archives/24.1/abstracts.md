@@ -1,4 +1,6 @@
 ---
+title: Abstracts
+author: editors
 affilation:
 abstract:
 keywords: []

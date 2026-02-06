@@ -1,6 +1,6 @@
 ---
 title: Author Bios
-author:
+author: editors
 affilation:
 abstract:
 keywords: []

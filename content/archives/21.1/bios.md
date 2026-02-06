@@ -1,4 +1,5 @@
 ---
+author: editors
 title: Author Bios
 affilation:
 abstract:
