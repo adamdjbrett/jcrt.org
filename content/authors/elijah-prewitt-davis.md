@@ -1,6 +1,6 @@
 ---
 name: Elijah Prewitt-Davis
-affiliation:
+affiliation: "Mount St. Joseph University"
 bio:
 social:
   - title: "website"

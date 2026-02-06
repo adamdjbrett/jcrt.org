@@ -1,6 +1,6 @@
 ---
 name: Agata Bielik-Robson
-affiliation:
+affiliation: "University of Nottingham"
 bio:
 social:
   - title: "website"

@@ -21,10 +21,10 @@ keywords:
   - protestantism
   - middle-ages
 pdf: Johnson.pdf
-sort_id:
+sort_id: 05
 volume: 23
 issue: 1
-season: winter
+season: spring
 pages: 27-38
 ---
 

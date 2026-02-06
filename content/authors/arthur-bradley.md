@@ -1,6 +1,6 @@
 ---
 name: Arthur Bradley
-affiliation:
+affiliation: "Lancaster University"
 bio:
 social:
   - title: "website"

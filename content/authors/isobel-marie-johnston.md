@@ -1,6 +1,6 @@
 ---
 name: Isobel-Marie Johnston
-affiliation:
+affiliation: " Arizona State University"
 bio:
 social:
   - title: "website"

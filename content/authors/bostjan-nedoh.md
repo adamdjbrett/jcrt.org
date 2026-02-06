@@ -1,6 +1,6 @@
 ---
 name: Boštjan Nedoh
-affiliation:
+affiliation: "Slovenian Academy of Sciences and Arts"
 bio:
 social:
   - title: "website"

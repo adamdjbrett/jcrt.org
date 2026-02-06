@@ -13,10 +13,10 @@ keywords:
   - sikh-religious-practice
   - sikhism-sacred-books
 pdf: Kaur.pdf
-sort_id:
+sort_id: 06
 volume: 23
 issue: 1
-season: winter
+season: spring
 pages: 39-64
 ---
 

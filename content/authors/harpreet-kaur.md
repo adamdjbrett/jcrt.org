@@ -1,6 +1,6 @@
 ---
 name: Harpreet Kaur
-affiliation:
+affiliation: "University of Maryland"
 bio:
 social:
   - title: "website"

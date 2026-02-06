@@ -17,10 +17,10 @@ keywords:
   - technology-philosophy
   - technology-and-civilization
 pdf: Massaro.pdf
-sort_id:
+sort_id: 07
 volume: 23
 issue: 1
-season: winter
+season: spring
 pages: 65-73
 ---
 

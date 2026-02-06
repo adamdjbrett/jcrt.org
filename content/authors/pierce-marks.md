@@ -1,6 +1,6 @@
 ---
 name: Pierce Marks
-affiliation:
+affiliation: "Southern New Hampshire University"
 bio:
 social:
   - title: "website"

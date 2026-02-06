@@ -5,10 +5,10 @@ affilation:
 abstract:
 keywords: []
 pdf: Arnold.pdf
-sort_id:
+sort_id: 02
 volume: 23
 issue: 2
-season: spring
+season: winter
 pages: 132-139
 ---
 

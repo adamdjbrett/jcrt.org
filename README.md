@@ -75,6 +75,15 @@ Total:         48s → ~10s
 - [andrew - older but still good css](https://andrewbanchich.github.io/editorial-jekyll-theme/)
 
 ## Changelog - Crow
+## Crowcodes
+- TODO error: archive 24.1 XIAOQIAN ZHANG does not have files anywhere
+- archives 24.1 23.2 23.1 done
+- archives 22.2 done
+- archives 22.1 files dont look right at all, bios.md missing, none of the articles match the live site
+- archives 21.3 done
+
+
+
 ## Controlled vocabulary
 1. archives = content/archives - DONE
 2. each folder in content/archives is named number.number. left of the decimal is volume. right of the decimal is issue. so 01.1 is volume 1 issue 1. - DONE

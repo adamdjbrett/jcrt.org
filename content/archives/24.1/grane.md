@@ -5,10 +5,10 @@ affilation:
 abstract:
 keywords: []
 pdf: Grane.pdf
-sort_id:
+sort_id: 07
 volume: 24
 issue: 1
-season: winter
+season: summer
 pages: 83-102
 ---
 

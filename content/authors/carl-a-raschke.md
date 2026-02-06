@@ -1,6 +1,6 @@
 ---
 name: Carl A. Raschke
-affiliation:
+affiliation: "University of Denver"
 bio:
 social:
   - title: "website"

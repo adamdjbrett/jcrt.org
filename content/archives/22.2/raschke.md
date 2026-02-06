@@ -19,10 +19,10 @@ keywords:
   - privatization
   - public-opinion
 pdf: Raschke.pdf
-sort_id:
+sort_id: 06
 volume: 22
 issue: 2
-season: spring
+season: fall
 pages: 253-268
 ---
 

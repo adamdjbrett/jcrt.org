@@ -5,10 +5,10 @@ affilation:
 abstract:
 keywords: []
 pdf: Godazgar.pdf
-sort_id:
+sort_id: 05
 volume: 24
 issue: 1
-season: winter
+season: summer
 pages: 37-74
 ---
 

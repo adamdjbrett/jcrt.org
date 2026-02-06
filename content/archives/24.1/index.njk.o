@@ -1,11 +1,10 @@
 ---
 volume: 24
-issue: 1 
-season: summer
-title: "Special Issue on Religion and Bioethics - Table of Contents"
-description: "The following issue has resulted from a conference in the fall of 2024.  The conference was sponsored by the journal in collaboration with the University of Denver."
+issue: 1
+season: summer test  cc
+title: Table of Contents
+description:
 image: /img/boxes.jpg
-
 ---
 
 {% set current_dir = page.inputPath | replace('/index.njk', '/') %}

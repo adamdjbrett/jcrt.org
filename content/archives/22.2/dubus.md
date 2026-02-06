@@ -5,10 +5,10 @@ affilation:
 abstract: 
 keywords: []
 pdf: Dubus.pdf
-sort_id:
+sort_id: 08
 volume: 22
 issue: 2
-season: spring
+season: fall
 pages:
 ---
 

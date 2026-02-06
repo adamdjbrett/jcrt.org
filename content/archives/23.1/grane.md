@@ -7,10 +7,10 @@ keywords:
   - faith
   - sympathy
 pdf: Grane.pdf
-sort_id:
+sort_id: 03
 volume: 23
 issue: 1
-season: winter
+season: spring
 pages: 10-17
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: Nisha Daga
-affiliation:
+affiliation: "Indian Institute of Technology"
 bio:
 social:
   - title: "website"

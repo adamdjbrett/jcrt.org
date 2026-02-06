@@ -8,10 +8,10 @@ keywords:
   - ethnohistory
   - lamanites-mormon-doctrine
 pdf: Simon.pdf
-sort_id:
+sort_id: 05
 volume: 21
 issue: 3
-season: summer
+season: fall
 pages: 348-382
 ---
 

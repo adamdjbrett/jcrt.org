@@ -1,6 +1,6 @@
 ---
 name: Gabriel Thomas Gustav Byng
-affiliation:
+affiliation: "University of Vienna"
 bio:
 social:
   - title: "website"

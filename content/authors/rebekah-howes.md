@@ -1,6 +1,6 @@
 ---
 name: Rebekah Howes
-affiliation:
+affiliation: "University of Winchester"
 bio:
 social:
   - title: "website"

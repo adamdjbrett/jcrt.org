@@ -1,6 +1,6 @@
 ---
 name: Catherine Keller
-affiliation:
+affiliation: "Drew University"
 bio:
 social:
   - title: "website"

@@ -1,6 +1,6 @@
 ---
 name: Kevin Hujing
-affiliation:
+affiliation: "Metropolitan State University of Denver"
 bio:
 social:
   - title: "website"

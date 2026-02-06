@@ -1,6 +1,6 @@
 ---
 name: Niall Gildea
-affiliation:
+affiliation: "Lancaster University"
 bio:
 social:
   - title: "website"

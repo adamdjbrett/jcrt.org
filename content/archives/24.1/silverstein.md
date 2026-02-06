@@ -5,10 +5,10 @@ affilation:
 abstract:
 keywords: []
 pdf: Silverstein.pdf
-sort_id:
+sort_id: 12
 volume: 24
 issue: 1
-season: winter
+season: summer
 pages: 156-186
 ---
 

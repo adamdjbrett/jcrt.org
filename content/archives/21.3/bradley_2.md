@@ -11,7 +11,7 @@ pdf: Bradley2.pdf
 sort_id:
 volume: 21
 issue: 3
-season: summer
+season: fall
 pages: 415-417
 ---
 

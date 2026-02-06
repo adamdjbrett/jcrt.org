@@ -15,10 +15,10 @@ keywords:
   - extinction-biology
   - human-beings-relation-to-nature
 pdf: Keller.pdf
-sort_id:
+sort_id: 05
 volume: 22
 issue: 2
-season: spring
+season: fall
 pages: 230-252
 ---
 

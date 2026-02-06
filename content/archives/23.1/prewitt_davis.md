@@ -19,10 +19,10 @@ keywords:
   - solar-energy
   - women-religious-life
 pdf: Prewitt-Davis.pdf
-sort_id:
+sort_id: 12
 volume: 23
 issue: 1
-season: winter
+season: spring
 pages: 123-131
 ---
 

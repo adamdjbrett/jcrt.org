@@ -8,10 +8,10 @@ keywords:
   - healing
   - turkey
 pdf: Sendag.pdf
-sort_id:
+sort_id: 06
 volume: 23
 issue: 2
-season: spring
+season: winter
 pages: 195-215
 ---
 

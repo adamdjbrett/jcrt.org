@@ -1,6 +1,6 @@
 ---
 name: Yaron Silverstein
-affiliation:
+affiliation: "Hemdat Academic College"
 bio:
 social:
   - title: "website"

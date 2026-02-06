@@ -1,6 +1,6 @@
 ---
 name: Andrew Stone Porter
-affiliation:
+affiliation: "Bellarmine University"
 bio:
 social:
   - title: "website"

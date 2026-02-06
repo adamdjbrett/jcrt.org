@@ -5,10 +5,10 @@ affilation:
 abstract:
 keywords: []
 pdf: Raschke.pdf
-sort_id:
+sort_id: 05
 volume: 23
 issue: 2
-season: spring
+season: winter
 pages: 175-195
 ---
 
