@@ -1,6 +1,6 @@
 ---
 name: Madeleine Taylor
-affiliation:
+affiliation: "Binghamton University"
 bio:
 social:
   - title: "website"

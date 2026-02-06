@@ -10,7 +10,7 @@ pdf:
 sort_id:
 volume: 22
 issue: 1
-season: winter
+season: fall
 pages: 113-134
 ---
 

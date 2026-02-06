@@ -8,10 +8,10 @@ keywords:
   - wisdom
   - philosophy
 pdf: Meganck.pdf
-sort_id:
+sort_id: 03
 volume: 21
 issue: 3
-season: summer
+season: fall
 pages: 306-328
 ---
 

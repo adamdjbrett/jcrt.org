@@ -1,6 +1,6 @@
 ---
 name: Erik Meganck
-affiliation:
+affiliation: "FVG Antwerp"
 bio:
 social:
   - title: "website"

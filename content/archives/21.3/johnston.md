@@ -8,10 +8,10 @@ keywords:
   - human-sexuality
   - menstruation
 pdf: Johnston.pdf
-sort_id:
+sort_id: 02
 volume: 21
 issue: 3
-season: summer
+season: fall
 pages: 272-305
 ---
 

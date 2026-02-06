@@ -1,6 +1,6 @@
 ---
 name: Hemopereki Simon
-affiliation:
+affiliation: "University of Kent"
 bio:
 social:
   - title: "website"

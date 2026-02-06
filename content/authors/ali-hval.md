@@ -1,6 +1,6 @@
 ---
 name: Ali Hval
-affiliation:
+affiliation: "University of Iowa"
 bio:
 social:
   - title: "website"

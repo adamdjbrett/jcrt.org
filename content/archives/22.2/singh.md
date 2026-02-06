@@ -23,10 +23,10 @@ keywords:
   - social
   - subaltern-studies-collective
 pdf: Singh.pdf
-sort_id:
+sort_id: 07
 volume: 22
 issue: 2
-season: spring
+season: fall
 pages: 269-295
 ---
 

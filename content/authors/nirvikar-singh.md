@@ -1,6 +1,6 @@
 ---
 name: Nirvikar Singh
-affiliation:
+affiliation: "University of California, Santa Cruz"
 bio:
 social:
   - title: "website"

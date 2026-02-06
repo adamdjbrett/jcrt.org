@@ -1,6 +1,6 @@
 ---
 name: Joshua M Hall
-affiliation:
+affiliation: "University of Alabama at Birmingham"
 bio:
 social:
   - title: "website"

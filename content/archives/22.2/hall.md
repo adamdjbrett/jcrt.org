@@ -26,10 +26,10 @@ keywords:
   - vodou
   - yanomamo-south-american-people
 pdf: Hall.pdf
-sort_id:
+sort_id: 03
 volume: 22
 issue: 2
-season: spring
+season: fall
 pages: 185-207
 ---
 

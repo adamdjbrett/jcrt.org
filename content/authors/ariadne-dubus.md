@@ -1,6 +1,6 @@
 ---
 name: Ariadne Dubus
-affiliation:
+affiliation: "Binghamton University"
 bio:
 social:
   - title: "website"
