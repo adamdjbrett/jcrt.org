@@ -1,6 +1,6 @@
 ---
 name: George Quasha
-affiliation:
+affiliation: "Barrytown, New York"
 bio:
 social:
   - title: "website"

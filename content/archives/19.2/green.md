@@ -9,7 +9,7 @@ keywords:
   - indigenous-ethnic-identity
   - commodification
 pdf: Green.pdf
-sort_id:
+sort_id: 02
 volume: 19
 issue: 2
 season: spring

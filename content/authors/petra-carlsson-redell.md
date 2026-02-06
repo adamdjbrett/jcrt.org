@@ -1,6 +1,6 @@
 ---
 name: Petra Carlsson Redell
-affiliation:
+affiliation: "Stockholm School of Theology "
 bio:
 social:
   - title: "website"

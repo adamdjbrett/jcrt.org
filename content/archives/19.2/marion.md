@@ -8,7 +8,7 @@ keywords:
   - faith-christianity
   - proof-of-god
 pdf: Marion.pdf
-sort_id:
+sort_id: 07
 volume: 19
 issue: 2
 season: spring

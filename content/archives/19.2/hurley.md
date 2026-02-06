@@ -9,7 +9,7 @@ keywords:
   - horror-tales
   - the-book
 pdf: Hurley.pdf
-sort_id:
+sort_id: 04
 volume: 19
 issue: 2
 season: spring

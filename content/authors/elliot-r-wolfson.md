@@ -1,6 +1,6 @@
 ---
 name: Elliot R. Wolfson
-affiliation:
+affiliation: "University of California at Santa Barbara "
 bio:
 social:
   - title: "website"

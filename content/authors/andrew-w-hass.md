@@ -1,6 +1,6 @@
 ---
-name: Paul Maltby
-affiliation: "West Chester University"
+name: "Andrew W. Hass"
+affiliation: "University of Sterling"
 bio:
 social:
   - title: "website"

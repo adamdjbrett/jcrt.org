@@ -10,7 +10,7 @@ keywords:
   - christian-fiction
   - georges
 pdf: Maltby.pdf
-sort_id:
+sort_id: 06
 volume: 19
 issue: 2
 season: spring

@@ -9,7 +9,7 @@ keywords:
   - gerald
   - vizenor
 pdf: Tinker.pdf
-sort_id:
+sort_id: 12
 volume: 19
 issue: 2
 season: spring

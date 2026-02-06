@@ -10,7 +10,7 @@ keywords:
   - thomas-j-j
   - buddhism
 pdf: Schroeder.pdf
-sort_id:
+sort_id: 07
 volume: 19
 issue: 1
 season: winter

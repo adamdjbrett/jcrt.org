@@ -1,6 +1,6 @@
 ---
 name: John B. Cobb Jr.
-affiliation:
+affiliation: "Claremont School of Theology"
 bio:
 social:
   - title: "website"

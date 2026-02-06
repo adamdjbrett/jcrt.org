@@ -1,6 +1,6 @@
 ---
 name: Lissa McCullough
-affiliation:
+affiliation: "California State University at Dominguez Hills"
 bio:
 social:
   - title: "website"
