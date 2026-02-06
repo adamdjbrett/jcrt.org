@@ -1,6 +1,6 @@
 ---
 name: Victor E Taylor
-affiliation:
+affiliation: "South Dakota State University"
 bio:
 social:
   - title: "website"

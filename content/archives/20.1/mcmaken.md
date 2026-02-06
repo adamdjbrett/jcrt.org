@@ -9,7 +9,7 @@ keywords:
   - contextualism-philosophy
   - dietrich
 pdf: McMaken.pdf
-sort_id:
+sort_id: 07
 volume: 20
 issue: 1
 season: winter

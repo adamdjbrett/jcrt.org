@@ -1,6 +1,6 @@
 ---
 name: W. Travis Mcmaken
-affiliation:
+affiliation: "Lindenwood Uniiversity"
 bio:
 social:
   - title: "website"

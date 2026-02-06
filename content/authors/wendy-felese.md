@@ -1,6 +1,6 @@
 ---
 name: Wendy Felese
-affiliation:
+affiliation: "Regis University"
 bio:
 social:
   - title: "website"

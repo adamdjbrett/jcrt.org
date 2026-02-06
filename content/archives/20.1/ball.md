@@ -10,7 +10,7 @@ keywords:
   - public-sphere
   - s-ren
 pdf: Ball.pdf
-sort_id:
+sort_id: 02
 volume: 20
 issue: 1
 season: winter

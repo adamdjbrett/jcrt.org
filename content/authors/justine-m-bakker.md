@@ -1,6 +1,6 @@
 ---
 name: Justine M. Bakker
-affiliation:
+affiliation: "Radboud University Nijmegen"
 bio:
 social:
   - title: "website"

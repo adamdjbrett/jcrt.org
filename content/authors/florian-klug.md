@@ -1,6 +1,6 @@
 ---
 name: Florian Klug
-affiliation:
+affiliation: "University of Würzburg"
 bio:
 social:
   - title: "website"

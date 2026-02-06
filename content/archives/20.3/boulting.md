@@ -10,10 +10,10 @@ keywords:
   - intentionalism-aesthetics
   - platonists
 pdf: Boulting.pdf
-sort_id:
+sort_id: 02
 volume: 20
 issue: 3
-season: summer
+season: fall
 pages: 302-317
 ---
 

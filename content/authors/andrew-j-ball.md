@@ -1,6 +1,6 @@
 ---
 name: Andrew J. Ball
-affiliation:
+affiliation: "Harvard University"
 bio:
 social:
   - title: "website"

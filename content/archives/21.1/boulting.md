@@ -9,7 +9,7 @@ keywords:
   - simone
   - weil
 pdf: Boulting.pdf
-sort_id:
+sort_id: 03
 volume: 21
 issue: 1
 season: winter

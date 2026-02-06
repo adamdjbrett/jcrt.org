@@ -7,10 +7,10 @@ keywords:
   - theology
   - truth
 pdf: Klug.pdf
-sort_id:
+sort_id: 07
 volume: 20
 issue: 3
-season: summer
+season: fall
 pages: 401-412
 ---
 

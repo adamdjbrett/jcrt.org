@@ -1,6 +1,6 @@
 ---
 name: A. G. Holdier
-affiliation:
+affiliation: "University of Arkansas"
 bio:
 social:
   - title: "website"

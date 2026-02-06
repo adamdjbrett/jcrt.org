@@ -1,6 +1,6 @@
 ---
 name: Yael Almog
-affiliation:
+affiliation: "Durham University"
 bio:
 social:
   - title: "website"

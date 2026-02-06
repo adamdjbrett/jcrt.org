@@ -10,7 +10,7 @@ keywords:
   - history-of-religion
   - native-american-religion
 pdf: Arnold.pdf
-sort_id:
+sort_id: 05
 volume: 21
 issue: 2
 season: spring

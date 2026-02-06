@@ -1,6 +1,6 @@
 ---
 name: Kelly Maeshiro
-affiliation:
+affiliation: "Union Theological Seminary"
 bio:
 social:
   - title: "website"

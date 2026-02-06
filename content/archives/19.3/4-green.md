@@ -17,10 +17,10 @@ keywords:
   - interdisciplinary-study
   - philosophy-methodology
 pdf: 4-Green.pdf
-sort_id:
+sort_id: 05
 volume: 19
 issue: 3
-season: summer
+season: fall
 pages: 413-427
 ---
 

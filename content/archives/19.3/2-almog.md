@@ -8,10 +8,10 @@ keywords:
   - self-consciousness-awareness
   - walter-benjamin-a-critical-life-book
 pdf: 2-Almog.pdf
-sort_id:
+sort_id: 03
 volume: 19
 issue: 3
-season: summer
+season: fall
 pages: 393-403
 ---
 

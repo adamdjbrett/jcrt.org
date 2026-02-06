@@ -17,10 +17,10 @@ keywords:
   - spiritual-exercises
   - religious-thought
 pdf: 1-Britt.pdf
-sort_id:
+sort_id: 02
 volume: 19
 issue: 3
-season: summer
+season: fall
 pages: 404-412
 ---
 

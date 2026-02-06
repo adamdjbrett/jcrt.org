@@ -1,6 +1,6 @@
 ---
 name: John Cuda
-affiliation:
+affiliation: "Lincoln University"
 bio:
 social:
   - title: "website"

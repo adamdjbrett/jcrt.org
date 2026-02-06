@@ -1,6 +1,6 @@
 ---
 name: Jerry Burkette
-affiliation:
+affiliation: "Virginia Tech University"
 bio:
 social:
   - title: "website"

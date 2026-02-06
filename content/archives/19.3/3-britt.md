@@ -1,15 +1,15 @@
 ---
-title:
-author:
+title: "Benjamin’s Habits and the Study of Religion"
+author: "Brian Britt"
 affilation:
 abstract:
 keywords: []
 pdf: 3-Britt.pdf
-sort_id:
+sort_id: 04
 volume: 19
 issue: 3
-season: summer
-pages:
+season: fall
+pages: 404-412
 ---
 
 ---

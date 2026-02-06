@@ -1,6 +1,6 @@
 ---
 name: David Kline
-affiliation:
+affiliation: "University of Tennessee"
 bio:
 social:
   - title: "website"

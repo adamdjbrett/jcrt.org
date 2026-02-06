@@ -1,6 +1,6 @@
 ---
 name: James E. Willis Iii
-affiliation:
+affiliation: "University of Indiapolis"
 bio:
 social:
   - title: "website"

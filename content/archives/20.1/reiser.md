@@ -8,7 +8,7 @@ keywords:
   - human-life-cycle
   - life-of-pi-book-martel
 pdf: Reiser.pdf
-sort_id:
+sort_id: 08
 volume: 20
 issue: 1
 season: winter

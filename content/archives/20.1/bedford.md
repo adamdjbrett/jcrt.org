@@ -10,7 +10,7 @@ keywords:
   - derrida
   - sensory-perception
 pdf: Bedford.pdf
-sort_id:
+sort_id: 03
 volume: 20
 issue: 1
 season: winter
