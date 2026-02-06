@@ -52,19 +52,22 @@ sidebar:
       - nav: Contact
         url: /
   info: 
-    title: The New Polis
-    list: 
-      - image: "/img/tnp.png"
-        text: "The New Polis is an online publication dedicated to critical theory, social analysis, and political philosophy and theology."
-        url: "https://thenewpolis.com/"
-      - image: "/img/tnpj.png"
-        text: "The New Polis Journal is a peer-reviewed academic journal publishing cutting-edge work in political philosophy, social theory, and related fields."
-        url: "https://journal.thenewpolis.com/"
-      - image: "/img/esthesis.png"
-        text: "Esthesis is an electronic magazine (“e-mag”) that publishes thoughtful, innovative, sometimes provocative, and even quirky articles on the arts and contemporary ideas and culture.  Esthesis draws on a variety of contributors, including artists and academics as well as community, business, and thought leaders.  Esthesis also explores certain unexplored dimensions of consumer trends and the world of fashion and advertising."
-        url: "https://esthesis.org/"
+    sections:
+      - title: The New Polis
+        list: 
+          - image: "/img/tnp.png"
+            text: "The New Polis is an online publication dedicated to critical theory, social analysis, and political philosophy and theology."
+            url: "https://thenewpolis.com/"
+          - image: "/img/tnpj.png"
+            text: "The New Polis Journal is a peer-reviewed academic journal publishing cutting-edge work in political philosophy, social theory, and related fields."
+            url: "https://journal.thenewpolis.com/"
+      - title: Esthesis
+        list: 
+          - image: "/img/esthesis.png"
+            text: "Esthesis is an electronic magazine (“e-mag”) that publishes thoughtful, innovative, sometimes provocative, and even quirky articles on the arts and contemporary ideas and culture.  Esthesis draws on a variety of contributors, including artists and academics as well as community, business, and thought leaders.  Esthesis also explores certain unexplored dimensions of consumer trends and the world of fashion and advertising."
+            url: "https://esthesis.org/"
     button: 
-        text: Whitestone
+        text: Whitestone Foundation
         url: https://thewhitestonefoundation.org
   contact: 
     title: Get in touch
