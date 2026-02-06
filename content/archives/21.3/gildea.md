@@ -23,3 +23,12 @@ issue: 3
 season: summer
 pages: 418-421
 ---
+
+---
+
+---
+
+---
+
+---
+

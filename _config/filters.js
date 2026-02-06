@@ -12,8 +12,6 @@ export default function(eleventyConfig) {
         return DateTime.fromJSDate(new Date(dateObj), { zone: "utc" }).toFormat('yyyy-LL-dd');
     });
     
-    // --- Collection & Array Filters ---
-    // Gunakan optional chaining (?.) agar tidak crash jika array kosong
     eleventyConfig.addNunjucksFilter("limit", (arr, limit) => (arr || []).slice(0, limit));
 
     eleventyConfig.addFilter("head", (array, n) => {
@@ -45,7 +43,14 @@ export default function(eleventyConfig) {
             return Array.isArray(tags) ? tags.includes(tag) : tags === tag;
         });
     });
+eleventyConfig.addFilter("lastModifiedDate", (dateObj) => {
+  const date = new Date(dateObj);
+  if (isNaN(date.getTime())) {
+    return new Date().toISOString();
+  }
 
+  return date.toISOString();
+});
 eleventyConfig.addCollection("religioustheory", function(collectionApi) {
   return collectionApi.getFilteredByGlob("content/religioustheory/**/*")
     .filter(item => {
@@ -69,5 +74,51 @@ eleventyConfig.addFilter("isoDate", (dateObj) => {
   });
   eleventyConfig.addFilter("currentYear", () => DateTime.now().toFormat("yyyy"));
 
+eleventyConfig.addCollection("issueList", function(collectionApi) {
+    const allEntries = collectionApi.getAll();
+    const issues = [];
+    const archivePath = "/archives/"; 
+
+    allEntries.forEach(entry => {
+        if (entry.inputPath.includes(archivePath) && entry.inputPath.endsWith('/index.njk')) {
+            const parts = entry.inputPath.split('/');
+            if (parts.length > 3) { 
+                const season = String(entry.data.season || "0").padStart(3, '0');
+                const issue = String(entry.data.issue || "0").padStart(3, '0');
+                issues.push({
+                    entry: entry,
+                    sortKey: `${season}.${issue}`
+                });
+            }
+        }
+    });
+
+    return issues.sort((a, b) => b.sortKey.localeCompare(a.sortKey));
+});
+
+eleventyConfig.addCollection("onlyIssues", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("content/archives/**/index.njk").sort((a, b) => {
+        const aKey = `${String(a.data.season).padStart(3, '0')}.${String(a.data.issue).padStart(3, '0')}`;
+        const bKey = `${String(b.data.season).padStart(3, '0')}.${String(b.data.issue).padStart(3, '0')}`;
+        return bKey.localeCompare(aKey);
+    });
+});
+eleventyConfig.addCollection("archivesSorted", function(collectionApi) {
+  const items = collectionApi.getFilteredByGlob("content/archives/**/*.md");
+  
+  console.log(`🔍 Debug: Found ${items.length} files in archives`);
+
+  return items.sort((a, b) => {
+    const vA = a.data.volume || 0;
+    const iA = a.data.issue || 0;
+    const vB = b.data.volume || 0;
+    const iB = b.data.issue || 0;
+
+    const aKey = `${String(vA).padStart(3, '0')}.${String(iA).padStart(3, '0')}`;
+    const bKey = `${String(vB).padStart(3, '0')}.${String(iB).padStart(3, '0')}`;
+    
+    return bKey.localeCompare(aKey); // Urutan terbaru
+  });
+});
 
 };

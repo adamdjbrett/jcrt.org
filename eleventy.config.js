@@ -7,7 +7,7 @@ import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
 import pluginNavigation from "@11ty/eleventy-navigation";
 import yaml from "js-yaml";
-import { execFileSync, execSync } from "child_process";
+import { execSync } from "child_process";
 import markdownIt from "markdown-it";
 import markdownItAnchor from "markdown-it-anchor";
 import markdownItFootnote from "markdown-it-footnote";
@@ -15,114 +15,13 @@ import markdownItAttrs from 'markdown-it-attrs';
 import markdownItTableOfContents from "markdown-it-table-of-contents";
 import pluginTOC from 'eleventy-plugin-toc';
 import pluginFilters from "./_config/filters.js";
-import { authorSlug, splitAuthors } from "./_config/authorSlug.js";
 import fs from "fs";
 import path from 'path'; 
 import { fileURLToPath } from 'url';
-import memoize from "memoize";
-import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
-
-const lastModifiedCache = new Map();
-let gitLastModifiedIndex = null;
-
-function normalizeGitPath(p) {
-	return String(p || "").replace(/\\/g, "/").replace(/^\.\//, "");
-}
-
-function buildGitLastModifiedIndex() {
-	if (gitLastModifiedIndex) return gitLastModifiedIndex;
-
-	const map = new Map();
-
-	// Build a per-file last commit timestamp map in one git call (much faster than N calls).
-	// Uses NUL delimiters for robust parsing.
-	try {
-		const out = execFileSync(
-			"git",
-			[
-				"log",
-				"-z",
-				"--name-only",
-				"--format=%cI%x00",
-				"--",
-				"content",
-				"public",
-				"_data",
-				"_includes",
-				"eleventy.config.js",
-			],
-			{ cwd: process.cwd(), encoding: "utf8", stdio: ["ignore", "pipe", "ignore"] }
-		);
-
-		const tokens = out.split("\0");
-		let currentDate = null;
-
-		for (const token of tokens) {
-			if (!token) continue;
-
-			// Commit ISO 8601 date line produced by --format=%cI.
-			// Example: 2026-02-05T12:34:56-05:00
-			if (/^\d{4}-\d{2}-\d{2}T/.test(token)) {
-				const d = new Date(token.trim());
-				currentDate = Number.isNaN(d.valueOf()) ? null : d;
-				continue;
-			}
-
-			if (!currentDate) continue;
-			const filePath = normalizeGitPath(token.trim());
-			if (!filePath) continue;
-			if (!map.has(filePath)) {
-				map.set(filePath, currentDate);
-			}
-		}
-	} catch {
-		// If git isn’t available (or repo isn’t a git checkout), fall back to filesystem mtimes.
-	}
-
-	gitLastModifiedIndex = map;
-	return gitLastModifiedIndex;
-}
-
-function getLastModifiedDate(inputPath) {
-	if (!inputPath) return null;
-
-	let rawPath = normalizeGitPath(inputPath);
-
-	const fullPath = path.isAbsolute(rawPath)
-		? rawPath
-		: path.join(process.cwd(), rawPath);
-
-	const relPath = normalizeGitPath(path.relative(process.cwd(), fullPath) || rawPath);
-	const cacheKey = relPath;
-	const cached = lastModifiedCache.get(cacheKey);
-	if (cached) return cached;
-
-	const runMode = process.env.ELEVENTY_RUN_MODE;
-
-	// Prefer git commit time so <lastmod> reflects what was pushed/deployed.
-	// In `--serve`, git calls are very expensive (thousands of files) and slow down rebuilds,
-	// so we use filesystem mtime instead.
-	if (runMode !== "serve") {
-		const idx = buildGitLastModifiedIndex();
-		const fromIndex = idx.get(relPath);
-		if (fromIndex) {
-			lastModifiedCache.set(cacheKey, fromIndex);
-			return fromIndex;
-		}
-	}
-
-	try {
-		const stat = fs.statSync(fullPath);
-		const d = stat.mtime;
-		lastModifiedCache.set(cacheKey, d);
-		return d;
-	} catch {
-		return null;
-	}
-}
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function (eleventyConfig) {
+	const filePath = path.resolve("_data/theory_archive.json");
 	const isFastBuild = Boolean(process.env.FAST_BUILD);
 	eleventyConfig.addGlobalData("isFastBuild", isFastBuild);
 
@@ -132,6 +31,35 @@ export default async function (eleventyConfig) {
 			return false;
 		}
 	});
+
+
+	// dev mode
+	if (process.env.QUICK_DEV) {
+    eleventyConfig.addPreprocessor("collections", "limit-dev", (collections) => {
+      const folders = ["archives", "blog", "religioustheory"];
+      folders.forEach(name => {
+        if (collections[name]) collections[name] = collections[name].slice(0, 5);
+      });
+
+      if (collections.all) {
+        Object.keys(collections).forEach(tagName => {
+          if (Array.isArray(collections[tagName])) {
+            collections[tagName] = collections[tagName].slice(0, 5);
+          }
+        });
+      }
+    });
+    eleventyConfig.addGlobalData("theory_archive", () => {
+      try {
+        const data = JSON.parse(fs.readFileSync("./_data/theory_archive.json", "utf-8"));
+        return { ...data, posts: data.posts.slice(0, 5) };
+      } catch (e) {
+        return { posts: [] };
+      }
+    });
+    console.log("🚀 QUICK_DEV MODE: Active (Everything limited to 5)");
+    console.log("🔗 Open: http://localhost:4000");
+  }
 
 	// Run Pagefind after a production build unless explicitly skipped.
 	// Use `SKIP_PAGEFIND=1` locally if Pagefind isn't available on your platform.
@@ -146,6 +74,10 @@ export default async function (eleventyConfig) {
 						"--site _site",
 						'--glob \"**/*.html\"',
 						"--force-language en",
+						// Skip author bio landing pages and the PDFs themselves.
+						'--exclude \"**/bios/index.html\"',
+						'--exclude \"**/bios.html\"',
+						'--exclude \"**/bios.pdf\"',
 					].join(" "),
 					{ encoding: "utf-8" }
 				);
@@ -154,7 +86,7 @@ export default async function (eleventyConfig) {
 			}
 		});
 	}
-// Sveltia CMS config (passthrough so it's available at site root)
+// If use sveltia cms
 	eleventyConfig.addPassthroughCopy("sveltia.config.js");
 	eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
 	eleventyConfig
@@ -190,14 +122,14 @@ export default async function (eleventyConfig) {
 		eleventyConfig.addPlugin(HtmlBasePlugin);
 		eleventyConfig.addPlugin(InputPathToUrlTransformPlugin);
 	}
-	// Single shared markdown-it instance for the "md" template filter (memoized)
-	const mdSimple = new markdownIt({ html: true, breaks: true, linkify: true });
-	eleventyConfig.addFilter("md", memoize((content) => mdSimple.render(content || "")));
-
-	// Override built-in slugify with a memoized version (~25,000 calls saved).
-	const builtinSlugify = eleventyConfig.getFilter("slugify");
-	const memoizedSlugify = memoize((input) => builtinSlugify(input));
-	eleventyConfig.addFilter("slugify", memoizedSlugify);
+	const md = new markdownIt({
+		html: true,
+		breaks: true,
+		linkify: true,
+	});
+	eleventyConfig.addFilter("md", function (content) {
+		return md.render(content);
+	});
 
   let options = {
     html: true,
@@ -242,51 +174,53 @@ export default async function (eleventyConfig) {
 	}
 
 
-	eleventyConfig.addFilter("getAuthorObj", (authorsCollection, authorKey) => {
+    eleventyConfig.addFilter("getAuthorObj", (authorsCollection, authorKey) => {
         if (!authorKey || !authorsCollection) return null;
         return authorsCollection.find(author => {
             const key = author.data?.key || author.fileSlug;
             return key === authorKey.trim();
         });
     });
+eleventyConfig.addFilter("getPostsByAuthor", (allPosts, authorKey) => {
+    if (!allPosts || !authorKey) return [];
+    
+    return allPosts.filter(post => {
+        const authorField = post.data.author;
+        if (!authorField) return false;
 
-	eleventyConfig.addFilter("authorSlug", memoize((name) => authorSlug(name)));
-	eleventyConfig.addFilter("authorsToArray", memoize((authorField) =>
-		splitAuthors(authorField).map(authorSlug).filter(Boolean)
-	));
+        const normalizedKey = String(authorKey).toLowerCase().trim();
+        const authors = String(authorField).split(',').map(a => a.trim().toLowerCase());
 
-	eleventyConfig.addFilter("lastModifiedDate", (inputPath) =>
-		getLastModifiedDate(inputPath)
-	);
-eleventyConfig.addFilter("getPostsByAuthor", (posts, authorKey) => {
-    if (!posts || !authorKey) return [];
-    const targetKey = String(authorKey).trim().toLowerCase();
-    return posts.filter(post => {
-        const postAuthorData = post.data.author;
-        if (!postAuthorData) return false;
-        const authors = String(postAuthorData).split(',').map(a => a.trim().toLowerCase());
-        return authors.includes(targetKey);
+        return authors.includes(normalizedKey);
     });
 });
-	eleventyConfig.addCollection("authors", function(collectionApi) {
+eleventyConfig.addCollection("authors", function(collectionApi) {
         return collectionApi.getFilteredByGlob("content/authors/*.md").sort((a, b) => {
             const nameA = (a.data.name || a.data.title || "").toLowerCase();
             const nameB = (b.data.name || b.data.title || "").toLowerCase();
             return nameA.localeCompare(nameB);
         });
     });
-
-	// Archive PDFs & images are pre-copied by scripts/pre-copy-assets.sh (hardlinks)
-	// before Eleventy runs. This is ~10s faster than Eleventy's passthrough copy for 637 files / 211MB.
+	eleventyConfig.addPassthroughCopy({ "public/js": "js" });
+eleventyConfig.addPassthroughCopy({ "content/archives": "archives" }, {
+        copyOptions: {
+            overwrite: true
+        }
+    });
 eleventyConfig.addCollection("archives", function(collectionApi) {
         return collectionApi.getFilteredByGlob("content/archives/**/*.md");
     });
+const mdLib = markdownIt({
+    html: true,
+    breaks: true,
+    linkify: true
+  });
+	eleventyConfig.addFilter("md", (content) => mdLib.render(content || ""));
+eleventyConfig.addFilter("markdownify", (content) => {
+        if (!content) return "";
+        return md.render(String(content));
+    });
 
-	eleventyConfig.addCollection("sitemaps", function (collectionApi) {
-		return collectionApi
-			.getFilteredByGlob("content/sitemap/*.xml.njk")
-			.sort((a, b) => (a.url || "").localeCompare(b.url || ""));
-	});
 	// creativitas code
 
 	eleventyConfig.addPlugin(feedPlugin, {
@@ -316,48 +250,23 @@ eleventyConfig.addCollection("archives", function(collectionApi) {
 		},
 	});
 
-	// Image optimization: transforms <img> tags to responsive formats.
-	// In --serve mode, images are only processed on-request for speed.
-	// Skip external/remote URLs—many legacy archive pages reference images on
-	// jcrt.org or other hosts that no longer exist (404), so attempting to fetch
-	// them wastes time and can cause fatal build errors.
-	// Use `failOnError: false` so 404 images don't crash the build.
+eleventyConfig.addFilter("getKeywordsFromJSON", (pageTitle, theoryArchive) => {
+    if (!theoryArchive || !pageTitle) return "";
+    
+    const posts = theoryArchive.posts || [];
+    
+    const entry = posts.find(item => 
+        item.title && item.title.toLowerCase().trim() === pageTitle.toLowerCase().trim()
+    );
 
-	// Pre-transform: mark remote <img> tags with eleventy:ignore so the image
-	// plugin skips them entirely (avoids wasted HTTP 404 requests).
-		eleventyConfig.htmlTransformer.addPosthtmlPlugin("html", (context) => {
-			return (tree) => {
-				tree.match({ tag: "img" }, (node) => {
-					const src = node.attrs?.src || "";
-					// Skip remote images (avoid wasted HTTP) and root-relative public assets
-					// (our Eleventy input dir is `content`, but these live in `public/`).
-					if (
-						src.startsWith("http://") ||
-						src.startsWith("https://") ||
-						src.startsWith("//") ||
-						src.startsWith("/img/") ||
-						src.startsWith("/images/")
-					) {
-						node.attrs = node.attrs || {};
-						node.attrs["eleventy:ignore"] = "";
-					}
-					return node;
-				});
-			return tree;
-		};
-	}, { priority: 0 }); // 0 > -1, so this runs BEFORE image transform at -1 (descending sort)
-
-	eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
-		extensions: "html",
-		formats: ["avif", "webp", "auto"],
-		failOnError: false,
-		defaultAttributes: {
-			loading: "lazy",
-			decoding: "async",
-		},
-		transformOnRequest: process.env.ELEVENTY_RUN_MODE === "serve",
-	});
-
+    if (entry) {
+        const keywords = entry.categories || entry.keywords;
+        if (keywords) {
+            return Array.isArray(keywords) ? keywords.join(", ") : keywords;
+        }
+    }
+    return "";
+});
 	eleventyConfig.addPlugin(pluginFilters);
 	
 	eleventyConfig.watchIgnores.add("_data/theory_archive.json");
@@ -375,9 +284,6 @@ export const config = {
 	markdownTemplateEngine: "njk",
 
 	htmlTemplateEngine: "njk",
-
-	// In `--serve`, avoid copying large passthrough trees into `_site`—serve them directly.
-	serverPassthroughCopyBehavior: "passthrough",
 	
 
 	dir: {

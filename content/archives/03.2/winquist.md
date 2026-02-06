@@ -1,15 +1,11 @@
 ---
 title: "IN MEMORIAM: DR. CHARLES E. WINQUIST - JCRT 3.2"
+article_number:
 author:
 affilation:
 abstract:
 keywords: []
 pdf:
-sort_id:
-volume: 3
-issue: 2
-season: spring
-pages:
 ---
 
     In Memoriam: Dr. Charles E. Winquist - JCRT 3.2  
@@ -36,4 +32,13 @@ The editors and editorial board of _The Journal for Cultural and Religious Theor
 * * *
 
 © 2002 Journal for Cultural and Religious Theory. All rights reserved.  
-Updated 07/28/21. 
+Updated 07/28/21.
+
+---
+
+---
+
+---
+
+---
+

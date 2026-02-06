@@ -34,13 +34,11 @@
 </ul>
 
 <div class="border-bottom">
-{% for section in metadata.sidebar.info.sections %}
-<h5 class="mt-3 mb-5"><span class="bgb-pink p-1">{{ section.title }}</span></h5>
-{% for i in section.list %}<div class="mb-3">
-<a href="{{i.url}}"><img class="img-fluid mb-3 rounded" alt="" width="100%" height="100%" src="{{i.image}}"/></a>
+<h5 class="mt-3 mb-5"><span class="bgb-pink p-1">{{metadata.sidebar.info.title}}</span></h5>
+{% for i in metadata.sidebar.info.list %}<div class="mb-3">
+<a href="{{i.url}}"><img class="img-fluid mb-3 rounded" alt="{{i.title}}" width="100%" height="100%" src="{{i.image}}"/></a>
 <p class="smaller">{{i.text}}</p>
 </div>{% endfor %}
-{% endfor %}
 <p><a href="{{metadata.sidebar.info.button.url}}" class="btn btn-s, btn-pink text-uppercase">{{metadata.sidebar.info.button.text}}</a></p>
 </div>
 			
@@ -109,9 +107,9 @@ Develope by <a href="https://adamdjbrett.com" target="_blank">Adamdjbrett</a>
             </header>
 
             <div class="content-body wp-legacy-content" data-pagefind-body>
-                <div class="p-3 bg-light">
-                  {{ content | toc | safe }}
-                </div>
+                 <div class="p-3 bg-light">
+        {{ content | toc | safe }}
+       </div>    
                 {{ content | safe }}
             </div>
         </article>
@@ -249,7 +247,7 @@ Develope by <a href="https://adamdjbrett.com" target="_blank">Adamdjbrett</a>
     object-fit:cover;
     height: 300px;
     background-color: #f8f9fa;
-    background-image: url('/img/jcrt.svg');
+    background-image: url('/img/jcrt.jpg');
     background-size: cover;
     background-position: center;
     z-index: 2;
@@ -314,7 +312,7 @@ Develope by <a href="https://adamdjbrett.com" target="_blank">Adamdjbrett</a>
     }
 .wp-legacy-content img, 
 .single-post-image img {
-    content: url('/img/jcrt.svg') !important;
+    content: url('/img/jcrt.jpg') !important;
     width: 360px !important;
     max-width: 360px !important;
     height: auto !important;
@@ -363,7 +361,7 @@ Develope by <a href="https://adamdjbrett.com" target="_blank">Adamdjbrett</a>
 
 .text-pink { color: #e83e8c !important; }
 .religioustheory-archive-wrapper img {
-    content: url('/img/jcrt.svg') !important;
+    content: url('/img/jcrt.jpg') !important;
     width: 360px !important;
     height: auto !important;
     display: block !important;
@@ -411,7 +409,7 @@ Develope by <a href="https://adamdjbrett.com" target="_blank">Adamdjbrett</a>
     display: none;
     width: 200px;
     height: 200px;
-    background-image: url('/img/jcrt.svg') !important;
+    background-image: url('/img/jcrt.jpg') !important;
     background-size: cover;
     background-position: center;
     margin-bottom: 15px;

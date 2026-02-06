@@ -1,15 +1,10 @@
 ---
-author: editors
 title: Author Bios
+article_number: 00
 affilation:
 abstract:
 keywords: []
 pdf:
-sort_id: 00
-volume: 18
-issue: 3
-season: summer
-pages:
 ---
 
         
@@ -18,7 +13,7 @@ pages:
 
 **Mikel Burley** is Associate Professor of Religion and Philosophy at the
 
-University of Leeds.  His books include  _Rebirth_ _and the Stream of Life: A_
+University of Leeds.  His books include  _Rebirth_ _and the Stream of Life: A_
 
 _Philosophical Study of Reincarnation, Karma and Ethics_ (Bloomsbury,
 
@@ -26,15 +21,15 @@ _Philosophical Study of Reincarnation, Karma and Ethics_ (Bloomsbury,
 
 _Phillips_ (Continuum, 2012).
 
-**Vernon Cisney** is Assistant Professor of Interdisciplinary Studies at Gettysburg College.  He is the author of Deleuze and Derrida: Difference and the Power of the Negative (Edinburgh University Press, 2018) .
+**Vernon Cisney** is Assistant Professor of Interdisciplinary Studies at Gettysburg College.  He is the author of Deleuze and Derrida: Difference and the Power of the Negative (Edinburgh University Press, 2018) .
 
 **Jakob Helmut Deibl** is Assistant Professor at the Faculty for Catholic
 
 Theology and Scientific Manager of the Research Centre for Religion and
 
-Transformation at the University of Vienna.  From 2018-19 he worked at
+Transformation at the University of Vienna.  From 2018-19 he worked at
 
-the Pontifico Ateneo Sant'Anselmo in Rome. 
+the Pontifico Ateneo Sant'Anselmo in Rome. 
 
 **W. Ezekiel Goggin** is Visiting Assistant Professor of Religious Studies at
 
@@ -60,7 +55,7 @@ Continental Philosophy of Religion.
 
 **Tamsin Jones** is Associate Professor of Religious Studies at Trinity
 
-College, Connecticut.  She is the author of _A Genealogy of Marion’s_
+College, Connecticut.  She is the author of _A Genealogy of Marion’s_
 
 _Philosophy of Religion: Apparent Darkness_ (Indiana University Press,
 
@@ -72,15 +67,15 @@ Theology. She is currently working on a second book on the concept of
 
 "religious experience" as it is discussed in continental philosophy and
 
-against the backdrop of trauma theory.  
+against the backdrop of trauma theory.  
 
 **Lucas McCracken** in a doctoral student in Religious Studies at the
 
-University of California, Santa Barbara.  He is translator along with Bradley
+University of California, Santa Barbara.  He is translator along with Bradley
 
 Onishi of Emmanuel Faique, The Loving Struggle: Phenomenological
 
-and Theological Debates  (Rowman & Littlefield, 2018).
+and Theological Debates  (Rowman & Littlefield, 2018).
 
 **Mark Murphy** recently completed his Ph.D. at St. Mary’s University,
 
@@ -90,23 +85,23 @@ Twickenham, London, School of Theology.
 
 Skidmore College, author of _The Sacrality of the Secular: Postmodern_
 
-_Philosophy of Religion_ (Columbia University Press, 2018)  and is co-editor
+_Philosophy of Religion_ (Columbia University Press, 2018)  and is co-editor
 
-of  _Mysticism_ _in the French Tradition: Eruptions from France_ (Routledge
+of  _Mysticism_ _in the French Tradition: Eruptions from France_ (Routledge
 
-2016).  He is also co-host of the _Straight White American Jesus_ podcast.  
+2016).  He is also co-host of the _Straight White American Jesus_ podcast.  
 
 **Kara Roberts** received her M.A. degree in Religious Studies from the
 
-University of Denver.  She is formerly an assistant editor with the _Journal_
+University of Denver.  She is formerly an assistant editor with the _Journal_
 
 _for Cultural and Religious Theory._
 
 **Thomas Roberts** is Professor Emeritus and Past Chair of the Department
 
-of Child and Family Development at San Diego State University.  His
+of Child and Family Development at San Diego State University.  His
 
-research involves the study of  long\-term marriages, the relationship of
+research involves the study of  long\-term marriages, the relationship of
 
 grandparenting to children's socialization, remarried families (including
 
@@ -114,7 +109,7 @@ the stepmother role, kinship networks, and the socialization of new family
 
 members), and the role of religion and ethical values on family
 
-development. 
+development. 
 
 **Mary-Jane Rubenstein** is Professor of Religion at Wesleyan University;
 
@@ -124,7 +119,7 @@ faculty in the Feminist, Gender, and Sexuality Studies Program. She is the
 
 author of _Strange Wonder: The Closure of Metaphysics and the Opening_
 
-_of Awe_ (Columbia University Press, 2009),  _Worlds_ _Without End: The_
+_of Awe_ (Columbia University Press, 2009),  _Worlds_ _Without End: The_
 
 _Many Lives of the Multiverse_ (Columbia University Press, 2014),
 
@@ -138,7 +133,7 @@ _Religion, Science, and New Materialisms_ (Fordham University Press,
 
 **Tadd Ruetenik** is Professor of Philosophy at St. Ambrose University in
 
-Davenport, Iowa.  He is the author _of The Demons of William James:_
+Davenport, Iowa.  He is the author _of The Demons of William James:_
 
 _Religious Pragmatism Explores Unusual Mental State_s _(Palgrave_
 
@@ -155,3 +150,12 @@ and anti-Semitism– what the shift is, why it is important, and what
 imagery, media, and art can tell us about the historical precedents that
 
 led to the heightened tensions prior to World War II.
+
+---
+
+---
+
+---
+
+---
+

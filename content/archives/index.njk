@@ -1,78 +1,104 @@
 ---
-layout: archives-index.njk
-title: Table of Contents
-description:
-image: /img/jcrt.svg
-volume:
-issue: 
-season: 
-tags: []
+layout: base.njk
+title: Journal Archives
+description: Browse past Thompson issues and articles.
+pagination:
+  data: collections.all
+  size: 5
+  alias: ignore
 ---
 
 {% set current_dir = page.inputPath | replace('/index.njk', '/') %}
 {% set issues = [] %}
 
 {% for entry in collections.all %}
-  {% if entry.inputPath and entry.inputPath.startsWith(current_dir) %}
+  {% if entry.inputPath and entry.inputPath.startsWith(current_dir) and entry.inputPath.endsWith('/index.njk') %}
     {% set relative_path = entry.inputPath | replace(current_dir, '') %}
-    {% set relative_parts = relative_path.split('/') %}
-    {% if relative_path.endsWith('/index.njk') and (relative_parts | length) == 2 %}
-      {% set volume_key = (entry.data.volume|string).padStart(3, '0') %}
-      {% set issue_key = (entry.data.issue|string).padStart(3, '0') %}
-      {% set sort_key = volume_key + '.' + issue_key %}
-      {% set issues = issues.concat([{
-        entry: entry,
-        sort_key: sort_key
-      }]) %}
+    {% if relative_path.split('/') | length == 2 %}
+      {% set s = "000" + (entry.data.season or "") %}
+      {% set i = "000" + (entry.data.issue or "") %}
+      {% set sort_key = s.slice(-3) + "." + i.slice(-3) %}
+      {% set issues = (issues.push({ entry: entry, sort_key: sort_key }), issues) %}
     {% endif %}
   {% endif %}
 {% endfor %}
 
 {% set sorted_issues = issues | sort(false, false, 'sort_key') | reverse %}
 
-{% for issue_item in sorted_issues %}
-  {% set issue_entry = issue_item.entry %}
-  {% set issue_dir = issue_entry.inputPath | replace('/index.njk', '/') %}
-  {% set issue_articles = [] %}
+{% set itemsPerPage = 5 %}
+{% set totalItems = sorted_issues | length %}
+{% set offset = pagination.pageNumber * itemsPerPage %}
+{% set paginated_issues = sorted_issues.slice(offset, offset + itemsPerPage) %}
 
-  {% for article in collections.all %}
-    {% if article.inputPath and article.inputPath.startsWith(issue_dir) %}
-      {% set article_relative = article.inputPath | replace(issue_dir, '') %}
-      {% if article_relative.endsWith('.md') and article_relative != 'index.md' and '/' not in article_relative %}
-        {% set issue_articles = issue_articles.concat([article]) %}
-      {% endif %}
-    {% endif %}
+<main class="container-fluid py-5">
+  <div class="text-center mb-5">
+    <h1 class="serif fw-bold display-4">Journal Archives</h1>
+    <p class="text-secondary italic">Volume, Seasons, and Issues</p>
+  </div>
+
+  {% for issue_item in paginated_issues %}
+    {% set issue = issue_item.entry %}
+    {% set issue_dir = issue.inputPath | replace('/index.njk', '/') %}
+    
+    <section class="issue-block mb-5 p-4 bg-light rounded border-start border-4 border-pink shadow-sm">
+      <h2 class="serif fw-bold text-dark mb-4">
+        Season {{ issue.data.season }}, Issue {{ issue.data.issue }}
+        {% if issue.data.title %} — {{ issue.data.title }}{% endif %}
+      </h2>
+
+      <div class="row">
+        {% set issue_articles = [] %}
+        {% for article in collections.all %}
+          {% if article.inputPath and article.inputPath.startsWith(issue_dir) %}
+            {% set rel = article.inputPath | replace(issue_dir, '') %}
+            {% if rel.endsWith('.md') and rel != 'index.md' and '/' not in rel %}
+              {% set issue_articles = (issue_articles.push(article), issue_articles) %}
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+
+        {% for article in issue_articles | sort(false, false, 'data.articleNumber') %}
+          <div class="col-12 border-bottom pb-3 mb-3 article-item">
+            <h3 class="h5 serif fw-bold mb-1">
+              <a href="{{ article.url }}" class="text-decoration-none text-dark hover-pink">
+                {{ article.data.title or article.fileSlug }}
+              </a>
+            </h3>
+
+            {% if article.data.tags.length > 0 %}
+              <div class="mb-2 small text-muted">
+                <i class="bi bi-tags"></i> {{ article.data.tags | join(", ") }}
+              </div>
+            {% endif %}
+
+            {% if article.data.author %}
+              <p class="small mb-0">
+                <span class="text-muted">By</span>
+                {% set authorKeys = article.data.author.split(',') %}
+                {% for aKey in authorKeys %}
+                  {% set authorData = collections.authors | getAuthorObj(aKey | trim) %}
+                  <span class="fw-bold text-pink">{{ authorData.data.name if authorData else aKey | trim }}</span>
+                  {% if authorData.data.affiliation %}<span class="text-muted small"> ({{ authorData.data.affiliation }})</span>{% endif %}
+                  {% if not loop.last %} & {% endif %}
+                {% endfor %}
+              </p>
+            {% endif %}
+          </div>
+        {% endfor %}
+      </div>
+    </section>
   {% endfor %}
 
-  {# Sort by sort_id if present, else by pages (first page), else last #}
-  {% set sortable_articles = [] %}
-  {% for article in issue_articles %}
-    {% set sort_id = article.data.sort_id %}
-    {% set pages = article.data.pages %}
-    {% set pages_first = (pages or "").toString().split("-")[0].trim() %}
-    {% set pages_num = pages_first.replace("S", "").replace("s", "").replace("P", "").replace("p", "").trim() %}
-    {% set sort_key = (sort_id or pages_num or "999999").toString().padStart(6, "0") %}
-    {% set sortable_articles = sortable_articles.concat([{ article: article, sort_key: sort_key }]) %}
-  {% endfor %}
-
-  {% set sorted_articles = sortable_articles | sort(false, false, "sort_key") %}
-
-  <details>
-    <summary>
-      <h2 style="display:inline">{{ issue_entry.data.volume }}.{{ issue_entry.data.issue }} {{ issue_entry.data.season }}{% if issue_entry.data.title %} — {{ issue_entry.data.title }}{% endif %} <small>({{ issue_articles | length }})</small></h2>
-    </summary>
-    {% for item in sorted_articles %}
-      {% set article = item.article %}
-      <h3>
-        <a href="{{ article.url }}">{{ article.data.title or article.fileSlug }}</a>
-      </h3>
-      {% if article.data.author or article.data.affilation %}
-        <p>
-          {% if article.data.author %}{{ article.data.author }}{% endif %}
-          {% if article.data.author and article.data.affilation %}<br>{% endif %}
-          {% if article.data.affilation %}{{ article.data.affilation }}{% endif %}
-        </p>
+  {% if totalItems > itemsPerPage %}
+  <nav class="d-flex justify-content-center mt-5">
+    <ul class="pagination">
+      {% if pagination.href.previous %}
+        <li class="page-item"><a class="page-link text-pink border-pink" href="{{ pagination.href.previous }}">Previous</a></li>
       {% endif %}
-    {% endfor %}
-  </details>
-{% endfor %}
+      {% if pagination.href.next and offset + itemsPerPage < totalItems %}
+        <li class="page-item"><a class="page-link text-pink border-pink" href="{{ pagination.href.next }}">Next</a></li>
+      {% endif %}
+    </ul>
+  </nav>
+  {% endif %}
+</main>

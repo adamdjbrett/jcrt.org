@@ -1,24 +1,11 @@
 ---
 title: "HETEROLOGICAL HISTORY: A CONVERSATION"
+article_number:
 author: "Edith Wyschogrod; Carl A. Raschke"
 affilation:
 abstract:
-keywords:
-  - postmodernism
-  - historiography
-  - other-philosophy
-  - john
-  - milbank
-  - poststructuralism
-  - ethics-methodology
-  - history-religious-aspects-christianity
-  - history-in-religion
+keywords: []
 pdf:
-sort_id:
-volume: 1
-issue: 2
-season: spring
-pages:
 ---
 
 Line wrap
@@ -2342,3 +2329,12 @@ PetaboxLoader3.resolve: 45.694
 nav: 0.232 (6)
 
 \-->
+
+---
+
+---
+
+---
+
+---
+
