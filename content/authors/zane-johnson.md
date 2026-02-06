@@ -1,6 +1,6 @@
 ---
 name: Zane Johnson
-affiliation:
+affiliation: "University of Denver/Iliff School of Theology"
 bio:
 social:
   - title: "website"

@@ -22,10 +22,10 @@ keywords:
   - public-lands
   - urban-ecology-sociology
 pdf: McKanan.pdf
-sort_id:
+sort_id: 09
 volume: 23
 issue: 1
-season: winter
+season: spring
 pages: 86-99
 ---
 

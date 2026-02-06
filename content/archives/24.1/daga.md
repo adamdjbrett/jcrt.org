@@ -5,10 +5,10 @@ affilation:
 abstract:
 keywords: []
 pdf: Daga.pdf
-sort_id:
+sort_id: 03
 volume: 24
 issue: 1
-season: winter
+season: summer
 pages: 1-16
 ---
 

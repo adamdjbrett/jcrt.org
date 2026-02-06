@@ -20,10 +20,10 @@ keywords:
   - virtues
   - environmental-degradation
 pdf: Mather.pdf
-sort_id:
+sort_id: 08
 volume: 23
 issue: 1
-season: winter
+season: spring
 pages: 74-86
 ---
 

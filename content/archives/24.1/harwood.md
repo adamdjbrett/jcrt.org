@@ -5,10 +5,10 @@ affilation:
 abstract:
 keywords: []
 pdf: Harwood.pdf
-sort_id:
+sort_id: 08
 volume: 24
 issue: 1
-season: winter
+season: summer
 pages: 102-114
 ---
 

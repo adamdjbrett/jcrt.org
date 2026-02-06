@@ -1,6 +1,6 @@
 ---
 name: Genn Ruan
-affiliation:
+affiliation: "University of California, Riverside"
 bio:
 social:
   - title: "website"

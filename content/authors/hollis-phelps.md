@@ -1,6 +1,6 @@
 ---
 name: Hollis Phelps
-affiliation:
+affiliation: "Mercer University"
 bio:
 social:
   - title: "website"

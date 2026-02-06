@@ -1,6 +1,6 @@
 ---
 name: Daniel Mckanan
-affiliation:
+affiliation: "Harvard Divinity School"
 bio:
 social:
   - title: "website"

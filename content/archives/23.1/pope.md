@@ -27,10 +27,10 @@ keywords:
   - soil-conservation
   - land-use
 pdf: Pope.pdf
-sort_id:
+sort_id: 11
 volume: 23
 issue: 1
-season: winter
+season: spring
 pages: 108-123
 ---
 

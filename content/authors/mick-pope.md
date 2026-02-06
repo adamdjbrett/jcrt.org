@@ -1,6 +1,6 @@
 ---
 name: Mick Pope
-affiliation:
+affiliation: "Whitley College"
 bio:
 social:
   - title: "website"

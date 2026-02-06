@@ -1,6 +1,6 @@
 ---
 name: Karey Harwood
-affiliation:
+affiliation: "North Carolina State University"
 bio:
 social:
   - title: "website"

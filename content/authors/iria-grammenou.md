@@ -1,6 +1,6 @@
 ---
 name: Iria Grammenou
-affiliation:
+affiliation: "National and Kapodistrian University of Athens"
 bio:
 social:
   - title: "website"

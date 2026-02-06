@@ -1,6 +1,6 @@
 ---
 name: Nicholas Mather
-affiliation:
+affiliation: "East Los Angeles College"
 bio:
 social:
   - title: "website"

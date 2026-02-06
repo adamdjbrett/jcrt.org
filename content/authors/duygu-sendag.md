@@ -1,6 +1,6 @@
 ---
 name: Duygu Sendag
-affiliation:
+affiliation: "French Institute for Anatolian Studies"
 bio:
 social:
   - title: "website"

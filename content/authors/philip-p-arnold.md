@@ -1,6 +1,6 @@
 ---
 name: Philip P Arnold
-affiliation:
+affiliation: "Syracuse University"
 bio:
 social:
   - title: "website"

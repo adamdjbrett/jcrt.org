@@ -7,10 +7,10 @@ keywords:
   - natural-law
   - catholic-feminism
 pdf: Porter.pdf
-sort_id:
+sort_id: 04
 volume: 23
 issue: 2
-season: spring
+season: winter
 pages: 165-174
 ---
 

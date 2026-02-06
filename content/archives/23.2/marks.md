@@ -10,10 +10,10 @@ keywords:
   - aquinas
   - ca-1225-1274
 pdf: Marks.pdf
-sort_id:
+sort_id: 03
 volume: 23
 issue: 2
-season: spring
+season: winter
 pages: 140-164
 ---
 

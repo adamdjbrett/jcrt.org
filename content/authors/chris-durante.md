@@ -1,6 +1,6 @@
 ---
 name: Chris Durante
-affiliation:
+affiliation: "Saint Peter’s University"
 bio:
 social:
   - title: "website"

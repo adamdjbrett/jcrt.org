@@ -18,10 +18,10 @@ keywords:
   - people-with-disabilities-religious-life
   - religious-aspects
 pdf: Monson.pdf
-sort_id:
+sort_id: 10
 volume: 23
 issue: 1
-season: winter
+season: spring
 pages: 99-107
 ---
 

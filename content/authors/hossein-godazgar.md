@@ -1,6 +1,6 @@
 ---
 name: Hossein Godazgar
-affiliation:
+affiliation: "University of Warwick"
 bio:
 social:
   - title: "website"

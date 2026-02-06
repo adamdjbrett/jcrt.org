@@ -1,6 +1,6 @@
 ---
 name: Thomas Massaro
-affiliation:
+affiliation: "S.J., Fordham University"
 bio:
 social:
   - title: "website"
