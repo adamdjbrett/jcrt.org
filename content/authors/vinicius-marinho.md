@@ -1,6 +1,6 @@
 ---
-name: Neal Deroo
-affiliation: "The King’s University"
+name: "Vinicius Marinho"
+affiliation: "University of Chicago Divinity School"
 bio:
 social:
   - title: "website"

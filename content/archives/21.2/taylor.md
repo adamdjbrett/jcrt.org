@@ -9,7 +9,7 @@ keywords:
   - charles-h
   - religion-culture
 pdf: Taylor.pdf
-sort_id:
+sort_id: 06
 volume: 21
 issue: 2
 season: spring

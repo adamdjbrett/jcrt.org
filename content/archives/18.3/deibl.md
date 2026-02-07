@@ -8,10 +8,10 @@ keywords:
   - critique-of-judgment-book-kant
   - theology-philosophy
 pdf: Deibl.pdf
-sort_id:
+sort_id: 10
 volume: 18
 issue: 3
-season: summer
+season: fall
 pages: 492-507
 ---
 

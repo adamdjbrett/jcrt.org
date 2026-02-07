@@ -1,6 +1,6 @@
 ---
 name: Tink Tinker
-affiliation:
+affiliation: "wazhazhe/Osage Nation, Iliff School of Theology"
 bio:
 social:
   - title: "website"

@@ -1,6 +1,6 @@
 ---
 name: Roger Green
-affiliation:
+affiliation: "Metropolitan State University"
 bio:
 social:
   - title: "website"

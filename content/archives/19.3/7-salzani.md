@@ -16,10 +16,10 @@ keywords:
   - protestant-work-ethic
   - religious-thought
 pdf: 7-Salzani.pdf
-sort_id:
+sort_id: 080
 volume: 19
 issue: 3
-season: summer
+season: fall
 pages: 453-462
 ---
 

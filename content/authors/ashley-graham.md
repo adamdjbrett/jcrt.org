@@ -1,6 +1,6 @@
 ---
 name: Ashley Graham
-affiliation:
+affiliation: "Emory University"
 bio:
 social:
   - title: "website"

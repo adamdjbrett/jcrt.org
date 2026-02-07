@@ -9,7 +9,7 @@ keywords:
   - thomas-j-j
   - christian-poets
 pdf: Franke.pdf
-sort_id:
+sort_id: 10
 volume: 19
 issue: 1
 season: winter

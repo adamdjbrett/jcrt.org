@@ -9,7 +9,7 @@ keywords:
   - altizer
   - thomas-j-j
 pdf: Redell.pdf
-sort_id:
+sort_id: 04
 volume: 19
 issue: 1
 season: winter

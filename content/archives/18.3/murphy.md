@@ -5,10 +5,10 @@ affilation:
 abstract:
 keywords: []
 pdf: Murphy.pdf
-sort_id:
+sort_id: 11
 volume: 18
 issue: 3
-season: summer
+season: fall
 pages:
 ---
 

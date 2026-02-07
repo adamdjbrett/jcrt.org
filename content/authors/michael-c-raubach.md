@@ -1,6 +1,6 @@
 ---
 name: Michael C. Raubach
-affiliation:
+affiliation: "Aarhus University"
 bio:
 social:
   - title: "website"

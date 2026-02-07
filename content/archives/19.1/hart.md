@@ -9,7 +9,7 @@ keywords:
   - altizer
   - thomas-j-j
 pdf: Hart.pdf
-sort_id:
+sort_id: 16
 volume: 19
 issue: 1
 season: winter

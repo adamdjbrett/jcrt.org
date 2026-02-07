@@ -1,6 +1,6 @@
 ---
 name: Rode Molla
-affiliation:
+affiliation: "Virginia Theological Seminary, University of Denver/Iliff School of Theology"
 bio:
 social:
   - title: "website"

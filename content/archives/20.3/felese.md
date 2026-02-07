@@ -9,10 +9,10 @@ keywords:
   - 1930-2004
   - derrida
 pdf: Felese.pdf
-sort_id:
+sort_id: 04
 volume: 20
 issue: 3
-season: summer
+season: fall
 pages: 361-373
 ---
 

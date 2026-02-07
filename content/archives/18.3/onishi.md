@@ -8,10 +8,10 @@ keywords:
   - philosophy-of-religion
   - transnationalism
 pdf: Onishi.pdf
-sort_id:
+sort_id: 06
 volume: 18
 issue: 3
-season: summer
+season: fall
 pages: 442-453
 ---
 

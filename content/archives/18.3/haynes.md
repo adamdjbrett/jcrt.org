@@ -8,10 +8,10 @@ keywords:
   - philosophy-of-religion
   - feminist-theory
 pdf: Haynes.pdf
-sort_id:
+sort_id: 03
 volume: 18
 issue: 3
-season: summer
+season: fall
 pages: 400-414
 ---
 

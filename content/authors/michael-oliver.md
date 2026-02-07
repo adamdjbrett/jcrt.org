@@ -1,6 +1,6 @@
 ---
 name: Michael Oliver
-affiliation:
+affiliation: "University of Oxford"
 bio:
 social:
   - title: "website"

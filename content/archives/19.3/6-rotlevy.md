@@ -19,10 +19,10 @@ keywords:
   - postsecularism
   - philosophy-science
 pdf: 6-Rotlevy.pdf
-sort_id:
+sort_id: 07
 volume: 19
 issue: 3
-season: summer
+season: fall
 pages: 436-452
 ---
 

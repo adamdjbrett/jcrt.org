@@ -9,7 +9,7 @@ keywords:
   - long
   - charles-h
 pdf: Wood.pdf
-sort_id:
+sort_id: 08
 volume: 21
 issue: 2
 season: spring

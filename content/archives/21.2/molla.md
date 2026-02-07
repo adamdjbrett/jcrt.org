@@ -15,7 +15,7 @@ keywords:
   - catholic-missionaries
   - evangelical-churches
 pdf: Molla.pdf
-sort_id:
+sort_id: 03
 volume: 21
 issue: 2
 season: spring

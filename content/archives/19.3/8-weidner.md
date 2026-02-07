@@ -16,10 +16,10 @@ keywords:
   - walter
   - history-philosophy
 pdf: 8-Weidner.pdf
-sort_id:
+sort_id: 09
 volume: 19
 issue: 3
-season: summer
+season: fall
 pages: 463-475
 ---
 

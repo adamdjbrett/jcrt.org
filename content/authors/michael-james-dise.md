@@ -1,6 +1,6 @@
 ---
 name: Michael James Dise
-affiliation:
+affiliation: "Free University of Amsterdam"
 bio:
 social:
   - title: "website"

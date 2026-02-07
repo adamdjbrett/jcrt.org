@@ -1,6 +1,6 @@
 ---
 name: Ray L. Hart
-affiliation:
+affiliation: "Boston University"
 bio:
 social:
   - title: "website"

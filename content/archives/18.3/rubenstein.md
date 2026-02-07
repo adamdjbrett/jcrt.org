@@ -7,10 +7,10 @@ keywords:
   - continental-philosophy
   - philosophy-of-religion
 pdf: Rubenstein.pdf
-sort_id:
+sort_id: 07
 volume: 18
 issue: 3
-season: summer
+season: fall
 pages: 454-465
 ---
 

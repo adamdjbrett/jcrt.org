@@ -10,7 +10,7 @@ keywords:
   - phenomenology
   - scheler
 pdf: Hackett.pdf
-sort_id:
+sort_id: 03
 volume: 19
 issue: 2
 season: spring

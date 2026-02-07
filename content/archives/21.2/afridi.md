@@ -9,7 +9,7 @@ keywords:
   - charles-h
   - orientalism
 pdf: Afridi.pdf
-sort_id:
+sort_id: 04
 volume: 21
 issue: 2
 season: spring

@@ -1,6 +1,6 @@
 ---
 name: Sheila S. Walker
-affiliation:
+affiliation: "Washington DC"
 bio:
 social:
   - title: "website"

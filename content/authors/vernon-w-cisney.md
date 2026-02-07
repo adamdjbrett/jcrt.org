@@ -1,7 +1,7 @@
 ---
 name: Vernon W. Cisney
-affiliation:
-bio:
+affiliation: "Gettysburg College"
+bio: 
 social:
   - title: "website"
     url: ""

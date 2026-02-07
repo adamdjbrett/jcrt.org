@@ -1,6 +1,6 @@
 ---
 name: Fraser Macdonald
-affiliation:
+affiliation: "University of Waikato"
 bio:
 social:
   - title: "website"

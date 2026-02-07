@@ -1,6 +1,6 @@
 ---
 name: EMILY McAVAN
-affiliation:
+affiliation: "Murdoch University"
 bio:
 social:
   - title: "website"

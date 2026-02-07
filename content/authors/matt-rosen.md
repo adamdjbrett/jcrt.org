@@ -1,6 +1,6 @@
 ---
 name: Matt Rosen
-affiliation:
+affiliation: "Colorado College"
 bio:
 social:
   - title: "website"

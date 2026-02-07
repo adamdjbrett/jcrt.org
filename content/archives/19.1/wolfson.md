@@ -10,7 +10,7 @@ keywords:
   - thomas-j-j
   - philosophers
 pdf: Wolfson.pdf
-sort_id:
+sort_id: 06
 volume: 19
 issue: 1
 season: winter

@@ -1,6 +1,6 @@
 ---
 name: Eric Trozzo
-affiliation:
+affiliation: "Sabah Theological Seminary"
 bio:
 social:
   - title: "website"

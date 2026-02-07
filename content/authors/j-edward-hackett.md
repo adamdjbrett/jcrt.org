@@ -1,6 +1,6 @@
 ---
 name: J. Edward Hackett
-affiliation:
+affiliation: "Savannah State University"
 bio:
 social:
   - title: "website"

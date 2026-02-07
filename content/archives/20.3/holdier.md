@@ -10,10 +10,10 @@ keywords:
   - aquinas
   - ca-1225-1274
 pdf: Holdier.pdf
-sort_id:
+sort_id: 05
 volume: 20
 issue: 3
-season: summer
+season: fall
 pages: 374-382
 ---
 

@@ -7,7 +7,7 @@ keywords:
   - critical-theory
   - religious-studies
 pdf: Harrison.pdf
-sort_id:
+sort_id: 16
 volume: 18
 issue: 2
 season: spring

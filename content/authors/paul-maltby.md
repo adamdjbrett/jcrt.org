@@ -1,6 +1,6 @@
 ---
 name: Paul Maltby
-affiliation:
+affiliation: "West Chester University"
 bio:
 social:
   - title: "website"

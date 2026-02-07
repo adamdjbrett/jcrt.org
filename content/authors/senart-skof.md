@@ -1,6 +1,6 @@
 ---
-name: Neal Deroo
-affiliation: "The King’s University"
+name: "Lenart Škof"
+affiliation: "Science and Research Centre Koper"
 bio:
 social:
   - title: "website"

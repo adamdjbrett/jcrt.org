@@ -8,7 +8,7 @@ keywords:
   - abrahamic-religions
   - protestant-fundamentalism
 pdf: McAvan.pdf
-sort_id:
+sort_id: 08
 volume: 19
 issue: 2
 season: spring

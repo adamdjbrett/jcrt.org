@@ -1,6 +1,6 @@
 ---
 name: Gavin Hurley
-affiliation:
+affiliation: "University of Providence"
 bio:
 social:
   - title: "website"

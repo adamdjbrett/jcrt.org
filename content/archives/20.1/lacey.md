@@ -7,7 +7,7 @@ keywords:
   - covid-19-pandemic
   - social-distancing
 pdf: Lacey.pdf
-sort_id:
+sort_id: 05
 volume: 20
 issue: 1
 season: winter

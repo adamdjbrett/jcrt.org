@@ -8,7 +8,7 @@ keywords:
   - apologists-christians
   - theory-of-knowledge
 pdf: Giardino.pdf
-sort_id:
+sort_id: 07
 volume: 18
 issue: 2
 season: spring

@@ -19,7 +19,7 @@ keywords:
   - martin
   - trakl
 pdf: Sirota.pdf
-sort_id:
+sort_id: 07
 volume: 21
 issue: 1
 season: winter

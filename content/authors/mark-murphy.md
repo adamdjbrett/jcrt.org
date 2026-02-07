@@ -1,6 +1,6 @@
 ---
 name: Mark Murphy
-affiliation:
+affiliation: "Saint Mary’s University"
 bio:
 social:
   - title: "website"

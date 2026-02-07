@@ -8,7 +8,7 @@ keywords:
   - political-theology
   - political-violence
 pdf: Willis.pdf
-sort_id:
+sort_id: 10
 volume: 20
 issue: 1
 season: winter

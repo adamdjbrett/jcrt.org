@@ -1,6 +1,6 @@
 ---
 name: Sarah Pessin
-affiliation:
+affiliation: "University of Denver"
 bio:
 social:
   - title: "website"

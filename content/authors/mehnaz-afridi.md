@@ -1,6 +1,6 @@
 ---
 name: Mehnaz Afridi
-affiliation:
+affiliation: "Manhattan College"
 bio:
 social:
   - title: "website"

@@ -8,7 +8,7 @@ keywords:
   - doctrinal-theology
   - god
 pdf: Maeshiro.pdf
-sort_id:
+sort_id: 06
 volume: 20
 issue: 1
 season: winter

@@ -1,6 +1,6 @@
 ---
 name: Daniel Reiser
-affiliation:
+affiliation: "Herzog College"
 bio:
 social:
   - title: "website"

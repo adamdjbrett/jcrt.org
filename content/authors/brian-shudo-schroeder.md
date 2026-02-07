@@ -1,6 +1,6 @@
 ---
 name: Brian Shūdō Schroeder
-affiliation:
+affiliation: "Rochester Institute of Technology"
 bio:
 social:
   - title: "website"

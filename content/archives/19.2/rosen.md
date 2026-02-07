@@ -8,7 +8,7 @@ keywords:
   - ejercito-zapatista-de-liberacion-nacional-mexico
   - political-participation
 pdf: Rosen.pdf
-sort_id:
+sort_id: 11
 volume: 19
 issue: 2
 season: spring

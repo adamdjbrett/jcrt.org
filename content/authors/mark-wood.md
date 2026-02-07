@@ -1,6 +1,6 @@
 ---
 name: Mark Wood
-affiliation:
+affiliation: "irginia Commonwealth University"
 bio:
 social:
   - title: "website"

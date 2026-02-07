@@ -1,6 +1,6 @@
 ---
 name: Jake S Sirota
-affiliation:
+affiliation: "University of Chicago"
 bio:
 social:
   - title: "website"

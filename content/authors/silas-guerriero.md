@@ -1,6 +1,6 @@
 ---
 name: Silas Guerriero
-affiliation:
+affiliation: "Pontifical Catholic University"
 bio:
 social:
   - title: "website"

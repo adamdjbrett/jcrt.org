@@ -1,6 +1,6 @@
 ---
 name: Mary-Jane Rubenstein
-affiliation:
+affiliation: "Wesleyan University"
 bio:
 social:
   - title: "website"

@@ -1,6 +1,6 @@
 ---
 name: Tamsin Jones
-affiliation:
+affiliation: "Trinity College"
 bio:
 social:
   - title: "website"

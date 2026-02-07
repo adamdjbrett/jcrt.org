@@ -8,7 +8,7 @@ keywords:
   - revival-movements-in-music
   - social-movements
 pdf: Macdonald.pdf
-sort_id:
+sort_id: 02
 volume: 21
 issue: 2
 season: spring

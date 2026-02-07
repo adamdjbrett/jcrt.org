@@ -10,7 +10,7 @@ keywords:
   - hegelianism
   - death-of-god
 pdf: Prewitt-Davis.pdf
-sort_id:
+sort_id: 13
 volume: 18
 issue: 2
 season: spring
