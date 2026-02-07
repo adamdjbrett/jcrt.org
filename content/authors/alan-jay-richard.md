@@ -1,6 +1,6 @@
 ---
 name: Alan Jay Richard
-affiliation:
+affiliation: "Realistic Living"
 bio:
 social:
   - title: "website"

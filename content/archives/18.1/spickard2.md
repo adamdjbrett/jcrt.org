@@ -1,15 +1,21 @@
 ---
-title:
-author:
+title: "SLOW JOURNALISM? ETHNOGRAPHY AS A MEANS OF UNDERSTANDING RELIGIOUS SOCIAL ACTIVISM."
+author: "JAMES V. SPICKARD"
 affilation:
-abstract:
-keywords: []
+abstract: 
+keywords:
+  - ethnology
+  - human-rights-organizations
+  - journalism
+  - other-social-advocacy-organizations
+  - social-advocacy
+  - social-advocacy-organizations
 pdf: Spickard2.pdf
-sort_id:
+sort_id: 15
 volume: 18
 issue: 1
 season: winter
-pages:
+pages: 138-155
 ---
 
 ---

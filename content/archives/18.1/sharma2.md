@@ -1,15 +1,18 @@
 ---
-title:
-author:
+title: "FRAMING RELIGIOUS CONFLICT AND VIOLENCE - INSIGHTS FROM HISTORICAL INSTITUTIONALISM."
+author: "VIVEK SWAROOP SHARMA"
 affilation:
-abstract:
-keywords: []
+abstract: 
+keywords:
+  - institutionalism-religion
+  - sectarian-conflict
+  - bharatiya-janata-party
 pdf: Sharma2.pdf
-sort_id:
+sort_id: 14
 volume: 18
 issue: 1
 season: winter
-pages:
+pages: 121-137
 ---
 
 ---

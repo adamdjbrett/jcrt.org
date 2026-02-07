@@ -7,7 +7,7 @@ keywords:
   - psychoanalysis
   - social-bonds
 pdf: Koser.pdf
-sort_id:
+sort_id: 05
 volume: 18
 issue: 1
 season: winter

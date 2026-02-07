@@ -8,7 +8,7 @@ keywords:
   - church-history
   - neoliberalism
 pdf: Beddard.pdf
-sort_id:
+sort_id: 02
 volume: 17
 issue: 3
 season: summer

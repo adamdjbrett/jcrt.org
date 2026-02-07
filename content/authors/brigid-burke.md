@@ -1,6 +1,6 @@
 ---
 name: Brigid Burke
-affiliation:
+affiliation: "Montclair State University"
 bio:
 social:
   - title: "website"
