@@ -6,9 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Bennett-Carpenter - The Divine Simulacrum of Andy Warhol - JCRT 1.3 
+---    Bennett-Carpenter - The Divine Simulacrum of Andy Warhol - JCRT 1.3 
 
 # The Divine Simulacrum of Andy Warhol: Baudrillard's Light on the Pope of Pop's "Religious Art"
 
@@ -22,65 +20,28 @@ From explicitly religious art to art that 'is, but isn't' 'religious,' from that
 
 ## The Religious Art of Andy Warhol
 
-    
-    
-    
-    
-    
-    
-    
     > who was at the opening with Warhol, told how this 'series appeared as an extension of the now-inaccessible message of Leonardo's famous masterpiece: a sort of replay and reactualization of the original fresco, an act which took on all its symbolic value on the white walls of the Palazzo delle Stelline,' which was a defunct convent that had been made into a gallery situated fifty meters from the Leonardo _Last Supper_'.Restany continued, 'Andy'seemed penetrated by the importance of the moment.' He greatly surprised me when he said to me: 'Pierre, do you think the Italians will see the respect I have for Leonardo?''Consciously or not, Warhol seemed to me to having acted there as a curator of a masterpiece of Christian culture, of maintaining a tradition he was a part of.'[^23]
-    
-    
-     
-     
 
 ## The 'Religious' Art of Andy Warhol
 
-     
-     
-     
-     
      > In Marilyn, Liz, Jackie, Warhol seeks an imagery that codes a private meaning placed at the service of a sacerdotal rite, one at odds with what these glossies might otherwise conjure in the public mind.' To Warhol, like all ritual artists, image is both representation and actuality, image become icon. 'Marilyn, Liz, Jackie supplant the hagiographics, the holy pictures of Andy's Pittsburgh boyhood.' Warhol's stars revert to an imagery of saints and intercessors now done up in Hollywood drag; his paintings celebrate a contemporary cult of movies and celebrity.' Warhol's icons are kind to sacred relic, embodiments through their very imagining, their very packaging, of the star's power and grace, however soiled during send-up, during ascension.[^43]
-     
-     
-     
-     
 
 ## The Disappearance (Transfiguration) of Art
 
-     
-     
      > \[Duchamp\] extracted the bottle rack from the real world', displaced it on another level to confer on it an undefinable hyperreality.' A paradoxical acting-out, putting an end to the bottle rack as a real object, to art as the invention of another scene and to the artist as the protagonist of another world.' To all aesthetic idealization Duchamp opposes a violent desublimation of art and of the real by their instantaneous short-circuit.' Extrematization of the two forms: the bottle rack, ex-inscribed from its context, from its idea, from its function, becomes more real than real (hyperreal), and more art than art (it enters into the transaesthetics of banality, of insignificance, of nullity, where today the pure and indifferent form of art is to be seen).[^55]
-     
-     
-     
+
      > contemporary painting cultivates not only ugliness (which is still an aesthetic value), but the uglier than the ugly (the 'bad,' the 'worse,' the 'kitsch'), an ugliness elevated to the second power because it is liberated from its relationship to its contrary and henceforth susceptible to redouble itself.' Thus, freed from the 'true' Mondrian', you are free to produce a Mondrian more Mondrian than Mondrian himself.' Freed from the genuine '_Naifs_ painters,' one can paint more 'naifs' than the _naifs_, etc'.Liberated from the real, you can create things more real than the real'hyperreal.[^61]
-     
-     
+
      > I asked Ivan \[Karp\] for ideas too, and at a certain point he said, ''Why don't you paint some cows, they're so wonderfully pastoral and such a durable image in the history of the arts.'' (Ivan talked like this.)' I don't know how 'pastoral' he expected me to make them but when he saw the huge cow heads'bright pink on a bright yellow background'that I was going to have made into rolls of wallpaper, he was shocked.' But after a moment he exploded with: 'They're _super_\-pastoral!' They're ridiculous!' They're blazing bright and vulgar!'' I mean, he loved those cows, and for my next show we papered all the walls in the gallery with them.[^64]
-     
-     
-     
 
 ## Divine Simulacrum
 
-     
-     
-     
-     
-     
      > To this murderous capacity is opposed the dialectical capacity of representations as a visible and intelligible mediation of the real.' All of Western faith'was engaged in this wager on representations: that a sign could refer to the depth of meaning and that something could guarantee this exchange'God, of course.' But what if God himself can be simulated, that is to say, reduced to the signs which attest to his existence?' Then the whole system becomes weightless; it is no longer anything but a gigantic simulacrum: not unreal, but a simulacrum, never again exchanging for what is real, but exchanging in itself, in an uninterrupted circuit without reference or circumference.[^74]
-     
-     
-     
+
      1.  It is the reflection of a basic reality.
      2.  It masks and perverts a basic reality.
      3.  It masks the _absence_ of a basic reality.
      4.  It bears no relation to reality whatever: it is its own pure simulacrum.[^75]
-
-     
-     
 
 > 1.  Does the image of Marilyn reflect a real Marilyn?
 >     
@@ -91,19 +52,12 @@ From explicitly religious art to art that 'is, but isn't' 'religious,' from that
 > 4.  Does the image of Marilyn bear no relation to a real Marilyn at all?' 'Is it its own pure simulacrum?'
 >     
 
-     
-
 > 3.  Warhol's 'original' silkscreen image of Marilyn
 > 
 > 2.  The cropped publicity photograph of Marilyn used by Warhol
 >     
 > 
 > 1.  Marilyn 'herself' at the photo shoot
-
-     
-     
-     
-     
 
 * * *
 
@@ -185,12 +139,6 @@ She also notes that the day after Warhol's death, a Swiss art journal which was 
 [![Open this article in a new window.](https://jcrt.org/images/menu/window.gif)](carpenter.shtml) [![Contents of this issue.](https://jcrt.org/images/menu/home.gif)](https://jcrt.org/archives/01.3/index.html) [![Print this page.](https://jcrt.org/images/menu/print.gif)](javascript:print\(\)) ['](https://jcrt.org/copyright.shtml) 2000 Benjamin Bennett-Carpenter. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/01.3/carpenter.shtml
-
----
-
----
-
----
 
 ---
 

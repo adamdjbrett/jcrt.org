@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-  Taylor - Refusing Theory - JCRT 4.2 
+---  Taylor - Refusing Theory - JCRT 4.2 
 
 # Refusing Theory: Avital Ronell and the Structure of Stupidity
-
-
 
 Victor E. Taylor  
 York College of Pennsylvania
@@ -55,19 +51,12 @@ York College of Pennsylvania
 
 Refusal, especially of theory and thinking, takes on many forms, visceral, fantastic, and linguistic. The first two are easily traced as "refusal" manifests itself as "strong reaction," either in tossing or in the fantasy of tossing a theory book or colleague out of a window--the complement to Wittgenstein's "poker." The third form of refusal is much more difficult to locate since it appears or seems to appear as something _not there_ or _not understood_ or _not gotten._ These "refusals" are "performative contradictions" in speech. Not understanding[^1] or, too simply, stupidity follows in this direction insofar as it expresses itself by its incapacity to properly express itself linguistically. "Duh," "er," "um," are instances of this refusal, a refusal of meaning. But is it altogether wrong to refuse meaning? Let's examine "duh." "Duh."[^2] It is generally understood to be an extra or para-linguistic symptom of discourse's pause or failure'something akin to Aristotle's "mere voice" or an animal _phone_[^3]. It is not a word _per se_ since it references the "unavailability" of discourse proper, but it is the title of a book, a website, and, now, included in an academic essay, perhaps not the first. "Duh" evokes presence through a feeling of absence, marking that which is unavailable to discourse or that which is obvious. For example, "'_Duh' evokes presence through a feeling of absence, marking that which is unavailable to discourse or that which is obvious, duh (or 'no duh')_." Since "duh" or even "no duh" is an extra or para-linguistic phenomenon expressing or performing an unavailability of or obviousness within discourse, it has theoretical consequences and, more precisely, consequences for the future of theory. "Duh," as a pause or failure or refusal, has been and remains the response to theory. This is easily testable by saying "_diff'rance_" in a departmental meeting. The testable "duh" transforms into the detestable "duh" as the pause or failure turns to "duh" as the expression or performance of the obvious--"duh (or duuuh), that's theory," a revving up or a coming to realization of some awareness, however minimal or previously unavailable discourse. "Duh" is not all bad, however. "Duh" has a significant place in the discursive practices surrounding academic, sometimes intellectual, discourse. "Duh" is evocative, calling up, as it were, stupidity's rich tradition and within this tradition "duh" stands the ground of refusal. Refusing "duh" means resisting stupidity and its double, a "refusing duh," conjures up a break between discourse and world. This duality of "duh," the evocation of stupidity and its refusal, also elicits a response from knowing, stupidity's reciprocal and necessary condition.
 
-    
-    
-    
     > It is undoubtedly someone's responsibility to name that which is stupid. In the recent past the task of denouncing stupidity, as if in response to an ethical call, has fallen to the "intellectual" or to someone who manages language beyond the sphere of its private contingencies. At least this is part of the fantasy: consider the tone of French, German, and English writers, not to say certain academics, who ceaselessly expose that which is stupid or has failed in understanding. Locating the space of stupidity has been part of a repertoire binding any intelligent'or, finally, stupid'activity that seeks to establish itself and territorialize its findings. The relatedness of stupidity to intelligence and, of possibly greater consequence, the status of modulations, usages, crimes, and valuations of stupidity itself remain to a large degree absent from the concerns of contemporary inquiry. No ethics or politics has been articulated to act upon its pervasive pull. Yet stupidity is everywhere.[^9] ''''''
-    
-    
+
     > Now the story of Thompson's signature, of what happened when Mr. Thompson, on that day, passed into perpetuity, cannot be restricted in range or significance to the status of example or anecdote, a parable in which the column would be left standing. In a rigorous sense, Thompson did pull the column from a context it might have enjoyed without his appropriative signature. It is as though the signing, a synecdoche of stupidity, defacing the memorial, had unstoppable consequences. Henceforth the monument essentially attributes stupidity and, for Flaubert at least, will have always been its attribute: Thompson has effected a substantiation of the attribute, for there is no stupidity without monument. Flagging the ancient, he answered a call that was no put out. The na've and insolent arrogance that consists in responding where no response is invited is an effect of monumental arrogance.[^12]
-    
-    
-    
-     
+
      > While I was resolutely not learning Tai Chi vocabulary, Deleuze had ended his life. In the memories and papers that remained, Deleuze, it was reported, had called for a thinking of stupidity: no one had ever produced a discourse, he was remembered to have said, that interrogates the transcendental principles of stupidity. I received this call as an assignment'when I write I am always taking a call, I am summoned from elsewhere, truly from the dead, even if they are my contemporaries.[^21]
-     
+
      > And
      > 
      > Date: Mon, 3 2003 09:35:06-0500
@@ -116,19 +105,14 @@ Refusal, especially of theory and thinking, takes on many forms, visceral, fanta
      > content, leaving the reader with increasingly more "difficult" 
      > texts. Could you comment on this intellectual "burden"? The 
      > burden of theoretical inquiry in an age of born-again criticism?
-     
-     
+
      > A tyrant institutionalized stupidity, but he is the first servant of his own system and the first to be installed within it. Slaves are always commanded by another slave. Here too, how could the concept of error account for this unity of stupidity and cruelty, of the grotesque and the terrifying, which doubles the way of the world? Cowardice, cruelty, baseness and stupidity are not simply corporeal capacities or traits of character or society; they are structures of thought as such. The transcendental landscape comes to life: places for the tyrant, the slave and the imbecile must be found within it--without the place resembling the figure who occupies it, and without the transcendental ever being traced from empirical figures which it makes possible. It is always our belief in the postulates of the _Cogitatio_ which prevents us from making stupidity a transcendental problem. Stupidity can then be no more than an empirical determination, referring back to psychology or to the anecdotal--or worse, to polemic and insults--and to the especially atrocious pseudo-literary genre of the _sottiser_.[^22]
-     
-     
 
 **II**
 
 Why does Avital Ronell answer Deleuze? Here, one must be a "disloyal reader" of _Stupidity_ and respond, "because she knows it is impossible to answer and not to answer." Deleuze's call is false, already unanswerable; it requests that which is impossible, making visible that which is invisible. However, in accepting the impossibility of the task Ronell resets the parameters, making the (im)possibility and inevitability of stupidity the hiatus to be confronted: "Never hitting home, unable to score, language is engaged in a permanent contest; it tests itself continually in a match that cannot even be said to be even or altogether futile because the fact remains that this match is ongoing, pausing occasionally only to count its loses."[^24] This seems to be less a response to Deleuze and more a rejoinder to Paul de Man whose "ghost" is visible (and invisible) throughout the book:
 
 > The contestatory structure, yielding no more than a poor score, paradoxically depends upon failure for its strength and empowerment. In this regard it resembles the ironic consciousness and the experience of permanent parabasis, the 'parabases of the ironic consciousness which has to recover its energy after each failure by reinscribing the failure into the ongoing process of a dialectic. But a dialectic, segmented by repeated negations, can never dance'. We might say, reinvoking the improbable _pas de deux_ of Nietzsche and Hegel, that a dance, as contestatory match, can never be a dialectic but, being engaged in a fundamental (mis)match, must, in a more Beckettian sense, go on and on, seeking referent and refuge. It is not so much that it casts about for the "right referent," as Paul de Man puts it, but that language as contest posits such a thing in order to fall short of it, to keep itself going.[^25]
-
-     
 
 > From:    Avital Ronell ar3@nyu.edu
 > To:      "Victor E. Taylor" Subject: Re
@@ -195,19 +179,13 @@ Why does Avital Ronell answer Deleuze? Here, one must be a "disloyal reader" of 
 
 Avital Ronell's "high Oedipal energy" study, as it cuts across the various appearances of stupidity in literature and philosophy, makes its own call. It is, in many ways, a call to "refusal"'a refusal to set aside difficulty and complexity, to set aside the call itself. The future of theory, I'll argue, is intimately related to the place of refusal in the humanities--refusing "duh" and "refusing duh"/refusing theory and "refusing theory." More than Bartleby's "preference" not to, not to live, Ronell's "refusal" is an anticipation of death, death as finality. As one thinks, one must be committed to life with this in mind, much in the same way Deleuze, ironically, championed vitality and creation, which is pure possibility. What, then, is the possibility of theory? Theory's future as it engages, refuses, and loses to stupidity? The answer begins not with a refusal of stupidity, however, but with a refusal of theory. Everyone associated with "theory" has what Ronell terms an "autobiographical ordeal," sometimes more than one, illustrating a resistance to theory. Ronell relates several in _Stupidity_\--one early in her career and the other at UC Berkeley where, as she describes it, had an "eviction" notice tacked to her door. The lesson from these "ordeals" and others is that when stupidity refuses theory something complex occurs'stupidity acts contrary to its own stupid impulse. Theory forces stupidity to become "theoretical," to, contrary to what Ronell argues, see itself or part of itself. In other words, stupidity reveals its own stupidity by drawing a contiguous line of thought from rhetoric to world, either in an "eviction" notice, rejection of a theory manuscript ("the fad of theory is over"), or in a negative tenure ballot ("His/her courses are too theoretical for our students"). In these instances, stupidity seeks refuge in "simplicity," a simplicity that it unavoidably complicates by its own act of referral to a homogeneous reality that does not exist.
 
-     
-     
      > The philosopher, the scientist, and the artist seem to return from the land of the dead. What the philosopher brings back from the chaos are _variations_ that are still infinite but that have become inseparable on the absolute surfaces or in the absolute volumes that lay out a secant \[_s'cant_\] plane of immanence: these are not associations of distinct ideas, but reconnections through a zone of indistinction in a concept. The scientist brings back from the chaos _variables_ that have become independent by slowing down, that is to say, by the elimination of whatever other variabilities are liable to interfere, so that the variables that are retained enter into determinable relations in a function: they are no longer links of properties in things, but finite coordinates on a secant plane of reference that go from local probabilities to a global cosmology. The artist brings back from the chaos _varieties_ that no longer constitute a reproduction of the sensory in the organ but set up a being of the sensory, a being of sensation, on an anorganic plane of composition that is able to restore the infinite.[^31]
-     
+
      And Avital Ronell from "Kant Satellite: The Figure Of The Ridiculous Philosopher; Or, Why I Am So Popular":
-     
+
      > _The satellite is set to gather information on the paradoxes and aporias of world-class popularity. As the device that tracks its findings, I can only open the dossier on this problem. A mere copier and data bank attached invisibly to a larger apparatus, I am programmed to situate the problem and respond to its call. Scanning and recording, I regulate the flow and generate further signals. There is something they're trying to tell me about an ancient complicity among Kant, Kierkegaard, and Kafka, and this consortium, they maintain, is related to the coordinates of what has passed for French theory. A matter of top planetary priority, high maintenance: high as Mount Moriah. Archival anxiety turning the clock back to what it never finished telling_.[^32]
-     
-     
+
      > The biggest bluff, for all that, may have occurred when the delusion was implanted, the hope nurtured, of a chosen people. Isaac, he was and was not called. More radically uncertain than persecution (when you know they're after you, you're already dead meat; you _are_ the ram caught in the bushes) is being cheated by the call. Too stupid to know whether your name was called, you are ridiculous . You are ready to go up for the sacrifice, but in the last moment you are benched. They don't need you. An animal will serve the purpose, your purpose. This call, it told you that you were the one, the chosen. You set yourself up to receive it, you were set up. A cheated cheater. It was no longer recognizable whether the call meant to serve as punishment or reward. Your father took the call. You inherited it, with all the expected static; you inherited his burden, which you thought you could lighten. You followed your father in mute complicity. As you were walking, as he was preparing to give you up, you could not tell, you simply could not decide, whether this call that expelled you from your house was a blessing or a curse.[^33]
-     
-     
-     
 
 * * *
 
@@ -234,12 +212,6 @@ What food do you like that the "hunger artist" may have enjoyed?
 
 © 2003 Victor E. Taylor. All rights reserved.  
 Updated 07/28/21.
-
----
-
----
-
----
 
 ---
 

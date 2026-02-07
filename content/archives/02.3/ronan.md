@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Ronan - Blessed Are They Who Mourn - JCRT 2.3 
+---    Ronan - Blessed Are They Who Mourn - JCRT 2.3 
 
 # Blessed Are They Who Mourn: Roman Catholic Sex/Gender Ideology after Vatican II
-
-
 
 Marian Ronan  
 American Baptist Seminary of the West
@@ -23,47 +19,15 @@ American Baptist Seminary of the West
 
 One widely accepted reading of twentieth century Roman Catholicism is that the Catholic Church became part of the modern world as a result of the Second Vatican Council (1962-1965). And certainly, some of the most widely hailed conciliar documents'"The Pastoral Constitution on the Church in the Modern World,"[^1] for example, and "The Declaration on Religious Freedom"[^2] 'reflect a new Catholic opening toward modern values.
 
-    
-    
-
 ### The Discourses of Mourning
-
-    
-    
-     
-     
-     
-     
-     
 
 ### Catholicism and Difference
 
-     
-     
-     
-     
-
 ### Catholic Sex/Gender Ideology
-
-     
-     
-     
-     
 
 ### Ecclesial Displacements
 
-     
-     
-     
-     
-
 ### Conclusion
-
-     
-     
-     
-     
-     
 
 * * *
 
@@ -82,12 +46,6 @@ One widely accepted reading of twentieth century Roman Catholicism is that the C
  ['](https://jcrt.org/copyright.shtml) 2001 Marian Ronan. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/02.3/ronan.shtml
-
----
-
----
-
----
 
 ---
 

@@ -6,9 +6,7 @@ affilation: 03
 abstract:
 keywords: []
 pdf:
----
-
- Lambert - The Work of Art - JCRT 1.1 
+--- Lambert - The Work of Art - JCRT 1.1 
 
 # The Work of Art in the Age of Alien Reproduction
 
@@ -26,42 +24,17 @@ Accompanied by reproductions of original artwork by [Jorgé Sicre](http://justar
 
 In 1755, nearly thirty years before _The Critique of Pure Reason,_ Immanuel Kant published a little known treatise on Newtonian mechanics and cosmology called _Universal Natural History and Theory of the Heavens._ [^1] It represents one of those oddities one runs into now and then, like finding an old photograph of oneself in the embarrassing tuxedo before a senior prom. It portrays the immature mind of the philosopher and demonstrates the tenor and range of any number of academic philosophers of Kant's time all engaged in heady explorations of the universe guided by the principles first charted by Newton. (The subtitle reads _"An Essay on the Constitution and Mechanical Origin of the Entire Cosmic-Edifice treated according to Newtonian Principles."_) Odder still is the appendix of the third part, "Of the Inhabitants of the Planets" (pp. 183ff) where, as the title promises, Kant takes up a philosophical discussion of extra-terrestrials. Of course, no "Theory of the Heavens" worth it weight in star-dust would leave out a section that speculates on the physical probability of other life forms than the human species, and here we already see the inclination toward what the French philosopher Gilles Deleuze would later call Kant's "Copernican turn." [^2] However, Kant's exposition is not so subtle and scientific concerning the existence of extra-terrestrials. Their existence, for Kant, is proven by mathematical certainty, and his discussion would have a closer resemblance today to those Web pages that contain ample information and data concerning the different species of extra-terrestrial beings, along with de-classified photos of the pyramids on Mars and instructions on how to build your own tele-porter or flying saucer. "At any rate," Kant declares, "most planets are certainly inhabited, and those that are not, will be one day" (Kant 186).
 
-    
-
 > which live in the forests on the head of a beggar, had long since considered their location an immense ball, and themselves as the masterpiece of creation, when one of them, endowed by Heaven with a more refined spirit, a small Fontenelle of his species, unexpectedly became familiar with the head of a nobleman. Immediately he called together all the witty heads of his quarters and told them with excitement: 'We are not the only living beings in nature; see, there, that new land, more lice live there'" (Kant 185)
-
-    
 
 > Because, according to its belief, nature is infinitely well adapted to its existence, the insect holds as irrelevant the entire remainder of nature which does not imply a direct reference to its species as the center of her aims. Man, standing immensely removed from the uppermost ranks of beings, is indeed bold to flatter himself in a similar delusion about the necessity of his own existence. (Kant 185)
 
-     
-     
-     
-
 > \[I\]f one wants to look for impediments, which keep human nature in such deep abasement, it will be found in the crudeness of matter into which his spiritual part is sunk, in the unbending of the fibers, and in the sluggishness and immobility of the fluids which should obey its stirrings. The nerves and brain deliver to him only gross and unclear concepts, and because he cannot counterbalance in the interior of his thinking ability the impact of sensory impressions with sufficiently powerful ideas, he will be carried away by his passions, confused and overwhelmed by the turmoil of the elements that maintain his bodily machine. (Kant 187)
-
-     
 
 > _That the excellence of thinking natures, the promptness of their reflections, the clarity and vivacity of the notions that come to them through external impression, together with their ability to put them together, finally also in the skill of their actual use, in short, the whole range of their perfection, stands under a certain rule, according to which these natures become more excellent and perfect in proportion to the distance of their habitats from the sun._ (Kant 189'_emphasis in original_)
 
-     
-     
-
 ## The Extra-Terrestrial in Modern Art
 
-     
-     
-     
-     
-     
-     
-     
-     
-     
-
 ## The Artist in the Caves of L.A.: Jorg' Sicre and the Extra-Terrestrial
-
-     
 
 [![''Ahura Mazda'', by Jorge Sicre](https://jcrt.org/archives/01.1/images/mazda.jpeg)](http://justart.com/home/sicre/default.html)
 
@@ -69,15 +42,9 @@ In 1755, nearly thirty years before _The Critique of Pure Reason,_ Immanuel Kant
 
 All Images ©Copyright Jorge Sicre
 
-     
-
 [![''Magus'', by Jorge Sicre](https://jcrt.org/archives/01.1/images/magus.jpeg)](http://justart.com/home/sicre/default.html)
 
 ©Copyright Jorge Sicre
-
-     
-     
-     
 
 [![''Encounter'', by Jorge Sicre](https://jcrt.org/archives/01.1/images/encounter.jpeg)](http://justart.com/home/sicre/default.html)
 
@@ -87,27 +54,17 @@ All Images ©Copyright Jorge Sicre
 
 All Images ©Copyright Jorge Sicre
 
-     
-     
-
 [![''Tree of Knowledge'', by Jorge Sicre](https://jcrt.org/archives/01.1/images/tree.jpeg)](http://justart.com/home/sicre/default.html)
 
 ©Copyright Jorge Sicre
-
-     
-     
 
 [![''Riverhood'', by Jorge Sicre](https://jcrt.org/archives/01.1/images/riverhood.jpeg)](http://justart.com/home/sicre/default.html)
 
 ©Copyright Jorge Sicre
 
-     
-
 [![''Portrait of a Western Man'', by Jorge Sicre](https://jcrt.org/archives/01.1/images/portrait.jpeg)](http://justart.com/home/sicre/default.html)
 
 ©Copyright Jorge Sicre
-
-     
 
 * * *
 
@@ -117,12 +74,6 @@ All Images ©Copyright Jorge Sicre
 
 ©1999 Gregg Lambert. Images © Jorge Sicre. All rights reserved.  
 Updated 11|11|99.
-
----
-
----
-
----
 
 ---
 

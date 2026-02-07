@@ -6,16 +6,12 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Hamner - A Private Happiness for All ... - JCRT 4.1 
+---    Hamner - A Private Happiness for All ... - JCRT 4.1 
 
 # A Private Happiness for All, Or,  
 How to Cure National Depression, Hold Down a Career, Fulfill the Maternal Function and Still Wage Feminist Battle with a Smile
 
 A Review of Julia Kristeva, _Revolt, She Said_, ed. Sylv're Lotringer, trans. Brian O'Keeffe (_Semiotext\[e\] Foreign Agents Series_: 2002); and Julia Kristeva and Catherine Cl'ment, _The Feminine and the Sacred_, translated by Jane Marie Todd (Columbia University Press: 2001).
-
-
 
 Gail Hamner  
 Syracuse University
@@ -27,23 +23,10 @@ as the principal note of our approach to both the sacred and the feminine._
 
 The above sentence forms the end of Julia Kristeva's entries in _The Feminine and the Sacred_, a book of letters she co-wrote with Catherine Cl'ment.[^1] Cl'ment's rejoinder is a mere two sentences, the second of which reads: '_Act_ will therefore be the last word.' Taken together the sentences cradle the best of _Revolt, She Said_, a collection of interviews with Kristeva that forms the substance of this review. Action, imperative, questioning, the sacred, and the feminine: these terms cradle 'the best' of _Revolt, She Said_. They also capture what is odd, if not downright problematic about it, a claim that will come as no surprise to those who have, like me, trudged through _The Feminine and the Sacred_ and wondered with depressing frequency why, exactly, I was reading this bizarre 'exchange'. Nonetheless, I will focus on what I find compelling and helpful in this short book.
 
-    
-    
-
-
 _It is when revolt becomes the majority position  
 that it takes to killing._[^3]
 
 ### Revolution
-
-    
-    
-    
-     
-     
-     
-     
-
 
 _I am not speaking of secularism, understood as a battle against religion,  
 but of atheism as the resorption of the sacred into  
@@ -51,34 +34,15 @@ the tenderness of the connection to the other._[^6]
 
 ### Sacred
 
-     
-     
-     
-     
-     
-
-
 _Supposing that a non-sacrificial sacred exists, might not the_ imaginary _be one of its possible variants?  
 The imaginary as eternal return, which opens the mind and body to an inquietude without end,  
 and makes it possible to stand straight and lithe in the world?_[^9]
 
 ### Political Action
 
-     
-     
-     
-     
-
-
 ### Femininity and Feminism
 
-     
-     
-
-
 ### Coda
-
-     
 
 * * *
 
@@ -97,12 +61,6 @@ and makes it possible to stand straight and lithe in the world?_[^9]
  ['](https://jcrt.org/copyright.shtml) 2002 Gail Hamner. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/04.1/hamner.shtml
-
----
-
----
-
----
 
 ---
 

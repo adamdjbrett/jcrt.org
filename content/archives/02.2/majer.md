@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Majer - On Contagions - JCRT 2.2 
+---    Majer - On Contagions - JCRT 2.2 
 
 # On Contagions: Leviticus and the Fascination of the Abomination
-
-
 
 Gerald Majer  
 Villa Julie College
@@ -23,71 +19,17 @@ Villa Julie College
 
 Contagions describe a communication. The nature of this communication varies: a contagion may communicate a disease, an idea, or a feeling. Unlike communication defined as an intentional act, contagions are distinguished by a non-volitional character; their essence is that we cannot control them, that they may secretly infiltrate or suddenly overwhelm us. (An exception would seem to be the case of a person deliberately infecting another; but only an effect at least once removed, the infection spreading to a third person, would qualify as contagion: strictly speaking, there could be no _act_ of contagion.) Thus contagions may be broadly understood as registering a certain weakness or vulnerability, a confusion or susceptibility of our thoughts and feelings, a potential disturbance of the integrity of our bodies and our identities. Contagion, with its trace of the Latin _tangere_, to touch (one might hear its catch in the sounding of the second syllable), suggests something that exceeds simple communication or contact'perhaps even a mortal fascination, an intimation of what touches at the very limit of our boundaries, what marks the uncertain proximity and distancing of a spacing, a between, somewhere inside us, outside us, or maybe elsewhere, impossible to locate precisely because contagions mark a shifting of locations, an unsettling of positions. (In the symphony hall, is the fit of coughing mine, or an echo of the others who are also coughing, or a break in the signifying-system of music and listening itself?)
 
-    
-    
-    
-    
-    
-    
-     
-     
-
 ## Mary Douglas and Leviticus
-
-     
-     
-     
-     
-     
-     
-     
 
 ## Paul Ricoeur and the Infinite Demand
 
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-
 > _Now Nadab and Abi'hu, the sons of Aaron, each took his censer, and put fire in it, and laid incense on it, and offered unholy fire before the Lord, such as he had not commanded them. And fire came forth from the presence of the Lord and devoured them, and they died before the Lord. Then Moses said to Aaron, "This is what the Lord has said, 'I will show myself holy among those who are near me, and before all the people I will be glorified.'" And Aaron held his peace._ (10:1-3)
-
-     
-     
-     
-     
 
 > _If any man of the house of Israel ' eats any blood, I will set my face against that person ' and will cut him off from among his people. For the life of the flesh is in the blood; and I have given it for you upon the altar to make atonement for your souls; for it is the blood that makes atonement, by reason of the life_ (17:10-11).
 
-     
-
 > _Then he shall go out to the altar which is before the Lord and make atonement for it, and shall take some of the blood ' and put it on the horns of the altar round about. And he shall sprinkle some of the blood upon it with his finger seven times, and cleanse it and hallow it from the uncleannesses of the people of Israel._ (16:18-9).
 
-     
-     
-
 ## Jean-Luc Nancy and the Fascination of Sacrifice
-
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
 
 * * *
 
@@ -106,12 +48,6 @@ Contagions describe a communication. The nature of this communication varies: a 
  ['](https://jcrt.org/copyright.shtml) 2001 Gerald Majer. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/02.2/majer.shtml
-
----
-
----
-
----
 
 ---
 

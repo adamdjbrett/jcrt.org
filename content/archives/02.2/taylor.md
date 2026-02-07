@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Taylor - The Metaphysics of Indeterminacy - JCRT 2.2 
+---    Taylor - The Metaphysics of Indeterminacy - JCRT 2.2 
 
 # The Metaphysics of Indeterminacy: Postmodern Religious Theory and The Ruin of Referentiality
-
-
 
 Victor E. Taylor  
 York College of Pennsylvania
@@ -52,35 +48,25 @@ York College of Pennsylvania
 
 Pure Being without exteriority, without analogical reference, giving rise to a desire [^1] to find one's way from here to there'Dante, Montaigne, Descartes . . . The seventeenth century theological vision of a bicameral reality guides Sir Thomas Browne's (1605-1682) [^2] poetic affirmation of faith to a distressed compromise between doubt and reason. This "fideism" or futility of a this-worldliness against the infinitude of God makes clear his belief in a life lived ingressing into the "divine shadow." Not Descartes and certainly not Montaigne, Browne advances a theory of religion as a resolvable disjunction between blind faith and rational and skeptical processes. The finality of his judgment comes only in a form of condemnation of the here and now, the finite. It is a necessary repudiation if one follows a deconstructive logic, insofar as the limitless derives is value from the limited, negatively. The materiality of this world gives way to the spirituality of the next, forming not a dialectical synthesis but an annihilation of the former. Monuments, pyramids and obelisks, for Browne, are further testament to the failure of the material-temporal to satisfactorily render the divine. And yet "noble" and common believers dedicate monuments in all forms to ephemeral lives, last signs of a continuity between an ever-expanding singularity and its deictic parameter, all last signs, "ready to be anything, in the ecstasy of being ever." From Browne's text, God becomes the _telos_ and (necessarily) the process by which everything is annihilated and again restored. God is that which equates the solidity of marble and the fluidity of sand, form and dissemination, with finality a subdued readiness to become anything, all things without end. The invocation of an ecstatic God, not an "immortal diamond" as Gerard Manley Hopkins would later declare, a God in process representing an "infallible perpetuity" making time and space immeasurable by the fact that measure is impossible, creates a radical limitlessness in the center of theology, an epistemological infidelity by which the concept of God in Christianity, through the perpetuity of creation in the resurrection, exceeds its own ideational boundary.
 
-    
     > "To the limit," it will be argued, still presupposes a limit. Here, limit \[_peras_\] no longer refers to what maintains the thing under a law, nor to what delimits or separates it from other things. On the contrary, it refers to that on the basis of which it is deployed and deploys all its power; hubris ceases to be simply condemnable and the smallest becomes equivalent to the largest once it is not separated from what it can do. This enveloping measure is the same for all things, the same also for substance, quality, quantity, etc., since it forms a single maximum at which the developed diversity of all degrees touches the equality which envelops them. This ontological measure is closer to the immeasurable state of things than to the first kind of measure; this ontological hierarchy is closer to the hubris and anarchy of beings than to the first hierarchy. It is the monster which combines all the demons. The words "everything is equal" may therefore resound joyfully, on the condition that they are said _of_ that which is not equal in this equal, univocal Being: equal being immediately present in everything, without mediation or intermediary, even though things reside unequally in this equal being. There, however, where they are borne by hubris, all things are in absolute proximity, and whether they are large or small, inferior or superior, none of them participates more or less in being, nor receives it by analogy. Univocity Being is at once and the same time nomadic distribution and crowned anarchy.[^4]
-    
-    
+
     > In all ages men have spoken of an absolutely necessary being, and in so doing have endeavoured, not so much to understand whether and how such a thing of this kind allows even being thought, but rather to prove its existence. There is, of course, no difficulty in giving a verbal definition of the concept, namely that it is something the non-existence of which is impossible. But this yields no insight into the conditions which make it necessary to regard the non-existence of a thing as absolutely unthinkable. It is precisely these conditions that we desire to know, in order that we may determine whether or not, in resorting to this concept, we are thinking anything at all.[^5]
-    
-    
+
     1.  _The Logic of Sense_
-        
+
         Philosophy merges with ontology, but ontology merges with the univocity of Being (analogy has always been a theological vision, not a philosophical one, adapted to the form of God, the world, and the self). The univocity of Being does not mean that there is one and the same Being; on the contrary, beings are multiple and different, they are always produced by a disjunctive synthesis, and they themselves are disjointed and divergent, _membra disjuncta_.[^7]
-        
+
     2.  _Difference and Repetition_
-        
+
         Representation essentially implies an analogy of being. However, the only realized Ontology'in other words, the univocity of being'is repetition.[^8]
-        
+
         Deleuze's method is thus a method that rejects all recourse to mediations; indeed, this is why it is essentially antidialectical. Mediation is an explemplary category; supposedly, it enables the passage from one being to another "under" a relation that is internal to at least one of the two. For Hegel, for example, this internalized relation is the negative. However, insofar as the univocal Being is affirmation through and through, the negative is totally impossible. In introducing the negative into Being, one ends up with equivocity and, in particular, with the most ancient variants'the one that, for Deleuze, defines the "long error," which consists in proclaiming that Being is said according to the sense of its identity and according to the sense of its nonidentity, that it is said as Being and/or as Nothingness. These are the famous "two paths" of Parmenides (the path that affirms Being and that which affirms Non-being). But Deleuze immediately raises the objection that "There are not two 'paths', as Parmenides' poem suggests, but a single 'voice' of being which includes all its modes, including the most diverse, the most varied, the most differentiated." The dialectical method, as method of mediations that claims to internalize the negative, merely partakes of this interminable error.[^9]
-        
-    
-    
+
     > The three planes, along with their elements, are irreducible_: plane of immanence of philosophy, plane of composition of art, plane of reference or coordination of science; forms of concept, force of sensation, function of knowledge; concepts or conceptual personae, sensations and aesthetic figures, figures and partial observers_. Analogous problems are posed for each plane: in what sense and how is the plane, in each case, one or multiple'what unity, what multiplicity? But what to us seem more important now are problems of interference between planes that join up in the brain.[^14]
-    
 
 ![](https://jcrt.org/archives/02.2/images/klee.gif)
 
 Paul Klee. _Heads_, 1913
-
-    
-     
-     
 
 * * *
 
@@ -99,12 +85,6 @@ Paul Klee. _Heads_, 1913
  ['](https://jcrt.org/copyright.shtml) 2001 Victor E. Taylor All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/02.2/taylor.shtml
-
----
-
----
-
----
 
 ---
 

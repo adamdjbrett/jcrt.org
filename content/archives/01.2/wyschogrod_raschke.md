@@ -6,9 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-Line wrap
+---Line wrap
 
 <html>
 
@@ -40,13 +38,9 @@ Line wrap
 
 <!-- End Wayback Rewrite JS Include -->
 
-  
-
 <title>JCRT Issue 1.2 - Contents</title>
 
 <meta name\="ROBOTS" content\="NOINDEX,NOFOLLOW">
-
-  
 
 <!--
 
@@ -55,8 +49,6 @@ Joust Outliner Version 2.4
 (c) Copyright 1996-1999, Alchemy Computing Limited. All rights reserved.
 
 This code may be freely copied and distributed provided that it is accompanied by this header.
-
-  
 
 Do not modify anything between here and the "End of Joust" marker other than the "Initialise" function
 
@@ -1632,15 +1624,11 @@ theMenu.reload();
 
 var theBrowser = new browserInfo;
 
-  
-
 var jsErrorMsg = 'A JavaScript error has occurred on this page! Please note down the ';
 
 jsErrorMsg += 'following information and pass it on to the WebMaster.';
 
 if (theBrowser.canOnError) {self.onerror = defOnError;}
-
-  
 
 var theMenu = new Menu;
 
@@ -1670,10 +1658,6 @@ smSecurityMsg += 'change modes while a page from another server is being display
 
 smSecurityMsg += 'The default home page for this site will be displayed instead.';
 
-  
-
-  
-
 var floatingMode = (getMode() == 'Floating');
 
 var myOpener = null;
@@ -1700,11 +1684,7 @@ if (getMode() != 'Frames') {document.cookie = 'mode=Frames; path=/';}
 
 }
 
-  
-
 // ############################ End of Joust ############################
-
-  
 
 function initOutlineIcons(imgStore) {
 
@@ -1737,8 +1717,6 @@ imgStore.add('iconJoinTop', ip + 'jointop.gif', 18, 16);
 imgStore.add('iconJoin', ip + 'join.gif', 18, 16);
 
 imgStore.add('iconJoinBottom', ip + 'joinbottom.gif', 18, 16);
-
-  
 
 //Add folder and document images to the imgStore.
 
@@ -1786,8 +1764,6 @@ index2 = 'index2.html';
 
 index3 = 'index3.html';
 
-  
-
 // Set up parameters to control menu behaviour
 
 theMenu.autoScrolling = true;
@@ -1816,8 +1792,6 @@ theMenu.contentFrame = "text";
 
 theMenu.defaultTarget = "text";
 
-  
-
 // Initialise all the icons
 
 initOutlineIcons(theMenu.imgStore);
@@ -1834,23 +1808,17 @@ level1ID = theMenu.addEntry (-1, "TOC", "Table of Contents", "home.html", "View 
 
 theMenu.entry\[level1ID\].target = "text";
 
-  
-
 level1ID = theMenu.addEntry (level1ID, "Document", "The Division of Religion With Signs Following", "taylor.shtml", "Victor E. Taylor");
 
 theMenu.entry\[level1ID\].target = "text";
 
 theMenu.entry\[level1ID\].multiLine = true;
 
-  
-
 level1ID = theMenu.addEntry (level1ID, "Folder", "Talk", "", "");
 
 level2ID = theMenu.addChild (level1ID, "Document", "Heterological History: A Conversation", "wyschogrod\_raschke.shtml", "Edith Wyschogrod and Carl A. Raschke");
 
 theMenu.entry\[level2ID\].multiLine = true;
-
-  
 
 level1ID = theMenu.addEntry (level1ID, "Folder", "Articles", "", "");
 
@@ -1886,11 +1854,7 @@ level2ID = theMenu.addEntry (level2ID, "Document", "Re-Constructing Theological 
 
 theMenu.entry\[level2ID\].multiLine = true;
 
-  
-
 level1ID = theMenu.addEntry (level1ID, "Folder", "Extras", "", "Extra Material");
-
-  
 
 level2ID = theMenu.addChild (level1ID, "download", "Download This Issue", "../zips/01.2.zip", "Download Full HTML");
 
@@ -1901,8 +1865,6 @@ theMenu.entry\[level2ID\].target = "text";
 level2ID = theMenu.addEntry (level2ID, "form", "JCRT Forum", "https://web.archive.org/web/20010503043257/http://www.jcrt.org/cgi-bin/ultraboard/UltraBoard.pl", "Post Your Comments");
 
 theMenu.entry\[level2ID\].target = "text";
-
-  
 
 level2ID = theMenu.addChild (level1ID, "form", "Send Feedback", "../../contact.html", "Comments and Suggestions");
 
@@ -1916,17 +1878,11 @@ theMenu.entry\[level1ID\].multiLine = true;
 
 }
 
-  
-
 self.defaultStatus = "";
-
-  
 
 //-->
 
 </script>
-
-  
 
 </head>
 
@@ -2256,35 +2212,23 @@ Explorer version 3.0</a> or <a href="https://web.archive.org/web/20010503043257/
 
 version 2.0</a>, you'll have a much more pleasant experience navigating around this site.</p>
 
-  
-
 <p><i><b>Opera Users:</b> Although Opera 3.0 supports JavaScript, there is a bug in their implementation
 
 which prevents the menu system on this site from working. Opera 3.2 fixes the problem.</i></p>
-
-  
 
 <p><i><b>Note:</b> There is a know bug in Netscape Navigator version 4.0.x which will cause you to see this message
 
 if you have the local cache turned off.</i></p>
 
-  
-
 <p>If you have any problems with this site, please contact the Webmaster.</p>
 
-  
-
 <p>Click <a href="index3.html">here</a> to see the non-JavaScript version of this site.</p>
-
-  
 
 <a href="robots.html"></a>
 
 </body>
 
 </noscript>
-
-  
 
 </html>
 
@@ -2295,8 +2239,6 @@ FILE ARCHIVED ON 04:32:57 May 03, 2001 AND RETRIEVED FROM THE
 INTERNET ARCHIVE ON 23:26:10 Nov 13, 2025.
 
 JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-  
 
 ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
 
@@ -2331,10 +2273,3 @@ nav: 0.232 (6)
 \-->
 
 ---
-
----
-
----
-
----
-

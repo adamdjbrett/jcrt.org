@@ -6,9 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-  Smith - Difficult History - JCRT 1.2 
+---  Smith - Difficult History - JCRT 1.2 
 
 # Difficult History
 
@@ -21,31 +19,13 @@ Millsaps College
 
 Tellers of historical truth need several basic conditions to be met. Most obviously, they need epistemologically safe access to the past: it must be possible to locate evidences of past events and draw inferences about them that are, if never guaranteed to be free of distortion, at least relatively corrigible, so that distinctions may be drawn between more and less credible historical propositions. Historians need reliable methods of communication and tractable materials, so that their telling of the _res gestae_ can yield a coherent _historia rerum gestarum__._ They need to assume a steady, clear production of durations and before-and-after positions, so that events and sequences can be given accurate temporal characterizations. They need a safe harbor for historical learning in human memory. Finally, historians need to anticipate that their work can help to sustain a community of understanding and action--that is, that history can be _appropriated_ in such a way as to strengthen substantial bonds between the subjects, tellers, and hearers of history.
 
-    
-    
-    
-
 ### Representation
-
-    
 
 ### Images
 
-    
-
 ### Time
 
-    
-     
-
 ### Community
-
-     
-     
-     
-     
-     
-     
 
 * * *
 
@@ -53,19 +33,11 @@ Tellers of historical truth need several basic conditions to be met. Most obviou
 
 * * *
 
-
-
 * * *
 
 [![Open this article in a new window.](https://jcrt.org/images/menu/window.gif)](smith.shtml) [![Contents of this issue.](https://jcrt.org/images/menu/home.gif)](https://jcrt.org/archives/01.2/index.html) [![Print this page.](https://jcrt.org/images/menu/print.gif)](javascript:print\(\)) ['](https://jcrt.org/copyright.shtml) 2000 Steven G. Smith. All rights reserved.  
 Updated 03|31|00.   
 http://jcrt.org/archives/01.2/smith.shtml
-
----
-
----
-
----
 
 ---
 

@@ -32,9 +32,7 @@ volume: 1
 issue: 1
 season: winter
 pages:
----
-
-  Crockett - Anxiety and the S(ub)lime Body of God - JCRT 1.1
+---  Crockett - Anxiety and the S(ub)lime Body of God - JCRT 1.1
 
 # Anxiety and the S(ub)lime Body of God
 
@@ -50,50 +48,15 @@ Wesley College
 
 In his seminar on _The Four Fundamental Concepts of Psycho-Analysis_, Jacques Lacan provocatively claims that "man's desire is the desire of the Other."[^1]' The Other (_Autre_) represents the social unconscious, but in a structural or functional, rather than ontological sense. Socially, human beings are constructed in their subjectivity by social pressures and demands. There exists within individuals an opening towards the social field as a whole, which is evoked in every action or desire of the individual.
 
-    
-    
-    
-    
-    
-    
-    
-     
-
 ## The Slimy Subject
 
-     
-     
-     
      > There's a horrendous discovery here, that of the flesh one never sees, the foundation of things, the other side of the face, the secretory glands _par excellence_, the flesh from which everything exudes, at the very heart of the mystery, the flesh in as much as it is suffering, is formless, in as much as it is something which provokes anxiety. Spectre of anxiety, identification of anxiety, the final revelation of _you are this--You are this, which is so far from you, this which is the ultimate formlessness_.[^14]
-     
-     
 
 ## Freud's Anxiety and God's Body
 
-     
-     
-     
-     
-     
-     
-     
-
 ## Not-All vs. the Exception: Anxiously Writing the Body of God
 
-     
-     
-     
-     
-     
-     
      > true, I may be a tiny particle of dust thrown around by wind and sea, powerless in face of the raging forces of nature, _yet all this fury of nature pales in comparison with the absolute pressure exerted on me by the superego, which humiliates me and compels me to act against my fundamental interests!_[^33]
-     
-     
-     
-     
-     
-     
-     
 
 * * *
 
@@ -101,12 +64,6 @@ In his seminar on _The Four Fundamental Concepts of Psycho-Analysis_, Jacques La
 * * *
 
 © 1999 Clayton Crockett. All rights reserved.
-
----
-
----
-
----
 
 ---
 

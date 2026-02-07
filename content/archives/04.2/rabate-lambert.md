@@ -6,16 +6,12 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
- Rabaté & Lambert - Conversation on The Future of Theory - JCRT 4.2 
+--- Rabaté & Lambert - Conversation on The Future of Theory - JCRT 4.2 
 
 # Conversation on _The Future of Theory_\*
 
 Jean-Michel Rabaté  
 University of Pennsylvania
-
-
 
 Gregg Lambert  
 Syracuse University
@@ -23,48 +19,6 @@ Syracuse University
 * * *
 
 T_his public conversation was recorded at an event held at [The Slought Gallery](http://slought.org), Philadelphia, November 1st 2002, as part of a series called "Conversations in Theory," organized by Aaron Levy, curator. (Approximately 80 mins. in length.) A streaming audio archive of this event is available_:    ![](http://www.slought.net/incl/img/archive/icon_real.gif) [**Real Media Stream**](http://www.slought.net/toc/archives/residue.php?play1=1065)    ![](http://www.slought.net/incl/img/archive/icon_wm.gif) [**Windows Media Stream**](http://www.slought.net/toc/archives/residue.php?play4=1065)   \[ [Media Support](http://slought.org/toc/support/streamingmedia-use.php) \]
-
-    
-    
-    
-    
-    
-    
-    
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
 
 * * *
 
@@ -88,12 +42,6 @@ T_his public conversation was recorded at an event held at [The Slought Gallery]
  ['](https://jcrt.org/copyright.shtml) 2003 Jean Michel Rabaté and Gregg Lambert. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/04.2/rabate-lambert.shtml
-
----
-
----
-
----
 
 ---
 

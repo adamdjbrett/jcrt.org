@@ -6,9 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-  Ruf - Ride of Passage - JCRT 1.2
+---  Ruf - Ride of Passage - JCRT 1.2
 
 # The Ride of Passage: The Pursuit of Danger, Trance, and Failure in Mark Twain, Paul Bowles, and Us
 
@@ -19,52 +17,9 @@ Georgetown University
 
 The road is before us!" Walt Whitman proclaims in 'Song of the Open Road,' asking us to drop everything in an endless journey: "The long brown path before me leading wherever I choose.' Whitman's poem, in fact, all of his work establishes the model for an American attitude toward travel. It is an attitude that is not oriented around an end to be gained, but a never-ending movement, expansive, restless, and difficult. We can see the attitude in Henry Miller, in Paul Bowles, in Mark Twain, and in many contemporary travelers and writers--Alphonso Lingis, Diane Johnson, Mary Morris, Susan Brind Morrow, and Jack Gilbert. They all leave home, often for very extended periods, and go to places which are not mildly but radically different: Morocco, the Philippines, the Middle East, India, Nicaragua. When they go someplace familiar like Greece they search for and discover what is most foreign about it (as Miller relishes being cheated by guides or encountering a man who had been imprisoned for murder). They are all drawn to confusions that make the pulse race and are sometimes dangerous.
 
-    
-    
-    
-    
-    
-    
-    
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
      > covered streets like corridors with doors opening into rooms on each side, hidden terraces high above the sea, streets consisting only of steps, dark impasses, small squares built on sloping terrain so that they looked like ballet sets designed in false perspective, with alleys off in several directions....
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
 
 \* \* \*
-
-     
-     
 
 * * *
 
@@ -77,19 +32,11 @@ This essay is drawn from _Bewildered: Travel and the Quest for Confusion_, a wor
 
 * * *
 
-
-
 * * *
 
 [![Open this article in a new window.](https://jcrt.org/images/menu/window.gif)](ruf.shtml) [![Contents of this issue.](https://jcrt.org/images/menu/home.gif)](https://jcrt.org/archives/01.2/index.html) [![Print this page.](https://jcrt.org/images/menu/print.gif)](javascript:print\(\)) ['](https://jcrt.org/copyright.shtml) 2000 Frederick Ruf. All rights reserved.  
 Updated 03|31|00.   
 http://jcrt.org/archives/01.2/ruf.shtml
-
----
-
----
-
----
 
 ---
 

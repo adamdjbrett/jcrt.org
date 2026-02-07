@@ -6,15 +6,11 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Scott - Brain Science Supports Contemporary Religious Trends - JCRT 3.3 
+---    Scott - Brain Science Supports Contemporary Religious Trends - JCRT 3.3 
 
 # Brain Science Supports Contemporary Religious Trends
 
 a review of Andrew Newberg M.D., et al., _[Why God Wont Go Away: Brain Science and the Biology of Belief](http://service.bfast.com/bfast/click?bfmid=2181&sourceid=27747321&bfpid=0345440331&bfmtype=book)_. New York: The Ballantine Publishing Group, 2001. 320pp. $14.00. ISBN: 0345440331
-
-
 
 Noel Dane Scott  
 Western Carolina University
@@ -22,13 +18,6 @@ Western Carolina University
 * * *
 
 Contemporary trends in American religion have long been moving away from traditional theology and ethics. A recent manifestation of this trend is that many people now prefer to call themselves 'spiritual' rather than 'religious.' The term, 'spiritual,' seems to mean that one is pursuing a self-determined spiritual journey grounded in authentic, private experience. This is in opposition to being 'religious,' which seems to mean that one is sectarian by adhering to the practices and beliefs of a historically established religious tradition. 'Spiritual' people believe that private experience makes public theology and ethics at best redundant and at worst abhorrent 'as being spiritual is to be more open, tolerant and authentic. It follows that 'spiritual' people have little knowledge and less need of the theology and ethics that grounds the tradition in which they often, ostensibly participate. Public theology is washed-out by the common denominator of private experience. It remains to be seen if this is a positive development for religion.
-
-    
-    
-    
-    
-    
-    
 
 * * *
 
@@ -43,12 +32,6 @@ Contemporary trends in American religion have long been moving away from traditi
  ['](https://jcrt.org/copyright.shtml) 2002 Noel Dane Scott. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/03.3/scott.shtml
-
----
-
----
-
----
 
 ---
 

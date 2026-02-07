@@ -6,9 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
- Halpern - Creation: Lacan in Kansas - JCRT 2.1 
+--- Halpern - Creation: Lacan in Kansas - JCRT 2.1 
 
 # Creation: Lacan in Kansas
 
@@ -19,24 +17,13 @@ University of California at Berkeley
 
 Jacques Lacan did not, to my knowledge, ever visit Kansas. But this essay will take him on a brief albeit posthumous journey there. More specifically, I want to examine Lacan's views on creationism, as developed in his seventh seminar _The Ethics of Psychoanalysis_, and apply them to an understanding of so-called "creation science" as espoused by certain American fundamentalist Protestant sects today.[^1] Creation science broke into the news when the Kansas State Board of Education, now dominated by proponents of creationism, voted in 1999 to drop evolutionary theory from the lists of topics on which high school students are tested. While the national news media predictably shuddered at this event, they should not have been surprised. A 1997 Gallop poll determined that only 10% of Americans accept the Darwinian theory of evolution, while 44% believe that human beings were created directly by God less than 10,000 years ago, and 39% believe in a kind of theist amalgam, holding that human beings did evolve slowly from animals but under the guidance of a divine hand. The ongoing cultural contest between evolutionist and creationist thought presents a useful case study, I believe, for the intersection of religion and psychoanalysis. It is, moreover, directly relevant to Lacan's endorsement of creationist modes of thought, since he contrasts these favorably with the theory of evolution, about which he has some initially surprising things to say.
 
-    
-    
-    
-    
     > It is paradoxically only from a creationist point of view that one can envisage the elimination of the always recurring notion of creative intention as supported by a person. In evolutionist thought, although God goes unnamed throughout, he is literally omnipresent. An evolution that insists on deducing from continuous process the ascending movement which reaches the summit of consciousness and thought necessarily implies that that consciousness and that thought were there at the beginning. It is only from the point of view of an absolute beginning, which marks the origin of the signifying chain as a distinct order and which isolates in their own specific dimension the memorable and the remembered, that we do not find Being \[_l'tre_\] always implied in being \[_l'tant_\], the implication that is at the core of evolutionist thought (213-214).
-    
+
     One can see what Lacan wants to say, but what he actually claims is surprising, to say the least. Creation strikes him as less metaphysical than evolution, because the latter is linear and teleological while the former involves a moment of absolute discontinuity (between the symbolic and the real) in the formation of a conscious subject, thus assuring that consciousness (and hence a Creator) are not there from the beginning. But of course, even the version of evolutionary theory prevalent at mid-century (prior, that is, to the development of such patently discontinuous concepts as punctuated equilibrium) did not view evolution as a continuous process, much less a teleological one. This is just the sort of thing that sets Alan Sokol's mouth watering, and for good reason. For my part, I honestly cannot tell if Lacan simply misunderstands the science or is playing a subtle game. In the latter case, his strategy may make more sense if we look at the cultural reception of evolutionary theory in France at the time of the Seventh Seminar.
-    
-    
-    
-    
-     
-     
-     
+
      > We have the dissociation between the rationalist Moses and the inspired, obscurantist Moses, who is scarcely ever discussed. But basing his argument on the examination of historical evidence, Freud finds no other path adapted to the transmission of the rationalist Moses' message than that of darkness; in other words, this message is linked through repression to the murder of the great Man. And it is precisely in this way, Freud tells us, that it could be transmitted and maintained in a state of efficacy that can be historically measured (174).
-     
+
      What holds for monotheist doctrine holds as well for psychoanalytic or evolutionary doctrine: the transmission of a rationalist message traces the path of darkness or obscurity. If the Thing requires the Law to live (as Lacan argues, paraphrasing St. Paul), it is conversely true that the Law requires the Thing. It may therefore be the case that the obscurantism which Darwinists deplore in their opponents is the necessary but often misrecognized precondition for the propagating of their own viewpoint. Thus it is that the debate between creationists and evolutionists does not (ironically enough) evolve but returns inevitably to the same place, the empty place of the Thing.
-     
 
 > *   [Introduction](https://jcrt.org/archives/02.1/intro_reinhard_lupton.shtml) - Julia Reinhard Lupton, University of California Irvine.
 > *   [Revelation](reinhard_lupton.shtml) - Kenneth Reinhard, University of California Los Angeles & Julia Reinhard Lupton, University of California at Irvine.
@@ -59,12 +46,6 @@ Jacques Lacan did not, to my knowledge, ever visit Kansas. But this essay will t
 [![Open this article in a new window.](https://jcrt.org/images/menu/window.gif)](halpern.shtml) [![Contents of this issue.](https://jcrt.org/images/menu/home.gif)](https://jcrt.org/archives/02.1/index.html) [![Print this page.](https://jcrt.org/images/menu/print.gif)](javascript:print\(\)) ['](https://jcrt.org/copyright.shtml) 2000 Richard Halpern. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/02.1/halpern.shtml
-
----
-
----
-
----
 
 ---
 

@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Weiss - Mecha Love: A Review of Steven Spielberg's A.I. - JCRT 2.3 
+---    Weiss - Mecha Love: A Review of Steven Spielberg's A.I. - JCRT 2.3 
 
 # Mecha Love: A Review of Steven Spielberg's _A.I._
-
-
 
 Dennis Weiss  
 York College of Pennsylvania
@@ -23,28 +19,11 @@ In _Life on the Screen_ Sherry Turkle argues that today the ontological distance
 
 > It is a mind that is not yet a mind. It is inanimate yet interactive. It does not think, yet neither is it external to thought. It is an object, ultimately a mechanism, but it behaves, interacts, and seems in a certain sense to know. It confronts us with an uneasy kinship. After all, we too behave, interact, and seem to know, and yet are ultimately made of matter and programmed DNA. We think we can think. But can it think? Could it have the capacity to feel? Could it ever said to be alive? (22)
 
-    
-    
-    
-    
-    
-    
-     
-
 > When there are computers who are just as smart as people, the computer will do a lot of the jobs, but there will still be things for the people to do. They will run the restaurants, taste the food, and they will be the ones who will love each other, have families and love each other (81).
-
-     
 
 > \[Many adults\] saw the computer as a psychological object, conceded that it might have a certain rationality, but sought to maintain a sharp line between computers and people by claiming that the essence of human nature was what computers couldn't do. Certain human actions required intuition, embodiment, or emotions. Certain human actions depended on the soul and the spirit, the possibilities of spontaneity over programming. (82)
 
-     
-     
-
 > Pinocchio ultimately is a parable of the process by which a caring and loving human being is created out of the narcissistic self of the infant .' He must learn to be a human child. He must appreciate the specific qualities of identification, imagination, and empathy which are at the roots of human love. To become truly human, he must first learn to hear the voice of conscience; to identify with those who are hungry, poor, and in misery; to appreciate the profound joy of giving that transcends the ephemeral pleasure of receiving. Or, in the words of his guardian angel, the Blue Fairy, to possess all that she subsumes under the heading of "a good heart." (129)
-
-     
-     
-     
 
 * * *
 
@@ -71,12 +50,6 @@ In _Life on the Screen_ Sherry Turkle argues that today the ontological distance
  ['](https://jcrt.org/copyright.shtml) 2001 Dennis Weiss. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/02.3/weiss.shtml
-
----
-
----
-
----
 
 ---
 

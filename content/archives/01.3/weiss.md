@@ -6,9 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-     Weiss - Posthuman Pleasures - JCRT 1.3
+---     Weiss - Posthuman Pleasures - JCRT 1.3
 
 # Posthuman Pleasures: Review of N. Katherine Hayles' _How We Became Posthuman_
 
@@ -21,111 +19,47 @@ York College of Pennsylvania
 
 _Cover shot_: _Wired_, a magazine of and for the digerati, February 2000.' Poised against an ominous backdrop, 'cybernetics pioneer' Kevin Warwick stands with his shirt sleeve rolled up ready for a fix. But in this case 'the fix' is a superimposed x-ray image disclosing a glass-enclosed microchip surgically implanted in Warwick's left arm. Warwick, the cover announces, is upgrading the human body'starting with himself. 'Cyborg 1.0,' the accompanying article penned by Warwick, outlines his plan to become one with his computer. Writes Warwick: 'I was born human. But this was an accident of fate'a condition merely of time and place. I believe it's something we have the power to change. I will tell you why' (145). Warwick intends to implant a chip in his arm that will send signals back and forth between his nervous system and a computer. For Warwick, being human is merely an accident of time and place, an accident that given the right computing power and the right cybernetics, we might well be able to 'fix.'
 
-    
-    
-    
-    
-    
-    
     > If my nightmare is a culture inhabited by posthumans who regard their bodies as fashion accessories rather than the ground of being, my dream is a version of the posthuman that embraces the possibilities of information technologies without being seduced by fantasies of unlimited power and disembodied immortality, that recognizes and celebrates human finitude as a condition of human being, and that understands human life is embedded in a material world of great complexity, one on which we depend for our continued survival. (5)
-    
-    
+
     1.  The posthuman view privileges informational pattern over material instantiation, so that embodiment in a biological substrate is seen as an accident of history rather than an inevitability of life.
-        
+
     2.  The posthuman view considers consciousness as an epiphenomenona, as an evolutionary upstart trying to claim that it is the whole show when in actuality it is only a minor sideshow.
-        
+
     3.  The posthuman view thinks of the body as the original prosthesis we all learn to manipulate, so that extending or replacing the body with other prostheses becomes a continuation of a process that began before we were born.
-        
+
     4.  The posthuman view configures human being so that it can be seamlessly articulated with intelligent machines. In the posthuman, there are no essential differences or absolute demarcations between bodily existence and computer simulation, cybernetic mechanism and biological organism, robot teleology and human goals.
-        
-    
-     
-     
-     
-     
+
      > Artificial life'is devoted to the creation and study of lifelike organisms and systems built by humans. The stuff of this life is nonorganic matter, and its essence is information: computers are the kilns from which these new organisms emerge. Just as medical scientists have managed to tinker with life's mechanisms in vitro, the biologists and computer scientists of a-life hope to create life _in silico_.' (5)
-     
-     
-     
-     
+
      > Transforming the body into a flow of binary code pulsing through neurons was an essential step in seeing human being as an informational pattern. In context this transformation can be seen as a necessary simplification that made an important contribution to neurophysiology. Taken out of context, it is extrapolated to the unwarranted conclusion that there is no essential difference between thought and code.' (61)
-     
-     
-     
-     
 
 > > When system boundaries are defined by information flows and feedback loops rather than epidermal surfaces, the subject becomes a system to be assembled and disassembled rather than an entity whose organic wholeness can be assumed. (160).
 
-     
-     
-     
-
 > > Whereas the body is an idealized form that gestures toward a Platonic reality, embodiment is the specific instantiation generated from the noise of difference. Relative to the body, embodiment is other and elsewhere, at once excessive and deficient in its infinite variations, particularities, and abnormalities. (196-97)
-
-     
 
 > > Incorporation emerges from the collaboration between the body and embodiment, between the abstract model and the specific contexts in which the model is instantiated. In contrast to inscription, which can be transported from context to context once it has been performed, incorporation can never be cut entirely free from its context. (200)
 
-     
-
 > > Speaking for myself, I now find myself saying things like, 'Well, my sleep agent wants to rest, but my food agent says I should go to the store.' Each person who thinks this way begins to envision herself or himself as a posthuman collectivity, an I transformed into the we of autonomous agents operating together to make a self. The infectious power of this way of thinking gives 'we' a performative dimension. People become posthuman because they think they are posthuman. (6)
-
-     
-     
 
 > > Human being is first of all embodied being, and the complexities of this embodiment mean that human awareness unfolds in ways very different from those of intelligence embodied in cybernetic machines .'There is a limit to how seamlessly humans can be articulated with intelligent machines, which remain distinctively different from humans in their embodiments' (283-84).
 
-     
-
 > > No longer is human will seen as the source from which emanates the mastery necessary to dominate and control the environment. Rather, the distributed cognition of the emergent human subject correlates with'the distributed cognitive system as a whole, in which thinking is done by both human and nonhuman actors .'When the human is seen as part of a distributed system, the full expression of human capability can be seen precisely to _depend_ on the splice rather than being imperiled by it. (290)
-
-     
-     
 
 > > In this account, emergence replaces teleology; reflexive epistemology replaces objectivism; distributed cognition replaces autonomous will; embodiment replaces a body seen as a support system for the mind; and a dynamic partnership between humans and intelligent machines replaces the liberal humanist subject's manifest destiny to dominant and control nature. (288)
 
-     
-     
-     
      > Although human behavior varies across a wide spectrum of actualization, it nevertheless has an underlying universal structure determined by evolutionary adaptations. Thus a _science_ of evolutionary psychology is possible, for the existence of a universal underlying structure guarantees the regularities that any science needs in order to formulate coherent and consistent knowledge. (242, italics in the original)
-     
-     
-     
-     
+
      > From an evolutionary biologist's point of view, modern humans, for all their technological prowess, represent an eye blink in the history of life, a species far too recent to have significant evolutionary impact on human biological behaviors and structures .'The body is the net result of thousands of years of sedimented evolutionary history, and it is na've to think that this history does not affect human behavior at every level of thought and action. (284)
-     
-     
 
 > > When the body is revealed as a construct, subject to radical change and redefinition, bodies of knowledge are similarly apt to be seen as constructs, no more inevitably than the organic form that images them. (85)
 
-     
-
 > > Working with a VR simulation, the user learns to move his or her hand in stylized gestures that the computer can accommodate. In the process, the neural configuration of the user's brain experiences changes, some of which can be long-lasting. The computer molds the human even as the human builds the computer. (47)
-
-     
-     
 
 > > If pattern is the realization of a certain set of possibilities, randomness is the much, much larger set of everything else, from phenomena that cannot be rendered coherent by a given system's organization to those the system cannot perceive at all. (286)
 
-     
-     
-     
-     
-     
-
 > > Borderline patients lack a core self without which the registering of and pleasure in a variety of experiencing of ourselves, others, and the outer world are simply not possible. Those who celebrate or call for a 'decentered' self seem self-deceptively na've and unaware of the basic cohesion within themselves that makes the fragmentation of experiences something other than a terrifying slide into psychosis.' (218-219)
 
-     
-     
-     
-     
-     
-
 > > A self, according to my theory, is an abstraction defined by the myriads of attributions and interpretations (including self-attributions and self-interpretations) that have composed the biography of the living body whose Center of Narrative Gravity it is. As such, it plays a singularly important role in the ongoing cognitive economy of that living body, because, of all the things in the environment an active body must make mental models of, none is more crucial than the model the agent has of itself. (428)
-
-     
-     
-     
 
 * * *
 
@@ -172,12 +106,6 @@ Wolfe, Alan. _The Human Difference_. Berkeley: U of California P, 1993.
 [![Open this article in a new window.](https://jcrt.org/images/menu/window.gif)](weiss.shtml) [![Contents of this issue.](https://jcrt.org/images/menu/home.gif)](https://jcrt.org/archives/01.3/index.html) [![Print this page.](https://jcrt.org/images/menu/print.gif)](javascript:print\(\)) ['](https://jcrt.org/copyright.shtml) 2000 Dennis M. Weiss. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/01.3/weiss.shtml
-
----
-
----
-
----
 
 ---
 

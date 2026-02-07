@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Rashkover - The Semiotics of Embodiment - JCRT 3.3 
+---    Rashkover - The Semiotics of Embodiment - JCRT 3.3 
 
 # The Semiotics of Embodiment: Radical Orthodoxy and Jewish-Christian Relations
-
-
 
 Randi Rashkover  
 York College of Pennsylvania
@@ -23,68 +19,29 @@ One of the greatest thorns in the side of Jewish-Christian relations has been co
 
 ### Narrative Theology and the Eucharist
 
-    
-    
-
 ### Radical Orthodoxy and the body of Jesus
-
-    
-    
-    
-     
-     
-     
-     
 
 ### Re-viewing Desire
 
-     
-     
-
 ### The Donating Community
-
-     
-     
-     
-     
-     
-     
-     
 
 ### Jesus' Semiotic Body and Rabbinic Hermeneutics
 
-     
-     
-
 ### The Torah and the Nearness of the Divine Word
 
-     
      > Rabbi Joshua b. Levi said: When Moses ascended on high, the ministering angels spoke before the Holy One, blessed be He, 'Sovereign of the universe! What business has one born of woman among us?' He answered them, 'He has come to receive the Torah.' They said to Him, 'That secret treasure . . . Thous desirest to give to flesh and blood! . . . The Holy One, blessed be He, said to Moses, 'Return them an answer.' . . . He \[then\] spoke before Him, 'Sovereign of the universe! The Torah which Thou givest me, what is written therein? I am the Lord thy God, who brought thee out of the land of Egypt (Exod. 20:2). 'Said he to them \[the angels\], 'Did you go down to Egypt? Were you enslaved to Pharoah?, etc. Again what is written therein? Remember the Sabbath day, to keep it holy (Exod. 20:8). Do you then perform work that you need to rest?, etc. Again, what is written therein? Honor thy father and thy mother (Exod. 20:12). Do you have any fathers and mothers? . . . Straight away they conceded to Him." [^23]
-     
+
      Responding to the story Joseph Soloveitchik says, "God does not wish to hand over His Torah to the ministering angels. . . he handed over His Torah to Moses, who brought it down to the earth and caused it to dwell among human beings . . ."[^24] Elliot Wolfson has done much to highlight the incarnational themes within the mystical tradition and speaks of "the textualization of God ' that is, God's becoming concretely manifest in the form of the Torah."[^25]
-     
-     
-     
+
      > By going back to the Hebrew text from the translations . . . \[one discovers\] the strange or mysterious ambiguity or polysemy authorized by the Hebrew syntax . . . words coexist rather than immediately being coordinated or subordinated with and to one another . . . returning to the Hebrew text . . . makes it more difficult than one thinks to decide on the ultimate intention of a verse . . . there is no one verse, not one word of the Old Testament - . . . .read by way of revelation that does not half-open to an entire world . . . .[^29]
-     
+
      Moreover, this plurivocal character acts as an invitation, a mandate, if you will for readers to participate in the creativity of the Torah. The Torah's plurivocity translates into its interpretability and as Levinas says, "this invitation to seek and decipher, to Midrash, already constitutes the reader's participation in the Revelation, in Scripture. The reader, in his own fashion, is a scribe."[^30] Rabbinic hermeneutics is eucharistic and through it "we get a first indication of what we might call the 'status' of the Revelation: its coming from elsewhere, from outside, and simultaneously dwelling in the person who receives it."[^31]
-     
 
 ### The Semiotics of Torah and Desire
 
-     
-     
-     
-     
-     
-     
-     
      > Scriptural Reasoning therefore emerges out of the dialectic of modernity as the expression of a new, creative activity. . . . One may begin to see a coherence among the use of the following chain of tropes: a world to come, which is the product of resurrection; the Oral Torah, in which the written Torah lives its resurrected life; recreation, which is the way in which this second life is created; and, finally the "revealing of the divine presence," which -- to be distinguished from some aboriginal divine voice ' God speaks again and there is new life. . . . \[B\]y listening to the voice of our Creator speaking through the words of scripture we have received through the past traditions that have interpreted them, through the sufferings that have engendered the end of modernity, and through finally the hope that must move us if we are at all to move.[^38]
-     
 
 ### Semiotics of Embodiment and Jewish-Christian Relations
-
-     
 
 * * *
 
@@ -103,12 +60,6 @@ One of the greatest thorns in the side of Jewish-Christian relations has been co
  ['](https://jcrt.org/copyright.shtml) 2002 Randi Rashkover. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/03.3/rashkover.shtml
-
----
-
----
-
----
 
 ---
 

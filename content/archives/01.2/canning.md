@@ -6,9 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-  Canning - Jesus Christ Holocaust - JCRT 1.2
+---  Canning - Jesus Christ Holocaust - JCRT 1.2
 
 # Jesus Christ Holocaust: Fabulation of the Jews in Christian and Nazi History
 
@@ -27,72 +25,6 @@ Peter Canning
 
 It once seemed obvious to everyone concerned that the script of history had been written by God. The chronicle of events and persons of this world had significance only in figural relation with the ideal Biblical types they reflected. The Book in turn was organized such that Old Testament types of the fallen world were sublimated into New Testament anti-types of the world saved and consummated in the risen Christ. To Bossuet in the seventeenth century this schema was still compelling and evident, though he perhaps had to work harder for his faith than his medieval fathers. But in the following century, the rationalist critique of religion relegated Bossuet's ideal Biblical history to the status of a quaint and obscurantist fable.[^1]
 
-    
-    
-    
-    
-    
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-
 * * *
 
 ### Notes
@@ -103,18 +35,10 @@ It once seemed obvious to everyone concerned that the script of history had been
 
 * * *
 
-
-
 * * *
 
 © 2000 Peter Canning. All rights reserved.  
 Updated 03|31|00.
-
----
-
----
-
----
 
 ---
 

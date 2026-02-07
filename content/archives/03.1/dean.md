@@ -6,9 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-     Dean - The Archaeology of American Thought - JCRT 3.1 
+---     Dean - The Archaeology of American Thought - JCRT 3.1 
 
 # Book Profile: The Archaeology of American Thought
 
@@ -21,14 +19,6 @@ Iliff School of Theology
 
 After 300 years, that great majority of philosophers who have regularly dismantled traditions of wisdom now seem like a rather predictable group. By those standards, today's true philosophical radicals are those who risk their reputations by affirming these traditions. Even so, it is still implicitly believed that good philosophers judiciously destroy, leaving judiciously, construction to the bad ones. Thus, for example, when Richard Rorty wrote _Achieving Our Country_ to endorse just one of America's traditions (the liberal political tradition) . . . well, this was slightly embarrassing.
 
-    
-    
-    
-    
-    
-    
-    
-
 * * *
 
 > 
@@ -38,12 +28,6 @@ After 300 years, that great majority of philosophers who have regularly dismantl
  ['](https://jcrt.org/copyright.shtml) 2001 William Dean. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/03.1/dean.shtml
-
----
-
----
-
----
 
 ---
 

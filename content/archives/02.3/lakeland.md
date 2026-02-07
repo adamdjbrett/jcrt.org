@@ -6,15 +6,11 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-     Lakeland - Book Profile: Beyond Foundationalism - JCRT 2.3 
+---     Lakeland - Book Profile: Beyond Foundationalism - JCRT 2.3 
 
 # Book Profile
 
 Stanley J. Grenz and John R. Franke, _Beyond Foundationalism: Shaping Theology in a Postmodern Context_. Louisville, KY: Westminster John Knox Press. xi + 298 pages. First edition. ISBN 0-664-25769-0.
-
-
 
 Paul Lakeland  
 Fairfield University
@@ -22,11 +18,6 @@ Fairfield University
 * * *
 
 Since at least the time of the publication of George Lindbeck's _The Nature of Doctrine_ (1984), foundationalism in theology has been on the defensive, if not definitively routed. Lindbeck's cultural theory of religion, dubbed "postliberalism," was equally critical of traditional "propositionalism" and what he called "experiential-expressivism, roughly the post-Schleiermacherian romantic trend in theology. The target of Lindbeck's by-now classic critique was any attempt to set a standard or hermeneutical frame of reference by which the truth of doctrine was to be measured, thus any "foundation" external to the Christian narrative.
-
-    
-    
-    
-    
 
 * * *
 
@@ -41,12 +32,6 @@ Since at least the time of the publication of George Lindbeck's _The Nature of D
  ['](https://jcrt.org/copyright.shtml) 2001 Paul Lakeland. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/02.3/lakeland.shtml
-
----
-
----
-
----
 
 ---
 

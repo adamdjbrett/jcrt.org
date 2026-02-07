@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Grimshaw - Preacher, or the Death of God in Pictures - JCRT 3.2 
+---    Grimshaw - Preacher, or the Death of God in Pictures - JCRT 3.2 
 
 # _Preacher_, or the Death of God in Pictures
-
-
 
 Michael Grimshaw  
 University of Canterbury
@@ -21,45 +17,17 @@ University of Canterbury
 
 We philosophise on the end of lots of things, but it is here that they actually come to an end."[^1] Jean Baudrillard in his episodic 'postcard' treatise on hyperreal America, (the theorist as traveller), posits a vision of the USA as simultaneously both a paradoxical 'realised utopia'[^2] and "the _only remaining primitive society_"[^3], a dystopian utopia, a society best understood from the sacrificial expanse of the desert horizon. Baudrillard's aphorism on America as the land of 'last things' finds pop-culture realisation in the pages of Garth Ennis' _Preacher_, a 66-issue, graphic novel. For if Nietzsche proclaimed the Death of God in the 1880s and the 'Death of God' theologians debated the merits of this claim; if _Time_ asked the question in 1966, then readers of _Preacher_ comic actually see it happen. God dies. God is shot. God is killed. And you understand why.
 
-    
-    
-    
-    
-    
-    
-    
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
      > At its core it stood for a distrust of any kind of authority; a romanticised belief in working-class culture (street credibility); the worth of rebellion for its own sake; and the fetishisation of violence (real or imaginary).[^33]
-     
+
      This nihilistic punk aesthetic is an important undercurrent to _Preacher_ not only in Jesse's a/theology but also in its critique of Kurt Cobain and the nihilistic music of grunge as sub narrative. For Ennis is saying that to believe in the salvific, redemptive example of suicidal rock stars (whether Sid Vicious or Kurt Cobain) is as self-defeating as those believing in a God who profess love but display indifference. Here Aresface stands in for all damaged humanity, briefly succeeding himself as punk rock celebrity because of his hideous appearance but then just as quickly discarded. Ennis states that the lack of paternal affection is what drives adolescents into the worship of these nihilistic, narcissistic stars. Here the inauthentic punk star is an analogy for the inauthentic God, who likewise feeds off his fans, who often damage themselves in attempting various forms of salvific imitation.
-     
-     
+
      > The illustrations are not really illustrations of what's going on. The narration isn't really describing what's going on. There is a gap there, and somewhere in that gap is reality.[^34]
-     
+
      To read a comic is therefore to engage in looking beyond what is being presented to the fuller picture behind the panels. This acknowledgement of the artificiality of presentation paradoxically allows the presentation of the fantastical as 'real'. The other important link is that _Preacher_ is making use of a mythology and history that appears from the viewpoint of late modern post-enlightenment society rather fantastical and 'artificial'. This has been noted in an interview with Garth Ennis:
-     
+
      > Of course, being in the comic world allows you to throw in casually, "We have this reanimating serum that can bring fish back to life." Which would be out of place in a more realistic book. Like in _Preacher_, there's a lot of supernatural things going on, but if you accept Christian mythology, that's the only jump you have to make. In DC you have Christian mythology and radioactive superheroes and space aliens...[^35]
-     
+
      The comic can therefore present what is, in a modernist, secular world, often viewed as unpresentable. Yet in its mixing of genres and mythologies _Preacher_ is perhaps the ultimate form of a postmodern, eclectic, religious sensibility of pastiche. It aims not only to implement such a cosmology upon the world of its readers but also must at some level reflect their eclectic cosmology for it to garner such acclaim both critically and in the realm of consumer appreciation. At this level _Preacher_ acts as an icon for the postmodern GenX religious sensibility - a melange of tradition, pop culture, Gnostic occultism, and the mediaization of our religious sensibility[^36]. And while a movie can approximate this experience, only a comic book series can enable a drawn out engagement over a period of five years to create of a sub-world for the reader to engage with and within.
-     
-     
-     
 
 * * *
 
@@ -77,12 +45,6 @@ We philosophise on the end of lots of things, but it is here that they actually 
  ['](https://jcrt.org/copyright.shtml) 2002 Michael Grimshaw. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/03.2/grimshaw.shtml
-
----
-
----
-
----
 
 ---
 

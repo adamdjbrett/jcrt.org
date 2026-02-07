@@ -6,16 +6,12 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Taylor & Raschke - About About Religion - JCRT 2.2 
+---    Taylor & Raschke - About About Religion - JCRT 2.2 
 
 # About _About Religion_: A Conversation with Mark C. Taylor
 
 Mark C. Taylor  
 Williams College
-
-
 
 Carl A. Raschke  
 University of Denver
@@ -23,52 +19,6 @@ University of Denver
 * * *
 
 _Mark C. Taylor is widely known for his reworking of the theological enterprise in terms of the philosophy of Jacques Derrida and the movement within the humanities that came to be known as "deconstruction". Taylor himself has denoted this approach as "a/theology." In recent years he has turned his attention to the subjects of religion and "religious studies," which he argues can only be compassed in an interdisciplinary, or non-disciplinary, manner. The following conversation between Taylor and Carl A. Raschke, senior editor of the_ Journal for Cultural and Religious Theory_, engages in a free-wheeling style the sorts of themes and issues which Taylor has brought to the forefront. It takes as a point of departure Taylor's recent book entitled_ About Religion: Economies of Faith in Virtual Culture _(University of Chicago Press, 1999). There's something "about" religion? What is that all about? The conversation probes that question._
-
-    
-    
-    
-    
-    
-    
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
 
 * * *
 
@@ -85,12 +35,6 @@ _Mark C. Taylor is widely known for his reworking of the theological enterprise 
  ['](https://jcrt.org/copyright.shtml) 2001 Mark C. Taylor and Carl A. Raschke. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/02.2/taylor\_raschke.shtml
-
----
-
----
-
----
 
 ---
 

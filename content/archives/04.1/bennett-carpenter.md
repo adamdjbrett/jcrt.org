@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Bennett-Carpenter - Quoting Mieke Bal's Navel - JCRT 4.1 
+---    Bennett-Carpenter - Quoting Mieke Bal's Navel - JCRT 4.1 
 
 # Quoting Mieke Bal's Navel: Contemporary Theory, Preposterous Religion
-
-
 
 Benjamin Bennett-Carpenter  
 Catholic University of America
@@ -23,65 +19,13 @@ Catholic University of America
 
 Art and literary theorist Mieke Bal may be read in terms of a philosophy or theory of religion in a genealogy that begins with Kierkegaard, runs through Nietzsche and Heidegger and concludes in the vicinity of Merleau-Ponty, Foucault, and Derrida.[^1] With Kierkegaard and Nietzsche, hers is a post-Christendom, post-christian theory of religion that could be described at the outset as 'preposterous.' With Nietzsche and Heidegger, her critical and interpretive strategies _circulate_, not to attempt a circumvention of meaning, but to negotiate the limits of significant horizons. With Heidegger and Merleau-Ponty, she follows a _bodied_ phenomenology that can never extricate itself from the world and earth. With Derrida and Foucault, she is both deconstructive and post-structuralist as she moves amongst the play of signs and the rhetoric of resistance. Finally, she stands as an alternative to Baudrillard in a world of theory after Foucault and Derrida or, at least, in the midst of their traces.
 
-    
-    
-    
-    
-    
-    
-     
-     
-
 **II**
-
-     
-     
-     
-     
-     
 
 **III**
 
-     
-     
-     
-     
-     
-     
-
 **IV**
 
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-
 **V**
-
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
 
 _Special thanks to Stephen Happel who introduced me to "Mieke Bal" and who offered significant feedback at several points during the writing of this article._
 
@@ -209,12 +153,6 @@ _Special thanks to Stephen Happel who introduced me to "Mieke Bal" and who offer
  ['](https://jcrt.org/copyright.shtml) 2002 Benjamin Bennett-Carpenter. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/04.1/bennett-carpenter.shtml
-
----
-
----
-
----
 
 ---
 

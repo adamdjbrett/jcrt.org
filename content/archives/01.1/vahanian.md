@@ -6,9 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-  Vahanian - The Otherness of Time - JCRT 1.1
+---  Vahanian - The Otherness of Time - JCRT 1.1
 
 # The Otherness of Time: Secularisation as Worlding of the Word and the Hallowing of Time
 
@@ -31,54 +29,6 @@ Gabriel Vahanian
 * * *
 
 If there really is a text that _seems_ "timeless," that acquires kind of a timeless patina, it is the passage from _Confessions_ where, tackling the most banal of conversation topics--time, what is it?--Saint Augustine lets go of the handrail and indulges a remark as simple as it is sublime: "I know well enough what it is, provided that nobody asks me; but if I am asked what it is and try to explain, I am baffled".[^1] Given time, nothing frustrates knowledge as does knowledge, or memory as does memory. And while, for Augustine, knowledge is bound up with memory, and memory with knowledge, and both seem to hang on time, time, littering or scattered about on their interface, is less a negation of knowledge than a de-negation of memory. One thing is to remember or to know. Another is to have faith. And what is time if one does not have it, and what does one have unless one has it on faith? Is not time's use to wear faith, especially if faith itself does not consist of drawing, so to speak, God out of forgetfulness, but of _timing_ God? And timing God is more than simply reminiscing God, just as knowledge is more than a vestige of time, just as memory is no shorting of time but a desire for time and its fullness, its timeliness rather than its timelessness.
-
-    
-     
-
-     
-     
-     
-
-     
-     
-
-
-     
-     
-
-
-     
-     
-     
-
-
-     
-     
-     
-
-     
-     
-     
-
-
-
-     
-     
-
-     
-     
-
-
-
-     
-     
-     
-
-
-     
-     
-     
-     
 
 * * *
 
@@ -126,12 +76,6 @@ If there really is a text that _seems_ "timeless," that acquires kind of a timel
 
 © 1999 Gabriel Vahanian. All rights reserved.  
 Updated 11|11|99.
-
----
-
----
-
----
 
 ---
 

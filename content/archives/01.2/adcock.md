@@ -6,9 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-  Adcock - Xena Warrior Princess - JCRT 1.2
+---  Adcock - Xena Warrior Princess - JCRT 1.2
 
 # Xena Warrior Princess and the Texture of the Religious: Re-imagining the Role of Popular Culture in Academic Discourse
 
@@ -35,49 +33,41 @@ David A. Adcock, Rice University
 Every episode of _Xena Warrior Princess_ opens with a narration. It begins, 'She was Xena, a mighty princess' and ends with the phrase, 'Her courage will change the world.' Changing worlds mark(s) the trajectory of both _Xena_ and this essay, and it is precisely the locus of the televisual as an expression of popular culture which will serve as the vehicle for articulating certain concerns about critical discourse. To speak naively about popular culture, religion and academic discourse as separate--or even separable--'entities' is becoming increasingly difficult. The French theorist of religion and culture, Michel de Certeau, insightfully traces the inextricability of cultural forms from the dynamic of culture in general. Cultural dynamics and our-selves are already co-implicated in each other.[^1] In addition, others, like the self-acclaimed a/theologian, Mark C. Taylor, have also argued that the religious and the secular cannot be extracted as separate conditions of existence, for the two are different aspects of the same condition.[^2] De Certeau theorizes as to why we sometimes think of these as separate conditions. He notes, as an example, that 'science'--or to make the observation relevant for this essay, the critical-reflective discourse of the academy--claims to give to itself its own 'proper and appropriable' place or identity. It places the 'world' \[or the other\] as the _object_ of its study and scrutiny. In an effort to distance itself from its object, it 'constitutes the _whole_ as its _remainder_," as something outside itself, and this 'remainder' is what we call culture.[^3]
 
 *   Complicating the academic appropriation of pop culture has been the historical trajectory of cultural studies. From Raymond Williams, E.P. Thompson and Stuart Hall, to the Marxist philosopher Antonio Gramsci, to the more recent work of Pierre Bordieu, cultural theorists have viewed culture as a site of struggle. The materials of cultural expression become objects which, when studied appropriately, reveal these conflicting forces. These are then portrayed as a hierarchical relationship, expressed by means of a rhetoric of dominance, power and resistance. However, pop culture critic Angela McRobbie notes:
-    
+
     > Culturalism, in so far as it was concerned with the active experience of culture by subordinate groups and classes, fell foul of its own complexity.. . . \[I\]t found slippages and inconsistencies and contradictions. . . . The founding categories of class, gender and race were invariably cut across by other, often stronger, points of identification such as region, religion, or nationality. And there were other problems. Culturalism emphasized agency and the active engagement of the group or individual in creating their own cultural space. This was often stressed at the expense of other acts of conformity or quiescence.[^4]
-    
+
 *   In other words, McRobbie recognizes that while culture certainly includes conflicting forces, it also includes homogenizing tendencies, forces which seem to minimize distance and difference.
-    
+
 *   Another problem in the trajectory of cultural studies concerns what once was called 'mass culture.' Leslie Fiedler, in a 1969 critical essay, 'Cross the Border, Close the Gap,' drew attention to a 'new' trend in the 'popular' culture which blurred the distinction between 'high' and 'low' cultures. He noticed that a part of the larger culture, at least in America, appropriated 'high' or 'authentic' cultural forms like art or classic literature. Yet, they re-contextualized these into new 'popular' forms in which the 'originals' were almost unrecognizable. He predicted the rise and dominance of a 'popular' culture which, as a matter of course, promiscuously combined bits and pieces of 'authentic' cultural entities, thus collapsing any 'illusion' of a distance between the elite and the populace. He argued that increasingly critical reflection on such a cultural amalgam would require a broader contextual sensitivity in which the 'proper concern' of the critic would be 'the private juncture of a thousand contexts . . . in the consciousness of the lonely reader (delivered for an instant, but an instant only, from all of those contexts by the _ekstasis_ of reading).'[^5]
-    
+
 *   _Xena Warrior Princess_ aptly illustrates the collapse of Fiedler's 'authentic' high culture. Birthed out of the quasi-Greek mythical world of the almost-equally-popular _Adventures of Hercules_ series, _Xena_ mixes Greco-Roman mythology with contemporary and historical cultural tropes like the western, the often criticized and parodied beauty pageant, Indiana Jones-like archaeological adventures, Dantean visions of Heaven and Hell, Roman crucifixions, Hun-like hordes, and even the biblical figure of Goliath. _Xena_ equally reconfigures and experiments with conceptions of gender, class, and ethnicity, as well as religious symbols and ideas.
-    
+
 *   _Xena_ performs a mythological reconstruction and reconfiguration of the self, and this performative text projects new possibilities for imagining our-selves and the world. Still, it is precisely this kind of anarchic, textual refabrication which Fiedler predicted would become problematic for cultural studies. French cultural critic Jean Baudrillard describes these textual reconstructions as 'third-order simulacra,' a copy of copies for which there may be no 'original.'[^6] This certainly can be said of _Xena_. _Xena_ appropriates 'authentic' cultural tropes, mythemes and icons, but in the retextualized fabric, the entire 'original' is called into question. For Baudrillard, the un-reality of such a simulacrum is not only 'fake,' but it becomes an un-real _real_ (hyper-real), or what Taylor calls a _virtualization of the real_.[^7] The 'original' disappears from sight, having never been 'real' in the first place, but rather only another textual fabrication. Suddenly, 'the real' seems to have always already been virtual.
-    
+
 *   _Xena_ exposes the virtualization of the 'real,' not as counterfeit nor as externally equivalent product, but as textile, as fabric, as textual event. As such, unweaving and reweaving cultural tropics becomes not only thinkable, but an event itself. The hyper-realism of the simulation and the virtualization of the real become interchangeable. The text of _Xena_ exposes 'real' or 'authentic' culture as another fabrication. _Xena's_ work is subtle. _Xena_ does not claim itself to be an authentic _representation_ of 'authentic' cultural texts. Nor does it attempt to 'reproduce' cultural types in relevant contemporary fashion; i.e., it is not a hermeneutical enterprise. _Xena_ re-structures the signs of classical culture to re-deploy the signification of these signs otherwise. Although East-West intersections are common, these no longer hold central place. Mythic themes are appropriated from far ranging, often un-connected texts of many diverse cultural trajectories. The are re-threaded into a new cultural fabric in the guise of a fantasy world. Yet, _Xena_ is not simply a 'fantasy' for the sake of imaginative consumption. The signs of the times in which _Xena_ is produced are re-deployed under and within the re-(de)signed cultural tropics. _Xena_ becomes a 'voice' which speaks _between_ the signs of the 'present' and the 'past,' and _between_ the sign-posts of the cultural artifacts, and _between_ the story-text and the narrative framework of the reader/watcher. Moreover, the simulated fabric of _Xena_ exposes something else: that the reader/watcher is part of the textual process; the reader/watcher is not outside the text. Not only is the world virtual, but the subject is shown to be inseparable from the virtual.
-    
+
 *   Putting aside the virtualization of 'the real' for a moment, what all of the heretofore mentioned readings of culture have in common is a consistent _objectification_ of the artifacts of culture, or, in Fiedler's case, a three-fold objectification: namely, the cultural medium, the contexts of cultural production and the subjective consumers of popular culture. De Certeau offers what one might call a corrective to this problem by exploring the relation between the text and the reader. He rejects the notion of reading as a passive exercise of receiving what the text or the media or culture 'gives' or produces. Although the reader does not take 'the position of the author nor an author's position,' the reader 'invents in the text something different' than what the text itself intends. The reader actively creates and shapes the space organized by the combination of the constraints established by the text and the reader's capacity for indefinite plurality of meanings.[^8] This extension of the simulacrum in the act of reading, which is clearly not limited to textual production or performance alone, complicates the process of critical reflection even further.
-    
+
 *   Still, this notion that neither texts nor readers are merely passive objects or subjects is not new. J. L. Austin's classic work _How to Do Things with Words_ (1962) has made remarkable progress in understanding the relation between reader and text--or even speaker and hearer--particularly in terms of the _forces_ at play in this relationship. His careful attention to the details of how the 'acts' of the text or words affect the meaning received both within the textual narrative (or performance), and between the text and the reader, help to articulate the performative force of words, whether spoken or written.[^9] Seymour Chatman, in _Story and Discourse:Narrative Structure in Fiction and Film_ (1978), likewise, makes useful distinctions between story and discourse, again articulating a dimension of the text's power over the reader and opening up a theoretical space for more nuanced critical observations. This space of critical reflection upon the relationship between text and reader has led to a sizeable following of what is often called 'reception theory'[^10] or 'reader-response criticism.'[^11]
-    
+
 *   Alongside these developments, however, has been a nagging philosophical anxiety that the relation between the text and the reader is not so neatly parsed. Jacques Derrida has repeatedly raised the question of the non-arrival of the message.[^12] This non-arrival recognizes that not only is there a continuity in the relation between text and reader but a discontinuity as well.''Wolfgang Iser, in his work _The Act of Reading_, suggests that in every encounter with a text the reader finds gaps which must be filled.[^13] De Certeau says as much when he refers to the 'reservoir of forms to which the reader must give a meaning,'[^14] but this 'giving' falls short of both the text and the hermeneutical poeisis. To put it another way, the received text is always somewhere _between_ the text and the 'reader.'
-    
+
 *   It is precisely this virtual or 'between' aspect which _Xena's_ complex textual reconstructions expose so well. _Xena_ is a performative between--a between that is multi-layered at the very least--that becomes another between in the very experience of _Xena_, a between between, a virtualization of virtuality which does not merely subvert 'the real' but opens upon a strange--or brave--new world.'' It is a world which is itself un-real, but opens up possibilities for a remaking of the self and the world. Still, this between is always slipping away, never quite graspable, always just beyond reach. It is this 'always just beyond reach,' which Mark C. Taylor describes as religion:
-    
+
     > Religion is about a certain about. What religion is about, however, remains obscure for it is never quite there--nor is it exactly not there. Religion is about what is always slipping away. It is, therefore, impossible to grasp what religion is about--unless, perhaps, what we grasp is the impossibility of grasping. . . . This strange slipping away is no mere disappearance but a withdrawal that allows appearances to appear.[^15]
-    
+
 *   _Xena_, in other words, becomes a religious performative, an acting out of that which cannot be grasped, that which is never directly exposed, but is always slipping away. And what appears is the text _as_ an appearance, an apparent-ness that is always virtual, never the 'real' text.
-    
+
 *   Before we go further, I would like to return to an earlier problem which I raised, namely that of the objectification of both text and reader. It is when the text and/or it's 'meaning' is objectified that the between entirely disappears and power-discourse becomes the dominant framework.''One might say that the problematic which remains when one objectifies the text and reader, and simultaneously allows for the 'free' reconfiguration of cultural tropes, is that culture becomes a site for interpretation, for critical reflection, for talk about what is normal and abnormal, acceptable or unacceptable. In other words, culture, having been objectified, becomes a site for the ethical, but only in terms of the observation and/or management of conflict. This obsession with governmentality, Foucault might say, reveals a double movement of a tendency toward centralization--or even homogenization--on the one hand, and dispersion or dissidence on the other, not only in culture itself, but even in the appropriation of culture for study.[^16]
-    
+
 *   Yet, what undermines this legitimate exercise of critical reflection is that the _apparent_ arbitrariness of textual reconfiguration, let's say in a text like _Xena_, suggests that even critical discourse may be arbitrarily configured, especially when such a text is appropriated for critical analysis. What seems most important, in my opinion, is that the _apparent_ arbitrariness of this reconfiguration expresses a vulnerability in language itself. It reveals the risk and the possibility of reducing language and the materials of culture to _mere_ means. In other words, the risk which _Xena_ exposes--at least when the text is objectified--makes culture not only the site of conflict but a weapon to be used against itself. Media technologies become tools for the subjugation of the particularities of culture, and only power becomes a limiting condition for the advancement of particular cultural paradigms.
-    
+
 *   It should be emphasized that the vulnerability of culture to the violence of forced retextualization does not exist only as imaginative artistic self-construction. It is vulnerable whenever the _artifacts_ of culture (virtual or not) are appropriated objectively, even for study. Jude Davies, in an article on punk rock and postmodern theory, recently noted that 'a fundamental problem in academic study of popular culture \[is\] that the projects of understanding and explanation are . . . carried out in discourses of mastery.'[^17] Davies argues that because culture, popular or otherwise, is deemed by the academy as being 'in need of and susceptible to explanation,' the academy attempts to preserve its authority as a legitimate critical judge of cultural texts and their 'meaning,' and it does so through critical explanatory methods which Davies considers are another attempt at domination. In addition, Davies argues that the bias of the academy, which sees culture in terms of conflict, or in terms of ritual or symbolic forms of resistance, predetermines the framework of academic readings of culture. Moreover, this bias is embedded in a claim to power and the right to 'explain' from the very beginning. As a corrective, Davies recommends paying 'particular attention to the subject positions taken up and rejected' in the conversation between the text and reader, or in his case between the punk music culture and the person who participates in the culture.[^18]
     4.  The line of reasoning so far has been to expose the risks which the academy takes upon itself in the objectification of popular culture as texts to be critically read. Recent trends in literary, biblical and cultural studies circles have taken seriously the notion that one never encounters an absolute 'text', but instead one participates in a larger textual _conversation_ in every semiological context. Mark C. Taylor argues in _Hiding_ that the objective text--in his words 'the body'--is no longer a viable concept. He writes of the disappearance of the body as 'body,' finding ourselves only leaving traces in the wake of our passing in the world. He attempts to replace an objective view of the world with one which is characterized by a complex network of non-hierarchical, distributive, associative co-relations.[^19] It is here, precisely at this point, that Taylor, Foucault and de Certeau agree, not in Taylor's solution to the problem, but in the assessment. In Foucault's words, 'One governs _things_.'[^20] Objectification of the text or the subject is a movement toward domination, an exercise of power over the other.[^21]
-    
-    
-    
-    
-    
-    
+
     > The first-person narrator of Henry James's short story 'The Figure in the Carpet' is a critic who takes as a professional challenge the discovery of the hidden meaning that he feels necessarily must lie at the heart of the latest novel of the writer Vereker. The critic publishes a review of \[the\] novel in which he is confident he has solved the puzzle . . . and has laid bare its hidden meaning. \[But the novelist rejects the critic's solution.\] The critic redoubles his efforts to uncover the hidden meaning of the novel. \[He refuses to give up even after the novelist, the novelist's wife and their closest friend all die\]. The story ends with the secret still undiscovered by the narrator and therefore never made known to the \[reader\] either. In the end we are as much in the dark as the narrator of the story.[^24]
-    
-     
+
      > Our critic-narrator wants to find a meaning clearly delineated in the lines of the printed text, but the closer he looks, the more blanks and opacities he finds. . . . \[Sadly,\] He never discovers blanks and opacities as invitations to make his own contribution to the text. He is blind to the clues that point to the possibility that 'the figure' is to be found, not in the text, but perhaps in the encounter with the text, or maybe even in love, in art, or simply life itself.[^25]
-     
-     
 
 * * *
 
@@ -90,18 +80,10 @@ An earlier version of this essay was presented at: The American Academy of Relig
 
 * * *
 
-
-
 * * *
 
 © 2000 David A. Adcock. All rights reserved.  
 Updated 03|31|00.
-
----
-
----
-
----
 
 ---
 

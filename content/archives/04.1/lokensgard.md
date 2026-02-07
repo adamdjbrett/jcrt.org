@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Lokensgard - The Matter of Responsibility - JCRT 4.1 
+---    Lokensgard - The Matter of Responsibility - JCRT 4.1 
 
 # The Matter of Responsibility: Derrida and Gifting Across Cultures
-
-
 
 Ken Lokensgard  
 College of Charleston
@@ -20,38 +16,6 @@ College of Charleston
 * * *
 
 In recent years, there has been a renewed interest in theories of the 'gift' and 'gifting' among those interested in cultural and religious studies. These scholars are reexamining the claim made by French sociologist, Marcel Mauss, that, among indigenous peoples and those whose cultures have developed independently from the now highly capitalistic cultures born from Greco-Roman and Judeo-Christian pasts, an economy exists in which ongoing, reciprocal exchange is consciously emphasized. In _The Gift: the Form and Reason for Exchange in Archaic Societies_ (first appearing in French in 1925 as '_Essai sur le don_'), Mauss reveals that in most clan-based, indigenous societies, there is a strong awareness of interdependence and less concern with self-interest or the accrual of personal wealth than in many other societies.
-
-    
-    
-    
-    
-    
-    
-    
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
 
 * * *
 
@@ -103,12 +67,6 @@ In recent years, there has been a renewed interest in theories of the 'gift' and
  ['](https://jcrt.org/copyright.shtml) 2002 Ken Lokensgard. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/04.1/lokensgard.shtml
-
----
-
----
-
----
 
 ---
 

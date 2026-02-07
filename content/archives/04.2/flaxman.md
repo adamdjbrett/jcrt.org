@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Flaxman - Past Imperfect, Future Unknown - JCRT 4.2 
+---    Flaxman - Past Imperfect, Future Unknown - JCRT 4.2 
 
 # Past Imperfect, Future Unknown: The Discourse of Theory
-
-
 
 Gregory Flaxman  
 University of North Carolina, Chapel Hill.
@@ -27,29 +23,11 @@ University of North Carolina, Chapel Hill.
 
 Whatever we think about theory, and today we are often encouraged to think the worst, perhaps we can all agree that its recourse has become a matter of profound tact. The "resistance to theory" that Paul de Man underscored in the mid-1980s has evolved over the last twenty years into something closer to disapproval, dismissal, and occasionally outright derision. The result is that one must ultimately understand the discretionary limits of theory as much as theory itself. In the most obvious sense, we might say that the _savoir-faire_ of theory has degenerated into a game of proper names, for if the emergence of theory coalesced around the writings and teachings of distinct figures, the diplomacy of theory has come to lie in the capacity to grasp the right names to drop and the right times to do so. The proper name is now inextricable from the larger sense of its propriety. All things being equal, we know that Roland Barthes remains an ever-graceful option, Michel Foucault an acceptable turn, Jean-Fran'ois Lyotard a more delicate case, Jacques Lacan a prospective breech of etiquette, and de Man himself a point of almost certain instigation.
 
-    
-    
-    
-
 ### Remembrance of Theory Past: The French Invasion
-
-    
-    
-    
-    
-    
 
 ### The Position and Disposition of Theory
 
-     
-     
-     
-     
-     
-
 ### Propadeutic to Any Theory: The Four Discourses
-
-     
 
 S1
 
@@ -58,8 +36,6 @@ S1
 S2
 
 ↑
-
- 
 
 ↓
 
@@ -69,8 +45,6 @@ _//_
 
 a
 
- 
-
 S2
 
 →
@@ -78,8 +52,6 @@ S2
 a
 
 ↑
-
- 
 
 ↓
 
@@ -89,8 +61,6 @@ S1
 
 _$_
 
- 
-
 a
 
 →
@@ -98,8 +68,6 @@ a
 _$_
 
 ↑
-
- 
 
 ↓
 
@@ -109,8 +77,6 @@ S2
 
 S1
 
- 
-
 _$_
 
 →
@@ -118,8 +84,6 @@ _$_
 S1
 
 ↑
-
- 
 
 ↓
 
@@ -131,20 +95,11 @@ S2
 
 Master
 
- 
-
 University
-
- 
 
 Analyst
 
- 
-
 Hysteric
-
-     
-     
 
 a. 
 
@@ -154,27 +109,15 @@ agent
 
 other
 
-     
-
 agent
 
 →
 
 other
 
- 
-
- 
-
 ↓
 
- 
-
- 
-
 product
-
-     
 
 agent
 
@@ -184,8 +127,6 @@ other
 
 ↑
 
- 
-
 ↓
 
 truth
@@ -194,13 +135,9 @@ truth
 
 product
 
-     
      > It is only the fourth position that introduces the psychoanalytic point of view. In fact, it is not the fourth, but the very first position, namely the position of _truth_. Indeed,
      > 
      > Freud demonstrated that, while man is speaking he is driven by a truth, even if it remains unknown to himself. It is this position of truth which functions as the motor and as the starting-point of each discourse.[^21]
-     
-     
-     
 
 impossibility
 
@@ -212,8 +149,6 @@ other
 
 ↑
 
- 
-
 ↓
 
 truth
@@ -224,16 +159,7 @@ product
 
 impotence
 
-     
-
 ### The Discourse of Hysteria and the Hystercization of Theory
-
-     
-     
-     
-     
-     
-     
 
 * * *
 
@@ -251,12 +177,6 @@ impotence
  ['](https://jcrt.org/copyright.shtml) 2003 Gregory Flaxman. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/04.2/flaxman.shtml
-
----
-
----
-
----
 
 ---
 

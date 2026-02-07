@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
- Nichols - Laughter as Gesture - JCRT 4.2 
+--- Nichols - Laughter as Gesture - JCRT 4.2 
 
 # Laughter as Gesture: Hilarity and the Anti-Sublime
-
-
 
 Stephen G. Nichols  
 Johns Hopkins University
@@ -27,35 +23,14 @@ Johns Hopkins University
 
 Recently I ran across an article on laughter that said it wanted to examine 'uses of laughter in the literal sense of the word.' [^1] The author clearly meant that he wanted to discuss the act of laughter, but that's not what he said; and, however unconscious his choice of terms, 'the literal sense of laughter' was over-determined. Sense connotes 'meaning,' and it is precisely the meaning of laughter, meaning _in_ laughter, not to mention _theories_ of laughter that thinkers have been trying to pin down since antiquity.
 
-    
-    
-    
     > The beginning is a feeling of the 'I' that, in every possible gesture and especially in each of its own gestures, experiences something false, a deformation of the inside with respect to which all faithful representation seems a curse against the spirit. It is a feeling in which the 'I,' looking at itself in the mirror, discerns a pamphlet stuck to it, even incorporated into it, and, looking outside, laments himself, amazed to see in the face of his fellow men the fullness of comical masks... The disjunction between appearance and essence lies at the basis of both the sublime and the comical; the small sign of the corporeal points to the indescribable.[^3]
-    
-    
-    
-    
-    
-     
-     
-     
+
      > On a very basic level the unity of the body provides for the identity that is necessary, but not at all sufficient, for the unity of the self. Nietzsche, quite consistently, holds that the unity of the body, like all unity, is itself not an absolute fact: 'The evidence of the body reveals a tremendous multiplicity' (_The Will to Power_, 518). ...And though...the 'I' always seems to refer to the same thing, the content to which it refers and the interests for which it speaks do not remain the same. It is constantly in the process of changing. This process may sometimes tend in the direction of greater unity. Such unity, however, which is at best something to be hoped for, certainly cannot be presupposed. Phenomena like _akrasia_, or weakness of will, and self-deception, not to mention everyday inconsistency, are constantly posing a threat to it.[^10]
-     
-     
-     
-     
-     
+
      > always the gesture of being at a loss in language; it is always a 'gag' in the literal sense of the word, which indicates first of all something put in someone's mouth to keep him from speaking and, then, the actor's improvisation to make up for an impossibility of speaking. But there is a gesture that felicitously establishes itself in this emptiness of language and without filling it, makes it into humankind's most proper dwelling. Confusion turns to dance, and 'gag' to mystery.[^13]
-     
-     
-     
-     
+
      > In an art theater proper, one rarely sees an actor who can really walk and stand. As a matter of fact, I have seen only one, but what B\[eckmann\] is able to do, I have not seen before. He is not only able to walk, but he is also able to _come walking_. To come walking is something very distinctive, and by means of this genius he also improvises the whole scenic setting. He is able not only to portray an itinerant craftsman; he is also able to come walking like one and in such a way that one experiences everything, surveys the smiling hamlet from the dusty highway, hears its quiet noise, sees the footpath that goes down by the village pond when one turns off there by the blacksmith's'where one sees B\[eckmann\] walking along with his little bundle on his back, his stick in his hand, untroubled and undaunted. He can come walking onto the stage followed by street urchins whom one does not see.[^16]
-     
-     
-     
-     
-     
+
      *   And now they look at me and laugh: and as they laugh, they even hate me. There is ice in their laughter. (19)
      *   I would believe only in a god who could dance. And when I saw my devil I found him serious, thorough, profound, and solemn: it was the spirit of gravity'through him all things fall. Not by wrath alone does one kill but by laughter. Come, let us kill the spirit of gravity. (41)
      *   Still is the bottom of my sea. Who would guess that it harbors sportive monsters? Imperturbable is my depth, but it sparkles with swimming riddles and laughters. (116)
@@ -63,10 +38,6 @@ Recently I ran across an article on laughter that said it wanted to examine 'use
      *   Then laughter surrounded me. Alas how the laughter tore my entrails and slit open my heart. And it spoke to me for the last time...And again it laughed, and fled...But I lay on the ground and sweat poured from my hands. (147)
      *   And as Zarathustra was speaking thus he laughed at himself in melancholy and bitterness. (154)
      *   Laugh, laugh, my bright, wholesome sarcasm. From high mountains cast down your glittering, mocking laughter. (240)
-     
-     
-     
-     
 
 * * *
 
@@ -85,12 +56,6 @@ S. 41 (1991), 279-296.
  ['](https://jcrt.org/copyright.shtml) 2003 Stephen G. Nichols. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/04.2/nichols.shtml
-
----
-
----
-
----
 
 ---
 

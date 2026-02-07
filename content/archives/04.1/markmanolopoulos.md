@@ -6,56 +6,16 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Manolopolous - When Marion's Theology Seeks Certainty - JCRT 4.1 
+---    Manolopolous - When Marion's Theology Seeks Certainty - JCRT 4.1 
 
 # When Marion's Theology Seeks Certainty
-
-
 
 Mark Manolopoulos  
 Monash University
 
 * * *
 
-    
-    
-    
-    
-    
-    
-    
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-
 > Far from being the inalterable fate of theology, or mystical theology, Marion contends, the ‘metaphysics of presence’ is actually a heresy. True theology is always a ‘theology of absence,’ not a metaphysics of presence. When the Arians claimed that God is knowable and revealed by the names God is given, they were condemned. Of course, Derrida would be just as much worried over this inclination to exclude or ‘condemn.’ Does not this condemnation of presence itself imply a desire for presence, for the self-presence of an authoritative and self-gathering _ekklesia_? Does it not imply a politics of presence, an onto-theo-politics, a policing operation from which theology does not sufficiently distance itself? In one of its voices, Derrida says, mystical theology tries to be a little too authoritative about the secret, to say that nothing or no one can oppose this because mystical theology speaks from the heart of the secret as from the heart of truth and of hyper-fulfillment ("Sauf le nom" 66-7). It is always the other voice, the one that Derrida calls that of "hypercritique," where nothing is assured, neither philosophy nor theology, that interests Derrida more. See Jean-Luc Marion (_God Without Being_ 153) where Marion sides with the power of the bishop to enforce the law if a theologian breaks with the consensus. "Apostles of the Impossible" 218-219, note 9; cf. _Prayers and Tears_ 47 including note 41.
-
-     
-     
-     
-     
-     
-     
-     
-     
-     
 
 * * *
 
@@ -98,12 +58,6 @@ Monash University
  ['](https://jcrt.org/copyright.shtml) 2002 Mark Manolopoulos. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/04.1/markmanolopoulos.shtml
-
----
-
----
-
----
 
 ---
 

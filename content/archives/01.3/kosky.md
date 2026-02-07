@@ -6,9 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Kosky - Contemporary Encounters with Apophatic Theology - JCRT 1.3 
+---    Kosky - Contemporary Encounters with Apophatic Theology - JCRT 1.3 
 
 # Contemporary Encounters with Apophatic Theology: The Case of Emmanuel Levinas
 
@@ -18,65 +16,33 @@ Jeffrey L. Kosky
 
 Of those places where mystical traditions of Christian thought have received a warm welcome, post-Heideggerian continental thought is perhaps the most surprising. One of the first of the post-Heideggerians to make this move, Jean-Luc Marion turns to mystical theology in two related works, _L'idole et la distance_ (1977) and _Dieu sans l''tre_ (1982).[^1] There, mystical theology, represented most especially by Pseudo-Dionysius and Gregory of Nyssa, proves integral to Marion's attempt to formulate a theological position that evades the reigning Heideggerian understanding of theology as part and parcel of an onto-theo-logically determined metaphysics. Going one step further, Marion argues that mystical theology, especially in its naming of a Good Beyond Being, would even exceed Heidegger's own step back from metaphysics in the direction of the thought of Being by inscribing Being, beings and the difference between them within the play of the Good.
 
-    
-    
-    
-    
     * * *
-    
-    
-    
-    
-     
-     
-     
-     
+
      * * *
-     
-     
+
      > Since it is the Cause of all beings we should posit and ascribe to it all the affirmations we make in regard to beings (kataphasis), and more appropriately, we should negate all these affirmations since it surpasses all being (apophasis). Now we should not conclude that the negations are simply the opposites of the affirmations, but rather that the cause of all is considerably prior to this; as it is beyond privations, it is also beyond every denial, beyond every assertion (MT, 1000B).
-     
-     
-     
+
      * * *
-     
-     
-     
-     
+
      * * *
-     
-     
-     
-     
-     
+
      * * *
-     
-     
-     
-     
+
      1.  _Good Beyond Being_. Insofar as responsibility describes the genesis of the subject prior to its being, responsibility must be described in terms of a Good beyond Being. Levinas writes, "If ethical terms arise in our discourse..., it is because' the subject finds himself committed to the Good in the very passivity of supporting" (OB, 122). This commitment to the Good, according to Levinas, is the very genesis or birth of the subject in responsibility. "The Good chooses me first before I can be in a position to choose, that is, welcome its choice' The Good is before being" (OB, 122). As in Dionysius, the Good summons me before I am, before I have being, and it is in response to that summons that I am born as a responsible self. "The way I appear is a summons" (OB, 139). Again, as with Pseudo-Dionysius, the relation between the Good and the self whose origin it marks is here described in terms of a summons, or call, which cannot be reduced to the relation between cause and effect or to any relation between two beings since the summons precedes and determines the eventual being of the other. The drama played out in responsibility is not acted by two beings, each seeking to pursue their own ends and to persevere in their own being, but in terms of goodness where I give up all that I could call my own in obedient response to the command of the hidden Good. Levinas writes, "the self is goodness, or under the exigency for an abandon of all having' Goodness invests me in my obedience to the hidden Good" (OB, 118). Like the created soul who is what it is in terms of the good it has received, the responsible self exists only on account of its having received an investment of goodness which demands the dispossession of its own being.
-         
+
      2.  _Hierarchy and asymmetry_. The fact that the Good calls me before I am implies that the relation between the Good and me is hierarchical or, in Levinas' terms "asymmetrical" and "irreversible." Contrary to many contemporary moralists who see relations to be ethical or just when they are reciprocal or mutual, Levinas insists that responsibility breaks reciprocity insofar as I alone am responsible. To institute reciprocity and exchanged obligations would be to institute measure and comparison which would ground calculation and rational action and, according to Levinas, thereby miss ethics or responsibility insofar as calculation and rational action refer back to the priority of an I or ego who counts and reasons in advance of taking on responsibility. In contrast to such mutuality or comparable obligations in morality, the subject, Levinas writes, is assigned to itself in the "one-way irreversible being affected of responsibility" (OB, 84). The irreversibility of responsibility, like the hierarchical structure of the universe, reflects the transcendence of the Good whose summons is the irreversible origin of my being.
-         
+
      3.  _Infinity and abandon of desire_. Always coming after its summons, the response of responsibility comes to no end insofar as that to which I respond has already left the scene when I am there. My belatedness to my own origin, the fact that I come after the summons which summons me to be, returns in the end which recedes the nearer I draw to it. Responsibility, Levinas claims, is "without measure, for it increases in the measure ' or absence of measure ' to which response is made" (DQV, 119). Just as for Dionysius the created soul desires God with a desire that feeds on its own satisfaction, so too will Levinas claim "The more I respond the more responsible I am." The ever increasing burden of responsibility is figured for Levinas in the notion of substitution. In responsibility, I am a self not insofar as I alone appropriate my being or realize my end, but in that only I substitute myself for every other, taking responsibility even for what they are responsible for, and thereby dispossess myself of my own: "the self is goodness, or under the exigency for an abandon of all having" (OB, 118). Structured in terms of responsibility, the I obeys a strange logic wherein the more I am I, the more I desire an end I can never fulfill since meeting it would entail the abandon of myself. "The more I return to myself, the more I divest myself' the more I discover myself to be responsible" (OB, 112). This self-abandon in response to the summons of the hidden Good can be compared to the advice that Dionysius gives Timothy: "My advice is ' by an undivided and absolute abandonment of yourself and everything, shedding all and freed from all, you will be uplifted to the ray of divine shadow which is above everything that is" (MT 1000A). The ecstatic soul, here Timothy, responding to its hidden Cause finds that it can meet this end only by abandoning itself, which is to say that it itself cannot meet this end. Like the ecstasy of the soul yearning beyond itself, responsibility demands an apprenticeship in unknowing and dispossession, an abandon of my self in the approach of an other.'''
-         
+
      4.  _Hyper-terms_. Insofar as the ethical relation is not to be described in terms of Being but in terms of the Good, Levinas will have recourse to a form of language that does not depend on knowledge and the priority it accords to being. Such a form of language remains beyond and irreducible to a language determined by the simple negativity of the opposition between affirmation and negation, positive and negative. Levinas insists that "negativity, still correlate with being, will not be enough to signify the _other than being_" (OB, 9). To speak, however inadequately and improperly, of this "other than being", this Good beyond being, he will use a language that resembles the mystical mode of theology in that it has recourse to a redoubled negation to push language beyond its apophantic function of revealing being according to the categorical alternative of truth and falsity. Pointing toward this third moment, Levinas claims that the "non-presence of the infinite is not only a figure of negative theology. All the negative attributes which state what is beyond essence become positive in responsibility" (OB, 11-12) or "what makes this more than a term of negative theology, is my responsibility for the other" (OB, 13). Now I admit that these citations seem to suggest that Levinas takes his distance from negative theology; but let me just recall that even Dionysius takes his distance from negative theology insofar as it is succeeded by a third or mystical way. The responsibility that Levinas says is "more than" or "not only" negative theology will be spoken of in terms that resemble those proffered in the mystical discourse of Dionysius. Let me cite just one example. The passivity of the subject is a "passivity more passive than any passivity that is correlative to the voluntary" (OB, 51). "More passive than any passivity" is what might be called, following Dionysius, a hyper-passivity. This hyper-passivity is, according to Levinas, "a passivity prior to the passivity-activity alternative " (OB, 121). Like the hyper-terms used by the mystical mode of Dionysius' theology, this passivity more passive than passivity articulates the strange logic of a neither/nor that would exceed the predicative function of language. It would resemble the "redoubled negation" that does not return to an affirmation in and through its negation of the negative. To say that responsibility happens in a passivity more passive than any passivity is in effect to speak without saying anything determinate about the subject beyond the reach of speech and language.
-         
+
      5.  _The saying of praise._ Just as redoubled negation and the hyper- terms in Dionysius suggest a form of language that cannot be understood to function in terms of the predicative logos, so too does Levinas suggest another, non-apophantic function of language. He calls this form of language which signifies beyond the categorical alternative of the logos _saying_: "apophansis does not exhaust what there is in saying" (OB, 6). "The saying is beyond the logos, beyond being and non-being, beyond true and non-true" (OB, 45). Neither true nor false, the signification of saying, like that marked by the hyper-terms, lies beyond the categorical alternatives posed by logical signification. Levinas tells us more precisely what this saying consists of when he writes, "Saying states and thematizes the said, but signifies it to the other, a neighbor, with a signification that has to be distinguished from that borne by words in the said" (OB, 46). In contrast to the said or what is said in language, the saying does not signify by making determinations about being or securing an ultimate meaning or sense of that about which it speaks. Like praise in Dionysius, saying endlessly undoes the fixed determination of meaning that a predicative language would affirm ' even in its negations ' as is witnessed by the incessant and unending necessity of unsaying what is said in every saying when it is a matter of approaching the otherwise than Being. While Levinas does not elaborate a coherent theory or list of the proliferation of names for the beyond Being, the fact that the saying cannot be exhausted in the said would mark the endlessness of reference in a mode similar to that used in praise.
-         
-     
+
      * * *
-     
-     
+
      * * *
-     
-     
-     
-     
+
      > In the yearning through which it is, being finds itself oriented toward an end that is without end or beyond completion. Such yearning renders that being irreducibly ecstatic and will thus imply that being's 'dispossession.'' Ecstasy, which structures the whole movement of the erotic circle of the Good marks, as I have suggested, the 'dispossession' of the beings whose very existence it sustains. Thus while the truth of hierarchy is found in the ecstasy of divine yearning or desire, the meaning conveyed by that truth is dispossession.[^22]
-     
-     
-     
 
 * * *
 
@@ -94,12 +60,6 @@ Of those places where mystical traditions of Christian thought have received a w
 [![Open this article in a new window.](https://jcrt.org/images/menu/window.gif)](kosky.shtml) [![Contents of this issue.](https://jcrt.org/images/menu/home.gif)](https://jcrt.org/archives/01.3/index.html) [![Print this page.](https://jcrt.org/images/menu/print.gif)](javascript:print\(\)) ['](https://jcrt.org/copyright.shtml) 2000 Jeffrey L. Kosky. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/01.3/kosky.shtml
-
----
-
----
-
----
 
 ---
 

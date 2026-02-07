@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Katz - Left Traumatized - JCRT 3.2 
+---    Katz - Left Traumatized - JCRT 3.2 
 
 # Left Traumatized: Zizek's Lenin and Politics After 9/11
-
-
 
 Adam Katz  
 Quinnipiac University
@@ -44,66 +40,33 @@ Quinnipiac University
 
 In his "Welcome to the Desert of the Real," his essay on the 9/11 attacks, Slavoj Zizek indicts the left for a failure to address the event in an adequate way: "The predominant reaction of European, but also American Leftists was nothing less than scandalous... all imaginable stupidities were said and written" (10). Among the charges: "Schadenfreude: the US got what it deserved"; a failure to fully solidarize with the victims (not to mention'Zizek doesn't'the rescuers) "since this would mean supporting US imperialism"; "in the weeks following the bombing, it reverted to the old mantra 'Give peace a chance! War does not stop violence!''a true case of hysterical precipitation, reacting to something that will not even happen in the expected form." Zizek was being generous: his reference to the "petty and miserable mathematics" ("what are the 6000 dead against millions in Ruanda, Congo, etc."), for example, hardly captures the grotesque casualty watch in which once the reported Afghani casualty number went higher than the WTC number, moral "victory" could be declared.
 
-    
-    
-    
-    
-    
-    
-    
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
      > One should therefore turn around the standard reading according to which the WTC explosions were the intrusion of the Real which shattered our illusory Sphere: quite on the contrary, it is prior to the WTC collapse that we lived our reality, perceiving the Third World horrors as something which is not effectively part of our social reality, as something that exists as a spectral apparition on the (TV) screen'and what happened on September 11 is that this screen fantasmatic apparition entered our reality. It is not that reality entered our image: the image entered and shattered our reality (i.e., the symbolic coordinates which determine what we experience as reality). (4)
-     
+
      While Zizek says that the point is not "to play a pseudo-postmodern game of reducing the WTC collapse to just another media spectacle," that is exactly what he is doing. Why, after all, try to understand who (or where) Osama Bin Laden is when, after all, "the suspected mastermind behind the bombings" is "the real life counterpart of Ernst Stauro Blofeld, the mastermind in most of the James Bond films, involved in acts of global destruction" (4).
-     
-     
-     
-     
-     
+
      > "Lenin" is not the nostalgic name for old dogmatic certainty; quite on the contrary, to put it in Kierkegaard's terms, THE Lenin which we want to retrieve is the Lenin-in-becoming, the Lenin whose fundamental experience was that of being thrown into a catastrophic new constellation in which old coordinates proved useless, and who was thus compelled to _reinvent_ Marxism. (14)
-     
+
      Lenin, for Zizek, signifies the "right to truth" over the "right to narrate" (10), to a "_universal_ truth" that "can only be articulated from a thoroughly _partisan position_. (5). Zizek reiterates that
-     
+
      > to _repeat_ Lenin does NOT mean a _return_ to Lenin'to repeat Lenin is to accept that "Lenin is dead," that his particular solution failed, even failed monstrously, but that there was a utopian spark in it worth saving... To repeat Lenin is to repeat not what Lenin _did,_ but what he _failed to do_, his _missed_ opportunities. (29)
-     
+
      Lenin, or, rather, our experience of Lenin "as irrelevant, 'out of sync' with our postmodern times" (29), this "impenetrability of Lenin is a sign that there is something wrong with OUR epoch" (29). In other words, Lenin is then to be the fundamental fantasy around which a new Left subjectivity would be constellated, would reinvent its tasks, break with the "ludic 'postmodern' game" (30) and insist on the "impossible." The "reference to Lenin should serve as the signifier of the effort to break the vicious circle" of the "false options" of today's Left, its "sad predicament": "the acceptance of the Cultural Wars... as the dominant terrain of emancipatory politics; the purely defensive stance of protecting the achievements of the Welfare State; the na've belief in cybercommunism... and, finally, the Third Way, the capitulation itself" (29).
-     
-     
+
      > As a member of the Central Committee of the Party and a deputy in the Duma, Malinovsky was forced, in order to gain our confidence, to aid us in establishing legal daily papers, which even under tsardom were able to wage a struggle against the opportunism of the Menshiviks and to preach the fundamentals of Bolshevism in a suitably disguised form. While Malinovsky with one hand sent scores and scores of the best Bolsheviks to penal servitude and to death, he was obliged with the other to assist in the education of scores and scores of thousands of new Bolsheviks through the medium of the legal press. (30)
-     
+
      The lesson here is that a genuine political space is one in which even your own worst enemy, in his attempt to destroy that space, in entering it and accepting the mode and level of accountability it imposes, must nevertheless do more good than harm. But this is only possible if the level of accountability objectified in this way is matched by a commensurate authority to inspect, judge and delegate in accord with the consequences resulting from the very course of one's actions and that necessarily exceed one's own delegation. That is, it requires the freedom to draw firm "lines of demarcation" between the constitution under whose authority one acts and the constitution one is producing (at least in part "covertly" insofar as this production is a result of this very line drawing which is visible only in its effects) through one's actions. This sets Lenin completely against the "enacted utopia" Zizek seeks to derive from his practices:
-     
+
      > The only criterion \[of the political act\] is the absolutely _inherent_ one: that of the _enacted utopia_. In a proper revolutionary breakthrough, the utopian future is neither simply fully realized, present, nor simply evoked as a distant promise which justifies present violence'it is rather as if, in a unique suspension of temporality, in the short-circuit between the present and the future, we are'as if by Grace'for a brief time allowed to act _as if_ the utopian future is (not fully here, but) already at hand, just there to be grabbed... _we already are free, we already are happy while fighting for happiness._. (23)
-     
+
      It would be hard to improve on this definition of what Lenin called "ultra-leftism." The unique suspension of temporality in the political act is not an "as if" space (which aligns Zizek with the very "hysteric"'Badiou, Ranciere, Balibar, etc.'he wishes to distinguish himself, via Lenin, from), but a pedagogical one, in which the material of the concrete ("the force of habit of millions and tens of millions is a most terrible force" \[29\]), which is brought over from present to future by the force of ideology is implicated in the abstract by way of what I will term a "delegation."
-     
-     
-     
-     
+
      > The institution of slavery is only mentioned in the Constitution of the United States two or three times, and in neither of these cases does the word "slavery" or "negro race" occur; but covert language is used each time, and for a purpose full of significance. (1965 310)
-     
+
      Lincoln is here arguing against the claim that the Founders had obviously meant to approve of slavery and to exclude blacks from the promises of the Declaration of Independence based on the empirical fact that, after all, most of the founders owned slaves themselves and never freed them, twelve out of thirteen states still maintaining slavery at the time, etc. Against this historicism, Lincoln goes on to argue that
-     
+
      > The purpose was that in our constitution, which it was hoped as is still hoped will endure forever'when it should be read by intelligent and patriotic men, after the institution of slavery had passed from among us'there should be nothing on the face of the great charter of liberty suggesting that such a thing as negro slavery had ever existed among us. This is part of the evidence that the fathers of the government expected and intended the institution of slavery to come to an end. (1965 311)
-     
+
      According to this strange claim, the word "slavery" was excluded from the Constitution so that the words protecting it could be written in a kind of disappearing ink: the meaning of certain words, without their "referent," was intended to "dissolve" over time. Furthermore, of course, there is a performative contradiction in Lincoln's assertion: he is drawing attention to the "covert meaning" of the very words he asserts were meant to become unintelligible. And, after all, won't those "intelligent and patriotic men" wonder what those obscure clauses are all about? Perhaps the logic is as follows: it is precisely the intelligent and patriotic men who will be able to read what is written between the lines, who will be responsible for establishing a "guardrail" around the "face of the great charter of liberty" and protecting it from false and opportunistic accusations such as those of Douglas. But wouldn't such a cover-up just make things even worse, and be even more certain to incriminate the "fathers"?
-     
-     
-     
-     
-     
-     
-     
-     
 
 * * *
 
@@ -162,12 +125,6 @@ I should also mention here Judith Butler's "Guant'namo Limbo" in the April 1 iss
  ['](https://jcrt.org/copyright.shtml) 2002 Adam Katz. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/03.2/katz.shtml
-
----
-
----
-
----
 
 ---
 

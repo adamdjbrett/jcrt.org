@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
- Crockett - Taking Shape: On the Current Constellation - JCRT 3.3 
+--- Crockett - Taking Shape: On the Current Constellation - JCRT 3.3 
 
 # Taking Shape: On the Current Constellation of (Religious) Thought
-
-
 
 Clayton Crockett  
 Wesley College
@@ -21,38 +17,13 @@ Wesley College
 
 In assessing the status of contemporary religious thought, many scholars and theologians would focus solely on idealities of discourse and ignore the no less crucial material conditions of thinking. I am not interested in positing a dualism here, nor do I wish to reduce the former to the latter, but rather I would like to reflect on the space of religious thinking, which at its limit calls into question the very opposition between material and ideal. At present, two situations over-determine the shape of academic religious or theological discourse in a critical manner: a new variety of positivism, which expresses in part a conservative entrenchment responding to financial and ideological threats to the modern university; and a no less problematic politics of representation, which deploys a positivistic logic in order to promote self-interested agendas that are understood to completely coincide with intellectual exploration, without remainder.
 
-    
-
 ### Transforming Religious Thought
-
-    
-    
-    
 
 ### The New Positivism [^1]
 
-    
-     
-     
-
 ### The Politics of Representation
 
-     
-     
-     
-     
-
 ### Ethics and the Place of Theory
-
-     
-     
-     
-     
-     
-     
-     
-     
-     
 
 * * *
 
@@ -71,12 +42,6 @@ In assessing the status of contemporary religious thought, many scholars and the
  ['](https://jcrt.org/copyright.shtml) 2002 Clayton Crockett. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/03.3/crockett.shtml
-
----
-
----
-
----
 
 ---
 

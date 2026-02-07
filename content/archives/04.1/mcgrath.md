@@ -6,15 +6,11 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    McGrath - Young Heidegger's Problematic Reading of Augustine - JCRT 4.1 
+---    McGrath - Young Heidegger's Problematic Reading of Augustine - JCRT 4.1 
 
 # The Young Heidegger's Problematic Reading of Augustine's Ontological Restlessness
 
 A review of Martin Heidegger, _Ph'nomenologie des Religi'sen Lebens._ Gesamtausgabe, Band 60. Frankfurt am Main, Vittorio Klostermann, 1995. (Available at at [http://www.klostermann.de/](http://www.klostermann.de/).) An English translation is in preparation at Indiana University Press by Jennifer Gosetti and Matthias Lutkehermolle under the title _Phenomenology of Religious Life_.
-
-
 
 Sean J. McGrath  
 University of Toronto
@@ -22,18 +18,6 @@ University of Toronto
 * * *
 
 It is a lamentable situation that Heidegger's critique of Scholastic ontology is now better known in continental circles than Scholastic ontology itself. The Heideggerian critique of 'onto-theology' has hardened into a dogma, an unreflectively repeated formula that has lost its moorings in its original sources. We all know that the Scholastics forgot being because they reduced ontology to God. By defining being in terms of that which never comes to be nor changes, that which excludes temporality, the Scholastics made it impossible to think the being that we are. Philosophical theology precludes phenomenological ontology.
-
-    
-    
-    
-    
-    
-    
-     
-     
-     
-     
-     
 
 * * *
 
@@ -52,12 +36,6 @@ It is a lamentable situation that Heidegger's critique of Scholastic ontology is
  ['](https://jcrt.org/copyright.shtml) 2002 Sean J. McGrath. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/04.1/mcgrath.shtml
-
----
-
----
-
----
 
 ---
 

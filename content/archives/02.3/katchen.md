@@ -6,17 +6,13 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-      Katchen - Book Profile: Psychiatric Abuse and the Intelligence Community - JCRT 2.3 
+---      Katchen - Book Profile: Psychiatric Abuse and the Intelligence Community - JCRT 2.3 
 
 # Book Profile: Psychiatric Abuse and the Intelligence Community
 
 Colin Ross, _Bluebird: Deliberate Creation of Multiple Personality By Psychiatrists_. Richardson, TX: Manitou Communications, Inc., 2000. 406 pages. ISBN: 0970452519.
 
 Cheryl Hersha and Lynn Hersha, with Dale Griffis and Ted Schwartz. _Secret Weapons: Two Sisters' Terrifying True Story of Spies and Sabotage._ Far Hills, NJ: New Horizons Press, 2001. 434 pages. ISBN: 0882821962.
-
-
 
 Martin Katchen  
 Los Angeles, California
@@ -25,29 +21,7 @@ Los Angeles, California
 
 Since Victor Marchetti and John Marks first published _The CIA and The Cult of Intelligence_ in 1980, the American public has been treated to a series of exposes that have been highly critical of CIA and military operations. These allegations against the CIA resulted in formation of the House Select Committee on Intelligence in 1978, which held hearings that uncovered evidence that the CIA in particular had engaged in experiments in "mind control" by using unwitting US citizens and foreign nationals.
 
-    
-    
-    
-    
-    
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
      > "The change is like a re-enlistment in an army she never willingly joined. In a very real way, she is a career soldier who has never been paid, never allowed to retire and never given a chance to lead a life free from the fear of what she might do without conscious awareness."(p. 313).
-     
-     
-     
-     
-     
-     
 
 * * *
 
@@ -62,12 +36,6 @@ Since Victor Marchetti and John Marks first published _The CIA and The Cult of I
  ['](https://jcrt.org/copyright.shtml) 2001 Martin Katchen. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/02.3/katchen.shtml
-
----
-
----
-
----
 
 ---
 

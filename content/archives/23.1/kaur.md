@@ -19,12 +19,3 @@ issue: 1
 season: spring
 pages: 39-64
 ---
-
----
-
----
-
----
-
----
-

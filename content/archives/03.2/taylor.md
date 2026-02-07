@@ -6,15 +6,11 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Taylor - Desire and Mourning: Theology and the Literary Imagination - JCRT 3.2 
+---    Taylor - Desire and Mourning: Theology and the Literary Imagination - JCRT 3.2 
 
 _The JCRT's introductory essays over the past two years have focused on the status of religious studies in the context of critical theory. The editors have traced these developments, provided analyses of religious theory, and modeled critical discourse. 'Desire and Mourning: Theology and the Literary Imagination' follows the last of these, bringing theology into literature by investing theology with a critical force to open an analysis of literary language. Subsequent introductions will return to these and other issues in our continued effort to reshape the discourse of cultural and religious theory._
 
 # Desire and Mourning: Theology and the Literary Imagination
-
-
 
 Victor E. Taylor  
 York College of Pennsylvania
@@ -41,10 +37,6 @@ _**For Charlie**_
 
 Desire and mourning are folds[^5] in theological and literary discourse, limits to our ability to make present an object or mourn its loss. As surfaces the theology of literature and the literature of theology remain held together through a mutual limit, an interval in which the nomadic quality of each flows across distinct "incommensurabilities." While desire and mourning, exhaustion and erring persist as elements of both "surfaces," the return of the desired object or the restoration of narrative plenitude through mourning escape recovery and reconciliation, performing instead, as Deleuze notes, the "limit of the series" as a condition of possibility: "But the image is more profound because it frees itself from its object in order to become a process itself, that is, an event as a 'possible' that no longer even needs to be realized in a body or an object, somewhat like the smile without a cat in Lewis Carroll."[^6] Desire and mourning occur concurrently. One begins as the other begins, yielding a condition of possibility that was, is, or shall be nothing more or less than a 'fold,' "movement," or "cut," "passage," or "cloud."[^7]
 
-    
-    
-    
-    
     1.  Our Father/ Man is the son of the Father.
     2.  Which art in heaven/God is the infinite spiritual source of life.
     3.  Hallowed be Thy name/May the Source of Life be held holy.
@@ -57,10 +49,6 @@ Desire and mourning are folds[^5] in theological and literary discourse, limits 
     10.  And lead us not into temptation/And may they not lead us into delusion.
     11.  But deliver us from evil/So that no evil may come to us.
     12.  For thine is the kingdom, the power and the glory/And there shall be order, and strength, and reason.[^19]
-    
-    
-    
-    
 
 > > _Our Father, without beginning and without end, like heaven!  
 > > May Thy being only be holy.  
@@ -70,11 +58,6 @@ Desire and mourning are folds[^5] in theological and literary discourse, limits 
 > > Smooth out my former mistakes, and wipe them away; even as I so do with  
 > > all the mistakes of my brothers, that I may not fall into temptation,  
 > > and may be saved from evil._[^24]
-
-     
-     
-     
-     
 
 * * *
 
@@ -93,12 +76,6 @@ Desire and mourning are folds[^5] in theological and literary discourse, limits 
  ['](https://jcrt.org/copyright.shtml) 2002 Victor E. Taylor. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/03.2/taylor.shtml
-
----
-
----
-
----
 
 ---
 

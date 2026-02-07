@@ -6,9 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-  Long - Mircea Eliade and the Imagination of Matter - JCRT 1.2
+---  Long - Mircea Eliade and the Imagination of Matter - JCRT 1.2
 
 # Mircea Eliade and the Imagination of Matter
 
@@ -19,91 +17,39 @@ University of North Carolina
 
 Probably no work of Mircea Eliade frustrates, irritates, and leads anthropologists and other social scientists to fits of anger, more than his _Patterns in Comparative Religion_ (_Trait' d'histoire des Religions_).[^1] It reminds them too much of Frazer's _Golden Bough_ or of lesser popular texts of exotic oddities that purport to describe the customs of primitive cultures. In a milder critical vein, it represents the kind of work that cannot, at least, should not be undertaken, for it appears to rest on a naivet' lacking in scholarly sophistication regarding the relationship of religion, behaviour, and social structure.
 
-    
-    
-    
-    
-    
-    
     > The sky shows itself as it really is: infinite, transcendent. The vault of heaven is, more than anything else, 'something quite apart' from the tiny thing that is man and his span of life. The symbolism of its transcendence derives from the simple realization of its infinite height. . . . All this derives from simply contemplating the sky; but it would be a mistake to see it as a logical, rational process. The transcendental quality of height or the supraterrestial, the infinite, is revealed to man all at once, to his intellect as to his soul as a whole. . . Let me repeat: even before any religious values have been set upon the sky it reveals its transcendence, power and changelessness simply by being there. It exists because it is high, infinite, immovable, powerful.[^2]
-    
-    
+
     > The sun is always the same, always itself, never in any sense 'becoming'. The moon, on the other hand, is a body which waxes, wanes and disappears, a body whose existence is subject to the universal law of becoming, of birth and death. The moon, like man, has a career, involving tragedy, for its failing, like man's, ends in death.[^3]
-    
-     
+
      > To state the case in brief, water symbolizes the whole of potentiality: it is _fons_ _et_ _origo_, the source of all possible existence. . . . Principle of what is formless and potential, basis of every cosmic manifestation, container of all seeds, water symbolizes the primal substance from which all forms come and to which they will return either by their own regression or in a cataclysm.[^4]
-     
-     
+
      > The hardness, ruggedness, and permanence of matter was in itself a hierophany in the religious consciousness of the primitive. And nothing was more direct and autonomous in the completeness of its strength, nothing more noble or more awe-inspiring, than a majestic rock, or a boldly-standing block of granite. Above all, stone _is_. It always remains itself, and exists of itself; and, more important still, it strikes. . . . Rock shows him something that transcends the precariousness of his humanity; an absolute mode of being. Its strength, its motionlessness, its size and its strange outlines are none of them human; they indicate the presence of something that fascinates, terrifies, attracts and threatens, all at once. In its grandeur, its hardness, its shape and its colour, man is faced with a reality and a force that belong to some world other than the profane world of which he is himself a part.[^5]
-     
-     
-     
-     
-     
-     
+
      > from 'creator' to 'fecundator', this slipping of the omnipotence, transcendence and impassiveness of the sky into the dynamism, intensity and drama of the atmospheric, fertilizing, vegetation figures, is not without significance. It makes quite clear that one of the main factors in the lowering of people's conceptions of God, most obvious in agricultural societies, is the more and more all-embracing importance of vital values and of 'Life' in the outlook of economic man.[^8]
-     
-     
-     
-     
-     
+
      > Thus, for instance, from the earliest times, certainly since the Neolithic Age, with the discovery of agriculture, the same symbolism has linked together the moon, the sea waters, rain, the fertility of women and of animals, plant life, man's destiny after death and the ceremonies of initiation. The mental syntheses made possible by the realization of the moon's rhythms connect and unify very varied realities; their structural symmetries and the analogies in their workings could never have been seen had not 'primitive' man intuitively perceived the moon's law of periodic change, as he did very early on.[^9]
-     
-     
-     
+
      > 'Becoming' is the lunar order of things. Whether it is taken as the playing-out of a drama (the birth, fulness and disappearance of the moon), or given the sense of a 'division' or 'enumeration', or intuitively seen as the 'hempen rope' of which the threads of fate are woven, depends, of course, on the myth-making and theorizing powers of individual tribes. . . . But the formulae used to express that 'becoming' are heterogeneous on the surface only. The moon 'divides', 'spins', and 'measures'; or feeds, makes fruitful, and blesses. . . .[^10]
-     
-     
-     
-     
-     
+
      1.  Reveal the systematic nature of _Patterns in Comparative Religion_.
      2.  Show how Eliade reveals the structure of archaic consciousness.
      3.  Emphasize the meaning of matter as a constituitive ingredient in the formulation of the archaic consciousness in Eliade's thought.
-     
-     
-     
-     
-     
-     
-     
+
      1.  An empty totality that lacks reflection and determination of individual movements and analysis. Empty totality excludes reflection, i. e., the appropriation of reality as individual moments and the activity of analytical reason.
      2.  An abstract totality which formalizes the whole as opposed to its parts and ascribes a higher reality to hypostasized tendencies. Totality thus concerned is without genesis and development. Devoid of process it is a closed whole.
      3.  A bad totality, in which the real subject has been replaced by a mythologized subject.
-     
-     
-     
-     
-     
-     
-     
-     
+
      > . . . the supreme divinities of the sky are constantly pushed to the periphery of the religious life where they are almost ignored; other sacred forces, nearer to man, more accessible to his daily experience, more useful to him, fill the leading role.[^19]
      > 
      > . . . it is a popular expression of the idea of the transcendence and passivity of the Supreme Being, too far removed from man to satisfy his innumerable religious, economic vital needs.[^20]
-     
-     
-     
+
      > . . . agriculture displays the mystery of the rebirth of plant life in a more dramatic manner. In the rites and skills of farming man is _intervening actively_; plant life and the sacred forces of the plant world are no longer something outside him; he takes part by using and fostering them.[^21]
-     
-     
-     
-     
-     
-     
-     
-     
-     
+
      > Mineral substances shared in the sacredness attaching to the Earth-Mother. Very early on we are confronted with the notion that ores 'grow' in the belly of the earth after the manner of embroyos. Metallurgy thus takes on the character of obstetrics. Miner and metal-worker intervene in the unfolding of subterranean embryology:they accelerate the rhythm of the growth of ores, they collaborate in the work of Nature and assist it to give birth more rapidly. In a word, man, with his various techniques, gradually takes the place of Time: his labours replace the work of Time.
-     
-     
-     
+
      > From a certain point of view, man, even the most primitive, has always been a 'historic being' by reason of the fact that he was conditioned by the ideology, sociology and economy peculiar to his tradition. But I do not wish to speak of this historicity of man as a man, or as a being conditioned by temporality and culture, but of a more recent and infinitely more complex phenomenon, namely, the enforced involvement of entire humanity in events taking place in a few restricted regions of the globe. This is what happened after the discovery of agriculture and especially after the crystalization of the earliest urban civilizations in the ancient Near East. From that moment all human culture, however strange and remote, was doomed to undergo the consequences of the historic events which were taking place at the 'centre'. These consequences sometimes became manifest thousands of years later, but they could not in any way be avoided; they were part of the historic fatality. With the discovery of husbandry it is possible to say that man was destined to become an agricultural being or at any rate to suffer the influences of all subsequent discoveries and innovations which agriculture made possible: domestication of animals, urban civilization, miliary organization, empire, imperialism, mass wars, etc. In other words, all mankind became involved in the activities of some of its members. Thus, from this time on--parallel with the rise of the first urban civilizations in the Near East--it is possible to speak of history in the full sense of the term, that is, of universal modifications effected by the creative will of certain societies (more precisely, of privileged elements in those societies).[^23]
-     
-     
+
      > living substance, such as it was felt by the artisans, which must have played the decisive role. Indeed it is the conception of a complex and dramatic Life of Matter which constitutes the originality of alchemy as opposed to classical Greek science. One is entitled to suppose that the experience of dramatic life was made possible by the knowledge of Graeco-oriental mysteries.[^24]
-     
-     
 
 * * *
 
@@ -117,12 +63,6 @@ Probably no work of Mircea Eliade frustrates, irritates, and leads anthropologis
 
 © 2000 Charles H. Long. All rights reserved.  
 Updated 03|31|00.
-
----
-
----
-
----
 
 ---
 

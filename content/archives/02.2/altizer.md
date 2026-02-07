@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Altizer - Absolute Nothingness and Taylor's Imagology - JCRT 2.2 
+---    Altizer - Absolute Nothingness and Taylor's Imagology - JCRT 2.2 
 
 # Absolute Nothingness and Taylor's Imagology
-
-
 
 Thomas J. J. Altizer  
 SUNY Stony Brook, Emeritus
@@ -20,24 +16,6 @@ SUNY Stony Brook, Emeritus
 * * *
 
 Mark Taylor has remarked many times recently that theology has come to an end in our new world and is now wholly anachronistic, but the question can be asked if Taylor's recent work is not in deep continuity with his previous theological work, a work whose seminal expression is in _Erring: A Postmodern A/theology._[^1] For despite its comprehensive range, this book has a genuine theological center, and even a Christian one, as it calls forth a milieu of "unoriginal origin," which is an eternal cross(ing) of the word, and one revealing scripture anew. Here is a thoroughly incarnational Christology, and a truly Christocentric theology, but one in which the divine is _forever_ embodied, and the word is _always already_ inscribed. Yet this incarnation is an embodiment of the death of that God who is only God, for the word is never disembodied, and its kenotic emptying embodies the death of transcendent originality and the end of a solitary _causa sui_. While enacting the end of history, this book knows a history which begins with the incapacity or refusal to say "Yes to Nay," and ends with the ability and willingness to say Amen, an Amen which is a "Mazing Grace," and one in which the disappearance of origin is the "end of the end".[^2] If thereby this is not an apocalyptic ending, it is nevertheless a genuine ending, and Taylor can ask if the disappearance of the subject, which is being realized in our midst, is an embodiment of that death of God, which is the realization of the dissemination of the incarnate word. Yet this dissemination is a nihilistic dissemination, one completing nihilism itself, but the completion of nihilism is a reversal of nihilism, a reversal in which the fullness of nihilism is identical with the will to overcome nihilism completely, and to overcome it through an eternal and kenotic cross(ing).
-
-    
-    
-    
-    
-    
-    
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
 
 * * *
 
@@ -56,12 +34,6 @@ Mark Taylor has remarked many times recently that theology has come to an end in
  ['](https://jcrt.org/copyright.shtml) 2001 Thomas J. J. Altizer All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/02.2/altizer.shtml
-
----
-
----
-
----
 
 ---
 

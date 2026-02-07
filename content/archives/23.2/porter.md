@@ -13,12 +13,3 @@ issue: 2
 season: winter
 pages: 165-174
 ---
-
----
-
----
-
----
-
----
-

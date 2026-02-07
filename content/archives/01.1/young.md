@@ -6,9 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-  Young - God and Derrida's Politics - JCRT 1.1
+---  Young - God and Derrida's Politics - JCRT 1.1
 
 # God and Derrida's Politics: At the Edge of Exemplarity
 
@@ -21,31 +19,7 @@ _O my friends--is there a friend?_
 
 This essay seeks to explicate Derrida's emphasis on the importance of exemplarity as a feature of philosophical thought, primarily through an understanding of _The Politics of Friendship_. Exemplarity, on Derrida's view, has been central to the philosophical conception of friendship from Aristotle onward. The metaphysical understanding of examples as supplementary to our thought has led to a determinate politics of friendship, a politics that regulates friendship and excludes both God and women from being friends with man. By deconstructing this understanding of exemplarity, Derrida opens the possibility of a different thought of examples, and thereby a different politics. As figured in the possibility of friendship with God or women through the modality of testimony or confession, deconstruction opens this thought of politics at the precise point at which the thought of politics, friendship and responsibility has been restricted by philosophy.
 
-    
-    
-    
-     
-     
-     
-     
-     
-     
-
 > What we are calling here 'fraternization', is what produces symbolically, conventionally, through authorized engagement, a _determined politics_, which, be it left- or right-wing, alleges a real fraternity or regulates spiritual fraternity, fraternity in the figurative sense, _on the symbolic projection of a real or natural fraternity_.[^9]
-
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
 
 * * *
 
@@ -82,12 +56,6 @@ This essay seeks to explicate Derrida's emphasis on the importance of exemplarit
 
 [![Open this article in a new window.](https://jcrt.org/images/menu/window.gif)](young.html) [![Contents of this issue.](https://jcrt.org/images/menu/home.gif)](https://jcrt.org/archives/01.1/index.html) [![Print this page.](https://jcrt.org/images/menu/print.gif)](javascript:print\(\)) ['](https://jcrt.org/copyright.shtml) 1999 William W. Young III. All rights reserved.  
 Updated 11|15|99.
-
----
-
----
-
----
 
 ---
 

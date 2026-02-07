@@ -6,9 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-  Kavka - Rationality of Derrida's Religion - JCRT 1.1 
+---  Kavka - Rationality of Derrida's Religion - JCRT 1.1 
 
 # The Rationality of Derrida's "Religion without Religion": A Phenomenological Gift for John D. Caputo
 
@@ -19,25 +17,6 @@ Rice University
 
 The theme of doubleness stretches throughout the body of Jacques Derrida's written works. Most beginning students of Derrida read the rather lucid critique of structuralism in the chapter of _Writing and Difference_ entitled "Structure, Sign, and Play in the Discourse of the Human Sciences."[^1] This 1966 essay is usually used to teach the undecidability between "two interpretations of interpretation."[^2] One seeks to uncover truth in a fairly simple propositional and foundational sense; the other, in apparent conflict with the former, seeks to go beyond these modern hermeneutical notions of truth via a concept of metaphoric and antifoundationalist freeplay which Derrida associates with Nietzschean writings such as "On Truth and Lie in an Extramoral Sense." Derrida claims that there can be no "question of choosing" between the two interpretations; rather, there is an irreducible and ineluctable relationship of _diff'rance_ between them which would render such a choice pheno-menologically ignorant.[^3] Whatever turn there may or may not be in Derrida's writings'especially on the issue of religion'this rhetoric of undecidability between the doublet remains focussed. For example, on the opening page of the 1990 _M'moires d'aveugle_ (translated in 1993 as _Memoirs of the Blind_), Derrida once again writes in the rhetoric of doubleness. "Let me summarize: there would be two hypotheses."[^4] Although the immediate context of these two hypotheses is the question of the origin of drawing, it quickly becomes clear that drawing is a phenomenological limit-experience (structurally similar to mourning, the sentence "I am dead," autobiography, etc.) which illuminates interpretation in general. The two interpretations of interpretation are now a) "the transcendental", which hopelessly seeks after the unpresentable and non-thematizable origin and resolutely leaves it hidden and invisible, and b) "the sacrificial," which represents and thematizes this unrepresentability and thus, in its failure, successfully conveys it to the understanding, in however slight or guarded a manner.[^5] The relationship between these two is now described as a "fold," yet the formal structure of this doubleness has not changed since the earlier essay. As the understanding of metaphor as the basis of truth is itself propositionally true, so does the faulty representation of the sacrifical interpretation "reflect" the inaccessibility of the origin.[^6] The undecidable fold between the two interpretations thus becomes the criterion for hermeneutical truth.
 
-    
-    
-    
-    
-    
-    
-    
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-
 * * *
 
 ### Notes
@@ -46,12 +25,6 @@ The theme of doubleness stretches throughout the body of Jacques Derrida's writt
 
 © 1999 Martin Kavka. All rights reserved.  
 Updated 11|18|99.
-
----
-
----
-
----
 
 ---
 

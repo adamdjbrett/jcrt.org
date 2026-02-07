@@ -6,15 +6,11 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Taylor - Encircling Kafka: A Review of the City of K. - JCRT 3.3 
+---    Taylor - Encircling Kafka: A Review of the City of K. - JCRT 3.3 
 
 # Encircling Kafka? _The City of K.: Franz Kafka and Prague_
 
 a review of "[The City of K.: Franz Kafka and Prague](http://www.jewishmuseum.org/Pages/Exhibitions/Special_Exhibits/kafka/kafka.html)," The Jewish Museum, New York, August 11, 2002 to January 5, 2003.
-
-
 
 Victor E. Taylor  
 York College of Pennsylvania
@@ -30,45 +26,37 @@ Kafka in 1923-24 [^2]
 
 _The City of K.: Franz Kafka and Prague_ is an ambitious and unsettling postmodern exhibition, with original documents, facsimiles, and materials relating to Franz Kafka's literary works, life, and cultural surroundings carefully presented in a series of thematically organized "districts": "The Primal Scene," "A Little 'Ravachol,'" "Life in a Circle," "The Civil Servant and the Artist," "The Theater of Purity," "The Constantly Postponed Marriages," "The God of Suffocation," "The Burrow," "The Endless Office," "The Castle," "In the Penal Colony," and "The Threshold." The alignment of such diverse items as photographs, audiovisual installations, letters, and music allow the exhibition space to simulate Kafka's or K.'s existential space by extending an opposition between surface and depth into the various aspects of the author's literary works and Jewish cultural life in early twentieth century Prague. Key passages from Kafka's diaries, novels, and short stories written in white block letters on dark, "muddy" walls, wooden pallets, or an ascending staircase leading nowhere interrupt the eye as one passes from exhibit to the next. Early on, photographs of the Old Town rest submerged on a rock bed against a wall length, portrait filled genealogy of the Kafka family. Of the several excerpts inaugurating the exhibit, a line from the "Third Octavo Notebook" seems to capture the spatial and existential tensions presented throughout the exhibition: "A cage went in search of a bird."
 
-    
     > This is not a city. It is a fissure in the ocean bed of time, covered with stony rubble of burned-out dreams and passions, through which we'as if in a diving bell'take a walk. It is interesting, but after a time one looses one's breath.[^3]
-    
+
     > Prague doesn't let go. Of either of us. This old crone has claws. One has to yield, or else. We would have to set fire to it on two sides, at the Vy'ehrad and at the Hradčany; then it would be possible for us to get away.[^4]
-    
 
 ![](https://jcrt.org/archives/03.3/images/image004.jpg)
 
 _Audiovisual_ _Traffic_ (_Verkehr_) [^5]
 
-    
     ![](https://jcrt.org/archives/03.3/images/image006.jpg)
-    
+
     ![](https://jcrt.org/archives/03.3/images/image008.jpg)
-    
+
     _The Civil Servant and the Artist_ [^6]
-    
+
     _Measures for the Prevention of Accidents_ [^7]
-    
-    
-    
+
     ![](https://jcrt.org/archives/03.3/images/image010.jpg)
-    
+
     ![](https://jcrt.org/archives/03.3/images/image012.jpg)
-    
+
     _The Burrow_ [^11]
-    
+
     From the installation _In the Penal Colony_ [^12]
-    
-    
+
     ![](https://jcrt.org/archives/03.3/images/image014.jpg)
-    
+
     ![](https://jcrt.org/archives/03.3/images/image016.jpg)
-    
+
     _Prague Castle_ [^14]
-    
+
     _The Threshold_ [^15]
-    
-     
 
 _The Exhibition catalogue contains several historical, biographical, and theoretical essays on Franz Kafka. In particular Mark M. Anderson's essay provides an analysis of Kafka's transformation of the modern. The Jewish Museum, 1109 Fifth Avenue at 92nd Street, New York, New York._
 
@@ -88,12 +76,6 @@ _The Exhibition catalogue contains several historical, biographical, and theoret
  ['](https://jcrt.org/copyright.shtml) 2002 Victor E. Taylor. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/03.3/taylor.shtml
-
----
-
----
-
----
 
 ---
 

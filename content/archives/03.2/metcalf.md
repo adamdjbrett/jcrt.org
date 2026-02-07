@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Metcalf - The Word of Freud - JCRT 3.2 
+---    Metcalf - The Word of Freud - JCRT 3.2 
 
 # The Word of Freud: Our God is _logos_
-
-
 
 Robert Metcalf  
 University of Colorado at Denver
@@ -25,83 +21,55 @@ University of Colorado at Denver
 
 This is a strange book." So said T. S. Eliot of Freud's _The Future of an Illusion_ when it appeared in English translation, and this assessment is as apt today as it was then.[^2] It is, indeed, a strange and disturbing book, at once brilliant and opaque, honest yet intellectually frustrating. However, what upset Eliot about the book'namely, its alleged failure to define certain key concepts'seems minor in comparison to what troubles us about the book today: for example, its rather unnuanced and reductive approach to what Freud calls religious "ideas" \[_Vorstellungen_\], as well as its myopically positivistic view of science as a simple alternative to religious ideas.[^3] But there are good reasons to devote careful attention to Freud's polemic of 1927, not least of all because we have inherited Freud's problematic: a world riveted by clashing religious cultures, with no obvious recourse or opportunity for reconciliation.[^4] In a year that began with the American President proclaiming that "we are guided by a power larger than ourselves who created us equal in His image,"[^5] and ended with Americans at war in Afghanistan to subdue Islamic fundamentalists, we find ourselves asking Freud's question as to the future of religious culture'whether or not we interpret this as the future of an _illusion_.
 
-     
-     
-     
      > It is in keeping with the course of human development that external coercion gradually becomes internalized... Every child presents this process of transformation to us; only by that means does it become a moral and social being. Such a strengthening of the super-ego is a most precious cultural asset in the psychological field. Those in whom it has taken place are turned from being opponents of culture into being its vehicles \[_werden aus Kulturgegnern zu Kulturtr'gern_\]. (XXI, 11; XIV, 332)
-     
+
      To speak of "morality," as Freud does here, is to express in popular terms what psychoanalysis calls the internalization \[_Verinnerlichung_\], through education, of the fundamental precepts of one's culture (XXI, 12; XIV, 334). What becomes internalized in this process are the "mental assets of culture," i.e., the measures of coercion intended to reconcile men to one another and compensate their suffering (XXI, 10; XIV, 331). When, at the end of the passage quoted above, Freud speaks of the bearers or vehicles of culture \[_Kulturtr'gern_\] as the end-product of this process, he invokes a connection in German between making one's life "bearable" \[_ertr'glich_\] by identifying with one's culture, and being a "bearer" \[_Tr'ger_\] of culture precisely through this identification. The decisiveness of this connection will become apparent later in the text when Freud announces his hope that we reform education so that, through it, one will at the same time make one's life bearable and become a bearer of the culture that has transformed one into a "moral and social being."
-     
-     
-     
+
      > The father himself constitutes a danger for the child, perhaps because of its earlier relation to its mother. Thus it fears him no less than it longs for him and admires him. The indications of this ambivalence in the attitude to the father are deeply imprinted in every religion, as was shown in _Totem and Taboo_. When the growing individual finds that he is destined to remain a child forever, that he can never do without protection against strange superior powers \[_fremde 'berm'chte_\], he lends those powers the features belonging to the figure of his father; he creates for himself the gods whom he dreads, whom he seeks to propitiate, and whom he nevertheless entrusts with his own protection. Thus his longing for a father is a motive identical with his need for protection against the consequences of human powerlessness \[_Ohnmacht_\]. The defence against childish helplessness is what lends its characteristic features to the adult's reaction to the helplessness which _he_ has to acknowledge'a reaction which is precisely the formation of religion. (XXI, 24; XIV, 346)
-     
 
 In this way, Freud concludes that religious ideas have arisen from the need common to all cultural achievements: the necessity of providing "defence" against the crushingly superior force of nature (XXI, 21; XIV, 343). By helping the individual to achieve psychical mastery \[_Bew'ltigung_\], if not physical control, over the vulnerability of his situation, these ideas serve to rob nature of at least some of her power. Thus, the God or gods who are fashioned in this process are given a three-fold task that is identical to that of cultural achievements in general: to exorcize the terrors of nature, to reconcile men to the cruelty of fate, particularly as it is shown in death, and to compensate them for the sufferings and privations that communal life has imposed on them (XXI, 18; XIV, 339). Notice how nothing in this account necessitates the conclusion that Freud draws'namely, that the relationship between religion and culture must be fundamentally altered. Indeed, Freud acknowledges that apologists of religion could use the psychological grounding \[_Begr'ndung_\] that psychoanalysis offers to "give full value to the affective significance of religious doctrines" (XXI, 37; XIV, 360).[^13] For Freud, psychoanalysis is nothing but a method of research, an "impartial \[_parteiloses_\] instrument, like infinitesimal calculus" (XXI, 36; XIV, 360), and thus underdetermines any effort, like Freud's in _The Future of an Illusion_, to "take sides" \[_Parteinehmen_\] (cf. XXI, 32; XIV, 355). As Freud will reiterate in his treatment of the "Question of a Weltanschauung" in the _New Introductory Lectures on Psychoanalysis_, psychoanalysis is unable to create a _Weltanschauung_ of its own, but adheres to the scientific approach (XXII, 158, 181; XV, 170-171, 197).[^14]
 
-     
-     
      > I am reminded of one of my children who was distinguished at an early age by a peculiarly marked matter-of-factness. When the children were being told a fairy tale and were listening to it with rapt attention, he would come up and ask: "Is that a true story?" When he was told it was not, he would turn away with a look of disdain. We may expect that people will soon behave in the same way towards the fairy tales of religion, in spite of the advocacy of "as if." (XXI, 29, XIV, 351)
-     
+
      Given his approach, we should not be surprised to read Freud's argument that criticism has whittled away the evidential value of religious documents, that natural science has shown their errors, and thus that as the treasures \[_Sch'tze_\] of scientific knowledge become more accessible, fewer people will cling to the store \[_Schatz_\] of religious ideas (XXI, 38; XIV, 362).[^15] Nor is it surprising that Freud should explain the refractoriness of religious ideas to rational evaluation \[_vern'nftige Anerkennung_\] as a matter of wish-fulfillment'indeed, fulfillment of the oldest, strongest and most urgent wishes of mankind (XXI, 30; XIV, 352)'so that, properly speaking, they are _illusions_ in Freud's sense, rather than errors.[^16]
-     
-     
+
      > Scientific work is the only road which can lead us to a knowledge of reality outside ourselves. It is once again merely an illusion to expect anything from intuition and introspection; they can give us nothing but particulars about our own mental life, which are hard to interpret, never any information about the questions which religious doctrine finds it so easy to answer. It would be insolent \[_frevelhaft_\] to let one's own arbitrary will \[_die eigene Willk'r_\] step into the breach and, according to one's personal estimate, declare this or that part of the religious system to be more or less acceptable. (XXI, 31-2; XIV, 354)
-     
+
      But Freud goes further than this. Addressing the right or justification \[_Recht_\] one has for believing what one believes, Freud says that "no reasonable person \[_vern'nftiger Mensch_\] will behave so irresponsibly \[_so leichtsinnig benehmen_\] or rest content with such feeble grounds for his opinions and partisanship \[_Parteinahme_\]" (XXI, 32; XIV, 355). With respect to questions of religion, Freud asserts that people are "guilty of every possible sort of dishonesty and intellectual misdemeanor \[_aller m'glichen Unaufrichtigkeiten und intellektuellen Unarten schuldig_\]" (ibid). And Freud demonstrates his correspondingly low estimation of those who created religious doctrines \[_Lehren_\] when he writes of how remarkable it would be "if our wretched, ignorant and downtrodden ancestors had succeeded in solving all these difficult riddles of the universe" (XXI, 33; XIV, 356).
-     
-     
+
      > Critics persist in describing as "deeply religious" anyone who admits to a sense of man's insignificance or powerlessness \[_Ohnmacht_\] in the face of the universe, although what constitutes the essence of the religious attitude is not this feeling but only the next step after it, the reaction to it which seeks a remedy for it \[_eine Abhilfe sucht_\]. The man who goes no further, but humbly acquiesces in the small part which human beings play in the great world'such a man is, on the contrary, irreligious in the truest sense of the world. (XXI, 32-3; XIV, 355)
-     
+
      In this passage we should notice the way in which Freud endorses the particular acknowledgement of human vulnerability that marks the scientific/irreligious attitude. Freud is willing to plea for the renunciation of wish and the acquiescence in fate \[_W'nschverzicht und Ergebung in das Schicksal_\] that this attitude represents (XXI, 36; XIV, 359), if only because religion has failed in its cultural task of comforting the majority of human beings, of reconciling them to life, and of making them into "vehicles of culture \[_Kulturtr'gern_\]" (XXI, 37; XIV, 360). Quite the opposite, Freud sees a vast number of people who have gone so far in their hostility to culture \[_Kulturfeindschaft_\] that they want nothing to do with culture or instinctual-limitation \[_Triebeinschr'nkung_\] whatsoever (ibid).
-     
-     
-     
 
 > The case is similar to what happens when we tell a child that new-born babies are brought by the stork. Here, too, we are telling the truth in symbolic clothing, for we know what the large bird signifies. But the child does not know it. He hears only the distorted part of what we say, and feels that he has been deceived; and we know how often his distrust of grown-ups and contrariness \[_Widersetztlichkeit_\] actually take their start from this impression. We have become convinced that it is better to avoid such symbolic disguisings of the truth in what we tell children and not to withhold from them a knowledge of the true state of affairs commensurate with their intellectual level. (XXI, 44-5; XIV, 368)
 
-     
-     
-     
      > These reformations \[_Umbildungen_\] of religious doctrine, which you have condemned as half-measures and compromises, make it possible to avoid the cleft between the uneducated masses and the philosophic thinker, and to preserve the common bond \[_Gemeinsamkeit_\] between them which is so important for the safeguarding of culture \[_Sicherung der Kultur_\]_._ With this, there would be no need to fear that people would discover that the upper strata of society "no longer believe in God." (XXI, 52; XIV, 376)
-     
+
      Freud's interlocutor takes himself to have shown that the attempt to radically alter the relationship between religion and culture'as Freud advocates'is to replace a proven and emotionally valuable \[_affektiv wertvolle_\] illusion with one that is unproven and without emotional value (ibid).
-     
-     
+
      > I will moderate my zeal and admit the possibility that I, too, am chasing an illusion. Perhaps the effect of the religious prohibition of thought may not be so bad as I suppose; perhaps it will turn out that human nature remains the same even if education is not abused in order to subject people to religion... But you must admit that here we are justified in having a hope for the future'that perhaps there is a treasure \[_Schatz_\] to be dug up capable of enriching culture and that it is worth making the experiment of an irreligious education. (XXI, 48; XIV, 371-2)
-     
+
      Asking hypothetically whether infantilism is destined to be overcome \[_der Infantilismus ist dazu bestimmt, 'berwunden zu werden?_\]_,_ Freud indicates that the experiment he has in mind requires that we admit to ourselves the full extent of our helplessness \[_Hilflosigkeit_\] and insignificance in the machinery of the universe \[_Geringf'gigkeit im Getriebe der Welt_\] (XXI, 49; XIV, 373). Indeed, Freud says that the sole purpose of his book is to point out the necessity of this forward step into hostile life which he calls "education to reality" \[_die Erziehung zur Realit't_\] (ibid). Relying only on the assistance \[_Hilfsmittel_\] of scientific knowledge, the human beings who emerge from Freud's irreligious education are ones who withdraw their expectations from the next life, concentrate their powers on this earthly life, and thereby succeed in creating "a life that is tolerable for everyone and a culture that no longer oppresses anyone" \[_das Leben f'r alles ertr'glich wird und die Kultur keinen mehr erdr'ckt_\] (XXI, 50; XIV, 373-74).
-     
-     
+
      > The primacy of the intellect lies, it is true, in a distant, distant future, but probably not an _infinitely_ distant one. It will presumably set itself the same aims as those whose realization you expect from your God (of course within human limits'so far as external reality \[...\] allows it), namely the love of man and the decrease of suffering \[_die Menschenliebe und die Einschr'nkung des Leidens_\]... We desire the same things, but you are more impatient, more exacting, and'why should I not say it?'more self-seeking than I and those on my side. You would have the state of bliss begin directly after death; you expect the impossible of it and you will not surrender the claims of the individual \[_wollen den Anspruch der Einzelpersonen nicht aufgeben_\]. Our God, _logos_, will fulfil whichever of these wishes nature outside us allows, but he will do it very gradually, only in the unforeseeable future, and for a new generation of men. He promises no compensation for us, who suffer grievously from life... \[I\]n the long run nothing can withstand reason and experience, and the contradiction which religion offers to both is all too palpable. Even purified religious ideas \[_die gel'uterten religi'sen Ideen_\] cannot escape this fate, so long as they try to preserve anything of the consolation of religion \[_Trostgehalt der Religion_\] (XXI, 53-4; XIV, 377-78).
-     
+
      Here Freud provides an important qualification of his earlier distinction between the essence of religiosity \[_Wesen der Religi'sit't_\] and irreligiosity "in the truest sense." Earlier he described religiosity as seeking a remedy \[_Abhilfe_\] for human vulnerability and the irreligious individual as "humbly acquiescing" to his limitations with respect to fate. Here, too, Freud insists that the truly irreligious person will do without the consolation \[_Trostgehalt_\] of religion'which he thinks even "purified" religious ideas promise'and when, shortly after this passage, he invokes "Our God, _logos_," a second time, he stresses the importance of accepting with resignation \[_in Ergebung hinnehmen_\] what this less-than-almighty God can offer us (XXI, 54-5; XIV, 378-79). And yet it is clear that if the irreligious person does not demand a remedy or redress \[_Abhilfe_\] of his human vulnerability, he nonetheless looks to the assistance \[_Hilfsmittel_\] of science "to gain some knowledge about the reality of the world, by means of which we can increase our power \[_Macht_\] and in accordance with which we can arrange our life" (XXI, 55; XIV, 379).
-     
-     
-     
-     
+
      > It is well known that at an earlier date \[religion\] comprised everything that played an intellectual part in men's lives, that it took the place of science when there was scarcely yet such a thing as science, and that it constructed a _Weltanschauung_, consistent and self-contained to an unparalleled degree which, although it has been profoundly shaken, persists to this day. (XXII, 161; XV, 173)
-     
+
      However, at the very least, Freud's account of "the advance in spirituality/intellectuality \[_der Fortschritt in der Geistigkeit_\]" achieved by Moses' ethical monotheism erodes his claim, in _The Future of an Illusion_, that even refined religiosity offers consolation to individuals, and thus remains "self-seeking."[^21] If the "dematerialized God" of Moses signifies, in Freud's words, "a triumph of intellectuality \[_Geistigkeit_\] over sensuality \[_Sinnlichkeit_\]," and opens the door to further alterations in the idea of God (XXIII, 113-15; XVI, 220-222)'indeed, to a dynamic tradition of such changes, culminating perhaps in the God of Spinoza'then the refined and sublimated religiosity of ethical monotheism cannot be thought of as a source of consolation in any ordinary sense. For Freud to insist that it remains a source of consolation would appear to be, as Paul Ricouer has argued, an obstinate refusal of intellectualized religious belief, born from passionate unbelief.[^22]
-     
-     
+
      > That religion also brought the Jews a far grander conception of God, or, as we might put it more modestly, the conception of a grander God. Anyone who believed in this God had some kind of share in his greatness, might feel exalted himself... All such advances in intellectuality have as their consequence that the individual's self-esteem \[_Selbstgef'hl_\] is increased, that he is made proud \[_stolz zu machen_\]'so that he feels superior to other people who have remained under the spell of sensuality. Moses, as we know, conveyed to the Jews an exalted sense \[_Hochgef'hl_\] of being a chosen people. The dematerialization of God brought a fresh and valuable contribution to their secret treasure \[_geheimen Schatz_\]. (XXIII, 112-15; XVI, 219-222)[^24]
-     
+
      To explain why this advance in intellectuality, and subordination of sensuality, should raise a people's self-regard, Freud analyzes it as a substitutive satisfaction within the libidinal economy. Although the instinctual renunciation required for such intellectuality is experienced as painful, the ego gains pleasure in recognizing that it is capable of this renunciation: "The ego feels elevated \[_Das Ich f'hlt sich gehoben_\]," Freud writes, "it is proud of the instinctual renunciation \[_es wird stolz auf den Triebverzicht_\], as though it were a valuable achievement" (XXIII, 117; XVI, 224). Here the ego is operating toward super-ego as the child once acted toward his or her parents: "Just as in childhood, the ego is apprehensive about risking the love of its supreme master \[_Oberherr_\]; it feels his approval as liberation and satisfaction and his reproaches as pangs of conscience \[_als Gewissenbisse_\]. When the ego has brought super-ego the sacrifice of an instinctual renunciation, it expects to be rewarded by receiving more love from it. The consciousness of deserving this love is felt by it as pride \[_als Stolz_\]" (XXIII, 117; XVI, 224-225). But though the ego operates here according to the childhood pattern, the narcissistic character of its pride means that the "supreme master" of its devotion has already been internalized, that its authority is an internal figure.[^25] With this account of the narcissistic motivation for intellectualized religion, Freud can maintain that his refined interlocutor is "self-seeking" on a deeper level, as uncovered by psychoanalysis.
-     
-     
+
      > Thus we are faced by the phenomenon that in the course of the development of humanity sensuality is gradually overpowered by intellectuality and that men feel proud and exalted by every such advance \[_die Menschen sich durch jeden solchen Fortschritt stolz und gehoben f'hlen_\]. But we are unable to say why this should be so... Perhaps men simply pronounce that what is more difficult is higher, and their pride \[_Stolz_\] is merely their narcissism augmented by the consciousness of a difficulty overcome. (XXIII, 118; XVI, 226)
-     
+
      This narcissistic aetiology of intellectual pursuits is not confined to the argument of _Moses and Monotheism_. In _Civilization and its Discontents_, for example, Freud says in passing that "the narcissistic man, who inclines to be self-sufficient \[_der eher selbstgen'gsame Narzi'tische_\], will seek his main satisfactions in his internal mental processes \[_in seinem inneren seelischen Vorg'ngen_\]" (XXI, 83-4; XIV, 442). To be sure, Freud's discovery of narcissism within intellectual pursuits is fascinating independently of his polemic against religion, but the problem here is that it has the effect of collapsing any essential distinction between religion and science'a distinction that seems "sacred" to Freud.[^26] We cannot help but wonder how one is to make sense of Freud's concept of "illusion" if the development of intellect is itself an outgrowth, through sublimation, of religious ideas and pursues the same psychological pattern of finding more and more sublime father-substitutes.
-     
-     
+
      > Long ago \[man\] formed an ideal conception of omnipotence and omniscience which he embodied in his gods. To these gods he attributed everything that seemed unattainable to his wishes, or that was forbidden to him. One may say, therefore, that these gods were cultural ideals. Today he has come very close to the attainment of this ideal, he has almost become a god himself \[_beinahe selbst ein Gott geworden_\]... Man has, as it were, become a kind of prosthetic God. When he puts on all his auxiliary organs he is truly magnificent; but those organs have not grown on to him and they still give him much trouble at times. Nevertheless, he is entitled to console himself \[_sich zu tr'sten_\] with the thought that this development will not come to an end precisely with the year 1930 A.D. Future ages will bring with them new and probably unimaginably great advances in this field of civilization and will increase man's likeness to God still more \[_die Gott'hnlichkeit noch weiter steigern_\]. (XXI, 91-2; XIV, 450-451)
-     
+
      Here we need not appeal to psychoanalysis for an account of how an individual's self-regard is affected by his culture's conception of God. For the manifest content of this passage is precisely Freud's narcissistic satisfaction with scientific-technological culture'so much so, in fact, that he admits to the consolation provided by man's "likeness to God" \[_Gott'hnlichkeit_\]. But if the "prosthetic God" of scientific culture can be viewed, following Freud's narcissistic aetiology, as a cultural development of ethical monotheism and other religious ideas, what does this mean for "Our God, _logos_," whom Freud expects to combine intellectual primacy and love of humankind?
-     
-     
-     
-     
 
 * * *
 
@@ -123,12 +91,6 @@ Citations from Freud will refer first to the _Standard Edition_'s English transl
  ['](https://jcrt.org/copyright.shtml) 2002 Robert Metcalf. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/03.2/metcalf.shtml
-
----
-
----
-
----
 
 ---
 

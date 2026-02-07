@@ -6,15 +6,11 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-     Takim - Book Profile: Islamic Ethics of Life - JCRT 2.3 
+---     Takim - Book Profile: Islamic Ethics of Life - JCRT 2.3 
 
 # Book Profile
 
 Andrew Rippin, _Muslims: Their Religious Beliefs and Practices_. London: Routledge, 2001. 346 pages. Second edition. ISBN 0-415-21782-2.
-
-
 
 Liyakatali Takim  
 University of Denver
@@ -22,16 +18,6 @@ University of Denver
 * * *
 
 T he book is a revised edition of the author's first work that was published in two volumes. Designed as a textbook for students in Islam the book consists of seventeen chapters covering different topics related to the teaching of Islam in a department of religious studies. The period covered includes the emergence of Islam in seventh century Arabia, the formation and consolidation of Islamic identity in the classical period of Islam extending to the modern vision and re-vision of Islam. The intent of the author is to examine the beliefs and practices of Muslims in their social, cultural and historical settings and the integration of these diverse factors in the formation of the Islamic tradition. His discussion shows why Islam should not be regarded as a monolithic entity. The author also attempts to redress what he claims to be a lack of critical analysis that is apparent in many introductory textbooks on Islam (pg 1). Thus he discusses not only the crystallization of Muslim beliefs and practices but also, by examining the textual sources, the literary formation of Islam in its classical heritage ' a remnant of the orientalist approach to the study of Islamic civilization.
-
-    
-    
-    
-    
-    
-    
-    
-     
-     
 
 * * *
 
@@ -46,12 +32,6 @@ T he book is a revised edition of the author's first work that was published in 
  ['](https://jcrt.org/copyright.shtml) 2001 Liyakatali Takim. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/02.3/takim.shtml
-
----
-
----
-
----
 
 ---
 

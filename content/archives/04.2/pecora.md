@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Pecora - Religion and Modernity in Current Debate - JCRT 4.2 
+---    Pecora - Religion and Modernity in Current Debate - JCRT 4.2 
 
 # Religion and Modernity in Current Debate
-
-
 
 Vincent P. Pecora  
 University of California, Los Angeles
@@ -21,37 +17,9 @@ University of California, Los Angeles
 
 Any attempt to talk briefly about such immense subjects as "religion" and "modernity" is a foolhardy enterprise at best, and I take up this task with many misgivings. But in the wake of the events of September 11, 2001, a subsequent "war" focused mainly on what is now widely perceived to be global networks of religious (that is, primarily Islamic) terrorism, including renewed armed struggle between Palestinians and Israelis the religious elements of which cannot be ignored, it is hard not to go once again where better angels might fear to tread. The recent American invasion of Iraq has made the task of re-thinking the relationship of modernity and religion all the more pressing, since it now appears that a secular Western power with a still vibrant Christian culture'the United States'will attempt to create _ex nihilo_ a new government and civil society in Iraq, which was once the cradle of Islamic civilization. The resurgence of a lively discussion about a "clash of civilizations," the invocation of "crusades" and _jihads_, and the large body of assumptions about the secular nature of the contemporary West and the religious sensibility of those who oppose it'assumptions that appear on both sides of this divide'make it almost impossible, I think, for informed people not to wonder once again about the complicated relationship between the so-called "modern world" and religious belief.
 
-    
-    
-    
     > The New York and Washington suicide bombers seem to have been middle-class, educated men, not poor refugees. Instead of getting a wise leadership that stresses education, mass mobilization and patient organization in the service of a cause, the poor and the desperate are often conned into the magical thinking and quick bloody solutions that such appalling models provide, wrapped in lying religious claptrap. This remains true in the Middle East generally, Palestine in particular, but also in the United States, surely the most religious of all countries. It is also a major failure of the class of secular intellectuals not to have redoubled their efforts to provide analysis and models to offset the undoubted sufferings of the large mass of their people, immiserated and impoverished by globalism and an unyielding militarism with scarcely anything to turn to except blind violence and vague promises of future salvation.[^5]
-    
+
     In such models, US retaliation in Afghanistan and the larger Western focus on Islam as the key to the nature of a modern Arab consciousness falsely assumes a uniformity of world view'one radical Islam'where in fact many and diverse Islams exist, some far more rationalized than others (not to mention very small pockets of equally impoverished Christians in the case of Palestine, Lebanon, Egypt, and elsewhere). More to the point, this model argues that in blaming religious militancy for the economic and political shortcomings of the Arab Middle East and its violent reaction against the West, the West mistakes the symptom for the illness. The turn toward so-called fundamentalist, less rationalized forms of religion in Palestine, Saudi Arabia, Afghanistan, Egypt, Algeria, Tunisia, and so forth is for the liberal-left mainly an ambiguous consequence of neocolonialism.
-    
-    
-    
-    
-    
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
 
 * * *
 
@@ -139,12 +107,6 @@ Any attempt to talk briefly about such immense subjects as "religion" and "moder
  ['](https://jcrt.org/copyright.shtml) 2003 Vincent P. Pecora. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/04.2/pecora.shtml
-
----
-
----
-
----
 
 ---
 

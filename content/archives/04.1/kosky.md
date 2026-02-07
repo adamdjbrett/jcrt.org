@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Kosky - Iconic Revisions of the Modern World Picture - JCRT 4.1 
+---    Kosky - Iconic Revisions of the Modern World Picture - JCRT 4.1 
 
 # Iconic Revisions of the Modern World Picture
-
-
 
 Jeffrey L. Kosky  
 Bucknell University
@@ -21,49 +17,9 @@ Bucknell University
 
 We live in an age of image. This simple statement, often repeated, has complex ramifications; for the extent of the image is much wider than art and television where it obviously appears most often. To even begin to measure it's the significance of the image, we must consider a complicated web of discourses, ranging from art and aesthetics to science and technology, and passing through theories of subjectivity and the possibility of God or the gods. For, as the art historian Hans Belting has said, "the history of religion and the history of the human subject \[^1]
 
-    
-    
-    
-    
-    
-    
-    
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
      > "This picture brethren, ye shall set up in some place, let us say, on a north wall and shall stand round it, a little way off, and look upon it. And each of you shall find that, from whatsoever quarter he regardeth it, it looketh upon him as if it looked upon none other'. If now while fixing his eye on the icon, he walk from west to east, he will find that its gaze continuously goeth along with him, and if he return from east to west, in like manner it will not leave him' So he will come to know that the picture's face keepeth in sight all as they go on their way though it be in contrary directions" (_The Vision of God_ 4-5). In this experiment, a man monk walks from west to east and then back from east to west without at any time discovering that the fixed and immobile picture has stopped looking at him as he travels across the room, moving from one place to another. Its vision is in this sense "omnivoyant" or all-embracing of the world in its totality. Likewise when all stand still in a semi-circle surrounding the picture, each alike reports that the picture sees him. This phenomenological report would apparently suggest that for Nicholas and the devoted community of monks the subject (man, the one looking at the painting) does not occupy the relational center, does not stand at the center around which space and time would be organized into an ordered and measured system of coordinates. If each of the brethren is regarded equally no matter what place they occupy, and if a single one of them can be seen equally wherever he places himself in the room, this can only mean that the picture itself marks the center.[^7]
-     
-     
-     
-     
-     
-     
-     
 
 \* \* \* \* \*
-
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
 
 * * *
 
@@ -105,12 +61,6 @@ We live in an age of image. This simple statement, often repeated, has complex r
  ['](https://jcrt.org/copyright.shtml) 2002 Jeffrey L. Kosky All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/04.1/kosky.shtml
-
----
-
----
-
----
 
 ---
 

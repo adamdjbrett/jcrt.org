@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Caputo & Raschke - Loosening Philosophy's Tongue - JCRT 3.2 
+---    Caputo & Raschke - Loosening Philosophy's Tongue - JCRT 3.2 
 
 # Loosening Philosophy's Tongue: A Conversation with Jack Caputo
-
-
 
 John D. Caputo  
 Villanova University
@@ -23,53 +19,6 @@ University of Denver
 * * *
 
 _More than any contemporary American philosopher, John D. ('Jack') Caputo has been instrumental in making both the name Jacques Derrida and the slippery term 'deconstruction' household words. His three biennial conferences on 'postmodernism' at Villanova University in Pennsylvania since the mid-1990s have not only drawn leading international figures, including Derrida, but also provided an opportunity for countless scholars to comprehend the players and issues connected to the movement itself. In this lively conversation with_ JCRT _senior editor Carl A. Raschke, Caputo talks about his own project and style, particularly his effort to show us how Derrida is not only an illustrious philosopher, but a_ religious thinker _as well. In that regard Caputo charts a trajectory for postmodernist thought that has only been dimly thought to the present. And he distinguishes his reading of Derrida decisively from that of Mark C. Taylor, whom_ JCRT _interviewed in this spot a year ago._
-
-    
-    
-    
-    
-    
-    
-    
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
 
 * * *
 
@@ -86,12 +35,6 @@ _More than any contemporary American philosopher, John D. ('Jack') Caputo has be
  ['](https://jcrt.org/copyright.shtml) 2002 John D. Caputo and Carl A. Raschke. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/03.2/caputo\_raschke.shtml
-
----
-
----
-
----
 
 ---
 

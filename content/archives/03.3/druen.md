@@ -6,15 +6,11 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Druen - Book Profile: Sacred Pain - JCRT 3.3 
+---    Druen - Book Profile: Sacred Pain - JCRT 3.3 
 
 # Book Profile: _Sacred Pain_
 
 a review of Ariel Glucklich,'_[Sacred Pain](http://service.bfast.com/bfast/click?bfmid=2181&sourceid=27747321&bfpid=0195132548&bfmtype=book)_. Oxford University Press, 2001.'278pp. $21.00. ISBN: 0195132548
-
-
 
 Perri Druen  
 York College of Pennsylvania
@@ -22,11 +18,6 @@ York College of Pennsylvania
 * * *
 
 Pain can be "medicine, a test, a rite of passage, or an alchemical agent of inner transformation" (210) and therefore sought with great passion.
-
-    
-    
-    
-    
 
 * * *
 
@@ -41,12 +32,6 @@ Pain can be "medicine, a test, a rite of passage, or an alchemical agent of inne
  ['](https://jcrt.org/copyright.shtml) 2002 Perri Druen. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/03.3/druen.shtml
-
----
-
----
-
----
 
 ---
 

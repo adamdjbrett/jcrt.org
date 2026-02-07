@@ -27,12 +27,3 @@ issue: 1
 season: spring
 pages: 27-38
 ---
-
----
-
----
-
----
-
----
-

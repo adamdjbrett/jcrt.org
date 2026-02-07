@@ -6,15 +6,11 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Zerbe - Book Profile: Anaximander and the Architects - JCRT 3.3 
+---    Zerbe - Book Profile: Anaximander and the Architects - JCRT 3.3 
 
 # Book Profile: Anaximander and the Architects
 
 a review of Robert Hahn, _[Anaximander and the Architects: The Contributions of Egyptian and Greek Architectural Technologies to the Origins of Greek Philosophy](http://service.bfast.com/bfast/click?bfmid=2181&sourceid=27747321&bfpid=0791447944&bfmtype=book)._ State University of New York Press, Albany, 2001. 320pp. $28.95/$81.50. ISBN: 0791447944
-
-
 
 Michael J. Zerbe  
 York College of Pennsylvania
@@ -22,14 +18,6 @@ York College of Pennsylvania
 * * *
 
 In _Anaximander and the Architects_, Robert Hahn proposes that ancient Greek scholar Anaximander (and, to a lesser extent, Thales) in specific, and the 6th-century BCE Greek turn toward rationalizing activities in general, were influenced prominently by the Greek architects who planned and built monumental temples to gods such as Hera, Artemis, and Apollo. Hahn asserts that Anaximander, whom Hahn names as the author of the first philosophy text in prose, relied on techniques used by these architects to argue for his vision of the cosmos. Scrupulously researched, soundly supported, and carefully planned, Hahn presents a convincing case.
-
-    
-    
-    
-    
-    
-    
-    
 
 * * *
 
@@ -44,12 +32,6 @@ In _Anaximander and the Architects_, Robert Hahn proposes that ancient Greek sch
  ['](https://jcrt.org/copyright.shtml) 2002 Michael Zerbe. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/03.3/zerbe.shtml
-
----
-
----
-
----
 
 ---
 

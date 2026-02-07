@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-     Raschke - The Deposition of the Sign - JCRT 3.1 
+---     Raschke - The Deposition of the Sign - JCRT 3.1 
 
 # The Deposition of the Sign: Postmodernism and the Crisis of Religious Studies
-
-
 
 Carl A. Raschke  
 University of Denver
@@ -20,28 +16,6 @@ University of Denver
 * * *
 
 At present theological and religious studies have reached a crisis of severe magnitude. While religious faith and praxis continue strong worldwide and a swelling population of ordinary believers, particularly in Third World nations, defies decades-old expectations of triumphal secularity, religion as a theoretical issue becomes ever elusive and murky. At the same time theological conversation has paled into political and ideological wrangles posing as substantive theory, academic research in the area has shattered into a muddle of socio-cultural methodologies with no common thread except a vague interest in _res religiosa_, or "matters religious."
-
-    
-    
-    
-    
-    
-    
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
 
 * * *
 
@@ -59,12 +33,6 @@ At present theological and religious studies have reached a crisis of severe mag
  ['](https://jcrt.org/copyright.shtml) 2001 Carl A. Raschke. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/03.1/raschke.shtml
-
----
-
----
-
----
 
 ---
 

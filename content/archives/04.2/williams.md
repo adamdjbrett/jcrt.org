@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-   Williams - Theory Change - JCRT 4.2 
+---   Williams - Theory Change - JCRT 4.2 
 
 # Theory Change
-
-
 
 Jeffrey J. Williams  
 University of Missouri-Columbia
@@ -21,44 +17,7 @@ University of Missouri-Columbia
 
 One striking fact of contemporary criticism is its seemingly relentless change. Change, such that theories or "critical approaches" have half-lives not of a few decades but of a few years, has become a normal, accepted part of our system of professional discourse, inflecting if not driving what the reception theorist Hans Robert Jauss called "the horizon of expectation" of criticism and scholarship. For instance, in the not too distant past, the myth criticism inspired by Northrop Frye dominated much of the critical writing of the 1960s, looking at the Earth Mother in fields spanning from Beowulf to modernist poetry, but now its seems an antiquated memory, a reminder of times past like a water basin in an antiques store. Similarly, the structuralism that proposed a technical revolution toward a more exact scientific description of literature claimed central attention on the scene in the 1970s, now seems an outmoded invention, like a 64k computer. More recently, the vehement debates over the status of a text and the location of interpretation in reader-response and deconstructive criticism that filled the pages of many a critical journal in the late 1970s and 1980s now has been sidestepped, like the 60s debate over long hair. Through the 1990s, it seemed that change, if anything, accelerated, ushering in new critical approaches, frames, and lexicons at every MLA convention.
 
-    
-    
-    
-    
-    
-    
-    
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
      > For example, Greenblatt's famous essay on _Twelfth Night_, "Fiction and Friction," argues for the constructedness of Renaissance sexuality by juxtaposing materials from an obscure trial in Normandy with the gender confusions that animate Shakespeare's play. Greenblatt nowhere claims'how could he?'that Shakespeare knew about this trial. He does assert, however, that the ideology of sexuality it bespeaks was part of common cultural knowledge in Elizabethan England: 'The relation I wish to establish between medical and theatrical practice is not one of cause and effect or source and literary realization. We are dealing rather with a shared code, a set of interlocking tropes and similitudes that function not only as the objects but as the conditions of representation' (86). But how, one cannot help asking, did this 'shared code' come to be constructed in the first place; and how, to make the relevant point about the relationship between Shakespeare's play and Renaissance medical discourse on hermaphrodism, did it come to be widely 'shared'? (158-159)
-     
-     
-     
-     
-     
-     
 
 * * *
 
@@ -121,12 +80,6 @@ One striking fact of contemporary criticism is its seemingly relentless change. 
  ['](https://jcrt.org/copyright.shtml) 2003 Jeffrey J. Williams. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/04.2/williams.shtml
-
----
-
----
-
----
 
 ---
 

@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Caputo - After Jacques Derrida Comes the Future - JCRT 4.2 
+---    Caputo - After Jacques Derrida Comes the Future - JCRT 4.2 
 
 # After Jacques Derrida Comes the Future
-
-
 
 John D. Caputo  
 Villanova University
@@ -20,21 +16,6 @@ Villanova University
 * * *
 
 Derrida admits to being preoccupied with his own death, imagining grim scenes of his family gathered around his grave pronouncing the final words. He envisages newspaper announcements of the death a French philosopher killed in a car accident, having been involved in a fatal collision while apparently makings notes on a pad of paper that he kept on the front seat of his car. But Derrida is no less preoccupied with the death of deconstruction, and, of course, neither he nor we can entirely dissociate the two deaths, since we cannot help but wonder whether there is a life for deconstruction after Derrida. So he travels around the globe at a veritable Pauline pace, visiting all the deconstructive communities, teaching on two continents and giving visiting lectures in the rest. He keeps the word alive, pronouncing the good news of the _viens, oui, oui_, about the Messiah who is to come, speaking more often in English than in French, in a world he finds—first hand—become increasingly anglophonic and globalatinized. Even today, while he is in his seventies, although he swears he is quitting, he continues to visit all the churches.
-
-    
-    
-    
-    
-    
-    
-     
-     
-     
-     
-     
-     
-     
-     
 
 * * *
 
@@ -49,12 +30,6 @@ Derrida admits to being preoccupied with his own death, imagining grim scenes of
  ['](https://jcrt.org/copyright.shtml) 2003 John D. Caputo All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/04.2/caputo.shtml
-
----
-
----
-
----
 
 ---
 

@@ -6,15 +6,11 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Robbins - De-Nominating Religion and Postmodernism - JCRT 2.2 
+---    Robbins - De-Nominating Religion and Postmodernism - JCRT 2.2 
 
 # De-Nominating Religion and Postmodernism: A Conversation between Jean-Luc Marion and Jacques Derrida
 
 A review of _[God, the Gift, and Postmodernism](http://service.bfast.com/bfast/click?bfmid=2181&sourceid=27747321&bfpid=0253213282&bfmtype=book)_, John D. Caputo and Michael J. Scanlon, eds. (Bloomington: Indiana University Press, 1999); $19.95.
-
-
 
 Jeffrey W. Robbins  
 Le Moyne College
@@ -25,27 +21,11 @@ In the Fall of 1997 at Villanova University, a major international conference de
 
 * * *
 
-    
-    
-    
-
 > Is the impossible lodged in a givenness that can never be intended or in an intention that can never be given? Depending on the answer, the transgression of the old Enlightenment, the movement beyond the constraints imposed by modernity's conditions of possibility, the apology for the impossible, will take either of two very different forms which bear the proper names Marion and Derrida ("Introduction," 7-8).
 
 * * *
 
-     
-
 > For neither the Alexandrian nor Cappadocian Fathers, nor Irenaeus nor Augustine, nor Bernard, Bonaventure, nor Thomas Aquinas'all of whom resort to negations when naming God and build a theory of this apophasis'none of them use the formula "negative theology." As a result, it can reasonably be supposed that this formula is nothing but modern. 'Consequently, we will from now on no longer consider the phrases "metaphysics of presence" and "negative theology," if by chance we have had to use them, as anything but conceptual imprecision to be overcome or as questions awaiting answers'never as secure bases (21).
-
-     
-     
-     
-     
-     
-     
-     
-     
-     
 
 * * *
 
@@ -64,12 +44,6 @@ In the Fall of 1997 at Villanova University, a major international conference de
  ['](https://jcrt.org/copyright.shtml) 2001 Jeffrey W. Robbins. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/02.2/robbins.shtml
-
----
-
----
-
----
 
 ---
 

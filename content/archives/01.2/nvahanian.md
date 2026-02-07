@@ -6,9 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-  Vahanian - Rebellious No - JCRT 1.2
+---  Vahanian - Rebellious No - JCRT 1.2
 
 # Rebellious No
 
@@ -19,12 +17,7 @@ LeMoyne College
 
 All human discourse is testimony to finitude, and what is meant here, by finitude, are the immediate limitations of materiality with the analytical rules of thought, rules that, if they are derivatives of material necessities, do also include a linguistic leap--the leap of faith to consciousness, the leap of sense--a leap not to be radically explained away by--although, to be sure, to be explained by--the electrical potentials of neural activity: an imaginary leap.
 
-    
-    
-    
     > \* _Symbolic reference is the passage from the mere apprehension of a datum to its conceptualization and verbalization--it is the leap to language and understanding. It has the same function as Kant's transcendental imagination or Derrida's _Diff'rance_._
-    
-    
 
 > > \* _The subjective aim is the telos of a concrescence of feelings and concepts (also called a proposition) to their aim as an actual entity. A subjective aim is satisfied when a concrescence is actualized according to the bent of its components. All things actual are the result of the satisfaction of their aim. Whether their aim is to please us or not is irrelevant._
 
@@ -250,19 +243,11 @@ All human discourse is testimony to finitude, and what is meant here, by finitud
 
 * * *
 
-
-
 * * *
 
 [![Open this article in a new window.](https://jcrt.org/images/menu/window.gif)](nvahanian.shtml) [![Contents of this issue.](https://jcrt.org/images/menu/home.gif)](https://jcrt.org/archives/01.2/index.html) [![Print this page.](https://jcrt.org/images/menu/print.gif)](javascript:print\(\)) ['](https://jcrt.org/copyright.shtml) 2000 Noelle Vahanian. All rights reserved.  
 Updated 03|31|00.   
 http://jcrt.org/archives/01.2/nvahanian.shtml
-
----
-
----
-
----
 
 ---
 

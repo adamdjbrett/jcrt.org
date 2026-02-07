@@ -6,8 +6,7 @@ affilation:
 abstract: 
 keywords: []
 pdf:
----
-The City and the Stars: Politics and Alterity in Heidegger, Levinas and Blanchot
+---The City and the Stars: Politics and Alterity in Heidegger, Levinas and Blanchot
 ================================================================================
 
 Lars Iyer\
@@ -19,11 +18,9 @@ University of Newcastle upon Tyne
 
 ![I](https://web.archive.org/web/20050213083536im_/http://www.jcrt.org/images/alpha/I.gif)n Plato's *Laws*, the Athenian stranger claims that there are two arguments in particular that foster the belief in the gods -- the antiquity and divinity of the soul and the order of the heavens under the control of reason. No one who has contemplated the heavenly bodies carefully could suppose that celestial events happen by necessity rather than divine intention (*Laws* 966d). And indeed, the stranger maintains, no one can govern the *polis* who does not understand that the stars are steered by a divine will and exist in harmony with customs and law [*nomos*] (*Laws* 968). But what happens when this contemplation reveals neither the order of the soul nor the order of the heavens? What happens with the awareness that the disarray of the universe mirrors the disarray of the soul and it is no longer possible to harmonize the affairs of state according to a *nomos* that encompasses heaven and earth? The *polis* is cast adrift and our condition becomes, in John Caputo's word, *disastrous*, since the stars, *astres*, have fallen (*Against Ethics *6). One can discern a desire to address this fallenness in the search for a lost moral unity, with the cohesion and solidarity of a society founded on hard work and co-operation. One can also find it in the attempt to revive a threatened spiritual unity by seeking, for example, a new embodiment of the early Christian community or the Muslim caliphate. But these attempts to re-harmonize individual, familial and societal responsibilities occur amidst the reign of efficiency and optimization, where the hegemony of the marketplace threatens to overturn old models of being-together. We cannot simply restore the missing *nomos*, placing the stars back in the sky. Indeed, we are no longer sure whether we know who 'we' are -- consumers? citizens? subjects? As Caputo reflects, "It is not a question of knowing what to put in their place, but of just getting along without such a place, of conceding that things are just 'decentered', 'disseminated', 'disastered'. I would say that we are in a fix, except that even to say 'we' is to get into a still deeper fix. We are in the fix that we cannot say 'we'" (*Against Ethics *6). How then can we endure this "disastronomic, disastrological, deconstructive setback" without the model of a stellar *nomos*, a stellar *logos* that could serve as the image of the loftiness of the law? (*Against Ethics *6)
 
-
 ### I
 
 > *We are too late for the gods and too / Early for Being, Being's poem / Just begun, is man. // To head toward a star -- this only. // To think is to confine yourself to a / single thought that one day stands / still like a star in the world's sky* ("The Thinker as Poet," 4)
-
 
     > In all the temples of the gods and in all sites of human habitation, this fire has its secure locale and, as this locale, gathers around it all that properly occurs [*sich ereignet*] and is bestowed. Through this fire, the hearth is the enduring ground and determinative middle -- the site of all sites, as it were, the homestead pure and simple, toward which everything presences alongside and together with everything else and thus first is (*Ister* 105).
 
@@ -41,7 +38,6 @@ University of Newcastle upon Tyne
 
 > *Modern humanist man is a man in a State. Such a man is not merely vulgar; he is religion's true antagonist within the State of Israel itself [....] It is obvious that Israel asserts itself in a different way. Like an empire on which the sun never sets, a religious history extends the size of its modest territory, even to the point where it absorbs a breath-taking past. But, contrary to national histories, this past, like an ancient civilization, places itself above nations, like a fixed star. And yet we are the living ladder that reaches up to the sky.* ("Difficult Freedom" 260)
 
-
     > Heidegger, with the whole of Western history, takes the relation with the Other as enacted in the destiny of sedentary peoples, the possessors and builders of the earth. Possession is pre-eminently the form in which the other becomes the same, by becoming mine (*Totality and Infinity* 46).
 
     > For Heidegger, the Greeks build and thereby take possession of the earth, but the hearth remains cannot be so possessed. What is extraordinary about the Greeks for Heidegger is the way in which they maintain the unhomely at the center of all relations.[^2] In this sense, the Greeks belong to the *polis* because they do not seek to *determine* the hearth. Likewise, it is this that allowed them to experience the *polis* in a sense radically different to the politics of today as it answers to the canonical meditations of Plato and Aristotle. But what is questionable about Heidegger's exemplification of the Greeks, for Levinas, is the subordination he continues to maintain regarding the relation to the Other:
@@ -51,7 +47,6 @@ University of Newcastle upon Tyne
     Levinas does not dispute the fact that the *polis* provides a certain unity to the relations of the people who belong to it: it does indeed gather and bestow a unity upon the relation to the gods, to festivals, to sacrifice and battle, honor and glory, the relationship between master and slave. But it does not answer to the relation to the Other as *Autrui*; nor does it include the relation to the Levinasian God. The articulation of its unity is repressive; it constitutes an immanence or totality, closing itself off from the relation to which Levinas would attend. But might it be possible to answer this relation?
 
 *  *  *
-
 
     > man is [...] the irruption of God within Being, or the bursting out of Being towards God; man is the fracture in Being which produces the act of giving, with hands which are full, in place of fighting and pillaging. This is where the idea of being chosen comes from, an idea which can deteriorate into pride, but originally expresses the awareness of an appointment which cannot be called into question; an appointment which is the basis of ethics and which, through its indisputability, isolates the person in his responsibility. ("Revelation in the Jewish Tradition" 202)
 
@@ -64,7 +59,6 @@ University of Newcastle upon Tyne
 ### III
 
 > *It is the dark disaster that brings the light*. (*Writing of the Disaster*, 7)
-
 
 * * * * *
 
@@ -166,17 +160,10 @@ Various. *Early Greek Philosophy*. Edited and Trans. by Jonathan Barnes. Harmond
 
 **Lars Iyer** teaches philosophy in the Centre for Knowledge, Science and Society at the University of Newcastle upon Tyne in the UK, and has published many articles on contemporary European philosophy. He has a special interest in the notion of community.
 
-
 * * * * *
 
 © 2002 Lars Iyer. All rights reserved.
 Updated 08/31/02.
-
----
-
----
-
----
 
 ---
 

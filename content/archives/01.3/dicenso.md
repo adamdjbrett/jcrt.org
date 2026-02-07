@@ -6,9 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    DiCenso - Splitting Religion - JCRT 1.3 
+---    DiCenso - Splitting Religion - JCRT 1.3 
 
 # Splitting Religion: Heteronomy, Autonomy, and Reflection
 
@@ -18,34 +16,6 @@ University of Toronto
 * * *
 
 Cornelius Castoriadis, who was born in Greece but worked mainly in France, was a practicing psychoanalyst, cultural and political theorist, and philosopher. Recently, Castoriadis' work has been enjoying some wider recognition, and much of it has been translated into English in the past decade. Castoriadis has developed some seminal inquiries into the inter-relations of subjectivity and culture, focusing specifically on issues of heteronomy and autonomy. In the course of these inquiries, which in my view are themselves highly relevant for contemporary religious reflection, Castoriadis formulates some pointed _critical_ arguments concerning the status of religion in relation to these issues. There have also been several other thinkers emerging on the French scene in the past fifteen years or so, quite different in style and background from Castoriadis, who share some of his core concerns with the over-riding issues of autonomy and heteronomy in the relations between individual and society. Here, I will mainly draw upon some ideas of Marcel Gauchet, whose notion of a 'split' within religion will be used to develop a critical augmentation of Castoriadis' arguments concerning religion and heteronomy.
-
-    
-    
-    
-    
-    
-    
-    
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
 
 * * *
 
@@ -63,12 +33,6 @@ Cornelius Castoriadis, who was born in Greece but worked mainly in France, was a
 [![Open this article in a new window.](https://jcrt.org/images/menu/window.gif)](dicenso.shtml) [![Contents of this issue.](https://jcrt.org/images/menu/home.gif)](https://jcrt.org/archives/01.3/index.html) [![Print this page.](https://jcrt.org/images/menu/print.gif)](javascript:print\(\)) ['](https://jcrt.org/copyright.shtml) 2000 James J. DiCenso. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/01.3/dicenso.shtml
-
----
-
----
-
----
 
 ---
 

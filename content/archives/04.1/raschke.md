@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Raschke - From Religion to Faith - JCRT 4.1 
+---    Raschke - From Religion to Faith - JCRT 4.1 
 
 # From Religion to Faith: Levinasian Ethics and the Grammar of Address
-
-
 
 Carl A. Raschke  
 University of Denver
@@ -25,32 +21,7 @@ _Terrible Spirit, your discourse has smitten me to the ground._
 
 The theoretical question of 'religion' is essentially that of 'divinity,' what the Greeks from Homer through the early Church fathers understand as _ho_ _theos,_ that which 'shines forth.' That question belongs appropriately neither to 'theology' nor to philosophy. It is not a question 'about' God, whatever that token may indicate in a 'cross-cultural' or 'multi-traditional' sense. Nor does it cycle within the orbit of what in these later decades has acquired the non-descript classification of 'religious studies,' or 'the study of religion.' It is a question that can only be posed in the breach. The query itself assaults the lattice of significations that girds the discourse we in the Occident have come to know as 'questioning.' It pries open a space; it constitutes a style of _'criture_ that is equally a means of 'erasure', giving us an epiphany of darkness that has nothing to do with the lucidity of the proposition, representation, or statement which the theoretical mind anticipates.
 
-    
-    
-    
-    
-    
-    
-    
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
      > With you inspiring me I shall be affirming true things, which by your will I draw out these words. For I do not believe I give true exposition if anyone other than you is inspiring me. You are the truth, but every man is a liar.[^21]
-     
-     
 
 * * *
 
@@ -68,12 +39,6 @@ The theoretical question of 'religion' is essentially that of 'divinity,' what t
  ['](https://jcrt.org/copyright.shtml) 2002 Carl Rasckhe. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/04.1/raschke.shtml
-
----
-
----
-
----
 
 ---
 

@@ -6,9 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Richard - Aristotle and Religious Theory - JCRT 1.3 
+---    Richard - Aristotle and Religious Theory - JCRT 1.3 
 
 # Aristotle and Religious Theory
 
@@ -18,70 +16,19 @@ Alan J. Richard
 
 Theology has ended,[^1] and religious life proliferates.[^2] No longer presuming to discern a divine intention written in the plethora of signs that once marked religious space and time as a space and time of divine visitation, we are left with the signs themselves ' an elevated scroll or cup, bodies leaping and jerking, a circle of standing stones ' and the bare fact that, for 'us' at least, they advance a common claim to the name of religion. [^3] Of course, this bare fact is historically and geographically located. The end of theology means that we cannot start from an assumed _a priori_ category of 'religious experience,' and straightaway begin to elucidate its endless varieties. In fact, any attempt to understand the common claim to religion would have to begin with a critique of the implicit rules that 'we' students of religion, relying on the assumed _a priori_ perception of missionaries and ethnographers, have used to collect the specific array of signs that we call 'religious.' Thus, it would locate the process within what Carl A. Raschke has called 'the Roman epoch'[^4] and what Jacques Derrida has called 'Latinity.'[^5] It would also note peculiar modifications of the Latin notion of _religio_ arising out of contact between various non-European peoples and the European colonialists who believed they had identified, isolated, and understood the word. These peoples they often imagined to be the antitype of their own religious purity, the embodiment of their own disavowed sin. In the end, however, our own attempt to understand "religion," like that of the Romans and the European colonialists, will have recourse to an explicit or implicit _theory_.
 
-    
-    
-    
-    
-    
-    
-
 > One can _not_ deny it, which means that the most one can do is to deny it. Any discourse that would be opposed to it would, in effect, always succumb to the figure or the logic of denial (denegation). Such would be the place where, before and after all the Enlightenments in the world, reason, critique, science, tele-technoscience, philosophy, thought in general, retain the _same_ source as religion in general.[^23]
-
-     
 
 ## Saying and Being
 
-     
-     
-     
-
 ## The god and another
-
-     
-     
-     
-     
 
 ## Self-Movement
 
-     
-     
-     
-     
-     
-     
      > Just as when one contemplates the painting in the picture as being a likeness, and without having \[at that moment\] seen the actual Corsicus, contemplates it as a likeness of Corsicus, and in that case the experience involved in this contemplation of it \[as relative\] is different from what one has when he contemplates it simply as a painted figure ' \[so in the case of memory we have the analogous difference, for\], of the objects in the soul, the one \[the unrelated object\] presents itself simply as a thought, but the other \[the related object\], just because, as in the painting, it is a likeness, presents itself as a mnemonic token.[^61]
-     
-     
-     
-     
-     
-     
 
 ## The Theology of Theory
 
-     
-     
-     
-     
-     
-     
-
 > Thinking in itself deals with that which is best in itself, and that which is thinking in the fullest sense with that which is best in the fullest sense. An thought thinks on itself because it shares the nature of the object of thought; for it becomes an object of thought in coming into contact with and thinking its objects, so that thought and object of thought are the same.[^82]
-
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
 
 * * *
 
@@ -99,12 +46,6 @@ Theology has ended,[^1] and religious life proliferates.[^2] No longer presuming
 [![Open this article in a new window.](https://jcrt.org/images/menu/window.gif)](richard.shtml) [![Contents of this issue.](https://jcrt.org/images/menu/home.gif)](https://jcrt.org/archives/01.3/index.html) [![Print this page.](https://jcrt.org/images/menu/print.gif)](javascript:print\(\)) ['](https://jcrt.org/copyright.shtml) 2000 Alan J. Richard. All rights reserved.  
 Updated 07/28/21 .   
 http://jcrt.org /archives/01.3/richard.shtml
-
----
-
----
-
----
 
 ---
 

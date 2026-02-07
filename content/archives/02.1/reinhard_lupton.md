@@ -6,9 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
- Reinhard & Lupton - Revelation - JCRT 2.1 
+--- Reinhard & Lupton - Revelation - JCRT 2.1 
 
 # Revelation: Lacan and the Ten Commandments
 
@@ -22,47 +20,29 @@ University of California at Irvine
 
 Whereas in Jewish and Christian theology, "Creation" refers to God's primal relation to all of humanity and indeed to the world as a whole, "Revelation" refers to the imposition of God's will as law, in-scription, and pre-scription on a particular people. The core of this Revelation is the Ten Commandments, a text at once so relentlessly commonplace and so morally exhausting that it hardly seems to bear, let alone elicit, re-reading. For many of us, it is filed away in the furthest reaches of our learning, rendered inaccessible to higher thought by the very primitiveness of its first acquisition. The Decalogue is so close to us that it is invisible, so familiar that it is largely forgotten, and so (apparently) simple that it is most frequently recollected in the form of the joke and the error, the stutter and the laugh.
 
-    
-    
     > God spoke all these words, saying, I the Lord \[YHVH\] am your God who brought you out of the land of Egypt, the house of bondage: You shall have no other gods besides Me. (Ex. 20:1-3).[^2]
-    
+
     In their commentaries, the rabbis linked the sublimity of God's name ' the unspeakable Tetragrammaton ' to the extraordinary event of God's direct address to the Jewish people assembled at Sinai. Rashi argued that God spoke the entire set of commandments in a single incomprehensible and terrifying utterance; Maimonides added that God's speech lacked distinct phonemes; another commentary suggested that God's voice was so singular that it brooked no echo.[^3] Following such lines of thought, Lacan's commentary emphasizes God's name as the first of the Ten Commandments:
-    
+
     > I must leave to one side the huge questions posed by the promulgation of these commandments by something that announces itself in the following form: 'I am what I am" \[_Ehyeh-Asher-Ehyeh_\]. It is, in effect, necessary not to draw the text in the direction of Greek metaphysics by translating as 'he who is,' or 'he who am.' The English translation, 'I am that I am,' is, according to Hebrew scholars, the closest to what is meant by the formulation of the verse.[^4]
-    
+
     Lacan insists on the fundamental untranslatability between the Hebrew name of God and the Greek philosophy of Being. Rather than a statement of predication or identity, of the form "A=A," the oral repetition and incomplete semanticization of God's name in the phrase "I am that I am" crystallizes its nonsensical character. It is this name which God speaks at the outset of the Decalogue, and the Jewish tradition counts this line as the first of the Ten Commandments. This first sentence cannot be taken as a declaration of existence, a definition of substance, or an exhortation of faith (though it has been read in all of these ways). The Ten Commandments, and especially this initial one, are at once creative, legislative, and descriptive, instating within the apparently simple form of the statement a God otherwise than Being.
-    
-    
-    
-    
+
     > Remember the sabbath day and keep it holy. Six days you shall labor and do all your work, but the seventh day is a sabbath to the Lord \[YHVH\] your God: you shall not do any work ' you, your son or daughter, your male or female slave, or your cattle, or the stranger who is within your settlements. For in six days the Lord \[YHVH\] made heaven and earth and sea, and all that is in them, and He rested on the seventh day; therefore the Lord \[YHVH\] blessed the sabbath day and hallowed it. (Ex 20: 8-11)
-    
+
     The commandment calls up the cacophony of human activity -- sons and daughters, slaves and cattle, settlers and strangers -- in order to bring it to a momentary stillness, suspending the apparently endless momentum of the human universe in its natural rhythms and economic exigencies. The commandment keys the Sabbath to the seventh day of divine non-activity that completes the six days of Creation in Genesis. If the world was "finished" on the sixth day, what did God still have to create on the seventh day? According to the rabbis, God created _rest_ on the seventh day. God completed the world by subtracting something from it, namely his own activity. The seventh day punctuates the unfolding of time, operating as a grammatical period, a full stop that cuts short the profusion of creation and retroactively instills it with lack and hence with the possibility of symbolic significance.
-    
-    
+
     > I leave aside the question of rest on the sabbath day. But I believe that that extraordinary commandment, according to which, in a land of masters, we observe one day out of seven without work ' such that according to humorous proverbs, the common man is left no happy medium between the labor of love and the most stultifying boredom ' that suspension, that emptiness, clearly introduces into human life the sign of a gap, a beyond relative to every law of utility. It seems to me, therefore, that it has the most intimate relationship to something that we are on the track of here. (81)
-    
+
     The injunction to cease all work for one day a week, Lacan notes, ran counter to the needs of people living on the margins of subsistence. Rest indeed occurred in Mediterranean antiquity, but it was the luxury of the few ' the philosophers and the kings -- and their _otium_ was sustained only by the _negotium_ of the many. The Romans, champions of the work ethic in one of its early permutations, were reputedly horrified by the sloth and waste implied by the Jewish Sabbath.[^5] Although the Sabbath can be rationalized as a technique of increasing human production by allowing for a rest period ' hence the Romans would ultimately adopt the idea of a "weekend" in order to maximize productivity -- the commandment itself in no way rationalizes rest as a principle of social utility.[^6] The rest mandated by the Sabbath is not functional, remaining instead a principal of anti-economy lodged at the heart of the West's cultural, philosophical, and monetary economies.
-    
-    
-     
-     
-     
-     
+
      > It begins at the moment when the subject poses the question of that good he had unconsciously sought in the social structures. And it is at that moment, too, that he is led to discover the deep relationship as a result of which that which presents itself as a law is closely tied to the very structure of desire. If he doesn't discover right away the final desire that Freudian inquiry has discovered as the desire of incest, he discovers that which articulates his conduct so that the object of his desire is always maintained at a certain distance. But this distance is not complete; it is a distance that is called proximity, which is not identical to the subject, which is literally close to it \[_proche_\], in the way that one can say that the _Nebenmensch_ that Freud speaks of as the foundation of the thing is his neighbor \[_prochain_\]. (75-76)
-     
+
      One might think that the Tenth Commandment is designed to discipline desire, reinforcing the propriety of property by staking its claims in the very interior of the self. Yet Lacan distinguishes the field of this commandment from that of "anything that I might desire." Its real thrust, Lacan argues, is directed at the traumatic Thing from whose cancellation the social world arises. The commandment "preserves the distance from the Thing" without dissolving it, insofar as the commandment sustains and sequesters a traumatic nearness, the proximity of the originary _Nebenmensch_ of the subject's earliest contacts. This spacing, moreover, is ethical insofar as it can itself be separated out from the symbolic complex of naming as a new creative void, to be re-deployed, re-initiated, re-constructed ' _sublimated_ -- in the subject's relationships to all who neighbor on its desire.
-     
-     
-     
+
      > I am going to give you a proof that is to my mind nevertheless valid. It concerns Proudhon's famous phrase: 'Property is theft.' Another proof is that of the cries of anguish lawyers emit whenever it is a question, in some more or less grotesque and mythical form, of using a lie detector. Must we conclude from this that the respect of the human person involves the right to lie? Surely, it is a question and not an answer to reply 'yes, certainly.' One might say, it's not so simple. (82)
-     
+
      The discourse of rights is founded on the privacy and self-possession of the person; the specter of a lie-detector offends the liberal subject because it would trespass on the inalienability of the inner self, its interiority supremely manifested in the freedom of expression. In its symbolic dimension, as a support of the social order, the Ninth Commandment tries to guarantee the stability and value of language. We rebel against such a commandment because we lie all the time ' in the compromise-formations of dreams, poetry, and social arrangements, in every act of speech. But what we traduce is not a hidden truth or human essence, but something that itself belies the humanist discourse of rights: the Thing that expropriates subjectivity prior to all property. In Lacan's reading, the Decalogue is the _envers_ of the Rights of Man and the Bill of Rights. Rights defend the proprieties of the person, in order to protect the free exercise of expression and exchange ("the pursuit of happiness"). The Decalogue, however, asserts the fundamental limiting of the subject's freedoms by _responsibility for the neighbor_, a response-ability to the extimate fragment of the real that the subject is called to confront ("the pursuit by _jouissance_").
-     
-     
-     
-     
-     
 
 > *   [Introduction](https://jcrt.org/archives/02.1/intro_reinhard_lupton.shtml) - Julia Reinhard Lupton, University of California Irvine.
 > *   [Creation](halpern.shtml) - Richard Halpern, University of California Berkeley.
@@ -87,12 +67,6 @@ Whereas in Jewish and Christian theology, "Creation" refers to God's primal rela
 [![Open this article in a new window.](https://jcrt.org/images/menu/window.gif)](reinhard_lupton.shtml) [![Contents of this issue.](https://jcrt.org/images/menu/home.gif)](https://jcrt.org/archives/02.1/index.html) [![Print this page.](https://jcrt.org/images/menu/print.gif)](javascript:print\(\)) ['](https://jcrt.org/copyright.shtml) 2000 Kenneth Richard and Julia Reinhard Lupton. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/02.1/reinhard\_lupton.shtml
-
----
-
----
-
----
 
 ---
 

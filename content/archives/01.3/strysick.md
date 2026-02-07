@@ -6,9 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Strysick - Culture Wars, Religion, and the Postmodern Sacred - JCRT 1.3 
+---    Strysick - Culture Wars, Religion, and the Postmodern Sacred - JCRT 1.3 
 
 # Culture Wars, Religion, and the Postmodern Sacred
 
@@ -20,31 +18,6 @@ Wake Forest University
 * * *
 
 During the 1980s and 1990s, Americans saw their country torn apart over issues of 'political correctness,' the right-wing rhetorical hot button used to discredit a more liberal appreciation of our nation's multiculturalism.'' The so-called culture wars of the last two decades made evident the deep ideological divides that exist in this country over issues of race, gender, ethnicity, and sexual orientation.' Two recent books, both published by Routledge, examine the way in which religion and spirituality has been part of the fray.' _One Nation Under God?: Religion and American Culture_ (1999), edited by Marjorie Garber and Rebecca L. Walkowitz, investigates, in fifteen separate but complementary essays, the practical effects of these culture wars on religion.' The theoretical implications of a decidedly postmodern outlook on religion and culture are examined in Victor E. Taylor's _Para/Inquiry: Postmodern Religion and Culture_ (2000).
-
-    
-    
-    
-    
-    
-    
-    
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
 
 * * *
 
@@ -59,12 +32,6 @@ During the 1980s and 1990s, Americans saw their country torn apart over issues o
 [![Open this article in a new window.](https://jcrt.org/images/menu/window.gif)](strysick.shtml) [![Contents of this issue.](https://jcrt.org/images/menu/home.gif)](https://jcrt.org/archives/01.3/index.html) [![Print this page.](https://jcrt.org/images/menu/print.gif)](javascript:print\(\)) ['](https://jcrt.org/copyright.shtml) 2000 Michael Strysick. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/01.3/strysick.shtml
-
----
-
----
-
----
 
 ---
 

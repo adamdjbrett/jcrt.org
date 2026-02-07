@@ -24,8 +24,7 @@ volume: 2
 issue: 1
 season: winter
 pages:
----
-Religion and Psychoanalysis: Three Fundamental Concepts
+---Religion and Psychoanalysis: Three Fundamental Concepts
 =======================================================
 
 Introduction\
@@ -62,17 +61,9 @@ As such, the Sabbath proffers an opportunity to traverse -- to reconfigure and r
 
 ### Notes
 
-
-
 * * * * *
 © 2000 Julia Reinhard Lupton. All rights reserved.\
 Updated 07/28/21.
-
----
-
----
-
----
 
 ---
 

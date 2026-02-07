@@ -6,9 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Crockett - Economies of Studying Religion - JCRT 1.3 
+---    Crockett - Economies of Studying Religion - JCRT 1.3 
 
 _The Journal of Cultural and Religious Theory is committed to advancing critical discourses aiming to (re)define the nature of disciplinary and inter-disciplinary scholarship in religion and culture studies. In a series of feature articles, the editors and members of the editorial board will address a wide range of issues in cultural and religious theory._
 
@@ -25,29 +23,13 @@ College of William and Mary
 
 _One of the significant problems for both understanding and living today involves the unrestrained proliferation of capital. In traditional Christianity, the prohibition against usury means that charging money for time is sinful because humans presume to buy and sell time, which is deemed God's possession. Of course, we could not conceive of modern society and economy without the practice of charging interest. One possibility for religious studies then, is to use economic concepts to understand religious phenomena, broadly following Marx. Here I am thinking of Mark Taylor's essay 'Discrediting God,' as well as some of Derrida's philosophical reflections in 'White Mythology' and _Specters of Marx_. The other side of this agenda would involve using religious and theological terms to critique and understand the workings of our economy. Here one could think of the market as God, and grapple with notions of investment, speculation and faith. It is intriguing to explore the multivalent resonance of words such as interest, speculation and credit in both philosophical-religious and economic contexts.
 
-    
-    
-    
-    
-    
-    
-    
-     
-     
-
 > It is our epoch which has discovered theology. One no longer needs to believe in God. We seek rather the 'structure,' that is, the form which may be filled with beliefs, but the structure has no need to be filled in order to be called 'theological.' Theology is now the science of nonexisting entities, the manner in which these entities'divine or anti-divine, Christ or Antichrist'animate language and make for it this glorious body which is divided into disjunctions.[^1]
 
-     
      1.  the experience of _belief_, on the one hand (believing or credit, the fiduciary or the trustworthy in the act of faith, fidelity, the appeal to blind confidence, the testimonial that is always beyond proof, demonstrative reason, intuition); and
-         
+
      2.  the experience of the unscathed, of _sacredness_ or _holiness_, on the other.[^2]
-         
-         
-     
-     
+
      the gap between the opening of this possibility (as a universal structure) and the determinate necessity of this or that religion will always remain irreducible'.Thus one can always criticize, reject or combat, this or that form of sacredness or of belief, even of religious authority, in the name of the most originary possibility.[^8]
-     
-     
 
 * * *
 
@@ -65,12 +47,6 @@ _One of the significant problems for both understanding and living today involve
 [![Open this article in a new window.](https://jcrt.org/images/menu/window.gif)](crockett.shtml) [![Contents of this issue.](https://jcrt.org/images/menu/home.gif)](https://jcrt.org/archives/01.3/index.html) [![Print this page.](https://jcrt.org/images/menu/print.gif)](javascript:print\(\)) ['](https://jcrt.org/copyright.shtml) 2000 Clayton Crockett. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/01.3/crockett.shtml
-
----
-
----
-
----
 
 ---
 

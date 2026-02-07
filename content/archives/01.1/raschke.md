@@ -6,9 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-  Raschke - Theorizing Religion at the Turn of the Millennium - JCRT 1.1
+---  Raschke - Theorizing Religion at the Turn of the Millennium - JCRT 1.1
 
 # Theorizing Religion at the Turn of the Millennium: From the Sacred to the Semiotic
 
@@ -19,30 +17,6 @@ University of Denver
 
 A consensus is growing these days that the study of religion as an academic field is bearding its worst crisis since its emergence in the late 1960s. The root causes of the crisis are deep and long-germinating. While some observers focus on the familiar whipping boy of reduced support for the humanities and the corporatization of higher education, a highly visible claque from the social sciences have begun to flail the study of religion for its allegedly covert "faith" agenda and its lack of "scientific" rigor. The diagnosis of what is fundamentally wrong, however, runs far deeper.
 
-    
-    
-    
-    
-    
-    
-    
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-
 * * *
 
 ### Notes
@@ -51,12 +25,6 @@ A consensus is growing these days that the study of religion as an academic fiel
 
 © 1999 Carl A. Raschke. All rights reserved.  
 Updated 11|11|99.
-
----
-
----
-
----
 
 ---
 

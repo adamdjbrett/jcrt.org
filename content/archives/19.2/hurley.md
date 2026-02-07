@@ -15,12 +15,3 @@ issue: 2
 season: spring
 pages: 262-275
 ---
-
----
-
----
-
----
-
----
-

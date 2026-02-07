@@ -6,9 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-  Winquist - Ambiguous Gift of Desire - JCRT 1.1
+---  Winquist - Ambiguous Gift of Desire - JCRT 1.1
 
 # The Ambiguous Gift of Desire
 
@@ -25,33 +23,7 @@ Syracuse University
 
 I want to think and talk about a gift, a bent, a capacity, a leaning, and a power within the always already _given_ of consciousness_._ I want to talk about _desire_ as an ambiguous gift, as the ambiguity of the given of consciousness. The originariness of consciousness at the beginning of what we know as thinking, at what we know as the capacity for reflexivity, is not itself a witness to the origin of consciousness. Whatever image of thought we will be working with will be a belated achievement of thinking. The memory of my first thoughts and my first words have been erased, forgotten or eroded in the consciousness that I now know.
 
-    
-    
-    
-     
-     
-     
-     
-     
-     
-     
-
 > Behind all the European faiths, religious and political, we find the first chapter of Genesis, which tells us that the world was created properly, that human existence is good, and that we are therefore entitled to multiply. Let us call this basic faith a _categorical agreement with being_.
-
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
 
 * * *
 
@@ -61,12 +33,6 @@ I want to think and talk about a gift, a bent, a capacity, a leaning, and a powe
 
 [![Open this article in a new window.](https://jcrt.org/images/menu/window.gif)](winquist.html) [![Contents of this issue.](https://jcrt.org/images/menu/home.gif)](https://jcrt.org/archives/01.1/index.html) [![Print this page.](https://jcrt.org/images/menu/print.gif)](javascript:print\(\)) ['](https://jcrt.org/copyright.shtml) 1999 Charles E. Winquist. All rights reserved.  
 Updated 11|11|99.
-
----
-
----
-
----
 
 ---
 

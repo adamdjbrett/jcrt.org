@@ -6,15 +6,11 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Parmenter - Book Profile: Writing the Medieval Self - JCRT 3.2 
+---    Parmenter - Book Profile: Writing the Medieval Self - JCRT 3.2 
 
 # Writing the Medieval Self
 
 **Book Profile:** Jager, Eric. _[The Book of the Heart](http://service.bfast.com/bfast/click?bfmid=2181&sourceid=27747321&bfpid=0226391175&bfmtype=book)_. Chicago: University of Chicago Press, 2000 (cloth), 2001 (paper). ISBN 0226391175.
-
-
 
 Dorina Miller Parmenter  
 Syracuse University
@@ -23,16 +19,9 @@ Syracuse University
 
 At a time when many literary and cultural theorists are grappling with disembodied subjectivity and the dematerialization of textuality in an electronic age, Eric Jager has taken a step back into the European Middle Ages in order to similarly explore the relationships between psychology and communications technology. _The Book of the Heart_ traces metaphors that situate the self in a bookish heart through biblical and patristic literature, popular devotional texts, and secular romances from 400-1500 CE. In this project the author attempts to answer Jacques Derrida's call in _Of Grammatology_ to write a history of the metaphor of the ontology of interior writing, "a metaphor that systematically contrasts divine or natural writing and the human and laborious, finite and artificial inscription."[^1] But Jager does not wax Derridian in his analysis. Instead, he attempts to show the "relation of ideology or theory to the material conditions of literary culture," (p. xvi) discussing the corporeal forms and practices of reading and writing. Unfortunately _The Book of the Heart_ tends to be more descriptive than analytical, but it does provide a useful historical and material context for thinking about the correlation between grammatology, technology, and changing subjectivities.
 
-    
-    
-    
     > He cried out, "Oh, sweet Lord! If only I could devise some love token which would be an everlasting badge of love between thee and me, an authentic document that I am all thine and that thou art the only beloved of my heart, written in letters which my fickleness can never erase." In his burst of fervor, he pushed back his scapular, bared his bosom, took a sharp stylus, and called on God to help him, saying: "Almighty God, give me strength this day to carry out my desire, for thou must be chiseled into the core of my heart." Then stabbing the stylus backwards and forwards, in and out of the flesh, he engraved the name of Jesus (IHS) over his heart. Blood gushed out of the jagged wounds and saturated his clothing. The bliss he experienced in having a visible pledge of oneness with his truelove made the very pain seem like a sweet delight.[^3]
-    
+
     This is worth quoting at length because it gives form to the development that Jager traces from the metaphorical internalization of material reading practices, as in the self imagined as a codex located in the heart, to the externalization of the trope, albeit literary, in the fleshy selves/books/hearts of Ignatius and Suso. The last stage is for the book of the heart to be reexternalized as a literal, material codex.
-    
-    
-    
-    
 
 * * *
 
@@ -50,12 +39,6 @@ At a time when many literary and cultural theorists are grappling with disembodi
  ['](https://jcrt.org/copyright.shtml) 2002 Dorina Miller Parmenter. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/03.2/parmenter.shtml
-
----
-
----
-
----
 
 ---
 

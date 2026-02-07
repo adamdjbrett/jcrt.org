@@ -6,15 +6,11 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-     MacCammon - Justice and Fundamental Anthropology - JCRT 3.1 
+---     MacCammon - Justice and Fundamental Anthropology - JCRT 3.1 
 
 # Justice and Fundamental Anthropology: Uncovering Essential Connections with Paul Ricoeur
 
 A Review of Paul Ricoeur, _The Just._ Translated by David Pellauer. Chicago: University of Chicago Press, 2000.
-
-
 
 Linda M. MacCammon  
 Carroll College
@@ -23,32 +19,19 @@ Carroll College
 
 Originally presented as a series of invited lectures on the nature of justice, Paul Ricoeur's latest collection of essays serves as an indispensable companion piece to the "little ethics" he developed in _Oneself as Another_. In this slim and tightly argued volume, Ricoeur offers an extended consideration of justice from a teleological perspective, engaging the work of Plato, Aristotle, Kant, John Rawls, Hannah Arendt, and others to develop his scheme. As stated in the Preface, the purpose of these reflections is to overcome philosophy's general negligence of justice as a concept. Ricoeur explains that since the Enlightenment justice has received little attention because of philosophy's understandable preoccupation with the historical reality of evil. Ethics and politics became the primary subjects of philosophical reflection while justice was relegated to the juridical. But in neglecting the concept of justice, Ricoeur argues that we have lost sight of two of its most crucial aspects. First, we have overlooked its affective roots. Reiterating the argument of _Oneself as Another_, Ricoeur contends that justice does not spring primarily from a deontological sense of duty, but is an integral part of the ethical intention _to live a good life with and for others in just institutions._ In his words, the just "is first an object of desire, of a lack, of a wish. It begins as a wish before it is an imperative" (xv). Second, Ricoeur claims we have lost sight of the primary goal of justice, which is peace'not vengeance or compensation as is commonly believed and practiced. The ten essays thus represent Ricoeur's attempt to "do justice to justice," to illuminate the embedded nature of the concept, and to show that peace is indeed the final destination of the just.
 
-    
-    
     > \[It is in the experience of imputation\] that the notion of a capable subject reaches its highest significance. We ourselves are worthy of esteem or respect insofar as we are capable of esteeming as good or bad, or as declaring permitted or forbidden, the actions either of others or of ourselves. A subject of imputation results from the reflexive application to agents of predicates like 'good' or 'obligatory.''Taken together, self-esteem and self-respect define the ethical and moral dimension of selfhood, to the extent that they characterize human beings as subjects of ethico-juridical imputation (4).
-    
+
     But while agency, narrative identity, and imputation are crucial to the notion of a capable subject, Ricoeur contends that an anthropology that stops with these fundamental features is wholly incomplete. A _veritable_ subject of rights requires that the conditions for the actualization of its fundamental capacities also be taken into account. This means including interpersonal forms of _otherness_. In contrast to the concept of otherness espoused by Levinas, Derrida, and others, Ricoeur expands otherness to include institutional forms of association (a neutral third party) that mediate interpersonal relations. This expansion reflects Ricoeur's long-held conviction that the "who" of the subject of rights can't be developed apart from social mediation. The self is only realized in a variety of social systems (e.g.,. technical, fiscal, juridical, political, educational, etc.) where persons interact with each other and where each recognizes the other as a legitimate subject of rights.
-    
-    
-    
-    
+
     > ...the law of responsibility, in the technical sense of the term, has tended to make room for the idea of a responsibility without any fault, under the pressure of concepts such as solidarity, security, and risk, which have tended to take he place of the idea of fault. It is as though the depenalization of civil responsibility must also imply the complete loss of the sense of culpability (25).
-    
-    
-     
-     
+
      > \[The verdict\] brings an end to uncertainty; it assigns the parties in the trial places that determine the just distance between vengeance and justice; finally, and perhaps above all, it recognizes as actors those persons who are accused of the offense and who stand to suffer the penalty. In this every effect lies the most significant reply given by justice to vengeance. It sums up the suspending of vengeance (136).
-     
+
      Thus, the injured party's initial thirst for vengeance is suspended by the judge who opens up a just distance and facilitates the transition from vengeance to justice, from a war between persons to a verdict that reestablishes peace. And yet the promises of restoration and civil peace voiced in the verdict are often broken in its execution, because the parties to the verdict are severed from their full participation in it. Ricoeur argues, for example, that current sentencing practices and forms of rehabilitation prevent the condemned person from acknowledging fault and restoring the capacities that are crucial to self-esteem and self-respect. In the majority of cases, prison time produces more rage than peace. The victim fares no better, as Ricoeur's discussion of sanction and amnesty makes clear.
-     
-     
-     
-     
+
      > \[Although pardon is never owed\] it is still not without an end. And this end has to do with memory. Its 'project' is not to wipe away memory. It is not forgetting. On the contrary, its project, which is to overlook'the debt, is incompatible with that of overlooking what is forgotten. Pardon is a kind of healing of memory, the end of mourning. Delivered from the weight of debt, memory is freed for great projects. Pardon gives memory a future (144).
-     
+
      Thus, Ricoeur understands justice as a peace that reestablishes the originary distance between persons, so that they can forgive the past and embrace the future. What is crucial to recognize here is that restoration and rebirth are not achieved at the moment of judgment. They come only at the end of a long process involving many participants, many experiential dimensions, and many meanings. Moreover, while the deontological moment of obligation and the universal sanction of law are important components in Ricoeur's scheme, they are not considered as foundational as the human subject's desire: _to live the good life with and for others in just institutions_. Analysis of human subjectivity thus becomes an essential and ongoing task if we are to understand and to realize justice in all its forms.
-     
-     
 
 * * *
 
@@ -63,12 +46,6 @@ Originally presented as a series of invited lectures on the nature of justice, P
  ['](https://jcrt.org/copyright.shtml) 2001 Linda M. MacCammon. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/03.1/maccammon.shtml
-
----
-
----
-
----
 
 ---
 

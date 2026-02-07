@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-     Gooch - The Epistemic Status of Value-Cognition - JCRT 3.1 
+---     Gooch - The Epistemic Status of Value-Cognition - JCRT 3.1 
 
 # The Epistemic Status of Value-Cognition in Max Scheler's Philosophy of Religion
-
-
 
 Todd A. Gooch  
 Eastern Kentucky University
@@ -25,50 +21,21 @@ The following paper was written in response to a call for papers addressing "The
 
 Scheler's main work in the philosophy of religion is _On the Eternal in Man_, and in this paper I will be primarily concerned with the theory of religious acts of consciousness developed in that work.[^1][^1] However, this theory is best understood in relation to arguments found in Scheler's earlier writings, especially _Formalism in Ethics and Non-Formal Ethics of Value_, where Scheler criticizes a number of presuppositions underlying Kant's moral philosophy, and lays the foundation for his own ethics of value (_Wertethik_).[^2][^2] It may be recalled that Kant had rejected teleological ethics on the grounds that all attempts to define moral obligation in terms of a particular good or end are contingent upon the inclinations of some individual or group. Because inclinations are subjective mental states, contingent upon the empirical constitution of the people who have them, they are incapable of yielding a universal moral principle, binding for all rational beings. Kant is thus led to propose a definition of the good only after he has defined duty, which he takes to be the conformity of the will of a rational being to a formal law determined by reason, without reference to any specific of good or end. "An absolutely good will, whose principle must be a categorical imperative, will therefore be indeterminate as regards all objects and will contain merely the form of willing; and indeed that form is autonomy."[^3][^3]
 
-    
-    
     > \[^5][^5] By means of a novel appropriation of Pascal's notion of the _ordre_ or _logique du coeur_ (logic of the heart), Scheler argues that these acts exhibit a lawfulness just as valid in its own right as the lawfulness of logical relations. This lawfulness is not based on generalizations drawn from the observation of psychological facts. It is an a priori lawfulness; and it is this a priori structure that makes feeling-acts suitable candidates for phenomenological investigation.
-    
+
     > In all of the areas that it undertakes to investigate, phenomenology has to distinguish three kinds of essential interrelations: 1) the essences (and their interrelations) of the _qualities_ and other _contents of things_ given in acts (thing-phenomenology); 2) the essences of _acts themselves_ and their interrelations and orders of foundation (phenomenology of acts or foundational orders); and 3) the essential interrelations _between essences of acts and things_ (e.g., values are given in feeling, colors in seeing, sounds in hearing, etc.) \[^6][^6]
-    
+
     Scheler's attempt to develop a phenomenology of emotional life reflects his dissatisfaction with the treatment of alogical or non-rational levels of experience in the modern philosophical tradition. Scheler distinguishes two basic tendencies in the treatment of the emotions within that tradition. Rationalists like Descartes, Spinoza and Leibniz recognize a sort of intentionality in acts of feeling, but they do not acknowledge a distinct class of objects to which these acts are related. Instead, they hold that the same content apprehended by feeling in a confused or obscure manner may be clearly grasped by the understanding. For example, Scheler observes, according to Leibniz, "maternal love is a confused conception of the fact that it is good to love one's child" (FE 262). While the empiricists resist this kind of intellectualization of the emotions, they simultaneously abandon the recognition that feelings are intentional acts directed toward a content of some kind. Instead, the British moral psychologists regard feelings as mental states that are suitable objects of psychological description and causal explanation, but do not perform any cognitive function.[^7][^7] Since today our primary concern is the role of the emotions in religious reasoning, it is worth noting here that Scheler regards the psychological assumptions common to empiricism and Kantianism alike as "the greatest obstacles in the way of a philosophy of religion" (EM 256), by which he appears to mean that one does justice to the phenomenological facts of religious experience and the intentional structure of religious consciousness.
-    
-    
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
+
      > I think that if I heard a voice from the sky predicting all that was going to happen to me during the next twenty-four hours, including events that would have seemed highly improbable, and if all these events then proceeded to happen, I might perhaps be convinced at least of the existence of some superhuman intelligence."[^15][^15]
-     
+
      Let us suppose that the evidence indicated by Russell were forthcoming, and that, as a result, Russell became convinced of the existence of some superhuman intelligence. Would it be correct to say in this case that Russell had become a religious believer? In other words, would it be correct to call Russell's belief in the existence of some superhuman intelligence a religious belief? In light of the preceding discussion of Scheler's theory of religious acts, it is clear that his response to this question would be negative.
-     
-     
+
      > . . . if the objection is made to us that what is self-evident to us is not so to 'other men,' it is of course quite _possible_ that we are the prey to an _illusion_ of self-evidence, for we do not contest the possibility of such illusions. . . . But it is no less deplorable if similar factors have blinded others to _intrinsically_ manifest truths which at the same time we must suppose to be universally apprehensible \[^16][^16] _That_ we wish or hope for something to be true, Scheler insists, has no bearing whatsoever on whether or not it is in fact true. Rather, Scheler takes Pascal's dictum to mean that "the heart," or feeling-acts, are themselves sources of evidence. The person who regards feelings merely as psychological facts, and fails to recognize the intentional structure of feeling-acts, "can never see what is revealed to us of the world, and of the value-content of the world _in_ feeling, _in_ preferring, _in_ loving and hating, but instead sees only what we encounter in inner perception, i.e., in 'ideational' behavior, _when_ we feel, _when_ we prefer, _when_ we love and hate, _when_ we enjoy a work of art, _when_ we pray to God" (FE 260/274). Acts of feeling, preferring, loving and hating, in Scheler's view, are a source of information about the world that is just as legitimate in its own right as the information we receive from sense perception.
-     
+
      > A philosophy which fails to recognize and a priori denies the claim to transcendence which all non-logical acts make, or which allows this claim only in the case of acts of thought and those acts of intuitive cognition which furnish the material for thought in the domain of theory and science, condemns itself to blindness to whole realms of facts and their connections, for access to these realms is not essentially tied to acts of mind proper to the understanding. A philosophy of this sort is like a man who has healthy eyes and closes them and wants to perceive colors only with his ear or his nose![^17][^17]
-     
+
      There are two issues here that need to be clearly distinguished. The first issue is whether or not one is willing to concede that there is a phenomenologically distinct "realm of facts and their connections" that are only given in religious acts. The second issue concerns the epistemic significance of these facts, if they exist.
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
 
 * * *
 
@@ -86,12 +53,6 @@ Scheler's main work in the philosophy of religion is _On the Eternal in Man_, an
  ['](https://jcrt.org/copyright.shtml) 2001 Todd A. Gooch. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/03.1/gooch.shtml
-
----
-
----
-
----
 
 ---
 

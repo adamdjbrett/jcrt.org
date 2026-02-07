@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Egginton - The Christianization of Deconstruction - JCRT 4.1 
+---    Egginton - The Christianization of Deconstruction - JCRT 4.1 
 
 # The Christianization of Deconstruction
-
-
 
 William Egginton  
 University at Buffalo
@@ -23,55 +19,9 @@ In his _Deconstruction of Christianity_, Jean-Luc Nancy makes this provocative c
 
 > Christianity is itself, essentially, the movement of its own distension, because it represents the constitution of a subject in opening and in distension from itself. Clearly then, one must then say that deconstruction, which is not possible except through this distension, is itself Christian. It is Christian because Christianity is, from its origin, deconstructive, because it relates in the first place to its own origin as to a play, to an interval, a beating, an opening in the origin.[^1]
 
-    
-    
-    
-    
-    
-     
-     
-
 > the organ of the historical must have a structure analogous with the historical itself; it must comprise a corresponding somewhat by which it may repeatedly negate in its certainty the uncertainty that corresponds to the uncertainty of coming into existence'. Now faith has precisely the required character, for in the certainty of belief \[Danish: _Tro_, _faith_ or _belief_\] there is always present a negated uncertainty, in every way corresponding to the uncertainty of coming into existence. (100-101)
 
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
      > The simple concepts of alterity and of singularity constitute the concept of duty as much as that of responsibility. As a result, the concepts of responsibility, of decision, or of duty, are condemned _apriori_ to paradox, scandal, and aporia'. As soon as I enter into a relation with the other, with the gaze, look, request, love, command, or call of the other, I know that I can respond only by sacrificing ethics, that is, by sacrificing whatever obliges me also to respond in the same way, in the same instant, to all the others. (162-3)
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
 
 * * *
 
@@ -90,12 +40,6 @@ In his _Deconstruction of Christianity_, Jean-Luc Nancy makes this provocative c
  ['](https://jcrt.org/copyright.shtml) 2002 William Egginton. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/04.1/egginton.shtml
-
----
-
----
-
----
 
 ---
 

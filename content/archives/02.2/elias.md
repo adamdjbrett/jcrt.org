@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Elias - Ekphrastic Plastic Fragments - JCRT 2.2 
+---    Elias - Ekphrastic Plastic Fragments - JCRT 2.2 
 
 # Ekphrastic Plastic Fragments: Mark C. Taylor In and Out of Context
-
-
 
 Camelia Elias  
 University of Southern Denmark'Odense
@@ -45,44 +41,11 @@ University of Southern Denmark'Odense
 
 Form is content." It is in the last chapter of his book, _Deconstructing Theology_ (1982), that Mark C. Taylor draws the reader's attention to the gnomic form of theological thinking. While _Deconstructing Theology_ takes its point of departure in a theoretical consideration of Hegel and Kierkegaard, Taylor ends his thoughts with the constitution of a textual author as a postmodern consciousness that signs itself over to epigrammatic writing. _Deconstructing Theology_, thus, ends pragmatically with a scattering, as it were, of Hegelian and Kierkegaardian elements; the fully-fledged depiction of these philosophers ends in "fully fledged" fragments. These fragments, which make up the last chapter entitled "Tracing," form a collection of 95 quotations and aphorisms, both attributed and non-attributed, suggesting that the formal structure of the book is also its content. The fragments can be read as an enactment of what is being theorized in the first part of the book, thus enforcing the idea that the reconstruction of texts on the basis of fragments is a radicalization of the relation of the text to its contextual fragment. Behind Hegel and Kierkegaard, the invisible influencing power on postmodern theology is Luther's performance of what one could think of as the first deconstruction of theology, namely posting the 95 theses on the door of the Wittenberg Castle Church. Sparking a second reformation (a re-formation, as it were) with "Tracing" is perhaps precisely the condition under which an influence can be re-formed: the meaning of form _qua_ form is also the meaning of representation.
 
-    
-    
-    
-
 ## The space of the fragment
-
-    
-    
-     
-     
-     
-     
 
 > Within the Western theological tradition, the "original" scene of nomination involves God and man. The relation between God and self is thoroughly specular; each mirrors the other. In different terms, man is made in the image of God. This _imago_ is an imitation, copy, likeness, representation, similitude, appearance or shadow of divinity. The _imago_ _dei_ confers man an identity; this establishes a vocation that can be fulfilled only through the process of imitation. The specularity of the God-self relation forges an inseparable bond between the name of God and the name of man. (Taylor, 1984:35)
 
-     
-     
-     
-     
-     
-     
-     
-
 ## Pretextual Correlations
-
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
 
 * * *
 
@@ -131,12 +94,6 @@ Wagner, Peter (ed.) (1996) _Icons'Texts'Iconotexts: Essays on Ekphrasis and Inte
  ['](https://jcrt.org/copyright.shtml) 2001 Camelia Elias. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/02.2/elias.shtml
-
----
-
----
-
----
 
 ---
 

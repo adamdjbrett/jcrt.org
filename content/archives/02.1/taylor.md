@@ -6,9 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
- Taylor - Art Exhibit - JCRT 2.1 
+--- Taylor - Art Exhibit - JCRT 2.1 
 
 # Artist's Statement
 
@@ -21,11 +19,6 @@ Christopher M. Taylor
 * * *
 
 My slide projection pieces each consist in the projection of two separate slides, from two separate projectors, onto a wall to form a single picture. The slides are colored and marked by hand using colored acetate and masking tape. The projectors are set on stands approximately three-and-a-half feet high, and are placed one next to the other in plain view in the exhibition space-usually about fourteen feet away from the wall at which they project. As such, these are pictures (I often refer to them as "projected pictures", to be precise) supported by a number of material elements: the two slides, the light, the assorted mechanisms of the projectors, and the wall. Moreover, they are pictures the temporal dimensions of which seem to involve both the instantaneity of viewing a flat, vertical image; and the duration of watching the horizontal unfolding of an event (i.e., in being projected through the space between the projectors and the wall, the pictures are continuously being constituted through that space-a quality that is further emphasized when the seams and layers of the pictures are revealed by the movement of viewers within the beams of light). In each of these pieces it is my intention that they somehow acknowledge the significance of these conditions as constitutive of their medium. Stating my interests this way may immediately bring to mind Clement Greenberg's reductivist theories of modern art, whereby individual disciplines are said to search for the one essential and defining quality at the core of their respective practices. However, in exploring my medium, I find no singularity, no "ground zero", at its "core". Rather, I find division and dispersion.
-
-    
-    
-    
-    
 
 * * *
 
@@ -50,12 +43,6 @@ My slide projection pieces each consist in the projection of two separate slides
 [![Open this article in a new window.](https://jcrt.org/images/menu/window.gif)](taylor.shtml) [![Contents of this issue.](https://jcrt.org/images/menu/home.gif)](https://jcrt.org/archives/02.1/index.html) [![Print this page.](https://jcrt.org/images/menu/print.gif)](javascript:print\(\)) ['](https://jcrt.org/copyright.shtml) 2000 Christopher M. Taylor. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/02.1/taylor.shtml
-
----
-
----
-
----
 
 ---
 

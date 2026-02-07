@@ -6,9 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
- Lambert - Redemption: Lacan avec Marx - JCRT 2.1 
+--- Lambert - Redemption: Lacan avec Marx - JCRT 2.1 
 
 # Redemption: Lacan avec Marx
 
@@ -19,24 +17,9 @@ Syracuse University
 
 The subject of my essay, on "redemption," concerns something that takes place at the end of a process. Redemption takes place last in the sense of a moment when a series concludes, the moment when it is completed, when the entire series is "converted" by an instance that determines its value, whether here we are talking about the moment of exchange that punctuates the endless circulation of capital, or the moment inserted into the chain of days, the last day, which precedes the "next one" (and not the next day, but rather the next set or series); and of course here I am speaking of the order of days that leads up to and is redeemed by the Sabbath. It is around the relation between these two senses of redemption that I would like to address the convergence of this notion of redemption within two discourses: the discourse of psychoanalysis and religion.
 
-    
-    
-    
-    
-    
-    
-    
     > The main point \[at this point in Marx's commentary, concerning the division of labor in Plato\] is that the worker must adapt himself to the work, not the work to the worker; . . . If the work, says Plato, has to wait for the worker, the critical point in the process is missed and the product spoiled. The same Platonic idea is found in the protest of the English bleachers against the clause of the Factory Act that provides fixed meal-times for all operatives. Their business cannot wait the convenience of the workers, "for in the various operations of singeing, washing, bleaching, mangling, calendering, and dying, none of them can be stopped at a given moment without risk of damage." To enforce the same dinner hour for all the workers might occasionally subject valuable goods to the risk of danger by incomplete operations (401).
-    
+
     In applying the above passage to the discussion of the Sabbath, what should be highlighted in Marx's description is the possibility that God has no knowledge of the process involved in the production of cloth, of the order of commodities, that he would designate the same dinner time for all the workers, without regard to the order that determines the time of work itself. "_To enforce the same dinner hour for all the workers"_ exposes "the end" of the process itself (i.e., the product) to "damage and incompletion." God's command, therefore, is without regard to the division of labor, not only understood as the division of the activities and classes that belong to the mode of production, but also as the division of the time that is determined by the process of production. God's Sabbath corresponds to the process of the production of the world. Lunch appears after the workday is finished. But that is God's time in which a day has been proven to last a thousand of ours. What is important to remark in this "time" is that God has no knowledge of any particular process of production, but categorically declares a certain moment to be Lunch, and categorically demands his order be strictly obeyed according to his own time, which is heterogenous to the time of production. Now, this would be enough to offend any rational or economic order, since it would let the cheese spoil, the meat decay, etc.
-    
-     
-     
-     
-     
-     
-     
-     
 
 > *   [Introduction](https://jcrt.org/archives/02.1/intro_reinhard_lupton.shtml) - Julia Reinhard Lupton, University of California Irvine.
 > *   [Creation](halpern.shtml) - Richard Halpern, University of California Berkeley.
@@ -59,12 +42,6 @@ The subject of my essay, on "redemption," concerns something that takes place at
 [![Open this article in a new window.](https://jcrt.org/images/menu/window.gif)](lambert.shtml) [![Contents of this issue.](https://jcrt.org/images/menu/home.gif)](https://jcrt.org/archives/02.1/index.html) [![Print this page.](https://jcrt.org/images/menu/print.gif)](javascript:print\(\)) ['](https://jcrt.org/copyright.shtml) 2000 Gregg Lambert. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/02.1/lambert.shtml
-
----
-
----
-
----
 
 ---
 

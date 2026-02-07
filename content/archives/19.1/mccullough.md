@@ -15,12 +15,3 @@ issue: 1
 season: winter
 pages: 149-170
 ---
-
----
-
----
-
----
-
----
-

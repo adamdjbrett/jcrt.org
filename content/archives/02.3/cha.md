@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Cha - Language, Conceptualization and Awakening - JCRT 2.3 
+---    Cha - Language, Conceptualization and Awakening - JCRT 2.3 
 
 # Language, Conceptualization and Awakening: On the Paradox of Discourse in Classical Indian _Yogacara_
-
-
 
 John Y. Cha  
 Gustavus Adolphus College
@@ -25,54 +21,27 @@ The following essay attempts to do two things: it seeks to analyze Indian Buddhi
 
 ### 2\. Introduction
 
-    
-    
-
 ### 3\. The Shastric Context of Buddhist Discourse
-
-    
 
 > Cultural knowledge is transcendent in origin, and its authority is therefore unimpeachable. Since this knowledge is always already revealed to human beings via _sastra_ their mastery of the practices inscribed therein is a function of conformity to the preexistent paradigm. Thus the process of amelioration conceived of as "progress" in the post- Enlightenment West is here instead "regression" to the normative divine model; what is there viewed as "discovery" is here in essence nothing but recovery.[^6]
 
-     
-
 ### 4.0. _Yogacara_: Text/Ontology
-
-     
-     
 
 ### 4.1. Reversals: Immanence/Transcendence
 
-     
-     
-     
-     
-
 ### 4.2. Being/Non-Being
-
-     
 
 > Non-being \[means\] that this verbal designation of "form" up to the verbal designation of "nirvana" is without an objective basis, that is, it is without characterization, that the basis of verbal designation is completely non-existent, that is, completely absent. Verbal designation functions without relying on any existing thing. This is called non-being.[^12]
 
-     
-
 > And also, whosoever negates the locus for the characteristic of verbal designation, which is the basis for the characteristic of verbal designation, completely negates the object that is the ineffable, ultimately real existence. \[Thus the nihilist states\]: "everything is completely non-existent."[^13]
-
-     
 
 > Anything posited as the self-nature (_svabhava_) of verbal designation (_prajnaptivada_)' \[Indeed\], the self-nature of the factors of existence (_dharma_) is the "referent" of verbal designation, and it is called "being" by the worldly.[^14]
 
-     
-
 > And whosoever attaches to the own-nature of the verbal designation for factors of existence, i.e., the specific characteristic of form, etc., \[does so\] because of the postulation of existence upon that which does not exist.[^15]
-
-     
 
 > Unreal mental construction exists; in that \[unreal mental construction\] duality does not exist (1ab).
 
 > But here \[in unreal mental construction\] emptiness exists; that \[unreal mental construction\] too exists in that \[emptiness\] (1cd).[^16]
-
-     
 
 > Some maintain that all factors of existence are completely without self-nature, just like the horns of a rabbit. For that reason, in order to counter the negation of all things (_sarvapavada_) \[Maitreya\] said,  
 >      Unreal mental construction exists (1a);  
@@ -80,48 +49,23 @@ The following essay attempts to do two things: it seeks to analyze Indian Buddhi
 >      in that \[unreal mental construction\] duality does not exist. (1b)  
 > Indeed, unreal mental construction which is devoid of the \[duality\] of any entity of subject and object of cognition, is called "empty" but not completely without self-nature.[^17]
 
-     
-     
-
 > Or, in order to counter the view, "visual form, etc., exist as real entities apart from mind and mental functions", \[Maitreya\] stated  
 >      Unreal mental construction exists (1a);  
 > "as a real entity" \[should be added\]. Visual form does not exist separated from that \[consciousness\]. Why? Since,  
 >      in that \[unreal mental construction\] duality does not exist (1b)  
 > Indeed, unreal mental construction is neither the perceiver of something nor is it perceived by anything. However, \[unreal mental construction\] as the absence of the subject and object of perception is the sole reality (_bhavamatra_).[^18]
 
-     
-
 ### 4.3. The Presence of Absence
-
-     
 
 > But here \[in unreal mental construction\] emptiness exists; that \[unreal mental construction\] too exists in that \[emptiness\].
 
-     
-
 ### 4.4. Primacy of the Text and Ontological Dependency
-
-     
-     
-     
-     
-     
-     
 
 > \[A designation\] is neither the essential nature of that _dharma_, nor is it wholly other than that. That \[essential nature\] is neither the sphere of speech nor the object of speech; nor is it altogether different from these. That being the case, the essential nature of _dharmas_ is not found in the way in which it is expressed. But further, neither is absolutely nothing found. Again, the essential nature is absent and yet not absolutely absent.[^23]
 
-     
-
 > And also, whosoever negates the locus for the characteristic of verbal designation, which is the basis for the characteristic of verbal designation, completely negates the object that is the ineffable, ultimately real existence.[^24]
 
-     
-
 ### 5\. Conclusion
-
-     
-     
-     
-     
 
 * * *
 
@@ -146,12 +90,6 @@ _dvayam tatra na vidyate_
  ['](https://jcrt.org/copyright.shtml) 2001 John Y. Cha. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/02.3/cha.shtml
-
----
-
----
-
----
 
 ---
 

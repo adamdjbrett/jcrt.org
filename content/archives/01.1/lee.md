@@ -6,9 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-  Lee - Deconstructing the Great Chain of Being - JCRT 1.1
+---  Lee - Deconstructing the Great Chain of Being - JCRT 1.1
 
 # Deconstructing the Great Chain of Being
 
@@ -21,28 +19,11 @@ _For Huston Smith_
 
 Let me begin with a fact that has continued to surprise me for nearly twenty years. Many of the world's great mystics, regardless of their cultural and intellectual traditions, have advocated versions of the Great Chain of Being. There are notable and important differences in the particular theories introduced, but the fact remains that the Great Chain provides the ontological foundation (or superstructure) for the great majority of mystics. Similarly, many theorists of the Great Chain of Being (if not all) explicitly articulate a commitment to the experiential reality and ontological significance of mystical experience. The connection between the Great Chain of Being and mysticism is indeed so pervasive and runs so deep that Huston Smith has suggested that these two positions are fundamentally identical.[^1]
 
-    
-    
-    
-
 > He was one himself, with no distinction in himself either in relation to himself or to other things--for there was no movement in him and he had no emotion (_thumos_), no desire (_epithumia_) for anything else when he had made the ascent--but there was not even any reason (_logos_) or thought (_noesis_), and he himself (_autos_) was not there, if we must even say this; but he was as if carried away or possessed by a god, in a quiet solitude and a state of calm, not turning away anywhere in his being and not busy about himself, altogether at rest and having become a kind of rest. (VI.9.11.8-16)
 
 The import of this passage is that the movement of _centering_ the soul apparently leads to the soul's very _removal_ from the scene.
 
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-
 > And when one falls from the vision, he wakes again the virtue in himself, and considering himself set in order and beautiful by these virtues he will again be lightened and come through virtue to Intellect and wisdom and through wisdom to that Good. This is the life of gods and of godlike and blessed men, deliverance from the things of this world, a life which takes no delight in the things of this world, escape in solitude to the solitary. (VI.9.11.45-51)
-
-     
 
 * * *
 
@@ -51,12 +32,6 @@ The import of this passage is that the movement of _centering_ the soul apparent
 
 © 1999 Jonathan Lee. All rights reserved.  
 Updated 11|11|99.
-
----
-
----
-
----
 
 ---
 

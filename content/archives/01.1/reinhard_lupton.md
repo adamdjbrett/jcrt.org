@@ -6,9 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-   Reinhard/Lupton - Jewish Studies and the Secular University - JCRT 1.1
+---   Reinhard/Lupton - Jewish Studies and the Secular University - JCRT 1.1
 
 # Jewish Studies and the Secular University: Religion Between Culture and Philosophy
 
@@ -19,31 +17,10 @@ Julia Reinhard Lupton, UC Irvine
 
 There is one piece of Talmud familiar to a vast number of the American Jews who find themselves drawn to rediscover and reinvent the religious foundations of secular life, a passage oft-cited by rabbis and Jewish educators because it invites even the most ignorant among us to enter onto a path of Jewish learning. You will recall the scenario: a "certain heathen" comes before Shammai wanting to convert to Judaism, but only on the condition that he be taught the entire Torah while standing on one foot. Shammai beats him off with a measuring stick. Hillel, however, is more encouraging: "What is hateful to you, do not do to your neighbor: that is the whole Torah, while the rest is commentary. Go and learn it" (_Shabbat_ 31a). We can take this anecdote as an allegory of the current situation of Jewish Studies in the secular university. We do not teach in a yeshiva, but in the University of California. Students come to the field from a variety of intellectual and personal backgrounds, often bringing with them the tools of history, literary criticism, or philosophy, a reawakened sense of ethnic identity cross-fertilized by contacts with other groups, or a young adult's growing awareness of both the resources and the limitations of the classic Hebrew School education. Scholars, too--and we count ourselves among them--often enter the arena of Jewish studies at moments of crisis or transformation in their lives and careers, finding in it a way of reorienting and reinvigorating their prior training in literature, philosophy, history, or sociology. Such students and scholars might meet at the gates of Jewish studies a glowering Shammai, who would beat them off with injunctions to master Hebrew and Aramaic before venturing into the House of Interpretation. Or perhaps instead they will be greeted by a more encouraging Hillel, unafraid to conceptualize Judaism in terms of basic philosophical or even humanistic principles, while nonetheless asserting the importance of "commentary" of the specifically Jewish protocols and imperatives of study that shape the reception, transmission, and indeed formulation of those ideas. Shammai is a disciplinarian who guards the rigorous and uncompromising nature of the field from intellectual trespass, literally upholding standards with his curmudgeonly measuring stick. Hillel is the interdisciplinarian who meets halfway the student trained in the liberal traditions of the secular university in order to induct him or her into the exegetical habits of Jewish learning.
 
-    
-    
-    
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-
 * * *
 
 © 1999 Kenneth Reinhard and Julia Reinhard Lupton. All rights reserved.  
 Updated 11|11|99.
-
----
-
----
-
----
 
 ---
 

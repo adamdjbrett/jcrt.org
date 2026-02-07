@@ -25,12 +25,3 @@ issue: 2
 season: spring
 pages:
 ---
-
----
-
----
-
----
-
----
-

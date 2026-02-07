@@ -15,12 +15,3 @@ issue: 3
 season: summer
 pages: 271-293
 ---
-
----
-
----
-
----
-
----
-

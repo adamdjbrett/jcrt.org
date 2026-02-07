@@ -6,9 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-  Lorentzen - Re-Constructing Theological Thought with Deleuze - JCRT 1.2
+---  Lorentzen - Re-Constructing Theological Thought with Deleuze - JCRT 1.2
 
 # Re-Constructing Theological Thought with Deleuze
 
@@ -25,16 +23,6 @@ St. John Fisher College
 
 By way of introduction I wish to make my interest in Deleuze explicit.' This is required by at least three factors: The first is that I have styled the interaction with _Difference and Repetition_ as a dialogue (or meditation) consequently, some remarks to set the stage will be helpful for the reader.' The second is that I have selected one portion from the text to focus on (albeit one that Deleuze considers to have continuing significance). And finally, my reading of Deleuze contradicts some of Deleuze's own conclusions, since the dialogue functions as a deconstructive reading of _Difference and Repetition_.
 
-    
-    
-    
-    
-    
-    
-    
-     
-     
-
 ### The Dialogue
 
 > "All our dignity consists then in thought...Let us endeavour then to think well; this is the principle of morality"
@@ -49,52 +37,17 @@ By way of introduction I wish to make my interest in Deleuze explicit.' This is 
 > 
 > \--Antonin Artaud[^7]
 
-     
+* * *
 
 * * *
 
-     
-     
-     
-     
-     
-     
+* * *
 
 * * *
 
-     
-     
-     
-
 * * *
 
-     
-     
-     
-     
-     
-     
-     
-     
-
 * * *
-
-     
-     
-     
-     
-
-* * *
-
-     
-     
-     
-     
-
-* * *
-
-     
-     
 
 * * *
 
@@ -105,19 +58,11 @@ By way of introduction I wish to make my interest in Deleuze explicit.' This is 
 
 * * *
 
-
-
 * * *
 
 [![Open this article in a new window.](https://jcrt.org/images/menu/window.gif)](lorentzen.shtml) [![Contents of this issue.](https://jcrt.org/images/menu/home.gif)](https://jcrt.org/archives/01.2/index.html) [![Print this page.](https://jcrt.org/images/menu/print.gif)](javascript:print\(\)) ['](https://jcrt.org/copyright.shtml) 2000 Oz Lorentzen. All rights reserved.  
 Updated 03|31|00.   
 http://jcrt.org/archives/01.2/lorentzen.shtml
-
----
-
----
-
----
 
 ---
 

@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    McCullough - Jean Baudrillard and the Death of God - JCRT 2.3 
+---    McCullough - Jean Baudrillard and the Death of God - JCRT 2.3 
 
 # Jean Baudrillard and the Death of God
-
-
 
 Lissa McCullough  
 Hanover College
@@ -21,48 +17,25 @@ Hanover College
 
 This essay considers Jean Baudrillard, the French sociologist and so-called "father of postmodernism," as a theological thinker; more specifically, as a negative theological thinker. Though little attention is paid to the theological dimension of his work by his popular and critical readership, Baudrillard consistently reflects on contemporary culture in its negative relationship to the symbolic world of Judeo-Christian tradition, and this is a key to his significance as a post-Nietzschean thinker. Through the lens of his work, we are made to see that late-modern technological and neo-capitalistic culture is still fulfilling a theologically driven dynamic (one specifically Calvinistic in quality), only now it is doing so in a wholly negative or inverted phase, a radically _nihilistic_ phase, in fact'but one graced nonetheless with a certain ironic joy and humor. Like Nietzsche, Baudrillard is a comic writer, for whom tragedy and horror are mercifully refracted through comic wit. Even as he writes of a total subversion of reality in simulation, and of the human in the inhuman, Baudrillard's writing is funny, provoking a last self-ironizing smile on the visage of the last man, even as his human body deconstructs into its inorganic components, and his human ideality vanishes into the "hyperreal" like the body of the Cheshire cat into its smile.
 
-    
-    
-
 > What becomes of the divinity when it reveals itself in icons, when it is multiplied in simulacra? Does it remain the supreme power that is simply incarnated in images as a visible theology? Or does it volatilize itself in the simulacra that, alone, deploy their power and pomp of fascination'the visible machinery of icons substituted for the pure and intelligible Idea of God? \[The Iconoclasts\] predicted this omnipotence of simulacra, the faculty simulacra have of effacing God from the conscience of man.[^1]
 
-    
-    
-    
-    
-     
-     
-     
      > What were we doing when we unchained the earth from its sun? Whither is it moving now? Whither are we moving? Away from all suns? Are we not plunging continually? . . . Are we not straying as through an infinite nothing? . . . Is the greatness of this deed too great for us? Must we ourselves not become gods simply to appear worthy of it? (_The Gay Science_, sec. 125).
-     
+
      Is "simulation," as Baudrillard depicts it, occupied with generating a surrogate to replace this lost sun, this archaic center and origin that undergirded all values and orders? Is it a strategy that we, as _imago Dei_, first simulacrum, have employed to substitute for the loss of the original, at least until simulation achieves an infinite loop and has no further need of an original?
-     
-     
-     
+
      > Today abstraction is no longer that of the map, the double, the mirror, or the concept. . . . It is the generation by models of a real without origin or reality: a hyperreal. The territory no longer precedes the map, nor does it survive it. It is the map that precedes the territory'_precession of simulacra_'that engenders the territory. (SS 1)
-     
+
      A "universe of simulation," when it reaches this stage, will have realized an infinite self-referentiality, having an endless self-processing as its sole reason for being, a self-contained, self-encoded, prospectively self-inscribed destiny fulfilling itself. This is perhaps Baudrillard's thought when he writes: "God is not dead, he has become hyperreal" (SS 159).
-     
-     
+
      > Our obsession with 'real time', with the instantaneity of news, has a secret millenarianism about it: canceling the flow of time, canceling delay, suppressing the sense that the event is happening elsewhere, anticipating its end by freeing ourselves from linear time, laying hold of things almost before they have taken place. (IE 8'9) / It is the fantasy of seizing reality live that continues. . . . Surprising the real in order to immobilize it. (SS 105)
-     
+
      As God is the "original" of which _imago Dei_ is the simulacrum, so eternity is the temporality of which "real time" is the simulacrum. Is the primary function of "real time" secretly that of staving off historical time'in a sense that Mircea Eliade would recognize as analogous to the "archaic" time of eternal return? Must time be totally emptied, pared down to sheer instantaneity, liberated from the narrative flow of history, in order to compete with eternity? The hyperreality of "real time" staves off the occurrence of epochal resolutions like the Last Judgment, the Apocalypse, or the Revolution (IE 8). Instead, like the empty temporal monotony of Beckett's _Waiting for Godot_, this time cannot be brought to resolution because it cannot achieve a _telos_ of any kind. It cannot transcend itself, all it can do is persist.
-     
-     
-     
-     
-     
-     
-     
+
      > Not any longer a fetishization of divinities, great ideas, or grand narratives, but of minimal differences and particles. It is in this respect that fetishism has become radical: it has become minimal and molecular; it is no longer the fetishism of the _form_, but of a mere _formula_'subliminal, subhuman. (IE 95)
-     
+
      More to the point, operative in this fetishishization Baudrillard sees a virulent nihilism at work. The human race, an eager instrument of this nihilism, is destroying itself qua human by dissolving its own symbolic space, volatilizing "every vital illusion'the illusion of appearances, ideas, dreams, utopias, ideal projections, but also the illusion of concepts and representations, including those of death and the body, which is disappearing more and more" (IE 95). A cult of the "immediate effectuation of all things" has taken the place of cultural, ritual, and symbolic elaboration (IE 95).
-     
-     
 
 > Such is the logic of simulacra, it is no longer that of divine predestination, it is that of the precession of models, but it is just as inexorable. And it is because of this that events no longer have meaning: it is not that they are insignificant in themselves, it is that they were preceded by the model, with which their processes only coincided. . . . Our time will never again be that of duration, our only temporality is that of the accelerated cycle and of recycling. . . . Our only culture in the end is that of . . . refining, cracking, breaking cultural molecules and of their recombination into synthesized products. (SS 55'56, 64)
-
-     
 
 * * *
 
@@ -81,12 +54,6 @@ This essay considers Jean Baudrillard, the French sociologist and so-called "fat
  ['](https://jcrt.org/copyright.shtml) 2001 Lissa McCullough. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/02.3/mccullough.shtml
-
----
-
----
-
----
 
 ---
 

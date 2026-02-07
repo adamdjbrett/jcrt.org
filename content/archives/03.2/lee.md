@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Lee - Life after death, or death as life? Dead Man, postmodernism, and ontology - JCRT 3.2 
+---    Lee - Life after death, or death as life? Dead Man, postmodernism, and ontology - JCRT 3.2 
 
 # Life after death, or death as life? _Dead Man_, postmodernism, and ontology
-
-
 
 C. Jason Lee  
 University of Central Lancashire
@@ -21,71 +17,23 @@ University of Central Lancashire
 
 The question of the meaning of human existence in the totality of Being, this fundamental question of philosophy, gains its true and practical importance through man's total discovery of death."[^1] Only through death does life take on significance but, for many, the very fact of death removes the significance of life altogether. For Baudrillard "death is meaningless, civilised life as such is meaningless".[^2] He writes that 'ours is a culture of death' and contemporary culture is formed out of an attempt to dissociate life and death. The dead have been excluded, unlike in the 'primitive' mind where the dead are part of the social, as in the Jarmusch film _Dead Man_ (1996) Baudrillard's division of life and death can be questioned for not only does one involve the other but they can occur simultaneously in the same being as the fake William Blake shows in _Dead Man_. Baudrillard writes the repression of death in contemporary society leads to the repressive socialisation of life.[^3] The debate surrounding screen violence continues unabated, male violence along with female beauty being the most revered elements in American culture.[^4] In the majority of feature films male protagonists, other than in rare exceptions such as _Thelma & Louise_ (Ridley Scott, 1991), are shown to be in control of death. In the film to be analysed here, despite the protagonist being a male killer, his control over his own death and that of others is questioned, as is death itself.
 
-    
-    
-    
-    
-    
     > The psychotherapists are caught up in contemporary culture and are forced to be a part of it. Commercial industrialism promised Western man a paradise on earth, described in great detail by the Hollywood Myth that replaced the paradise in heaven of the Christian myth. And now psychology must replace them both with the myth of paradise through self-knowledge.[^15]
-    
+
     Here, this psychology of self-knowledge is 'self-deception' but utopia and dystopia exist concurrently and paradox rules. There are parallels with Eastern philosophy and the film as a whole challenges 'Western' notions of the real, and the importance of reason. The character William Blake confirms the idea that the primary want of the human race is immortality. However, on a conscious level this is not his motive, as he wanders from place to place, his continual meetings with and departures from 'Nobody,' being seemingly random, his desire being merely to find some food, the desire for tobacco being uncannily presented as the main desire of Nobody and many of the other characters. It appears that he is now staying alive and shooting those that approach him due to the influence of Nobody and he chooses the identity Nobody which has given him that of a revolutionary poet over that which he has previously built for himself, a subservient accountant. His new identity drives him on to attain greater mortality, not necessarily immortality.
-    
-    
-    
-     
-     
-     
+
      > the activity of perception which it involves is real (the cinema is not a phantasy), but the perceived is not really the object, it is the shade, its phantom, its double, its _replica_ in a new kind of mirror.[^21]
-     
+
      Nietzsche saw art as redemption via illusion[^22] and these representations of death can lead to redemption, something that in _Dead Man_ takes on a new significance with the image of an icon made from the head of a sheriff and sticks, commented on by one of the paid killers before he crushes the head below his foot like a melon. This defacing of the corpse shows Cole's total hatred of the law but it evokes such horror in his colleague, Conway, revealing that 'the corpse may have more authority, than any other political body'.[^23] This fascination with the artistic use of corpses of animals and humans was commented on as early as Aristotle.[^24]
-     
-     
+
      > In Lacanian teaching representation and the death drive are connected by a fundamental link. All perceptions and thoughts are, according to Lacan, representations constituted around originary loses such that loss itself takes on a central, even centering function in life.[^27]
-     
+
      Maraux's quotation relates to Blake travelling with himself as a dead man, even before he is wounded. The philosophical notion that death is with us all from birth is exemplified plus the fact that his parents have both recently 'passed on', as he puts it, and his fianc'e has left him, are losses which indicate he is carrying the burden of many forms of death. Thus, while the quotation could be referring to the later situation of Nobody, who accompanies Blake, it also refers to himself. Heidegger's dilemma of understanding Being out of being, is solved in the film through the death of others. Blake confirms his value through his killing and he gives value to others as if, with Sartre, there is the belief in consciousness as a consequence of the existence of these objects.[^28]
-     
-     
-     
 
 ### _The real and fake William Blake - Dead Man__: An Examen Of Unconsciousness_ [^30]
 
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
      > 'Real' reality can not be apprehended as it is: an infinite, equally existent number of discrete and ever-changing entities and events. To see the universe in those terms might be accurate, but would be impossible to absorb, and meaningless in human terms.... information about reality has been presented to and by the human species in forms of narrative fiction known as History, Law, Religion, Epic Poetry, the Novel, the Drama, and the statements of politicians and journalists. In one sense, everything is fiction; in another fiction is reality.[^50]
-     
+
      The question is, does it matter if this Blake is not the 'real' William Blake? That is, Blake is who Nobody wants him to be, his identity is made up by another which one can argue is the case for everyone, people becoming who they are through relationships.
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
 
 * * *
 
@@ -103,12 +51,6 @@ The question of the meaning of human existence in the totality of Being, this fu
  ['](https://jcrt.org/copyright.shtml) 2002 Ethan Frome. All rights reserved.  
 Updated .   
 http://jcrt.org/archives/03.2/lee.shtml
-
----
-
----
-
----
 
 ---
 

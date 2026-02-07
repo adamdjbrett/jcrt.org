@@ -6,9 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Metcalfe - Wonder, Creativity and Knowledge - JCRT 1.3 
+---    Metcalfe - Wonder, Creativity and Knowledge - JCRT 1.3 
 
 # Wonder, Creativity and Knowledge
 
@@ -43,32 +41,13 @@ University of New South Wales
 
 I spent yesterday searching for where to start this article. Although I'd gone to the computer inspired, the rhythm failed and the words sounded false and forced. I countered this dispirited feeling with a renewed determination to find 'the right starting point', believing, crazily, that I couldn't begin writing without it. As the discarded sentences continued to pile, however, I began taking their failure personally, splitting my attention between the problem of the starting point and the larger problem of _me_: why couldn't I find where to start? My concern had initially been the intuition buzzing in my gut but now it shifted to a concern with the place where I should have been, and with this shift my failings and problems began multiplying, like the brooms in _The Sorcerer's Apprentice_. I could no longer hold a thought steadily. I was everywhere else, with nothing to hold me, no feeling of depth or resonance or belonging. My breathing was fast and shallow, as if I hadn't time to breathe, as if I didn't want the air inside me, as if it didn't belong to me.
 
-    
-    
-    
-    
-    
-    
-     
      > The respiratory rhythm can acquire such a degree of interior manifestation that one can say: 'I am all breathing.' \[_Tr._ This translation is but a feeble approximation of the German expression _'Es atmet mich,'_ literally 'It breathes me.' In other words, the world comes to breathe within me; I participate in the good breathing of' the world; I am plunged into a breathing world. Everything breathes in the world'\] (Schultz, quoted in Bachelard, 1971: 179).
-     
-     
-     
 
 ## **Gratitude**
 
 > _Einstein was once asked, 'What's the most important question you can ask in life?' And his answer was, 'Is the universe a friendly place or not?' ' I tell my students that every time you see angels mentioned in the Bible you should think Einstein, because you're dealing with the same issue. It's the ultimate cosmological issue. Can we trust the cosmos? Is the cosmos benign? (Fox and Sheldrake, 1996: 12)_
 
-     
-     
-     
-     
      > 'And' is the decisive word in give-and-take. Mere giving is as lifeless as mere taking. If you merely take a breath and stop there, you are dead. And when you merely breathe out and stop there, you are also dead. Life is not giving _or_ taking, but give-_and_\-take. Breathing is an obvious example, but the same give-and-take can be found wherever there is life. It is the dynamic expression of universal belonging. (1984: 199)
-     
-     
-     
-     
-     
 
 ## **Wonder** 
 
@@ -76,54 +55,21 @@ I spent yesterday searching for where to start this article. Although I'd gone t
 > 
 > _This ' age-old experience of inspiration ' takes on exceptional weight when one asks oneself whether enthusiasm or possession are not concealed at the heart of all activity, even beneath the primordial activity of consciousness and language; whether a delirium more profound than thought does not support thought; whether language which claims to be act and origin ' is not an inveterate passivity, the endless reiteration of an old old story, without beginning or end (Levinas, 1989: 151)_
 
-     
-     
-     
-     
-     
-
 ## **The wonderful**
 
 > _\[In Fra Angelico's painting, the\] Angel for Vigils wears a dark scarlet garment and holds his horn as if he were ready to blow, but he is not yet blowing. His left hand makes a strange gesture that signals, 'Wait; not yet.' His eyes are turned upward. He waits in that reverent silence out of which every genuine sound must come. This angel personifies the expectant listening attitude that precedes genuine word or song.' (Steindl-Rast, 1998: 24)_
 
-     
-     
-     
-     
      > a void which swells in the already said; a void which is determined in the sense that the one who is about to speak knows that there is something other and more to be said than what has already been said, but nothing positive beyond that fact, beyond the fact that it is not said by what has already been said. (Castoriadis, 1984: 132)
-     
-     
-     
-     
-     
 
 ## **Annunciation**
 
 > At the moment of the Annunciation, Fra Angelico gives his angel wings that are banded in rainbow colours.... A man can only guess at the reality of a woman's conception, via the imperfect analog of what happens with language: when an author thinks that he has something to say, before speaking or writing, his body, as if filled with love, becomes uplifted and vibrates like a rainbow. He doesn't yet know where his idea will settle, or in which direction it will go, or in what shades it will be coloured. The bodily state which precedes the emergence of an idea in spoken form begins in an aurora borealis, a kind of totality shaped liked an opened-out fan, accompanied by such an emotion that the body experiences the word 'emotion' itself as that movement of soaring flight, enraptured and suspended, to which it refers. Hence these wings which beat like those of a bird fluttering over a fixed point without yet having decided on a direction, and which are shaded in every possible colour, of which, at the end, only one will remain. That is what intuition sees before the thing actually comes into sight. (Serres, 1995: 109; original ellipsis)
 
-     
-     
-     
-     
-     
-     
-     
-
 ## **Knowledge and Mystery**
 
 > Our Western culture which is famous for its activism has very underdeveloped muscles of receptivity. We tend to fill this hole with junk because we're afraid of the dark or, if you will, afraid of nothingness. (Sheldrake and Fox, 1996: 126)
 
-     
-     
-     
      > the reality of the process of writing: a small glimmer illuminates the initial moment of creativity - next to the writer, outside of him, outside of his body, his pen, his page, his table.... Who is the shadow that holds it? Is this an angelic figure that resembles him like a brother? Is it a demon seeking to put him to death? Or is it the owner of a storehouse or treasury in which he can fish, before then, in turn, taking his place as an intermediary?
-     
-     
-     
-     
-     
-     
-     
 
 * * *
 
@@ -190,12 +136,6 @@ I spent yesterday searching for where to start this article. Although I'd gone t
 [![Open this article in a new window.](https://jcrt.org/images/menu/window.gif)](metcalfe.shtml) [![Contents of this issue.](https://jcrt.org/images/menu/home.gif)](https://jcrt.org/archives/01.3/index.html) [![Print this page.](https://jcrt.org/images/menu/print.gif)](javascript:print\(\)) ['](https://jcrt.org/copyright.shtml) 2000 Andrew W. Metcalfe. All rights reserved.  
 Updated 07/28/21 .   
 http://jcrt.org /archives/01.3/metcalfe.shtml
-
----
-
----
-
----
 
 ---
 

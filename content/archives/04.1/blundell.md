@@ -6,9 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Blundell - Book Profile: The New Ricoeur Scholarship - JCRT 4.1 
+---    Blundell - Book Profile: The New Ricoeur Scholarship - JCRT 4.1 
 
 # The New Ricoeur Scholarship
 
@@ -17,23 +15,12 @@ Richard A. Cohen and James L. Marsh, eds., _Ricoeur As Another: The Ethics of Su
 
 John Wall, William Schweiker, and W. David Hall, eds. _Paul Ricoeur and Contemporary Moral Thought_. Routledge, 2002' 290 pages, ix, index.
 
-
-
 Boyd Blundell  
 Boston College
 
 * * *
 
 A decade after the appearance of _Oneself as Another_ in English, Ricoeur scholarship is now being taken to a new level. No fewer than eight books on Ricoeur, along with dozens of articles, have been published in the last two years, with more due to appear as Ricoeur approaches his ninetieth birthday. Perhaps this has something to do with the fact that _Oneself_ is, as Charles Reagan puts it in the opening essay of the Cohen and Marsh volume, "Ricoeur's most elegantly written, clearly organized and closely argued work," and thus merits the attention from the perspective of pure philosophical scholarship. But I would suggest that something deeper is at work. Ricoeur, more than any other active philosopher, bridges gaps, performing a synthetic task in an era dominated by analytical and deconstructive projects. Ricoeur operates in the hermeneutical "between" - between analytical and continental thought, between ethics and morals, between theology and philosophy, between critique and conviction - and there is a growing appetite for carefully crafted arguments that might help us _re_construct our shattered modernity into something viable, if still wounded. With the publication of _Ricoeur as Another_ and _Paul Ricoeur and Contemporary Moral Philosophy_, we have the first attempts at an appropriation of this daunting project that Ricoeur has begun.
-
-    
-    
-    
-    
-    
-    
-    
-     
 
 * * *
 
@@ -48,12 +35,6 @@ A decade after the appearance of _Oneself as Another_ in English, Ricoeur schola
  ['](https://jcrt.org/copyright.shtml) 2002 Boyd Blundell. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/04.1/blundell.shtml
-
----
-
----
-
----
 
 ---
 

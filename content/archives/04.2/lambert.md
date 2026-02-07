@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
- Lambert - "Create, She Said.": Deleuze and Feminism - JCRT 4.2 
+--- Lambert - "Create, She Said.": Deleuze and Feminism - JCRT 4.2 
 
 # "Create, she said.": Deleuze and Feminism (On Dorothea Olkowski's _Gilles Deleuze and the Ruin of Representation_)
-
-
 
 Gregg Lambert  
 Syracuse University
@@ -21,78 +17,51 @@ Syracuse University
 
 In Dorothea Olkowski's _Gilles Deleuze and the Ruin of Representation,_[^1] the crucial importance of the work of art enters discussion many times, mostly around the work of contemporary artist and feminist Mary Kelly. In Kelly's _Post-partum Document_, the very question of "creation" is posed in the most striking and, perhaps, most obvious of terms: the creation of life itself.[^2] The _Post-partum Document_ concerns the artist's detailed rendering of the birth of her son and his early years of development. Here, we can already glimpse the relation of this act of creation, purely descriptive, with the creation of the child in the biological and physiological, as well as in the linguistic or sociological senses of the word. It is the limit where both senses of "creation" must meet and fold upon each other that Kelly's work interrogates and, in turn, that Olkowski demonstrates the importance of Kelly's art for the task of feminist philosophy that Olkowski aptly calls in her title "the ruin of representation."
 
-    
-
 > The death of speech is therefore the horizon and origin of language. But an origin and a horizon which do not hold themselves at its external borders. As always, death, which is neither a present to come or a present past, shapes the interior of speech, as its trace, or reserve, its interior and exterior difference: as its supplement.[^4]
 
 To remain with Derrida's argument for a moment ' not for long though; like Irigaray before her, Olkowski will not be content with this obsession "with death and mastery" and will seek to orient her thinking in a new direction ' this can be described as the that is limit internal to representation itself. It arises from the metaphorical slippage upon which the generalizing function of representation is founded, whereby death installs itself already or always already at the place of an origin that is twice inaccessible. From this we know that at the basis of the subject is "nothing," or rather, the "trace" of a founding act which has never been present _and nonetheless_ institutes subjectivity in language. Consequently, since the supplement is neither a presence nor an absence, Derrida remarks in a line that precedes the above passage, "no ontology can think its operation.[^5]
 
-    
-
 > \[T\]his is where the work of Mary Kelly comes into play, for it is both a critique of objectified representation and a creation of new points of view. Kelly's forms of expression are a new orientation in life for herself as a woman, an orientation she creates in works of art through the organization of images, objects, and words. \[...\] To see in Kelly's art not just a destructive force but also a creative force of difference, it might help to make sense of the difference between the logic of difference and the logic of representation.
 
-     
-     
      ![Figure 1](https://jcrt.org/archives/04.2/images/fig1.gif)
-     
+
      \[Figure 1\] [^8]
-     
+
      Concerning this process, Olkowski writes the following:
-     
+
      > Kelly is obviously unwilling to accept the psychoanalytic interpretation and representation of her role, but she is no more willing to endorse and fall into line with the dominant reading of her work as 'feminist art.' She makes works of art that question the attribution of fetishism by taking it to its extreme in highly crafted, detailed, and precise works of art documenting specific moments of the child's growth and her responses to it. She creates works that redefine the role of the mother, woman, artist, thinker, and member of society in terms of a new artistic sensibility that she creates by mixing the wound effected by the Lacanian schemas and the predefined placement of the woman's body within in social hierarchy with her own deepening passive synthesis'that is, with the assiduous detail, the scientific mindset, the beautiful surfaces and constructions, the assemblage of words and images that make up her work, that form a mixture of bodies in tension with language'producing a continuous series of incorporeal transformations, the event of the new. (229)
-     
+
      In the above passage, what I understand Olkowski to be suggesting is that the event of this "passive synthesis" must be opposed to the general symbolic logic of castration (the unconscious representation which circulates "emptily" through the structure-Other). This opens the possibility of singular deviations or differences that cannot be accounted for in the Lacanian schema, but only by folding these schema into the actualized in their living configurations'like the mapping of the Lacanian mathemes onto the material objects, such as the swaddling clothes and fecal matter'as a result of which the living identity of castration, and of sexual difference, will always remain unequal to its abstract representation.
-     
 
 ![Figure 2](https://jcrt.org/archives/04.2/images/fig2.jpg)
-
- 
 
 ![Figure 3](https://jcrt.org/archives/04.2/images/fig3.jpg)
 
 \[Figure 2\]
 
- 
-
 \[Figure 3\]
 
-     
      > Perhaps this is why it seemed crucial, not in a sense of moral imperative, but as a historical strategy, to avoid the literal figuration of the mother and child, to avoid any means of representation, which risked recuperation as 'the slice of life.' To use the body of woman, her image or person is not impossible but problematic for feminism.[^9]
-     
+
      I would like to emphasize two words from this passage which I think are crucial to the context of our discussion: "strategy" and "avoidance." As Kelly repeats twice, her strategy is "to avoid" literal figuration, to "avoid" any means of representation that risks recuperation by a "natural" couple, to "avoid" the "body of woman" (either in image or in person), all of which are said to be "historical" in the sense that they participate in the problematic of feminism. Why are these words so crucial for the problem of feminism? On one level, the answer to this question is obvious. With the above mention of the term "avoidance" we are situated within the region of the Oedipus complex, and more specifically within its failure in the discourse of perversion, which Freud himself had highlighted under the gesture of "denegation" (avoidance, disavowal). Thus, Kelly herself situates the central question of the project around the possibility of female fetishism. "I would like to underline," Kelly says in her preface to _Post-Partum Document_, "one of the most central and perhaps most controversial questions this particular work poses in relation to the mother's desire: the possibility of female fetishism."[^10] With this statement, however, it is important to note that the notion of possibility is situated at the level of a problematic, and not immediately (or automatically) assigned a transgressive value as it has otherwise assumed in some early feminist works. In fact, Kelly seems to arguing just the opposite. In this sense, Kelly (the artist's) choice of subject could be said to be problematic, unless one already subscribes the question of motherhood as naturally belonging to her subject as woman. I imagine this is why Kelly underlines the controversial significance of her choice of subject matter, since it is precisely in the manner her subject can be represented (or rather explained) by Oedipus that raises the question of its political valence for feminism. And yet we might already note a crucial distinction that occurs in Kelly's is that this "avoidance" that she speaks of concerning woman or the subject of feminism already occurs at the level of representation'as Kelly says, to avoid every means of "representation," to "avoid" literal figuration. Perhaps we might see this as an original anti-representational impulse that is also at the origin of the work of art, which produces its so-called de-realizing effects. But this is not necessarily so, since we also know of the de-realizing or non-representational power of male perversion (here I am thinking here of Freud's commentary on Di Vinci) in which the partial object (i.e., the missing phallus) is precisely introduced as the element of fantasy that distorts the representation of the proportions of the prototypical object.
-     
-     
-     
-     
-     
-     
+
      > these analyses have operated with categorical generalizations: concepts neither abstract enough nor particular enough, which represent women merely in terms of pre-established, even naturalized, standards . . . , it hardly seems fruitful to continue down the path of generalized statements about objectified looking or about which social contexts women and minorities are not allowed to participate in. Such representations do no more than register a complaint against the norms of language, images, and social and political structures."[^13]
-     
+
      In fact, Olkowski asks concerning the impulse to define women's point-of-view in exclusive and oppositional terms, "is it by individuating women's point-of-view that liberal society excludes women?"[^14] Therefore, it is on the basis of this problem that Olkowski's shows that perhaps the most crucial problematics that remains at this stage of feminist thought, surprisingly enough, concern the encounter or confrontation between feminism and psychoanalysis, on one side, and with phenomenology on the other. However, as Olkowski cautions, this will not be achieved by a simple rejection or by an easy dismissal of responsibility to the history of both discourses'as Deleuze wrote in _Foucault_, "today we can no longer be content to say that the old struggles are no longer worth anything"[^15]'but rather by a careful "working-over" and problem-solving approach, by the creation of a new conceptual language and schema for designating the sensible conditions of the subject of knowledge, perhaps in a manner that Mary Kelly's work has already demonstrated for us.
-     
-     
-     
+
      > Instead \[of the questions of the feminine as essentially transgressive, or the problematic of patriarchy\] the question of representation was foregrounded. On the one hand, it referred to the ideological, that is, 'femininity' understood as the representation of difference produced within specific discourses, or social practices; on the other, it was used in the psychoanalytic sense as the representation of the drives with respect to aims and objects, that is 'the feminine' understood as the subject's position in language, symbolic castration defined as the representation of loss.[^16]
-     
+
      At the same time, as Kelly immediately goes on to say, "certain feminists began to worry about another kind of loss'the losing sight of the 'social,' in the end, failing to understand the political relevance of the personal."[^17] Olkowski recounts, almost twenty years later, that these concerns are still for the most part unresolved. Feminists have been worried about giving up too quickly the "molar identity" of woman (if, I might add, this loss was even materially or economically possible), and engaging in the creative process of "becoming-woman," which as we know from Deleuze and Guattari's description, also entails other _becomings_\- (i.e., "becoming-molecular," "invisible" or "imperceptible"). Some have speculated that this could only lead to the worst of consequences, and Deleuze and Guattari themselves have often been suspected of a hidden motive, perhaps even for really being malicious and cunningly misogynistic. (As Alice Jardine once argued, maybe this is the ultimate trick that by introducing the notion of "becoming-woman" that feminists would unwittingly do themselves in and cause the social identity women to vanish through the looking glass just like so many Alices). The question of strategy therefore is also one of the most acute and critical questions that Olkowski takes up when it is properly understood in terms of a feminist practice, and not simply in terms of whether the theoretical work of Deleuze and Guattari is in any way useful or dangerous to feminist objectives (which is how it has been posed so far). The question is rather how to occupy, or rather move, between both levels at once, between what Deleuze and Guattari provisionally describe as the molar and the molecular. How to multiply or even to disperse "the feminine" without destroying or annihilating the possibility for the social and political subject of historical feminism.
-     
-     
+
      > I would say that Merleau-Ponty's formulation of the question is caught up in a spatialization of the body . . . that materializes the body to the point of objectifying it. \[. . .\] What is needed is a schema according to which the seer is not just being-seen, the seer is the sight from the point of view of other seers, other worlds: sexual difference, the salvation on an intellectual level. This is the gap, the necessary interval, the third thing between woman and man. In this sense, the _chiasm_ is not narcissism, as Merleu-Ponty suggests, for that comes to close to eliminating difference, unless narcissism can be radically re-configured as something creative. \[...\] Sexual difference remains in reserve, but, at least with the conception of the interval as a positive, creative act, such a point of view can be generated as a moment of freedom.[^18]
-     
-     
-     
-     
+
      > This double-capture, which is constitutive of knowledge-Being, could not be created between two irreducible forms if the interlocking of opponents did not flow from an element that was itself informal, a pure relation of forces that emerges in the irreducible separation of forms. This is the source of the battle or the condition of its possible existence. This is the strategic domain of power, as opposed to the stratic domain of knowledge. From epistemology to strategy. This is another reason why there is no 'savage' experience, since battle implies strategy and any experience is already caught up relations of power. This is the second figure of Being, the 'Possest,' power-Being, as opposed to knowledge-Being. It is the informal forces or power relations that set up relations 'between' two forms of formed knowledges.[^22]
-     
+
      Situating the above passage in the context of Olkowski's argument, if phenomenology does not confront the difference of "point of view" but rather baptizes a generalized and objective point of view that is impervious to the question of sexual difference, then would sexual difference then be the name of this force of exteriority, of this "Outside" that Deleuze recounts in the above passage? Would the thinking of "sexual difference" (the thought of the effects of sexual difference upon the organization of statements and visibilities, the thinking of feminist philosophy) not in fact have the greatest chance of entering into to break open the phenomenological subject, to re-open this ancient _polemos_ which had been resolved or pacified too precipitously? And already, has not a feminist "point-of view" been most responsible for bringing this second figure of Being, this power-Being, most clearly into view? "From epistemology to strategy"'would this not already be the slogan for much of feminist philosophy today?
-     
-     
+
      > Since woman and man cannot stand in for one another, since they are incommensurable (each being one angle of the _chiasm_) woman and man differ. The gap between them, sexual difference, which is not simply a void, does not and cannot seize something as its object, but as the site of life and language. That we do not yet have such a conception of sexual difference is evident even as we look for its 'strange advent.'[^23]
-     
+
      The question , therefore, that Olkowski poses in conclusion is whether and in what way the principle of language as a dominant fold lead us to a solution of life or, finally, condemn us to a stale future where no ontology can operate'and least of all, an ontology of change?
-     
-     
-     
 
 * * *
 
@@ -124,12 +93,6 @@ To remain with Derrida's argument for a moment ' not for long though; like Iriga
  ['](https://jcrt.org/copyright.shtml) 2003 Gregg Lambert. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/04.2/lambert.shtml
-
----
-
----
-
----
 
 ---
 

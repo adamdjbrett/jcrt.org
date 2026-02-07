@@ -6,9 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-  Taylor - The Division of Religion - JCRT 1.2_
+---  Taylor - The Division of Religion - JCRT 1.2_
 
 The Journal of Cultural and Religious Theory is committed to advancing critical discourses aiming to (re)define the nature of disciplinary and inter-disciplinary scholarship in religion and culture studies. In a series of feature articles, the editors and members of the editorial board will address a wide range of issues in cultural and religious theory.
 
@@ -35,14 +33,7 @@ York College of Pennsylvania.
 
 The systematic dismantling of the founding concepts of the Western philosophical tradition brought on by "theory" in the last quarter century has provided innumerable occasions for re-situating inquiry in relation to disciplinarity. "Theory," as Carl A. Raschke writes in "Theorizing Religion at the Turn of the Millennium: From the Sacred to the Semiotic," is "dangerous to the power elite in the field because it offers unsettling questions about what religious people actually think and do, and how these modalities of signifying praxis compete and challenge each other" (2). Theory’s continued radical "challenge" remains compelling for scholars in the humanities, even though none of these "theoretical occasions" has yet to fully deconstruct prevailing institutional categories. In honor of this radical "challenge," the history of "theory" is organized around the failure to make good on its promise of deconstructing the structures, meta-narratives, societies of control that comprise the humanities. By preserving theory’s promise to open a space for challenging and re-thinking the relationship between inquiry and disciplinarity, Raschke’s essay moves us closer to the possibility of a "critical religious study" within the wider context of the "institution of religion." Theory allows "religion" and the "institution of religion" to stand in conflict, with religion understood as the mimetic _aftereffect_ of a sacred cosmology (primal identity), represented in/as data and in/as experience and the "institution of religion" as the undisclosed network of supplementary discourses necessary in ascertaining and perpetuating the myth and meaning of a metaphysics of presence as "religiology"–a positivist and faith-based synthesis of "scholarly" paradigms and institutional mechanisms. A "critical religious study" that is theoretical, as a slight adaptation the passage from Derrida suggests, designates a "breaking away" from religion, a move away from that which "has always been conceived and signified under the name" of religion. These disciplinary "escapes," conflicts over methods and objects of study, have become all the more pronounced in our current age of postmodernism, in which the very nature of intellectual inquiry and disciplinarity has come under fundamental review, a de-framing of _disciplinary fundamentalism_. The humanities, more than the behavioral and social sciences, have registered the effects of these conceptual reversals _vis-à-vis_ Derrida, Deleuze, Foucault, Lacan, and Lyotard, leaving the humanities in crisis intellectually, but intact structurally, departmentally. It is this incommensurable moment in which the intellectual field of inquiry is dramatically expanding and the institutional structures are forcibly constricting that forms the _mise en intrigue_ for our discussion.
 
-    
-    
-    
     > The study of religion is semiotic at its core, because it is not about "words" and "things" as philosophy and logic conveniently regard them. The study of religion is about the way in which the logical and grammatological constraints of the process of representation are removed, yet remain "significant" at the same time. As Genosko observes in his overview of the new cycle of scholarship in both semiotics and cultural studies, the pursuit of the humanities at large is a wandering in the "theater of representation." And "all representation is theological, a matter of filling gaps." When one begins to frame the "theory" of religion as a theory of semiosis, or how the mimetics of representation function in extremis, then one can do philosophy of religion, if not "philosophical theology", in a whole new manner--as religious theory. Religion itself is a latticework of sign-functions and signifying elements that transcend the grammatics of common sense. These signifying elements do not coalesce into some kind of metaphysical object, as Durkheim and others have always believed. The mysterious, yet theoretically inconsequential, construct of "the sacred" belies this means of misconstruing the subject regions to which we append the label of religion.
-    
-    
-    
-    
 
 * * *
 
@@ -56,12 +47,6 @@ The systematic dismantling of the founding concepts of the Western philosophical
 
 © 2000 Victor E. Taylor. All rights reserved.  
 Updated 03|31|00.
-
----
-
----
-
----
 
 ---
 

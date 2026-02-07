@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-     Keuss - Diff'rance That Comes As One Unknown - JCRT 3.1 
+---     Keuss - Diff'rance That Comes As One Unknown - JCRT 3.1 
 
 # Diff'rance That Comes As One Unknown: Christology after Derrida's "Structure, Sign, and Play in the Discourse of the Human Sciences"
-
-
 
 Jeffrey F. Keuss  
 University of Glasgow
@@ -21,75 +17,51 @@ University of Glasgow
 
 > > > ...You think ' because it is becoming plain to the modern eye that the ignorant love of his first followers wreathed his life in legend, that therefore you can escape from Jesus of Nazareth, you can put him aside as though he had never been? Folly! Do what you will, you cannot escape him. His life and death underlie our institutions as the alphabet underlies our literature.
 
-  
-
 The struggle to 'figure the Christ' through various means and media represents a continual search for not only the _content_ of the figure in question (what makes up and makes possible this union of human and sacred) but ultimately the _form_ within which this figuring is shown and understood. John McIntyre, in his Warfield Lectures delivered at Princeton Theological Seminary, begins his discussion of christology and christocentrism by employing a term not typically used in doctrinal discourse ' _shape_.' As McIntyre rightly states, "if we were asked to give in a summary form the distinguishing characteristic of Protestant theology in our time, many of us would reply that it is its _christocentric_ quality which claims this title. And the evidence would be convincing".[^2] As McIntyre goes on to surmise:
 
 > It is by this time clear, then, that christology has come to exercise in theology a range of functions for which it was not originally designed: in this range we find exegetical, expository and hermeneutical as well as normative and critical elements' classical christology has come under severe strain in these new settings in which it has of late found itself and a crisis has begun to develop which can only be resolved by a radical reassessment of the basic _shape_ of this central doctrine of the Christian faith as today expressed.[^3]
 
 McIntyre rightly notes that there is indeed a continued search for the basic _shape_ of this central doctrine of the Christian faith that is the nature of Christ and it goes back to the very foundations of the Church itself.
 
-    
     > only-begotten Son of God;  
     > Begotten of his Father before all worlds,  
     > God of God, Light of Light, Very God of Very God;  
     > Begotten, not made;  
     > Being of one substance with the Father;  
     > By whom all things were made...
-    
+
     Interestingly enough, the creed also presents a _condemnation_ of those who did not 'fit' Christ into this shape. This is marked in the original form of the Nicene Creed which concludes with a portion originally added as an anathema against the Arians: "But to those who say: 'There is a time when He was not'; and 'He was not before he was made'; and 'He was made out of nothing,' or 'He is of another substance or essence,' or 'The Son of God is created,' or 'changeable or alterable' ' they are condemned by the Holy Catholic and Apostolic Church".[^6]' Where a creed is to be an _assertion_ of faith (the term coming from the Latin _credo_, "I believe") this original rendering stands as a statement _against_ "I _don't_ believe" as much as a statement _for_ certain beliefs.' The poetics thereby make claims that overturn the very definition of the genre itself (i.e. what constitutes _Credo_) through its construction _as a work_ and the claims it makes on how it is to be read. In this way, the _poetics_ of the creed (and of much literature as I will argue throughout this essay) makes claims that at times are more profound than the actual content or genre the work supposedly represents.
-    
-    
-     
+
      > The question of the historical Jesus is such a familiar one today that it is difficult for us to realise how recent a question it is.' For more than 1600 years the idea of asking such a question never arose. More precisely, in the minds of the Christian interpreters of the Bible there was no difference between the Jesus of history and the Jesus of the Church's proclamation. Insofar as the Christian scriptures spoke of the incarnation of God at a particular point in human affairs, the accuracy of their reports was taken for granted.[^9]
-     
-     
+
      > But for this task \[of interpreting scripture\] we need a method and order similar to that which we employ in interpreting Nature from the facts presented before us' we must first seek from our study of Scripture that which is most universal and forms the basis and foundation of all Scripture; in short, that which is commended in Scripture by all the prophets as doctrine eternal and most profitable for all mankind'Scripture does not teach formally, and as eternal doctrine. On the contrary, we have clearly shown that the prophets themselves were not in agreement on these matters, and therefore on topics of this kind we should make no assertion that claims to be the doctrine of the Holy Spirit, even though the natural light of reason may be quite decisive on that point. ' with regard to the meaning of revelation, _it should be observed that this method only teaches us how to discover what the prophets really saw or heard, and not what they intended to signify or represent by the symbols in question. The latter we can only guess at, not infer with certainty from the basis of Scripture_. [^10] (emphasis added)
-     
-     
+
      > But since these secrets \[the secrets of the Kingdom of God disclosed in Matthew 13:11; Mark 4:11; Luke 8:10\] consist merely of an explanation of figurative concepts and the explanation, insofar as it is stripped of parable, in turn contains nothing more than the common knowledge of the promised Kingdom of God under the Messiah, one must confess that no really new or incomprehensible precepts are to be found among these secrets.' _Take note from this, to what extent people let themselves be deceived by words!_' Today we are accustomed to understanding by the word 'faith' or 'gospel' the whole body of Christian doctrine that we are to believe, or all the articles of the Christian faith in their interconnection, the entire catechism and the creed, and we particularly call 'mysteries' those doctrines that surpass understanding and that are neither to be understood or proved by reason alone.[^11]
-     
-     
-     
-     
-     
+
      > Between religion and literature ' there is a linguistically based dispute. But it is not a dispute of simple opposites. Because whereas religion seeks to privilege one language above all others, one set of values above all others, one text above all others, the novel has always been about the way in which different languages, values and narratives quarrel, and about the shifting relations between them, which are relations of power.' The novel does not seek to establish a privileged language, but it insists upon the freedom to portray and analyse the struggle between the different contestants for such privileges.[^22]
-     
+
      As Rushdie correctly surmises, the move into the realm of the fictive that is represented by forms such as the novel is a move _away_ from the privileging of "one language above all others" and an approach toward a poetics that acknowledges the hope for "the freedom to portray and analyse the struggle" inherent in such a search.
-     
-     
+
      a full coming together of total opposites, the opposites of total ending and total beginning, and the totally old world or aeon and a totally new aeon or world'a _coincidentia oppositorum_ is at the very centre of the Christian epic, as is a calling forth and voyage into an apocalyptic totality, and \[the Christian\] epic totality is an apocalyptic totality if only because it embodies such a radical and total transformation. Here, this transformation is deepest in envisioning the depths of the Godhead itself, depths that are apocalyptic depths, and hence depths unveiling a new Godhead only by bringing an old Godhead to an end.[^23]
-     
-     
+
      > To enter this parabolic enactment through the medium of literature is to take on a _poetics of Jesus_ which will reverse every image of Jesus we have known if we are to be open to his contemporary and apocalyptic presence.' Just such a reversal has continually occurred in the Christian imagination, a reversal not only of given images of Jesus, but also, and even thereby, a reversal of all given Christian images of God.[^24]
-     
+
      This statement bears striking similarity to contemporary post-structuralist writers such as Jacques Derrida, who, while resolutely determined not to be considered as a 'religious' writer, actually attempts to form such a poetics that Altizer argues is at the very heart of the person of Jesus. Jesus, as that subject of writing where subjectivity is both constructed and destroyed simultaneously, bears marked resemblance to that which Derrida argues for in his essay "Structure, Sign, and Play in the Discourse of the Human Sciences" from _Writing and Difference_.[^25]
-     
-     
-     
-     
+
      > ...the \[Church\] lives in a strange and healing paradox disclosed' throughout the scriptures: so deeply into one's existence does the unmasking radicality of the Word strike that the radical contingency and ambiguity of all culture, all civilisation, all institutions, even nature itself \[in sum, the "world"\] are unmasked by the same Word which commands and enables work _for_ the world, and more concretely for the neighbour.' This Christian insight into the conventionality, the arbitrariness, the radical contingency of all culture, all nature and all institutions has a reverse side: the radical ambiguity of all culture, nature, institutions ' all the world ' and their constant temptation to self-aggrandisement and self-delusion.' Yet this very same insight into the radical contingency and real ambiguity of the world posits itself not only by negating all "worldly" pretensions to divinity, atemporality, eternity, but also by positing the command and the possibility of living in and for this contingent, ambiguous, created and divinely beloved "world".[^33]
-     
+
      Tracy goes on to say that "rather than repeating the domesticated slogans that presume to capture this dialectic ("The \[Church\] is _in_ the world, but not _of_ it"), it seems more correct to say that the\[Church\] is released (the violent imagery is exact) _from_ the world, _for_ the world".[^34]
-     
-     
-     
-     
+
      the determination of Being as _presence_ in all senses of this word. It could be shown that all the names related to fundamentals, to principles, or to the centre have always designated an invariable presence ' _eidos_, _arche_, _telos_, _energeia_, _ousia_ (essence, existence, substance, subject) _aletheia_, transcendentality, consciousness, God, man, and so forth.[^41]
-     
+
      This power is, on the one hand, rhetorical, yet on the other hand, substantial and real. But words do not necessarily establish what the object is; they instead participate in "a history of meanings".[^42]'' Moreover, to make a claim of identity based on signifiers such as Jesus takes the form of both a metaphor (x=y or "this" is to "that") and a metonymy (a name change, Christ is now Jesus), so that what the import sought through form and content may still be different from what either the metaphor or the metonymy can suggest. The face we may seek for' the authentic Jesus ' is not to be found. The face we _do_ figure "is neither the face of God nor the figure of man: it is their resemblance.' A resemblance which, however, we must think before, or without, the assistance of the Same".[^43]' We who seek this 'face' are in the space between
-     
+
      > the difference between the same and the other, which is not a difference or a relation among others, has no meaning in the infinite' this horizon is not the horizon of the infinitely other, but of a reign in which the difference between the same and the other, _differ'nce_, would no longer be valid, that is, of a reign in which peace itself will no longer have meaning.[^44]
-     
+
      "We live in and of difference," according to Derrida.' If Derrida's assertion is true, where does import reside?
-     
-     
-     
-     
-     
-     
+
      > ... \[O\]ne has to go through the experience of deconstruction"[^52] to find another way, a new way, all the time.
-     
+
      In the end, I am proposing a rhetorical strategy whereby one actually says more than one appears to have said. The interplay found in the "rupture" of the signs that denote Jesus whether in the poetic space or within the space of a kerygmatic community can lead to a new space for Jesus to be 'authentic' in the full Heideggerian sense.' In many ways I am arguing for a _poetics of Jesus_ where entering within is not certain nor safe, a place that is "the undiscovered country" of Hamlet's musings and a place that is closest to Derrida's sense of' "autobiography" as writing that is most enigmatic and most open. This is a place that returns to forming questions of life writ large, where people gather and _that_' gathering becomes the defining character.'' It is a place that is open always to possible destruction of the pre-conceived, yet passionate for the clearing act of being-in-the-world and being-for-the-world.' As Derrida has said, the space of literature "allows one to say everything.' To say everything is no doubt to gather, by translating, all figures into one another, to totalize by formalizing, but to say everything is also to break out of prohibitions".[^53]' In the midst of the "New Quest" for the Historical Jesus, New Testament scholar G'nther Bornkamm stated in the opening sentence of _Jesus of Nazerath_ that "\[n\]o one is any longer in the position to write a life of Jesus"[^54].'' Yet there remains the drive as seen in many contemporary writers to tell, in the words of George Eliot, "the simple story" that is always concerned to tell all stories and ultimately to tell them all through a poetics that finds its form in a poetic incarnation of the one whom Schweitzer felt "comes to us as one unknown'"[^55]
 
 * * *
@@ -108,12 +80,6 @@ McIntyre rightly notes that there is indeed a continued search for the basic _sh
  ['](https://jcrt.org/copyright.shtml) 2001 Jeffrey F. Keuss. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/03.1/keuss.shtml
-
----
-
----
-
----
 
 ---
 

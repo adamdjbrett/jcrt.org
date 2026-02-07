@@ -6,9 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
- Sugimoto - Nation as University - JCRT 2.1 
+--- Sugimoto - Nation as University - JCRT 2.1 
 
 # Nation as University; or the School We Never Leave
 
@@ -21,38 +19,15 @@ University of Puget Sound
 
 A  recent cover article in the _Atlantic Monthly_ [^1] and numerous other articles published over the past several years dealing with the status of religious (specifically, evangelical) scholarship attest to the ongoing sensitivity of the nerve struck, perhaps most pointedly, by the 1994 publication of American historian Mark Noll's _The Scandal of the Evangelical Mind_.[^2] However, the questions that remain largely unasked concern the historical development and socio-political function of the modern university as an institution within the nation-state; that is, what needs further analysis is the connection between the formation of knowledge ' its institutional form, its theoretical content ' and the role that larger social agendas of the nation-state play in determining the legitimation of knowledge in the modern world.
 
-    
-    
-    
-    
-    
     * * *
-    
-    
-    
-     
-     
-     
-     
-     
-     
-     
+
      * * *
-     
-     
+
      * * *
-     
-     
-     
+
      * * *
-     
-     
-     
+
      * * *
-     
-     
-     
-     
 
 * * *
 
@@ -71,12 +46,6 @@ A  recent cover article in the _Atlantic Monthly_ [^1] and numerous other articl
 [![Open this article in a new window.](https://jcrt.org/images/menu/window.gif)](sugimoto.shtml) [![Contents of this issue.](https://jcrt.org/images/menu/home.gif)](https://jcrt.org/archives/02.1/index.html) [![Print this page.](https://jcrt.org/images/menu/print.gif)](javascript:print\(\)) ['](https://jcrt.org/copyright.shtml) 2000 Mike Sugimoto. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/02.1/sugimoto.shtml
-
----
-
----
-
----
 
 ---
 

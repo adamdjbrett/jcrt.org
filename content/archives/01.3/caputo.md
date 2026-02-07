@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-     Caputo - For Love of Things Themselves - JCRT 1.3 
+---     Caputo - For Love of Things Themselves - JCRT 1.3 
 
 # For Love of the Things Themselves: Derrida's Hyper-Realism
-
-
 
 John D. Caputo  
 Villanova University
@@ -23,61 +19,19 @@ Editors Note: This article will appear in "On Realism," a special issue of _Soci
 
 A _Work of Love_. If the real means what is present, what is really there, full blown and unvarnished, then deconstruction, as the deconstruction of the metaphysics of presence, is the deconstruction of realism, of any such real or full presence, which can always be shown to be a constituted effect. In just the same way that representation and non-presence precede and make possible the 'effect' of 'presence' (VP, 58/SP, 52),[^1] deconstruction would take a devilish delight in showing the way that unreality and irreality precede and make 'reality' possible, making possible and impossible whatever would dare to pass itself off as reality. Deconstruction would never tire of telling realists Nietzsche's story of how the real world became a fable.
 
-    
     > And contrary to what phenomenology'which is always a phenomenology of perception'has tried to make us believe, contrary to what our desire cannot fail to be tempted into believing, the thing itself always escapes (_la chose m'me se d'robe toujours_). (VP, 117/SP, 104)
-    
-    
-    
-    
-    
-    
+
     > To surrender to the other, and this is the impossible, would amount to giving oneself over in going toward the other, to coming toward the other but without crossing the threshold, and to respecting, to loving even the invisibility that keeps the other inaccessible. (_Sauf_, 91/ON, 74)[^5]
-    
-    
-     
-     
-     
-     
-     
-     
+
      > Husserl insists that there is no pure intuition of the other _as such_; that is, I have no originary access to the alter-ego _as such_...That is why he/she is _the_ other. This separation, this dissociation is not only a limit, but it is also the condition of the relation to the other, a non-relation as relation...a non-intuitive relation'I don't know who the other is, I can't be on the other side. (QE, 71)[^7]
-     
-     
-     
+
      > The other is God or no matter whom, more precisely, no matter what singularity, as soon as any other is totally other. (_Sauf_, 92/ON, 74)
-     
-     
+
      > In the language of abstraction, that which is the difficulty of existence and of the existing person never actually appears; even less is the difficulty explained...If abstract thinking is assumed to be the highest, it follows that scientific scholarship and thinkers proudly abandon existence and leave the rest of us to put up with the worst.
-     
-     
+
      > But is there a better way of overcoming hallucination than to pay attention to the other? For me the other is 'the real thing', and reference to the other is what breaks with hallucination, if such a break is possible. In order to respect the transcendence or the heterogeneity of the other, we have to pay attention. (QE, 77).
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
+
      > \[U\]ndecidability is not indeterminacy. Undecidability is the competition between two determined possibilities or options, two determined duties...Now, because there are contexts and singularities, there are movements, processes and transformations, and for transformation to occur something has to be determined, something is determinable...There is, however, the future, what is to come, and I would say there is indeterminacy of the coming of the future. But that is not a relativity of meaning. (QE, 79)
-     
-     
-     
-     
-     
-     
-     
-     
-     
 
 * * *
 
@@ -95,12 +49,6 @@ A _Work of Love_. If the real means what is present, what is really there, full 
  ['](https://jcrt.org/copyright.shtml) 2000 John D. Caputo. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/01.3/caputo.shtml
-
----
-
----
-
----
 
 ---
 

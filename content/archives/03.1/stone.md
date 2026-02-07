@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-     Stone - "Misrecognition of the Limits" - JCRT 3.1 
+---     Stone - "Misrecognition of the Limits" - JCRT 3.1 
 
 # "Misrecognition of the Limits": Bourdieu's _Religious Capital_ and Social Transformation
-
-
 
 Lora Stone  
 University of New Mexico
@@ -23,76 +19,31 @@ Political process models attempt to address the interaction between a social mov
 
 ### Introduction
 
-     
-     
-
 ### Social Movements As Political Process
-
-     
-     
-     
-     
-     
-     
 
 ### From The Work Of Bourdieu
 
-     
-     
-
 #### _Habitus_
-
-     
-     
-     
-     
 
 #### _Field_
 
-     
-     
-     
-     
-     
-     
-
 #### _Symbolic Power_
-
-     
-     
-     
 
 #### _Cultural Capital_
 
-     
-     
-     
-
 ### The Ordination of Women
-
-     
-     
-     
-     
-     
-     
-     
-     
 
 #### _Conclusion and Continuance_
 
-     
      ![Figure 1](https://jcrt.org/archives/03.1/images/stone.figure.1.gif)
-     
+
      **Figure 1. Political process model.**
-     
-     
+
      ![Figure 2](https://jcrt.org/archives/03.1/images/stone.figure.2.gif)
-     
+
      **Figure 2. Challenge within a field.**
-     
+
      As to social transformation, whether occurring as a field challenge between orthodoxy and heresy, or through challenges mounted by social movements against institutions, it seems culture is an important factor in the success of a movement. All social relations are supported by a system of shared understandings, and these understandings are shaped by code as both objectified culture and practiced culture. The success of a social movement, then, may depend on how well cultural biases are reshaped, and to what extent misrecognition is recognized.
-     
 
 * * *
 
@@ -179,12 +130,6 @@ Political process models attempt to address the interaction between a social mov
  ['](https://jcrt.org/copyright.shtml) 2001 Lora Stone. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/03.1/stone.shtml
-
----
-
----
-
----
 
 ---
 

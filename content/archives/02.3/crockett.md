@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Crockett - Review of Heidegger's Contributions to Philosophy - JCRT 2.3 
+---    Crockett - Review of Heidegger's Contributions to Philosophy - JCRT 2.3 
 
 # On God and Being: A Review of Martin Heidegger's _Contributions to Philosophy_
-
-
 
 Review of Martin Heidegger, _Contributions to Philosophy (From Enowning)_, translated by Parvis Emad and Kenneth Maly (Indiana University Press, 1999).
 
@@ -23,34 +19,11 @@ Wesley College
 
 Originally written between 1936 and 1938, first published in German in 1989, and finally translated into English in 1999, Heidegger's _Beitr'ge zur Philosophie_ is one of the most original works of twentieth-century philosophy. The translators claim that "Heidegger's second major work" after _Being and Time_ (1927) not only foreshadows the development of his later thinking, but "unlike _Being and Time_, it is the first treatise whose maturation and unfolding are not reflected in any of the lecture courses of the years 1919 to 1937." Rather, "the singular importance of _Contributions to Philosophy (From Enowning)_ consists in its being Heidegger's first fundamental work in which 'being-historical thinking' is enacted" (xv). A careful reading and understanding of this constructive work in the context of Heidegger's thought addresses two significant issues in contemporary Continental thought and theology. I will briefly detail the first problematic, that of Heidegger's turn from his early to later philosophy, prior to laying out the general structure and content of the book. Finally, I will suggest the significance of the _Beitr'ge_ for contemporary discussions of the interrelationship of God and being based on the critical interpretations of Jean-Luc Marion and Jacques Derrida.
 
-    
-    
-    
-
-    
-    
-    
-    
-    
-    
-
-    
-    
-
 > Hasn't Heidegger written what he says he would have liked to write, a theology _without_ the word _being_? But didn't he also write what he says should not be written, namely a theology that is open, dominated, and invaded by the word _being_? [^3]
-
-    
 
 > But the _last_ god, is that not debasing god, nay _the_ greatest blasphemy? But what if the last god has to be so named because in the end the decision about gods brings under and among gods and thus makes what is own most to the uniqueness of the divine being most prominent? (286).
 
-     
-
 > What if that domain of decision as a whole, flight or arrival of gods, were itself the end? What if, beyond that, be-ing in its truth would have to be grasped for the first time as enownment, as that which enowns what we call _refusal_? (285).
-
-     
-     
-     
-     
 
 * * *
 
@@ -69,12 +42,6 @@ Originally written between 1936 and 1938, first published in German in 1989, and
  ['](https://jcrt.org/copyright.shtml) 2001 Clayton Crockett. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/02.3/crockett.shtml
-
----
-
----
-
----
 
 ---
 

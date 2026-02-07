@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Arnold - Diversity in the History of Religions - JCRT 2.2 
+---    Arnold - Diversity in the History of Religions - JCRT 2.2 
 
 # Diversity in the History of Religions
-
-
 
 Philip P. Arnold  
 Syracuse University
@@ -27,19 +23,6 @@ _
 
 I  want to begin my reflections on diversity with a true story. A few weeks ago I was shoveling out my driveway when a young African American man approached me. I instantly recognized him as an evangelist coming to save me. He first handed me a pamphlet with an idyllic picture drawn of a beautiful Paradisiacal landscape and everyone in the picture was smiling and having a wonderful and wholesome time. There are what looks to be an Asian mother and daughter petting a bear near a berry bush; a Latino family petting an African lion; an African or African American man and woman, as well as a white boy carrying food. This is all set in an idyllic landscape with farmlands and mountains in the background. And, of course it is a splendid fall day. Everyone is smiling.
 
-    
-    
-    
-    
-    
-    
-    
-     
-     
-     
-     
-     
-     
      > [![Visit Kurt Elling on the World Wide Web](http://images.amazon.com/images/P/B00003W87S.01.MZZZZZZZ.gif)](http://www.kurtelling.com/)
      > 
      > [![Get RealPlayer to hear this file](http://images.real.com/pics/real/home/realplyr_img.gif)](http://www.real.com/player/index.html?src=topnav)  
@@ -79,8 +62,6 @@ I  want to begin my reflections on diversity with a true story. A few weeks ago 
      > Holy dream, holy vision; holy scheme, holy mission.  
      > Holding one to another; holy me, holy other.  
      > Holy lives, holy pending; holy start, holy ending.
-     
-     
 
 * * *
 
@@ -95,12 +76,6 @@ I  want to begin my reflections on diversity with a true story. A few weeks ago 
  ['](https://jcrt.org/copyright.shtml) 2001 Philip P. Arnold. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/02.2/arnold.shtml
-
----
-
----
-
----
 
 ---
 

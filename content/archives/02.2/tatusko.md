@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Tatusko - The Theological Challenge of Cyberspace and the Logic of Simulation - JCRT 2.2 
+---    Tatusko - The Theological Challenge of Cyberspace and the Logic of Simulation - JCRT 2.2 
 
 # The Theological Challenge of Cyberspace and the Logic of Simulation
-
-
 
 Andrew Tatusko  
 Seton Hall University
@@ -21,30 +17,13 @@ Seton Hall University
 
 The technologies we create and the cultures in which they are embedded are strikingly similar. The Western expansion and frontier mentality finds its expression in the constable where large caravans of families would move together to find a new home in new land. The clock that arose out of monasteries fit in perfectly with regimented monastic schedules and made scheduling the day easier and more standardized. With the clock and the assembly line, among others for sure, we may locate a distinctly linear, fixed, and foundational mode of rationality that we have christened with the blanket term "modernity." It is both a temporal disposition in culture and a cultural movement itself that crept into our civilization roughly with the emergence of the vernacular Bible that, for all intents and purposes, would not have been possible without Gutenberg's moveable-type press. Thus, we shall reasonably say that the seismic shift in civilization to a distinctly modern framework cannot be removed from its technological milieu.
 
-    
-    
-    
-
 ## The Ambiguous Postmodern Rift
-
-    
-    
 
 ### _Flexibility in "The Informational Space of Flows"_
 
-     
-     
-     
-
 ## The Challenge of Cyberspace to Theology
 
-     
-
 ### _Simulation and Reality_
-
-     
-     
-     
 
 > Whereas representation attempts to absorb simulation by interpreting it as false representation, simulation envelops the whole edifice of representation itself as a simulacrum. Such would be the successive phases of the image:
 > 
@@ -53,55 +32,19 @@ The technologies we create and the cultures in which they are embedded are strik
 > > it masks the _absence_ of a profound reality;  
 > > it has no relation to any reality whatsoever: it is its own pure simulacrum (Baudrillard 6).
 
-     
-     
-     
-     
-     
-     
-     
-     
-
 > We understand that there are believing Christians in all Christian churches and accept those Believers as our brothers and sisters in Christ, irrespective of the denomination they attend, as long as they have accessed repentance and forgiveness through Jesus Christ and believe in His resurrection from the dead. We do not split hairs over church dogma, whether it may be Calvinism or eternal security, versus Wesleyan or Armenian beliefs, versus Catholicism. We do not enter into those controversies since they foment discord and separate true believers instead of pointing them to the salient points of salvation. Pointing people to Jesus Christ is our only mission.
-
-     
-     
 
 ### _The Self and Community_
 
-     
-     
-     
-
 > There were times when the cacophony of selves in cyberspace frustrated me so much that I attempted to end my virtual life, literally. The drama of my identity in cyberspace brought me great anxiety about my "real" identity. On three different occasions, I sent my acquaintances, friends, and virtual communities what a friend later called "virtual suicide notes." I wrote the first after only six months on-line, and I wrote the last after about three years on-line ' I could no longer maintain such an aggregation of personae. I wanted to stop and separate myself from this society of identities that all reflected me and yet did not represent me. I had let my self (selves) become too diffused throughout cyberspace. The person I thought of as Tom Beaudoin dissolved into a wide-ranging constellation of personalities that different on-line communities knew only as TBEAUDOIN. If asked, they would all have described TBEAUDOIN differently (Beaudoin 135-136).
-
-     
-     
-     
-     
-     
-     
 
 > Role playing provided Matthew and Julee with environments in which they could soothe themselves by taking care of others and experiment with a kind of parenting different from what they had experienced themselves. As neglected children comfort themselves by lavishing affection on their dolls, Matthew and Julee identified with the people they took care of (Turkle 191).
 
-     
 ![](https://jcrt.org/archives/02.2/images/mobius.jpeg)45.  A Möbius Strip is a paradoxical structure that is three-dimensional, but it has only one side. In it there is a coherence despite the visual image of a many sided object. "The apparent two sides or edges of the Möbius band represent the two poles in a dynamic interrelatedness which via a 180' twist brings the apparent duality into a paradoxical unity" (Loder and Neidhardt 55). In M.C. Escher's woodcut "Möbius Strip II" the path of the ants shows how the band is one-sided. If you follow the path of the ants you will arrive at the origin (see Fig. 1). The top and the bottom of the band are clearly visible, yet they are paradoxically part of a one-sided figure. This band is also a metaphor for how the Incarnation is possible. The human and the divine come together in Christ in a bi-polar, paradoxical union where neither side is confused with the other yet they are nonetheless one. In the feedback loop I have been describing one is confused with the other in a relation that blurs and confuses the human with the machine. Yet the feedback loop is more and more becoming the norm for how we conceive our identity, how we form community, and what we understand reality to be. With this blurring of boundaries the understanding of contingency is also compromised. The distinction between the feedback loop in our relation to technology and the Möbius band in theology needs to be clarified.
-     
-     
-     
 
 > A human being is a synthesis of the infinite and finite, of the temporal and the eternal, of freedom and necessity, in short, a synthesis. A synthesis is a relation between the two. Considered in this way, a human being is still not a self (XI 127).
 
-     
-     
-     
-
 > There is the invocation of community, but not the production of a society. There is "groupmind," but not social encounter. There is on-line communion, but there are no residents of hyperspace. This is another synthetic world, and here, too, history is frozen. What we have is the preservation through simulation of the old forms of solidarity and community. In the end, not an alternate society, but an alternative to society (Robins 89).
-
-     
-     
-     
-     
 
 * * *
 
@@ -180,12 +123,6 @@ Wilbur, Shawn P. (1997, 2000) "An Archaeology of Cyberspaces: Virtuality, Commun
  ['](https://jcrt.org/copyright.shtml) 2001 Andrew Tatusko. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/02.2/tatusko.shtml
-
----
-
----
-
----
 
 ---
 

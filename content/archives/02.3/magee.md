@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Magee - Heidegger, Religion, and the Transience of Digital Memory - JCRT 2.3 
+---    Magee - Heidegger, Religion, and the Transience of Digital Memory - JCRT 2.3 
 
 # Heidegger, Religion, and the Transience of Digital Memory
-
-
 
 Neal E. Magee  
 Syracuse University
@@ -33,35 +29,17 @@ Syracuse University
 
 Theology is not lost, but it does not know where it is.[^1] As philosophical theology finds itself searching for legitimation and direction in its continued inquiries ' what Carl A. Raschke has suggested is the move from "theology to theory"[^2] ' it is forced to undertake a course which takes seriously Mark C. Taylor's "deconstructed theology," one that grasps: the death of God; the disappearance of the subject; the end of history; and the closure of the book, four critical deaths.[^3] It is in this manner that _thinking about religion_ both transgresses and restores its demise, its own 'passing on.'[^4] And woven through the epigraphs by Heidegger, Plotinus, and Kierkegaard, a certain attitude toward these deaths and their age is formed, an attitude characterized by a revival of the notion or conception of memory. This memory is what I would like to suggest is pivotal to any re-thinking or re-formulation of thinking (about) religion and, while it perhaps must be undertaken in new ways, it is both a persistent inheritance of theology and an integral aspect of theory.
 
-    
-
 ![](https://jcrt.org/images/black.gif)
-
-    
 
 > ... the latest lithesome discovery of John Casablancas, the founder of Elite Model Management, which shaped the careers of Cindy Crawford and Naomi Campbell. Webbie exists only in cyberspace, the creation of a Swedish animator named Steven St'hlberg, but that didn't hinder her from posing for a feature in _Details_ in October, 1999, and a new Nokia phone advertising campaign in Latin America. Most recently, Webbie was signed by Sony Music Latin America to join a Spice Girls-style virtual band. [^6]
 
 [![](https://jcrt.org/archives/02.3/images/image003.jpg)](http://www.optidigit.com/stevens/about.html)8.  Webbie Tookay and other digital creations present a new class of citizens known as "Super Virtual Models," valued for their effortless figures, minimal diets, and the ability to be in many places at once. Ms. Tookay is even represented by [Illusion2k](http://www.illusion2k.com/), a modeling agency run by Casablancas for virtual models. Interestingly, she is inspired not by an actual individual, but by the cult heroine Lara Croft, who starred in the _Tomb Raider_ video games series and who is currently portrayed by Angelina Jolie in the current film based on the video game.[^7] Adds Mr. Casablancas, "sometimes I wish all models were virtual."[^8]
-    
-    
-     
-     
-     
-     
-     
 
 > The world's night is spreading its darkness. The era is defined by the god's failure to arrive, by the 'default of God,' ... \[which means that\] no god any longer gathers men and things unto himself, visibly and unequivocally, and by such gathering disposes the world's history and man's sojourn in it. ...[^11]
 
-     
-     
-
 > Poets are the mortals who, singing earnestly of the wine-god, sense the trace of the fugitive gods, stay on the gods' tracks, and so trace for their kindred mortals the way toward the turning. ' This is why the poet in the time of the world's night utters the holy.[^13]
 
-     
-
 > What is meant by the talk about the end of philosophy (_Ende der Philosophie_)? We understand the end of something all too easily in the negative sense as a mere stopping, as the lack of continuation, perhaps even as decline and impotence. In contrast, what we say about the end of philosophy means the completion of metaphysics (_die Vollendung der Metaphysik_).[^15]
-
-     
 
 > _For the wanderer doesn't bring a handful of that  
 > unutterable earth from the mountainside down to the valley,  
@@ -72,12 +50,7 @@ Theology is not lost, but it does not know where it is.[^1] As philosophical the
 > oh, to say them in a way that the things themselves  
 > never dreamed of existing so intensely._ [^18]
 
-     
-
 > To our grandparents, a "house," a "well," a familiar steeple, even their own clothes, their cloak _still_ meant infinitely more, were infinitely more intimate'almost everything a vessel in which they found something human already there, and added to its human store. Now there are intruding, from America, empty indifferent things, sham things, _dummies of life_ . . . . A house, as the Americans understand it, an American apple or a winestock from over there, have _nothing_ in common with the house, the fruit, the grape into which the hope and thoughtfulness of our forefathers had entered . . . .[^19]
-
-     
-     
 
 > _I'll go along with the charade  
 > Until I can think my way out.  
@@ -86,15 +59,7 @@ Theology is not lost, but it does not know where it is.[^1] As philosophical the
 > Someday maybe  
 > I'll remember to forget._[^21]
 
-     
-     
-
 > We \[pragmatists\] simply refuse to talk in a certain way, the Platonic way. The views we hope to persuade people to accept cannot be stated in Platonic terminology. So our efforts at persuasion must take the form of gradual inculcation of new ways of speaking, rather than of straightforward argument within old ways of speaking.[^22]
-
-     
-     
-     
-     
 
 * * *
 
@@ -114,12 +79,6 @@ Theology is not lost, but it does not know where it is.[^1] As philosophical the
  ['](https://jcrt.org/copyright.shtml) 2001 Neal E. Magee All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/02.3/magee.shtml
-
----
-
----
-
----
 
 ---
 

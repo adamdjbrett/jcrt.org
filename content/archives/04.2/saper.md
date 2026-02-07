@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Saper - Of Spectacularization - JCRT 4.2 
+---    Saper - Of Spectacularization - JCRT 4.2 
 
 # Of Spectacularization: Writing New Media Theory
-
-
 
 Craig J. Saper  
 University of Central Florida
@@ -20,31 +16,6 @@ University of Central Florida
 * * *
 
 Theories and histories of modern spectacles and media-inundated society have recently shifted from ideological analyses (i.e., analyses that see through an illusory spectacle world to manipulative apparatuses of social control) to synthetic analyses that use spectacles' structure as a basis, or lens, for writing. The former approach read media as texts. These textual theories created a tidy methodology for critics to use in reading and deciphering sounds and images as codes for sociopolitical meanings.
-
-    
-    
-    
-    
-    
-    
-    
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
 
 * * *
 
@@ -126,12 +97,6 @@ Theories and histories of modern spectacles and media-inundated society have rec
  ['](https://jcrt.org/copyright.shtml) 2003 Craig Saper. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/04.2/saper.shtml
-
----
-
----
-
----
 
 ---
 

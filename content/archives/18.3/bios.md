@@ -7,9 +7,6 @@ keywords: []
 pdf:
 sort_id: 01
 ---
-
-        
-
 **Author Bios**
 
 **Mikel Burley** is Associate Professor of Religion and Philosophy at the
@@ -153,10 +150,3 @@ imagery, media, and art can tell us about the historical precedents that
 led to the heightened tensions prior to World War II.
 
 ---
-
----
-
----
-
----
-

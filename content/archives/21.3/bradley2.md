@@ -11,12 +11,3 @@ issue: 3
 season: fall
 pages:
 ---
-
----
-
----
-
----
-
----
-

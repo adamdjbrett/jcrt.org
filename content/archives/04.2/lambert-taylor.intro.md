@@ -6,16 +6,12 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-  Taylor & Lambert - The Future of Theory - JCRT 4.2 
+---  Taylor & Lambert - The Future of Theory - JCRT 4.2 
 
 # The Future of Theory
 
 Victor E. Taylor  
 York College of Pennsylvania
-
-
 
 Gregg Lambert  
 Syracuse University
@@ -42,19 +38,9 @@ Syracuse University
 
 The future of theory, similar to its past, will be Promethean. The legendary, heretical writings since 1967 ('Structure, Sign, and Play in the Discourse of the Human Sciences") or 1916 (_Course in General Linguistics_) or ca 330 B.C.E. ("Encomium of Helen") forming the _corpus_ of theory remain the "inexplicable mass" giving rise to a desire to explain, to refute, to show, and to occasionally hide the contours of its own "image of thought."
 
-    
-    
-    
     > Let nobody suppose that one could possibly avoid such crippling by some artifice of education. On this earth one pays dearly for every kind of _mastery_ . . . For having a specialty one pays by also being the victim of this specialty. But you would have it otherwise--cheaper and fairer and above all more comfortable--isn't that right, my dear contemporaries. Well then, but in that case you also immediately get something else: instead of the craftsman and master, the "man of letters," the dexterous, "polydexterous" man of letters who, to be sure, lacks the hunched back--not counting the posture he assumes before you, being the salesman of the spirit and the "carrier" of culture--the man of letters who really _is_ nothing but "represents" almost everything, playing and "substituting" for the expert, and taking it upon himself in all modesty to get himself paid, honored, and celebrated in place of the expert.[^2]
-    
-    
-    
-    
-    
 
 > 'Victor E. Taylor and Gregg Lambert
-
-
 
 ### Acknowledgements:
 
@@ -84,12 +70,6 @@ The future of theory, similar to its past, will be Promethean. The legendary, he
  ['](https://jcrt.org/copyright.shtml) 2003 Victor E. Taylor & Gregg Lambert. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/04.2/lambert-taylor.intro.shtml
-
----
-
----
-
----
 
 ---
 

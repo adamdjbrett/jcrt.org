@@ -6,9 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    In Memoriam: Dr. Charles E. Winquist - JCRT 3.2  
+---    In Memoriam: Dr. Charles E. Winquist - JCRT 3.2  
 
 # In Memoriam  
 Dr. Charles E. Winquist (1944 ' 2002)
@@ -35,10 +33,3 @@ The editors and editorial board of _The Journal for Cultural and Religious Theor
 Updated 07/28/21.
 
 ---
-
----
-
----
-
----
-

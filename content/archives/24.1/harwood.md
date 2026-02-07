@@ -11,12 +11,3 @@ issue: 1
 season: summer
 pages: 102-114
 ---
-
----
-
----
-
----
-
----
-

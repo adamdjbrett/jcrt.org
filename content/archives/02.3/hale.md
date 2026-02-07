@@ -6,15 +6,11 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-     Hale - Book Profile: The Critique of Theological Reason - JCRT 2.3 
+---     Hale - Book Profile: The Critique of Theological Reason - JCRT 2.3 
 
 # Book Profile: Dissing Postmodernism
 
 James P. Mackey, _The Critique of Theological Reason._ Cambridge: Cambridge University Press, 2000. 333 pages. ISBN: 0521772931.
-
-
 
 David Hale  
 University of Denver
@@ -22,20 +18,6 @@ University of Denver
 * * *
 
 T_he Critique of Theological Reason_ is an ambitious work - partly critical, partly constructive. Likewise, it is divided into two parts.
-
-    
-    
-    
-    
-    
-    
-    
-     
-     
-     
-     
-     
-     
 
 * * *
 
@@ -54,12 +36,6 @@ T_he Critique of Theological Reason_ is an ambitious work - partly critical, par
  ['](https://jcrt.org/copyright.shtml) 2001 David Hale. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/02.3/hale.shtml
-
----
-
----
-
----
 
 ---
 

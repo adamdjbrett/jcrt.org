@@ -6,15 +6,11 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Flato - Book Profile: Christianity in Jewish Terms - JCRT 3.3 
+---    Flato - Book Profile: Christianity in Jewish Terms - JCRT 3.3 
 
 # Book Profile: _Christianity in Jewish Terms_
 
 a review of _[Christianity in Jewish Terms](http://service.bfast.com/bfast/click?bfmid=2181&sourceid=27747321&bfpid=0813365724&bfmtype=book)_, edited by Tikva Frymer-Kensky, David Novak, Peter Ochs, David Fox Sandmel and Michael A. Signer. Westview Press, 2000. 464pp. $18.00. ISBN: 0813365724
-
-
 
 Jason M. Flato  
 University of Denver
@@ -22,15 +18,6 @@ University of Denver
 * * *
 
 The intoxicated rhetoric of pluralism and tolerance created a monument that cast a dark shadow from which we are now only starting to emerge. _Christianity in Jewish Terms_ is guileless in its attempt to foster that emergence by its serious consideration of theological concepts, both Jewish and Christian.
-
-    
-    
-    
-    
-    
-    
-    
-     
 
 * * *
 
@@ -45,12 +32,6 @@ The intoxicated rhetoric of pluralism and tolerance created a monument that cast
  ['](https://jcrt.org/copyright.shtml) 2002 Jason M. Flato. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/03.3/flato.shtml
-
----
-
----
-
----
 
 ---
 

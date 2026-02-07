@@ -6,13 +6,9 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Putt - The Benefit of the Doubt - JCRT 3.3 
+---    Putt - The Benefit of the Doubt - JCRT 3.3 
 
 # The Benefit of the Doubt: Merold Westphal's Prophetic Philosophy of Religion
-
-
 
 B. Keith Putt  
 Samford University
@@ -21,37 +17,8 @@ Samford University
 
 In recent years, several scholars in the United States have exploited the implications of Continental philosophy for developing new and innovative approaches to religious and theological studies. These thinkers'including, but not limited to Carl A. Raschke, Mark Taylor, Charles Winquist, Edith Wyschogrod, and John Caputo'have embraced various expressions of European philosophy, not in order to offer simple commentaries on those expressions but to utilize them as raw material for developing a uniquely American species of philosophical theology. These new American philosophical voices speak critically and constructively to the biblical paradigms lying behind Western theory, to the traditional religious and theological themes developing out of those paradigms, and to the cultural and social transformations that have changed how those paradigms are appropriated.
 
-    
-    
-    
-    
-    
-    
-    
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-
 ### Toward an Apologetic for Paralogetics
 
-     
      > There is, it seems to us,  
      > At best, only a limited value  
      > In the knowledge derived from experience.  
@@ -59,32 +26,20 @@ In recent years, several scholars in the United States have exploited the implic
      > For the pattern is new in every moment  
      > And every moment is a new and shocking  
      > Valuation of all we have been (81-87)
-     
+
      Human beings always experience reality from finite perspectives, always standing between some protological moment of immediate clarity and some eschatological moment of total realization.Consequently, they live out this finitism through ontological patterns, various attempts at ordering reality into cosmetic world structures that give value to existence. These patterns always falsify to greater or lesser degrees in that they are either opaque to reality and, hence, in error, or offer numerous intensities of translucence, and, hence, promise only incomplete views of existence. Eliot seems to give in these lines a poetic translation of the irreducible manifold previously referred to as Westphal's "dark prism."
-     
-     
+
      > Do not let me hear  
      > Of the wisdom of old men, but rather of their folly,  
      > Their fear of fear and frenzy, their fear of possession,  
      > Of belonging to another, or to others, or to God. (93-97)
-     
+
      Since individuals are never born _in vacuo_, they never live outside of various world patterns that have preceded them. These patterns of reality are legacies bequeathed to each generation by their ancestors, those whom Eliot calls the "old men." Their patterns are the wisdom that offers guidance, stability, truth, and meaning to the community, legitimating the community's legislating interpretations by embracing systematically and boldly all aspects of culture and nature.In accepting the authority of the "old men" and their wisdom, individuals live out these systems as comprehensive and uncontaminated.
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
+
      > The only wisdom we can hope to acquire  
      > Is the wisdom of humility: humility is endless (97-98).
-     
+
      Westphal's prophetic paradigm seeks this very wisdom and teaches that humility'the fear of the Lord as the consciousness of finitude and fallenness'is the preeminent benefit of the doubt.
-     
 
 * * *
 
@@ -102,12 +57,6 @@ In recent years, several scholars in the United States have exploited the implic
  ['](https://jcrt.org/copyright.shtml) 2002 B. Keith Putt. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/03.3/putt.shtml
-
----
-
----
-
----
 
 ---
 

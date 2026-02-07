@@ -6,9 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
- Raschke - Para/theology - JCRT 2.1 
+--- Raschke - Para/theology - JCRT 2.1 
 
 # Para/theology: The Study of Religion and the Science of the Negative
 
@@ -34,46 +32,6 @@ University of Denver
 
 Contrary to positivist trends in the so-called "social sciences" over the last quarter century, an integral science of religion would require that any theoretical assessment of the _religiones_ be anchored in a formal structure of inquiry, experimentation, and demonstration. Such a formalism has always seemed alien to the study of religion. Ever since Roman classical authors profiled the _religiones_ as "cultic responsibilities," as dark and termagant mysteries impenetrable to the gaze of reason, the idea of a "scientific" resolution of the issue has remain essentially problematic.[^1]
 
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-
 * * *
 
 ### Notes
@@ -91,12 +49,6 @@ Contrary to positivist trends in the so-called "social sciences" over the last q
 [![Open this article in a new window.](https://jcrt.org/images/menu/window.gif)](raschke.shtml) [![Contents of this issue.](https://jcrt.org/images/menu/home.gif)](https://jcrt.org/archives/02.1/index.html) [![Print this page.](https://jcrt.org/images/menu/print.gif)](javascript:print\(\)) ['](https://jcrt.org/copyright.shtml) 2000 Carl A. Raschke. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/02.1/raschke.shtml
-
----
-
----
-
----
 
 ---
 

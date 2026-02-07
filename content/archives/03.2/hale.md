@@ -6,9 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
----
-
-    Hale - Book Profile: Terror and the Sacred - JCRT 3.2 
+---    Hale - Book Profile: Terror and the Sacred - JCRT 3.2 
 
 # Terror and the Sacred
 
@@ -17,25 +15,12 @@ R. Scott Appleby, _[The Ambivalence of the Sacred: Religion, Violence, and Recon
 
 Mark Juergensmeyer, _[Terror in the Mind of God: The Global Rise of Religious Violence](http://service.bfast.com/bfast/click?bfmid=2181&sourceid=27747321&bfpid=0520223012&bfmtype=book)_. Berkeley: University of California Press, 2000. 316 pages. ISBN: 0520223012.
 
-
-
 David Hale  
 University of Denver
 
 * * *
 
 Like many in America, I was dumbfounded by the "events" of September 11. Add horrified and transfixed as well. A "grotesque obscenity" I heard one British newscaster say. So how do we make sense of such senselessness? How do we comprehend the incomprehensible?
-
-    
-    
-    
-    
-    
-    
-    
-     
-     
-     
 
 * * *
 
@@ -50,12 +35,6 @@ Like many in America, I was dumbfounded by the "events" of September 11. Add hor
  ['](https://jcrt.org/copyright.shtml) 2002 David Hale. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/03.2/hale.shtml
-
----
-
----
-
----
 
 ---
 
