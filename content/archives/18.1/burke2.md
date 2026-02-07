@@ -1,16 +1,17 @@
 ---
-title:
-author:
+title: "THE MYTHOLOGY OF AFTERLIFE BELIEFS AND THEIR IMPACT ON RELIGIOUS CONFLICT."
+author: "BRIGID BURKE"
 affilation:
-abstract:
-keywords: []
+abstract: 
+keywords:
+  - psychoanalysis
+  - sectarian-conflict
 pdf: Burke2.pdf
-sort_id:
+sort_id: 12
 volume: 18
 issue: 1
 season: winter
-pages:
----
+pages: 89-108
 
 ---
 

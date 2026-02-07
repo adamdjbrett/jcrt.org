@@ -1,6 +1,6 @@
 ---
 name: James V. Spickard
-affiliation:
+affiliation: "University of Redlands"
 bio:
 social:
   - title: "website"

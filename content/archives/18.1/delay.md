@@ -8,7 +8,7 @@ keywords:
   - continental-philosophy
   - psychoanalysis
 pdf: Delay.pdf
-sort_id:
+sort_id: 03
 volume: 18
 issue: 1
 season: winter

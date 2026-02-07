@@ -7,7 +7,7 @@ keywords:
   - equality
   - feminist-theory
 pdf: Yonker.pdf
-sort_id:
+sort_id: 11
 volume: 17
 issue: 3
 season: summer

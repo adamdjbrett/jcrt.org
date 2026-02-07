@@ -87,7 +87,8 @@ Total:         48s → ~10s
 Joyce Ann Konigsburg" is listed but has no files, would be sort_id: 08
 - TODO archvives 18.2 "Religious Studies and Comparative Theology:
 An Appraisal Joshua Samuel, Union Theological Seminary" is listed but has no files, would be sort_id: 12
-- archives 18.2 done
+- archives 18.2, 18.1, 17.3 done
+- 20260206: ARCHIVES 28% COMPLETE
 
 
 

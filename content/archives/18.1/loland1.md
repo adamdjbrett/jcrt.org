@@ -1,15 +1,18 @@
 ---
-title:
-author:
+title: "THE MODERN PHILOSOPHERS‘ PAUL: RECLAIMING PAULINE INTROSPECTION AND REVIVING LEGACIES OF ANTI-JUDAISM."
+author: "OLE JAKOB LØLAND"
 affilation:
-abstract:
-keywords: []
+abstract: 
+keywords:
+  - theology
+  - christianity
+  - psychoanalysis
 pdf: Loland1.pdf
-sort_id:
+sort_id: 10
 volume: 18
 issue: 1
 season: winter
-pages:
+pages: 71-84
 ---
 
 ---

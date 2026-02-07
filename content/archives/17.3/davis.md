@@ -8,7 +8,7 @@ keywords:
   - hegemony
   - salvation-in-christianity
 pdf: Davis.pdf
-sort_id:
+sort_id: 04
 volume: 17
 issue: 3
 season: summer

@@ -1,6 +1,6 @@
 ---
 name: Ole Jakob Løland
-affiliation:
+affiliation: "niversity of Oslo"
 bio:
 social:
   - title: "website"

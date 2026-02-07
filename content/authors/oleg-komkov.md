@@ -1,6 +1,6 @@
 ---
 name: Oleg Komkov
-affiliation:
+affiliation: "Moscow State University"
 bio:
 social:
   - title: "website"

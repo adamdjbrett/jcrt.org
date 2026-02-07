@@ -1,6 +1,6 @@
 ---
 name: Vivek Swaroop Sharma
-affiliation:
+affiliation: "Pomona College"
 bio:
 social:
   - title: "website"
