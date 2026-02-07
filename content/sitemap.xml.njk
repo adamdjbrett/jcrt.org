@@ -7,23 +7,26 @@ eleventyExcludeFromCollections: true
 <?xml-stylesheet type="text/xsl" href="/sitemaps/sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	{#- Note: individual sitemaps live in `content/sitemaps/*.xml.njk` but are excluded from collections for performance. -#}
-	{% set sitemapPaths = [
-		"/sitemaps/journal-sitemap.xml",
-		"/sitemaps/archives-toc-sitemap.xml",
-		"/sitemaps/archives-pages-sitemap.xml",
-		"/sitemaps/archives-docs-sitemap.xml",
-		"/sitemaps/author-sitemap.xml",
-		"/sitemaps/post-sitemap.xml",
-		"/sitemaps/tags-sitemap.xml",
-		"/sitemaps/image-sitemap.xml",
-		"/sitemaps/pdf-sitemap.xml",
-		"/sitemaps/journal-keywords-sitemap.xml",
-		"/sitemaps/religioustheory-index.xml"
+	{% set sitemapFiles = [
+		"journal-sitemap.xml",
+		"archives-toc-sitemap.xml",
+		"archives-pages-sitemap.xml",
+		"archives-docs-sitemap.xml",
+		"author-sitemap.xml",
+		"post-sitemap.xml",
+		"tags-sitemap.xml",
+		"image-sitemap.xml",
+		"pdf-sitemap.xml",
+		"journal-keywords-sitemap.xml",
+		"religioustheory-index.xml"
 	] %}
 
-	{% set feedPaths = [
-		"/feed/feed.xml"
-	] %}
+	{% set sitemapPaths = [] %}
+	{% for f in sitemapFiles %}
+		{% set sitemapPaths = sitemapPaths.concat([ "/sitemaps/" ~ f ]) %}
+	{% endfor %}
+
+	{% set feedPaths = ["/feed/feed.xml"] %}
 
 	{%- for p in (sitemapPaths.concat(feedPaths)) %}
 		<sitemap>

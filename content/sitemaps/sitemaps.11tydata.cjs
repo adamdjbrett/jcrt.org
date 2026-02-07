@@ -1,4 +1,5 @@
-export default {
+module.exports = {
+	layout: false,
 	eleventyExcludeFromCollections: true,
 	eleventyComputed: {
 		// Sitemaps are primarily for production. Skipping them in `--serve` speeds up local dev.

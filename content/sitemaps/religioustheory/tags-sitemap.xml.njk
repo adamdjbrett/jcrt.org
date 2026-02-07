@@ -1,5 +1,5 @@
 ---
-permalink: /sitemaps/religioustheory-authors-sitemap.xml
+permalink: /sitemaps/religioustheory/tags-sitemap.xml
 layout: false
 ---
 <?xml version="1.0" encoding="utf-8"?>
@@ -7,16 +7,16 @@ layout: false
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {%- set lastUpdated = theory.lastUpdated or (page.inputPath | lastModifiedDate) -%}
 	<url>
-		<loc>{{ "/religioustheory/authors/" | htmlBaseUrl(metadata.url) }}</loc>
+		<loc>{{ "/religioustheory/tags/" | htmlBaseUrl(metadata.url) }}</loc>
 		{% if lastUpdated %}<lastmod>{{ lastUpdated | htmlDateString }}</lastmod>{% endif %}
-		<priority>0.9</priority>
+		<priority>0.2</priority>
 	</url>
 
-{%- for authorName in (religioustheory_taxonomy.authors or []) %}
+{%- for tag in (religioustheory_taxonomy.tags or []) %}
 	<url>
-		<loc>{{ ("/religioustheory/authors/" ~ (authorName | slugify) ~ "/") | htmlBaseUrl(metadata.url) }}</loc>
+		<loc>{{ ("/religioustheory/tags/" ~ (tag | slugify) ~ "/") | htmlBaseUrl(metadata.url) }}</loc>
 		{% if lastUpdated %}<lastmod>{{ lastUpdated | htmlDateString }}</lastmod>{% endif %}
-		<priority>0.9</priority>
+		<priority>0.2</priority>
 	</url>
 {%- endfor %}
-</urlset>
+	</urlset>

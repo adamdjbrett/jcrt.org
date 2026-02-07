@@ -5,14 +5,12 @@ layout: false
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="/sitemaps/sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	{% set paths = [
-		"/sitemaps/religioustheory-posts-sitemap.xml",
-		"/sitemaps/religioustheory-pages-sitemap.xml",
-		"/sitemaps/religioustheory-categories-sitemap.xml",
-		"/sitemaps/religioustheory-tags-sitemap.xml",
-		"/sitemaps/religioustheory-authors-sitemap.xml",
-		"/sitemaps/religioustheory-docs-sitemap.xml"
-	] %}
+	{% set kinds = ["posts","pages","categories","tags","authors","docs"] %}
+	{% set base = "/sitemaps/religioustheory/" %}
+	{% set paths = [] %}
+	{% for kind in kinds %}
+		{% set paths = paths.concat([ base ~ kind ~ "-sitemap.xml" ]) %}
+	{% endfor %}
 
 	{%- for p in paths %}
 		<sitemap>
@@ -20,4 +18,3 @@ layout: false
 		</sitemap>
 	{%- endfor %}
 </sitemapindex>
-

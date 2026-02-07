@@ -7,7 +7,6 @@ import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
 import pluginNavigation from "@11ty/eleventy-navigation";
 import yaml from "js-yaml";
-import { execSync } from "child_process";
 import markdownIt from "markdown-it";
 import markdownItAnchor from "markdown-it-anchor";
 import markdownItFootnote from "markdown-it-footnote";
@@ -62,31 +61,7 @@ export default async function (eleventyConfig) {
     console.log("🔗 Open: http://localhost:4000");
   }
 
-	// Run Pagefind after a production build unless explicitly skipped.
-	// Use `SKIP_PAGEFIND=1` locally if Pagefind isn't available on your platform.
-	if (process.env.ELEVENTY_RUN_MODE === "build" && !process.env.SKIP_PAGEFIND) {
-		eleventyConfig.on("eleventy.after", async () => {
-			console.log("Running Pagefind search index...");
-			try {
-				// Prefer local dependency; avoid `npx` attempting network installs.
-				execSync(
-					[
-						"npx --no-install pagefind",
-						"--site _site",
-						'--glob \"**/*.html\"',
-						"--force-language en",
-						// Skip author bio landing pages and the PDFs themselves.
-						'--exclude \"**/bios/index.html\"',
-						'--exclude \"**/bios.html\"',
-						'--exclude \"**/bios.pdf\"',
-					].join(" "),
-					{ encoding: "utf-8" }
-				);
-			} catch (e) {
-				console.error("Pagefind error:", e.message);
-			}
-		});
-	}
+		// Pagefind runs once in `npm run build` (after `_site` is built).
 // If use sveltia cms
 	eleventyConfig.addPassthroughCopy("sveltia.config.js");
 	eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
