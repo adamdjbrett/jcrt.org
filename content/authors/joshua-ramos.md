@@ -1,6 +1,6 @@
 ---
 name: Joshua Ramos
-affiliation: "University of Colorado, Denver"+
+affiliation: "University of Colorado, Denver"
 bio:
 social:
   - title: "website"
