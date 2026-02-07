@@ -10,7 +10,7 @@ keywords:
   - deleuze
   - gilles
 pdf: Green.pdf
-sort_id:
+sort_id: 05
 volume: 17
 issue: 3
 season: summer

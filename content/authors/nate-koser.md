@@ -1,6 +1,6 @@
 ---
 name: Nate Koser
-affiliation:
+affiliation: "Licensed Professional Counselor"
 bio:
 social:
   - title: "website"

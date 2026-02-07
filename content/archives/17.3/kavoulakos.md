@@ -7,7 +7,7 @@ keywords:
   - philosophy
   - anthropology
 pdf: Kavoulakos.pdf
-sort_id:
+sort_id: 06
 volume: 17
 issue: 3
 season: summer

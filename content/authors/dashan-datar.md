@@ -1,6 +1,6 @@
 ---
-name: Derek Cook
-affiliation: "Thompson Rivers University"
+name: "Dashan Datar"
+affiliation:
 bio:
 social:
   - title: "website"

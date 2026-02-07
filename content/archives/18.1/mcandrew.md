@@ -9,7 +9,7 @@ keywords:
   - enunciation
   - veterans
 pdf: McAndrew.pdf
-sort_id:
+sort_id: 06
 volume: 18
 issue: 1
 season: winter

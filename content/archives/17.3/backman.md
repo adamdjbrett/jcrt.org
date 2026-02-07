@@ -8,8 +8,8 @@ keywords:
   - christian-philosophy
   - aristotelianism-philosophy
 pdf: Backman.pdf
-sort_id:
-volume: 17
+sort_id: 01
+volume: 17 
 issue: 3
 season: summer
 pages: 480-485

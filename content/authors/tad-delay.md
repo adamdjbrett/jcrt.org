@@ -1,6 +1,6 @@
 ---
 name: Tad Delay
-affiliation:
+affiliation: "Metropolitan State University of Denver"
 bio:
 social:
   - title: "website"

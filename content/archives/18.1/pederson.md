@@ -7,7 +7,7 @@ keywords:
   - economics
   - psychosexual-development
 pdf: Pederson.pdf
-sort_id:
+sort_id: 07
 volume: 18
 issue: 1
 season: winter
