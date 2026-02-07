@@ -330,24 +330,50 @@ eleventyConfig.addFilter("getPostsByAuthor", (allPosts, authorKey) => {
 				.filter((p) => p?.url && p.url.startsWith("/blog/"))
 		).slice(0, 25);
 
-		const religioustheory = byDateDesc(
-			collectionApi
-				.getAll()
-				.filter((p) => {
-					const url = String(p?.url || "");
-					if (!url.startsWith("/religioustheory/posts/")) return false;
-					// Exclude listing/pagination pages.
-					if (url === "/religioustheory/posts/") return false;
-					if (/^\/religioustheory\/posts\/page-\d+\/$/.test(url)) return false;
-					return true;
-				})
-		).slice(0, 25);
+		const ensureTitle = (item, fallbackTitle) => {
+			const title = item?.data?.title ? String(item.data.title) : "";
+			if (title.trim()) return item;
+
+			return {
+				url: item?.url,
+				date: item?.date,
+				data: { ...(item?.data || {}), title: fallbackTitle },
+				templateContent: item?.templateContent,
+			};
+		};
+
+		// Religious Theory: build feed items directly from theory_archive.json
+		// (faster + avoids relying on paginated template pages being present in collections).
+		let religioustheory = [];
+		try {
+			const theoryPath = path.join(process.cwd(), "_data/theory_archive.json");
+			const raw = JSON.parse(fs.readFileSync(theoryPath, "utf-8"));
+			const posts = Array.isArray(raw?.posts) ? raw.posts : [];
+			const mdForFeed = markdownIt({ html: true, breaks: true, linkify: true });
+			religioustheory = posts.slice(0, 25).map((post) => {
+				const slug = String(post?.slug || "").trim();
+				const title = String(post?.title || "").trim() || slug || "Religious Theory";
+				const url = `/religioustheory/posts/${encodeURIComponent(slug)}/`;
+				const date = post?.date ? new Date(post.date) : new Date();
+				const bodyHtml = mdForFeed.render(String(post?.content || ""));
+				const contentHtml = `<h1>${title}</h1>\n${bodyHtml}`;
+				return {
+					url,
+					date,
+					data: { title },
+					templateContent: contentHtml,
+				};
+			});
+		} catch {
+			religioustheory = [];
+		}
 
 		// Priority order in the feed:
 		// 1) /archives/ (25)
 		// 2) /blog/ (25)
 		// 3) /religioustheory/ posts (25)
-		return [...archives, ...blog, ...religioustheory];
+		const safeArchives = archives.map((a) => ensureTitle(a, a?.fileSlug || a?.url || "Archive"));
+		return [...safeArchives, ...blog, ...religioustheory];
 	});
 const mdLib = markdownIt({
     html: true,

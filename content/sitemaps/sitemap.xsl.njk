@@ -1,0 +1,94 @@
+---
+permalink: /sitemaps/sitemap.xsl
+layout: false
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="2.0"
+  xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+  xmlns:sm="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <xsl:output method="html" encoding="UTF-8" indent="yes" />
+
+  <xsl:template match="/">
+    <html>
+      <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Sitemap</title>
+        <style>
+          :root { color-scheme: light dark; }
+          body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; margin: 24px; }
+          h1 { font-size: 20px; margin: 0 0 12px; }
+          p { margin: 0 0 16px; opacity: 0.8; }
+          table { width: 100%; border-collapse: collapse; }
+          th, td { text-align: left; padding: 10px 8px; border-bottom: 1px solid rgba(127,127,127,.35); vertical-align: top; }
+          th { position: sticky; top: 0; background: Canvas; }
+          code { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; font-size: 12px; }
+          a { color: inherit; }
+          .muted { opacity: 0.75; }
+        </style>
+      </head>
+      <body>
+        <h1>Sitemap</h1>
+        <xsl:choose>
+          <xsl:when test="sm:sitemapindex">
+            <p class="muted">
+              Sitemap index: <xsl:value-of select="count(sm:sitemapindex/sm:sitemap)" /> entries
+            </p>
+            <table>
+              <thead>
+                <tr>
+                  <th>Location</th>
+                  <th>Last modified</th>
+                </tr>
+              </thead>
+              <tbody>
+                <xsl:for-each select="sm:sitemapindex/sm:sitemap">
+                  <tr>
+                    <td>
+                      <a href="{sm:loc}">
+                        <code><xsl:value-of select="sm:loc" /></code>
+                      </a>
+                    </td>
+                    <td class="muted"><xsl:value-of select="sm:lastmod" /></td>
+                  </tr>
+                </xsl:for-each>
+              </tbody>
+            </table>
+          </xsl:when>
+          <xsl:when test="sm:urlset">
+            <p class="muted">
+              URL set: <xsl:value-of select="count(sm:urlset/sm:url)" /> entries
+            </p>
+            <table>
+              <thead>
+                <tr>
+                  <th>Location</th>
+                  <th>Last modified</th>
+                  <th>Priority</th>
+                </tr>
+              </thead>
+              <tbody>
+                <xsl:for-each select="sm:urlset/sm:url">
+                  <tr>
+                    <td>
+                      <a href="{sm:loc}">
+                        <code><xsl:value-of select="sm:loc" /></code>
+                      </a>
+                    </td>
+                    <td class="muted"><xsl:value-of select="sm:lastmod" /></td>
+                    <td class="muted"><xsl:value-of select="sm:priority" /></td>
+                  </tr>
+                </xsl:for-each>
+              </tbody>
+            </table>
+          </xsl:when>
+          <xsl:otherwise>
+            <p class="muted">Unsupported sitemap format.</p>
+          </xsl:otherwise>
+        </xsl:choose>
+      </body>
+    </html>
+  </xsl:template>
+</xsl:stylesheet>
+

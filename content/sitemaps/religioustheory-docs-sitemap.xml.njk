@@ -3,6 +3,7 @@ permalink: /sitemaps/religioustheory-docs-sitemap.xml
 layout: false
 ---
 <?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemaps/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {%- for p in collections.all %}
 	{%- if p.url and p.url.startsWith("/religioustheory/") %}
@@ -13,10 +14,9 @@ layout: false
 				<loc>{{ absoluteUrl }}</loc>
 				{% set lm = p.inputPath | lastModifiedDate %}
 				{% if lm %}<lastmod>{{ lm | htmlDateString }}</lastmod>{% endif %}
-				<priority>0.3</priority>
+				<priority>0.2</priority>
 			</url>
 		{%- endif %}
 	{%- endif %}
 {%- endfor %}
 </urlset>
-

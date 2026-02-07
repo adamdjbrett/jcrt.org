@@ -3,6 +3,7 @@ permalink: /sitemaps/author-sitemap.xml
 layout: false
 ---
 <?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemaps/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	{% set latest = "0000-00-00" %}
 	{%- for a in collections.authors %}
@@ -13,7 +14,7 @@ layout: false
 	<url>
 		<loc>{{ "/authors/" | htmlBaseUrl(metadata.url) }}</loc>
 		{% if latest != "0000-00-00" %}<lastmod>{{ latest }}</lastmod>{% endif %}
-		<priority>0.5</priority>
+		<priority>0.9</priority>
 	</url>
 
 {%- for a in collections.authors %}
@@ -22,7 +23,7 @@ layout: false
 		<loc>{{ absoluteUrl }}</loc>
 		{% set lm = a.inputPath | lastModifiedDate %}
 		{% if lm %}<lastmod>{{ lm | htmlDateString }}</lastmod>{% endif %}
-		<priority>0.5</priority>
+		<priority>0.9</priority>
 	</url>
 {%- endfor %}
 </urlset>

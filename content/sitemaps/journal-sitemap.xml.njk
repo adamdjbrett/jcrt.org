@@ -3,6 +3,7 @@ permalink: /sitemaps/journal-sitemap.xml
 layout: false
 ---
 <?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemaps/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {%- for p in collections.all %}
 	{%- if p.url %}
@@ -22,7 +23,6 @@ layout: false
 		{%- if not skip %}
 			{%- set include = false -%}
 			{%- if ip and ip.startsWith("content/pages/") %}{% set include = true %}{% endif -%}
-			{%- if ip and ip.startsWith("content/archives/") %}{% set include = true %}{% endif -%}
 			{%- if ip == "content/index.md" %}{% set include = true %}{% endif -%}
 
 			{%- if include %}
@@ -31,7 +31,7 @@ layout: false
 					<loc>{{ absoluteUrl }}</loc>
 					{% set lm = p.inputPath | lastModifiedDate %}
 					{% if lm %}<lastmod>{{ lm | htmlDateString }}</lastmod>{% endif %}
-					<priority>1.0</priority>
+					<priority>0.6</priority>
 				</url>
 			{%- endif %}
 		{%- endif %}

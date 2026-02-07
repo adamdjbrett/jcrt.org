@@ -3,12 +3,13 @@ permalink: /sitemaps/religioustheory-categories-sitemap.xml
 layout: false
 ---
 <?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemaps/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {%- set lastUpdated = theory.lastUpdated or (page.inputPath | lastModifiedDate) -%}
 	<url>
 		<loc>{{ "/religioustheory/categories/" | htmlBaseUrl(metadata.url) }}</loc>
 		{% if lastUpdated %}<lastmod>{{ lastUpdated | htmlDateString }}</lastmod>{% endif %}
-		<priority>0.5</priority>
+		<priority>0.2</priority>
 	</url>
 
 	{% set cats = [] %}
@@ -25,7 +26,7 @@ layout: false
 	<url>
 		<loc>{{ ("/religioustheory/categories/" ~ (cat | slugify) ~ "/") | htmlBaseUrl(metadata.url) }}</loc>
 		{% if lastUpdated %}<lastmod>{{ lastUpdated | htmlDateString }}</lastmod>{% endif %}
-		<priority>0.5</priority>
+		<priority>0.2</priority>
 	</url>
 {%- endfor %}
 </urlset>
