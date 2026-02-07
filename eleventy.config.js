@@ -372,8 +372,14 @@ eleventyConfig.addFilter("getPostsByAuthor", (allPosts, authorKey) => {
 		// 1) /archives/ (25)
 		// 2) /blog/ (25)
 		// 3) /religioustheory/ posts (25)
-		const safeArchives = archives.map((a) => ensureTitle(a, a?.fileSlug || a?.url || "Archive"));
-		return [...safeArchives, ...blog, ...religioustheory];
+		// Feed plugin template reverses the collection before rendering entries.
+		// Return items in the inverse order so the final output order is:
+		//   archives (newest→oldest), then blog (newest→oldest), then religioustheory (newest→oldest).
+		const safeArchivesNewestFirst = archives.map((a) => ensureTitle(a, a?.fileSlug || a?.url || "Archive"));
+		const archivesOldestFirst = [...safeArchivesNewestFirst].reverse();
+		const blogOldestFirst = [...blog].reverse();
+		const religioustheoryOldestFirst = [...religioustheory].reverse();
+		return [...religioustheoryOldestFirst, ...blogOldestFirst, ...archivesOldestFirst];
 	});
 const mdLib = markdownIt({
     html: true,
