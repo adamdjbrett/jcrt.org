@@ -1,0 +1,20 @@
+---
+permalink: /sitemaps/archives-docs-sitemap.xml
+layout: false
+---
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemaps/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{%- for pdf in assets.pdfs %}
+	{%- if pdf.url and pdf.url.startsWith("/archives/") %}
+		{% set absoluteUrl %}{{ pdf.url | htmlBaseUrl(metadata.url) }}{% endset %}
+		<url>
+			<loc>{{ absoluteUrl }}</loc>
+			{% set lm = pdf.path | lastModifiedDate %}
+			{% if lm %}<lastmod>{{ lm | htmlDateString }}</lastmod>{% endif %}
+			<priority>0.2</priority>
+		</url>
+	{%- endif %}
+{%- endfor %}
+</urlset>
+

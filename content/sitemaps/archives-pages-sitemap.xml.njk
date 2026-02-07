@@ -1,0 +1,20 @@
+---
+permalink: /sitemaps/archives-pages-sitemap.xml
+layout: false
+---
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemaps/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{%- for a in collections.archives %}
+	{%- if a.url %}
+		{% set absoluteUrl %}{{ a.url | htmlBaseUrl(metadata.url) }}{% endset %}
+		<url>
+			<loc>{{ absoluteUrl }}</loc>
+			{% set lm = a.inputPath | lastModifiedDate %}
+			{% if lm %}<lastmod>{{ lm | htmlDateString }}</lastmod>{% endif %}
+			<priority>1.0</priority>
+		</url>
+	{%- endif %}
+{%- endfor %}
+</urlset>
+

@@ -1,0 +1,35 @@
+---
+layout: theory.njk
+pagination:
+  data: religioustheory_taxonomy.authors
+  size: 1
+  alias: authorName
+permalink: "/religioustheory/authors/{{ authorName | slugify }}/index.html"
+eleventyComputed:
+  title: "Author: {{ authorName }}"
+---
+
+<article class="container mt-5">
+  {% include "partials/nav_desktop.njk" %}
+  <header class="mb-4 text-center">
+    <h1 class="display-4 fw-bold serif-font">{{ authorName }}</h1>
+    <p><a class="text-decoration-none" href="/religioustheory/authors/">All authors</a></p>
+  </header>
+
+  <div class="row justify-content-center">
+    <div class="col-md-9">
+      <ul>
+        {%- for post in theory.posts %}
+          {% set postAuthor = post.authorData.name or post.author or "Editors" %}
+          {%- if postAuthor == authorName %}
+            <li>
+              <a href="/religioustheory/posts/{{ post.slug | slugify }}/">{{ post.title }}</a>
+              {% if post.date %}<span class="text-muted small"> — {{ post.date | postDate }}</span>{% endif %}
+            </li>
+          {%- endif %}
+        {%- endfor %}
+      </ul>
+    </div>
+  </div>
+</article>
+

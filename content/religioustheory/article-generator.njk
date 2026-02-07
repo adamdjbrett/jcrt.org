@@ -5,6 +5,8 @@ pagination:
   size: 1
   alias: post
 permalink: "/religioustheory/posts/{{ post.slug | slugify }}/index.html"
+eleventyComputed:
+  date: "{{ post.date }}"
 ---
 
      

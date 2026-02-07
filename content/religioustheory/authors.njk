@@ -1,0 +1,32 @@
+---
+layout: theory.njk
+title: "Religious Theory Authors"
+permalink: /religioustheory/authors/index.html
+---
+
+<article class="container mt-5">
+  {% include "partials/nav_desktop.njk" %}
+  <header class="mb-4 text-center">
+    <h1 class="display-4 fw-bold serif-font">Authors</h1>
+    <p class="text-muted">Browse Religious Theory posts by author.</p>
+  </header>
+
+  <div class="row justify-content-center">
+    <div class="col-md-9">
+      <ul class="list-unstyled">
+        {%- for authorName in religioustheory_taxonomy.authors %}
+          {% set count = 0 %}
+          {%- for post in theory.posts %}
+            {% set postAuthor = post.authorData.name or post.author or "Editors" %}
+            {%- if postAuthor == authorName %}{% set count = count + 1 %}{% endif -%}
+          {%- endfor %}
+          <li class="mb-2">
+            <a class="text-decoration-none" href="/religioustheory/authors/{{ authorName | slugify }}/">{{ authorName }}</a>
+            <span class="text-muted small">({{ count }})</span>
+          </li>
+        {%- endfor %}
+      </ul>
+    </div>
+  </div>
+</article>
+

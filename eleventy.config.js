@@ -292,9 +292,63 @@ eleventyConfig.addFilter("getPostsByAuthor", (allPosts, authorKey) => {
 	eleventyConfig.addPassthroughCopy("content/archives/**/*.jpeg");
 	eleventyConfig.addPassthroughCopy("content/archives/**/*.tif");
 	eleventyConfig.addPassthroughCopy("content/archives/**/*.tiff");
-eleventyConfig.addCollection("archives", function(collectionApi) {
+	eleventyConfig.addCollection("archives", function(collectionApi) {
         return collectionApi.getFilteredByGlob("content/archives/**/*.md");
     });
+
+	eleventyConfig.addCollection("feed", function (collectionApi) {
+		const byMtimeDesc = (items) => {
+			const withMtime = items.map((item) => {
+				const inputPath = String(item?.inputPath || "");
+				const rel = inputPath.startsWith("./") ? inputPath.slice(2) : inputPath;
+				let mtimeMs = 0;
+				try {
+					mtimeMs = fs.statSync(path.join(process.cwd(), rel)).mtimeMs;
+				} catch {
+					mtimeMs = 0;
+				}
+				return { item, mtimeMs };
+			});
+			withMtime.sort((a, b) => b.mtimeMs - a.mtimeMs);
+			return withMtime.map((x) => x.item);
+		};
+
+		const byDateDesc = (items) => {
+			const toTime = (d) => (d instanceof Date ? d.getTime() : 0);
+			return [...items].sort((a, b) => toTime(b.date) - toTime(a.date));
+		};
+
+		const archives = byMtimeDesc(
+			collectionApi
+				.getFilteredByGlob("content/archives/**/*.md")
+				.filter((p) => p?.url && p.url.startsWith("/archives/"))
+		).slice(0, 25);
+
+		const blog = byDateDesc(
+			collectionApi
+				.getFilteredByGlob("content/blog/*.md")
+				.filter((p) => p?.url && p.url.startsWith("/blog/"))
+		).slice(0, 25);
+
+		const religioustheory = byDateDesc(
+			collectionApi
+				.getAll()
+				.filter((p) => {
+					const url = String(p?.url || "");
+					if (!url.startsWith("/religioustheory/posts/")) return false;
+					// Exclude listing/pagination pages.
+					if (url === "/religioustheory/posts/") return false;
+					if (/^\/religioustheory\/posts\/page-\d+\/$/.test(url)) return false;
+					return true;
+				})
+		).slice(0, 25);
+
+		// Priority order in the feed:
+		// 1) /archives/ (25)
+		// 2) /blog/ (25)
+		// 3) /religioustheory/ posts (25)
+		return [...archives, ...blog, ...religioustheory];
+	});
 const mdLib = markdownIt({
     html: true,
     breaks: true,
@@ -319,8 +373,8 @@ eleventyConfig.addFilter("markdownify", (content) => {
 			},
 		},
 		collection: {
-			name: "all",
-			limit: 20,
+			name: "feed",
+			limit: 75,
 		},
 		metadata: {
 			language: "en",

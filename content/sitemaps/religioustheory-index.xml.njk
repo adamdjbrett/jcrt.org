@@ -1,0 +1,23 @@
+---
+permalink: /sitemaps/religioustheory-index.xml
+layout: false
+---
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemaps/sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	{% set paths = [
+		"/sitemaps/religioustheory-posts-sitemap.xml",
+		"/sitemaps/religioustheory-pages-sitemap.xml",
+		"/sitemaps/religioustheory-categories-sitemap.xml",
+		"/sitemaps/religioustheory-tags-sitemap.xml",
+		"/sitemaps/religioustheory-authors-sitemap.xml",
+		"/sitemaps/religioustheory-docs-sitemap.xml"
+	] %}
+
+	{%- for p in paths %}
+		<sitemap>
+			<loc>{{ p | htmlBaseUrl(metadata.url) }}</loc>
+		</sitemap>
+	{%- endfor %}
+</sitemapindex>
+

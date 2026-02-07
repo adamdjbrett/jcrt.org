@@ -1,0 +1,31 @@
+---
+layout: theory.njk
+title: "Religious Theory Tags"
+permalink: /religioustheory/tags/index.html
+---
+
+<article class="container mt-5">
+  {% include "partials/nav_desktop.njk" %}
+  <header class="mb-4 text-center">
+    <h1 class="display-4 fw-bold serif-font">Tags</h1>
+    <p class="text-muted">Browse Religious Theory posts by tag.</p>
+  </header>
+
+  <div class="row justify-content-center">
+    <div class="col-md-9">
+      <ul class="list-unstyled">
+        {%- for tag in religioustheory_taxonomy.tags %}
+          {% set count = 0 %}
+          {%- for post in theory.posts %}
+            {%- if post.tags and (tag in post.tags) %}{% set count = count + 1 %}{% endif -%}
+          {%- endfor %}
+          <li class="mb-2">
+            <a class="text-decoration-none" href="/religioustheory/tags/{{ tag | slugify }}/">#{{ tag }}</a>
+            <span class="text-muted small">({{ count }})</span>
+          </li>
+        {%- endfor %}
+      </ul>
+    </div>
+  </div>
+</article>
+

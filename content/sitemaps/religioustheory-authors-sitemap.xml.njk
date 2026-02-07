@@ -1,0 +1,21 @@
+---
+permalink: /sitemaps/religioustheory-authors-sitemap.xml
+layout: false
+---
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{%- set lastUpdated = theory.lastUpdated or (page.inputPath | lastModifiedDate) -%}
+	<url>
+		<loc>{{ "/religioustheory/authors/" | htmlBaseUrl(metadata.url) }}</loc>
+		{% if lastUpdated %}<lastmod>{{ lastUpdated | htmlDateString }}</lastmod>{% endif %}
+		<priority>0.4</priority>
+	</url>
+
+{%- for authorName in (religioustheory_taxonomy.authors or []) %}
+	<url>
+		<loc>{{ ("/religioustheory/authors/" ~ (authorName | slugify) ~ "/") | htmlBaseUrl(metadata.url) }}</loc>
+		{% if lastUpdated %}<lastmod>{{ lastUpdated | htmlDateString }}</lastmod>{% endif %}
+		<priority>0.4</priority>
+	</url>
+{%- endfor %}
+</urlset>

@@ -1,5 +1,5 @@
 ---
-permalink: /sitemap/journal-sitemap.xml
+permalink: /sitemaps/journal-sitemap.xml
 layout: false
 ---
 <?xml version="1.0" encoding="utf-8"?>
@@ -10,7 +10,7 @@ layout: false
 		{% if ip and ip.startsWith("./") %}{% set ip = ip.slice(2) %}{% endif %}
 
 		{%- set skip = false -%}
-		{%- if p.url == "/sitemap.xml" or p.url.startsWith("/sitemap/") %}{% set skip = true %}{% endif -%}
+		{%- if p.url == "/sitemap.xml" or p.url.startsWith("/sitemaps/") %}{% set skip = true %}{% endif -%}
 		{%- if p.url.startsWith("/authors/") %}{% set skip = true %}{% endif -%}
 		{%- if p.url.startsWith("/blog/") and ip and ip.startsWith("content/blog/") %}{% set skip = true %}{% endif -%}
 		{%- if p.url.startsWith("/religioustheory/") %}{% set skip = true %}{% endif -%}

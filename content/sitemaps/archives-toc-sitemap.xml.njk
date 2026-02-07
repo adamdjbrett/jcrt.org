@@ -1,0 +1,24 @@
+---
+permalink: /sitemaps/archives-toc-sitemap.xml
+layout: false
+---
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemaps/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{%- for p in collections.all %}
+	{%- if p.url %}
+		{% set ip = p.inputPath or "" %}
+		{% if ip and ip.startsWith("./") %}{% set ip = ip.slice(2) %}{% endif %}
+		{%- if ip and ip.startsWith("content/archives/") and ip.endsWith("/index.njk") %}
+			{% set absoluteUrl %}{{ p.url | htmlBaseUrl(metadata.url) }}{% endset %}
+			<url>
+				<loc>{{ absoluteUrl }}</loc>
+				{% set lm = p.inputPath | lastModifiedDate %}
+				{% if lm %}<lastmod>{{ lm | htmlDateString }}</lastmod>{% endif %}
+				<priority>1.0</priority>
+			</url>
+		{%- endif %}
+	{%- endif %}
+{%- endfor %}
+</urlset>
+
