@@ -5,9 +5,10 @@ layout: false
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="/sitemaps/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{%- set base = sitemapBaseUrl or metadata.url -%}
 {%- for pdf in assets.pdfs %}
 	{%- if pdf.url and not pdf.url.startsWith("/archives/") %}
-		{% set absoluteUrl %}{{ pdf.url | htmlBaseUrl(metadata.url) }}{% endset %}
+		{% set absoluteUrl %}{{ (base ~ ((pdf.url | url) | htmlEntityDecode)) | xmlEscape | safe }}{% endset %}
 		<url>
 			<loc>{{ absoluteUrl }}</loc>
 			{% set lm = pdf.path | lastModifiedDate %}

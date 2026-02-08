@@ -20,6 +20,9 @@ permissions:
 env:
   ELEVENTY_RUN_MODE: build
   NODE_OPTIONS: "--max-old-space-size=8192"
+  PRECOPY_ARCHIVES: "1"
+  # Used for sitemap/canonical absolute URLs (overrides `metadata.url` for deploy builds).
+  SITE_URL: ${{ vars.SITE_URL || 'https://jcrt.org' }}
   # Use cached theory data — skip GitHub ZIP download in CI
   USE_CACHED_THEORY: "1"
 
@@ -59,7 +62,8 @@ jobs:
       - name: Build site
         run: |
           start_time=$(date +%s%3N)
-          npx @11ty/eleventy --quiet
+          npm run build
+          npm run validate:sitemaps
           end_time=$(date +%s%3N)
           echo "⚡ Build completed in $((end_time - start_time))ms"
           echo "📦 Output: $(find _site -type f | wc -l) files, $(du -sh _site | cut -f1)"
@@ -74,4 +78,4 @@ jobs:
           npx -y @xmit.co/xmit "$SITE" _site
 
       - name: Summary
-        run: echo "✅ Deployed to https://${{ env.XMIT_SITE }}"
+        run: echo "✅ Deployed (attempt) for ${{ github.event_name == 'workflow_dispatch' && inputs.site || env.XMIT_SITE }}"

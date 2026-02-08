@@ -1,8 +1,9 @@
-_site/
-node_modules/
 .cache
 .DS_Store
 .env
+.vscode/
+_site/
+node_modules/
 RAW/
 _logs/
-.vscode/
+scripts/

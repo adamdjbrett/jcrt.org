@@ -13,6 +13,11 @@ const eleventyExcludeFromCollections = true;
 const eleventyComputed = {
 	title: "Tagged '{{ tag }}'",
 	permalink: function(data) {
+		// Avoid generating thousands of tag pages during `--serve` (can OOM).
+		// Override with `FULL_TAG_PAGES=1` if needed.
+		if (process.env.ELEVENTY_RUN_MODE === "serve" && !process.env.FULL_TAG_PAGES) {
+			return false;
+		}
 		return `/tags/${this.slugify(data.tag)}/`;
 	}
 };

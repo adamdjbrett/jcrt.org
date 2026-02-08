@@ -151,6 +151,49 @@ export default async function (eleventyConfig) {
 
 	eleventyConfig.addFilter("authorSlug", authorSlug);
 	eleventyConfig.addFilter("splitAuthors", splitAuthors);
+	eleventyConfig.addFilter("xmlEscape", function (value) {
+		if (value === null || value === undefined) return "";
+		return String(value)
+			.replace(/&/g, "&amp;")
+			.replace(/</g, "&lt;")
+			.replace(/>/g, "&gt;");
+	});
+	eleventyConfig.addFilter("htmlEntityDecode", function (value) {
+		if (value === null || value === undefined) return "";
+		let s = String(value);
+
+		// Fast path for the common entities we see in URLs.
+		s = s
+			.replace(/&amp;/g, "&")
+			.replace(/&lt;/g, "<")
+			.replace(/&gt;/g, ">")
+			.replace(/&quot;/g, "\"")
+			.replace(/&apos;/g, "'")
+			.replace(/&#39;/g, "'");
+
+		// Decode numeric entities.
+		s = s
+			.replace(/&#x([0-9a-fA-F]+);/g, (_, hex) => {
+				try {
+					return String.fromCodePoint(parseInt(hex, 16));
+				} catch {
+					return _;
+				}
+			})
+			.replace(/&#([0-9]+);/g, (_, num) => {
+				try {
+					return String.fromCodePoint(parseInt(num, 10));
+				} catch {
+					return _;
+				}
+			});
+		return s;
+	});
+
+	eleventyConfig.addGlobalData(
+		"sitemapBaseUrl",
+		() => process.env.SITE_URL || null
+	);
 
 	const authorLookupCache = new WeakMap();
 	function getAuthorLookupMap(authorsCollection) {
@@ -181,27 +224,38 @@ export default async function (eleventyConfig) {
 	}
 
 
-    eleventyConfig.addFilter("getAuthorObj", (authorsCollection, authorKey) => {
-        if (!authorKey || !authorsCollection) return null;
-		const lookup = getAuthorLookupMap(authorsCollection);
-		if (!lookup) return null;
+	    eleventyConfig.addFilter("getAuthorObj", (authorsCollection, authorKey) => {
+	        if (!authorKey || !authorsCollection) return null;
+			const lookup = getAuthorLookupMap(authorsCollection);
+			if (!lookup) return null;
 
 		const rawKey = String(authorKey).trim();
 		if (!rawKey) return null;
+	
+			return lookup.get(rawKey) || lookup.get(authorSlug(rawKey)) || null;
+	    });
+	const postsByAuthorCache = new WeakMap();
+	eleventyConfig.addFilter("getPostsByAuthor", (allPosts, authorKey) => {
+	    if (!Array.isArray(allPosts) || !authorKey) return [];
 
-		return lookup.get(rawKey) || lookup.get(authorSlug(rawKey)) || null;
-    });
-eleventyConfig.addFilter("getPostsByAuthor", (allPosts, authorKey) => {
-    if (!Array.isArray(allPosts) || !authorKey) return [];
+		const rawKey = String(authorKey).trim();
+		if (!rawKey) return [];
 
-	const rawKey = String(authorKey).trim();
-	if (!rawKey) return [];
+		let perCollection = postsByAuthorCache.get(allPosts);
+		if (!perCollection) {
+			perCollection = new Map();
+			postsByAuthorCache.set(allPosts, perCollection);
+		}
+		const cacheKey = authorSlug(rawKey) || rawKey.toLowerCase();
+		if (perCollection.has(cacheKey)) {
+			return perCollection.get(cacheKey);
+		}
 
-	const normalizedKey = rawKey.toLowerCase();
-	const normalizedSlug = authorSlug(rawKey);
+		const normalizedKey = rawKey.toLowerCase();
+		const normalizedSlug = authorSlug(rawKey);
 
-	const postsByAuthor = allPosts.filter((post) => {
-		const authorField = post?.data?.author;
+		const postsByAuthor = allPosts.filter((post) => {
+			const authorField = post?.data?.author;
 		if (!authorField) return false;
 
 		const raw = String(authorField);
@@ -247,29 +301,33 @@ eleventyConfig.addFilter("getPostsByAuthor", (allPosts, authorKey) => {
 
 	groups.archives.sort(sortByDateDesc);
 	groups.religioustheory.sort(sortByDateDesc);
-	groups.blog.sort(sortByDateDesc);
-	groups.other.sort(sortByDateDesc);
+		groups.blog.sort(sortByDateDesc);
+		groups.other.sort(sortByDateDesc);
 
-	return [...groups.archives, ...groups.religioustheory, ...groups.blog, ...groups.other];
-});
-	eleventyConfig.addCollection("authors", function(collectionApi) {
-        return collectionApi.getFilteredByGlob("content/authors/*.md").sort((a, b) => {
-            const nameA = (a.data.name || a.data.title || "").toLowerCase();
-            const nameB = (b.data.name || b.data.title || "").toLowerCase();
-            return nameA.localeCompare(nameB);
-        });
-    });
-	eleventyConfig.addPassthroughCopy({ "public/js": "js" });
-	// Archives contain PDFs/scans that need to be copied, but the markdown is built into HTML.
-	// Copy only the binary assets to keep passthrough copy fast and avoid duplicate outputs.
-	eleventyConfig.addPassthroughCopy("content/archives/**/*.pdf");
-	eleventyConfig.addPassthroughCopy("content/archives/**/*.jpg");
-	eleventyConfig.addPassthroughCopy("content/archives/**/*.jpeg");
-	eleventyConfig.addPassthroughCopy("content/archives/**/*.tif");
-	eleventyConfig.addPassthroughCopy("content/archives/**/*.tiff");
-	eleventyConfig.addCollection("archives", function(collectionApi) {
-        return collectionApi.getFilteredByGlob("content/archives/**/*.md");
-    });
+		const result = [...groups.archives, ...groups.religioustheory, ...groups.blog, ...groups.other];
+		perCollection.set(cacheKey, result);
+		return result;
+	});
+		eleventyConfig.addCollection("authors", function(collectionApi) {
+	        return collectionApi.getFilteredByGlob("content/authors/*.md").sort((a, b) => {
+	            const nameA = (a.data.name || a.data.title || "").toLowerCase();
+	            const nameB = (b.data.name || b.data.title || "").toLowerCase();
+	            return nameA.localeCompare(nameB);
+	        });
+	    });
+		eleventyConfig.addPassthroughCopy({ "public/js": "js" });
+		// Archives contain PDFs/scans that need to be copied, but the markdown is built into HTML.
+		// CI can pre-copy these via scripts/pre-copy-assets.sh (hardlinks), so allow skipping passthrough copy.
+		if (!process.env.PRECOPY_ARCHIVES) {
+			eleventyConfig.addPassthroughCopy("content/archives/**/*.pdf");
+			eleventyConfig.addPassthroughCopy("content/archives/**/*.jpg");
+			eleventyConfig.addPassthroughCopy("content/archives/**/*.jpeg");
+			eleventyConfig.addPassthroughCopy("content/archives/**/*.tif");
+			eleventyConfig.addPassthroughCopy("content/archives/**/*.tiff");
+		}
+		eleventyConfig.addCollection("archives", function(collectionApi) {
+	        return collectionApi.getFilteredByGlob("content/archives/**/*.md");
+	    });
 
 	eleventyConfig.addCollection("feed", function (collectionApi) {
 		const byMtimeDesc = (items) => {

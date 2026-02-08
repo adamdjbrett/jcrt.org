@@ -5,6 +5,7 @@ layout: false
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="/sitemaps/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	{% set base = sitemapBaseUrl or metadata.url %}
 	{% set latest = "0000-00-00" %}
 	{%- for a in collections.authors %}
 		{% set d = (a.inputPath | lastModifiedDate) | htmlDateString %}
@@ -12,13 +13,13 @@ layout: false
 	{%- endfor %}
 
 	<url>
-		<loc>{{ "/authors/" | htmlBaseUrl(metadata.url) }}</loc>
+		<loc>{{ (base ~ ("/authors/" | url)) | xmlEscape | safe }}</loc>
 		{% if latest != "0000-00-00" %}<lastmod>{{ latest }}</lastmod>{% endif %}
 		<priority>0.9</priority>
 	</url>
 
 {%- for a in collections.authors %}
-	{% set absoluteUrl %}{{ a.url | htmlBaseUrl(metadata.url) }}{% endset %}
+	{% set absoluteUrl %}{{ (base ~ ((a.url | url) | htmlEntityDecode)) | xmlEscape | safe }}{% endset %}
 	<url>
 		<loc>{{ absoluteUrl }}</loc>
 		{% set lm = a.inputPath | lastModifiedDate %}

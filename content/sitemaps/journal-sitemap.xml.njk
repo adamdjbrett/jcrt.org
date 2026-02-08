@@ -5,6 +5,7 @@ layout: false
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="/sitemaps/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{% set base = sitemapBaseUrl or metadata.url %}
 {%- for p in collections.all %}
 	{%- if p.url %}
 		{% set ip = p.inputPath or "" %}
@@ -25,11 +26,11 @@ layout: false
 			{%- if ip and ip.startsWith("content/pages/") %}{% set include = true %}{% endif -%}
 			{%- if ip == "content/index.md" %}{% set include = true %}{% endif -%}
 
-			{%- if include %}
-				{% set absoluteUrl %}{{ p.url | htmlBaseUrl(metadata.url) }}{% endset %}
-				<url>
-					<loc>{{ absoluteUrl }}</loc>
-					{% set lm = p.inputPath | lastModifiedDate %}
+				{%- if include %}
+					{% set absoluteUrl %}{{ (base ~ ((p.url | url) | htmlEntityDecode)) | xmlEscape | safe }}{% endset %}
+					<url>
+						<loc>{{ absoluteUrl }}</loc>
+						{% set lm = p.inputPath | lastModifiedDate %}
 					{% if lm %}<lastmod>{{ lm | htmlDateString }}</lastmod>{% endif %}
 					<priority>0.6</priority>
 				</url>

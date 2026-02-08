@@ -6,19 +6,20 @@ layout: false
 <?xml-stylesheet type="text/xsl" href="/sitemaps/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {%- set lastUpdated = theory.lastUpdated or (page.inputPath | lastModifiedDate) -%}
+	{%- set base = sitemapBaseUrl or metadata.url -%}
 	<url>
-		<loc>{{ "/religioustheory/pages/" | htmlBaseUrl(metadata.url) }}</loc>
+		<loc>{{ (base ~ ("/religioustheory/pages/" | url)) | xmlEscape | safe }}</loc>
 		{% if lastUpdated %}<lastmod>{{ lastUpdated | htmlDateString }}</lastmod>{% endif %}
 		<priority>0.4</priority>
 	</url>
 
-{%- for pg in (theory.pages or []) %}
-	{%- if pg.slug %}
-		<url>
-			<loc>{{ ("/religioustheory/pages/" ~ (pg.slug | slugify) ~ "/") | htmlBaseUrl(metadata.url) }}</loc>
-			{% if lastUpdated %}<lastmod>{{ lastUpdated | htmlDateString }}</lastmod>{% endif %}
-			<priority>0.4</priority>
-		</url>
-	{%- endif %}
+	{%- for pg in (theory.pages or []) %}
+		{%- if pg.slug %}
+			<url>
+				<loc>{{ (base ~ (("/religioustheory/pages/" ~ (pg.slug | slugify) ~ "/") | url)) | xmlEscape | safe }}</loc>
+				{% if lastUpdated %}<lastmod>{{ lastUpdated | htmlDateString }}</lastmod>{% endif %}
+				<priority>0.4</priority>
+			</url>
+		{%- endif %}
 {%- endfor %}
 	</urlset>

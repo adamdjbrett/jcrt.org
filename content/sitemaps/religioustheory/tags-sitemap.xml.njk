@@ -6,17 +6,18 @@ layout: false
 <?xml-stylesheet type="text/xsl" href="/sitemaps/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {%- set lastUpdated = theory.lastUpdated or (page.inputPath | lastModifiedDate) -%}
+	{%- set base = sitemapBaseUrl or metadata.url -%}
 	<url>
-		<loc>{{ "/religioustheory/tags/" | htmlBaseUrl(metadata.url) }}</loc>
+		<loc>{{ (base ~ ("/religioustheory/tags/" | url)) | xmlEscape | safe }}</loc>
 		{% if lastUpdated %}<lastmod>{{ lastUpdated | htmlDateString }}</lastmod>{% endif %}
 		<priority>0.2</priority>
 	</url>
 
-{%- for tag in (religioustheory_taxonomy.tags or []) %}
-	<url>
-		<loc>{{ ("/religioustheory/tags/" ~ (tag | slugify) ~ "/") | htmlBaseUrl(metadata.url) }}</loc>
-		{% if lastUpdated %}<lastmod>{{ lastUpdated | htmlDateString }}</lastmod>{% endif %}
-		<priority>0.2</priority>
-	</url>
-{%- endfor %}
+	{%- for tag in (religioustheory_taxonomy.tags or []) %}
+		<url>
+			<loc>{{ (base ~ (("/religioustheory/tags/" ~ (tag | slugify) ~ "/") | url)) | xmlEscape | safe }}</loc>
+			{% if lastUpdated %}<lastmod>{{ lastUpdated | htmlDateString }}</lastmod>{% endif %}
+			<priority>0.2</priority>
+		</url>
+	{%- endfor %}
 	</urlset>

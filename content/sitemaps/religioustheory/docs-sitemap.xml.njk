@@ -5,14 +5,15 @@ layout: false
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="/sitemaps/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{%- set base = sitemapBaseUrl or metadata.url -%}
 {%- for p in collections.all %}
 	{%- if p.url and p.url.startsWith("/religioustheory/") %}
-		{%- set u = p.url | lower -%}
-		{%- if u.endsWith(".pdf") or u.endsWith(".docx") or u.endsWith(".rtf") %}
-			{% set absoluteUrl %}{{ p.url | htmlBaseUrl(metadata.url) }}{% endset %}
+			{%- set u = p.url | lower -%}
+			{%- if u.endsWith(".pdf") or u.endsWith(".docx") or u.endsWith(".rtf") %}
+			{% set absoluteUrl %}{{ (base ~ ((p.url | url) | htmlEntityDecode)) | xmlEscape | safe }}{% endset %}
 			<url>
 				<loc>{{ absoluteUrl }}</loc>
-				{% set lm = p.inputPath | lastModifiedDate %}
+			{% set lm = p.inputPath | lastModifiedDate %}
 				{% if lm %}<lastmod>{{ lm | htmlDateString }}</lastmod>{% endif %}
 				<priority>0.2</priority>
 			</url>

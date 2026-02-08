@@ -6,6 +6,7 @@ eleventyExcludeFromCollections: true
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="/sitemaps/sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	{% set base = sitemapBaseUrl or metadata.url %}
 	{#- Note: individual sitemaps live in `content/sitemaps/*.xml.njk` but are excluded from collections for performance. -#}
 	{% set sitemapFiles = [
 		"journal-sitemap.xml",
@@ -30,7 +31,7 @@ eleventyExcludeFromCollections: true
 
 	{%- for p in (sitemapPaths.concat(feedPaths)) %}
 		<sitemap>
-			<loc>{{ p | htmlBaseUrl(metadata.url) }}</loc>
+			<loc>{{ (base ~ (p | url)) | xmlEscape | safe }}</loc>
 		</sitemap>
 	{%- endfor %}
 </sitemapindex>

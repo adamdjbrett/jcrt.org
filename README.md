@@ -90,6 +90,12 @@ underneath as regular text
 ```
 The following issue has resulted from a conference in the fall of 2024.  The conference was sponsored by the journal in collaboration with the University of Denver.
 ```
+
+### Dre Cont
+- TODO verify all sitemap XMLs are valid + every `<loc>` resolves to a real output file (including `/sitemaps/religioustheory/pages-sitemap.xml`)
+- TODO ingest and fix `_data/errors.txt` (dev `--serve --incremental` heap OOM)
+- TODO ensure a successful production build with correct absolute URLs (no `localhost` in deployed sitemaps)
+- TODO optimize `.github/workflows/deploy-xmit.yml` (build + pagefind once, caching, speed)
  
 ## Crowcodes
 - ~~TODO error: archive 24.1 XIAOQIAN ZHANG does not have files anywhere~~ adjb
