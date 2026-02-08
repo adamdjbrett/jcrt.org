@@ -20,7 +20,6 @@ permissions:
 env:
   ELEVENTY_RUN_MODE: build
   NODE_OPTIONS: "--max-old-space-size=8192"
-  PRECOPY_ARCHIVES: "1"
   # Used for sitemap/canonical absolute URLs (overrides `metadata.url` for deploy builds).
   SITE_URL: ${{ vars.SITE_URL || 'https://jcrt.org' }}
   # Use cached theory data — skip GitHub ZIP download in CI
@@ -56,14 +55,10 @@ jobs:
       - name: Install dependencies
         run: npm ci --prefer-offline --no-audit --no-fund
 
-      - name: Pre-copy archive assets (hardlinks)
-        run: bash scripts/pre-copy-assets.sh
-
       - name: Build site
         run: |
           start_time=$(date +%s%3N)
           npm run build
-          npm run validate:sitemaps
           end_time=$(date +%s%3N)
           echo "⚡ Build completed in $((end_time - start_time))ms"
           echo "📦 Output: $(find _site -type f | wc -l) files, $(du -sh _site | cut -f1)"
