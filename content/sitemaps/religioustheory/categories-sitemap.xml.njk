@@ -5,29 +5,28 @@ layout: false
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="/sitemaps/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{%- set base = metadata.url -%}
 {%- set lastUpdated = theory.lastUpdated or (page.inputPath | lastModifiedDate) -%}
-	{%- set base = sitemapBaseUrl or metadata.url -%}
-	<url>
-		<loc>{{ (base ~ ("/religioustheory/categories/" | url)) | xmlEscape | safe }}</loc>
-		{% if lastUpdated %}<lastmod>{{ lastUpdated | htmlDateString }}</lastmod>{% endif %}
-		<priority>0.2</priority>
-	</url>
+    <url>
+        <loc>{{ base }}/religioustheory/categories/</loc>
+        {% if lastUpdated %}<lastmod>{{ lastUpdated | htmlDateString }}</lastmod>{% endif %}
+        <priority>0.3</priority>
+    </url>
 
-	{% set cats = [] %}
-	{%- for post in (theory.posts or []) %}
-		{%- for cat in (post.categories or []) %}
-			{%- if cat and (cat not in cats) %}
-				{% set cats = cats.concat([cat]) %}
-			{%- endif %}
-		{%- endfor %}
-	{%- endfor %}
-	{% set cats = cats | sort %}
+    {% set uniqueCats = [] %}
+    {%- for post in theory.posts -%}
+        {%- for cat in post.categories -%}
+            {%- if cat and (cat not in uniqueCats) -%}
+                {% set uniqueCats = (uniqueCats.push(cat), uniqueCats) %}
+            {%- endif -%}
+        {%- endfor -%}
+    {%- endfor -%}
 
-	{%- for cat in cats %}
-	<url>
-		<loc>{{ (base ~ (("/religioustheory/categories/" ~ (cat | slugify) ~ "/") | url)) | xmlEscape | safe }}</loc>
-		{% if lastUpdated %}<lastmod>{{ lastUpdated | htmlDateString }}</lastmod>{% endif %}
-		<priority>0.2</priority>
-	</url>
-	{%- endfor %}
-	</urlset>
+    {%- for cat in uniqueCats | sort -%}
+    <url>
+        <loc>{{ base }}/religioustheory/categories/{{ cat | slugify }}/</loc>
+        {% if lastUpdated %}<lastmod>{{ lastUpdated | htmlDateString }}</lastmod>{% endif %}
+        <priority>0.3</priority>
+    </url>
+    {%- endfor %}
+</urlset>
