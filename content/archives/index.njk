@@ -42,11 +42,14 @@ pagination:
     {% set issue = issue_item.entry %}
     {% set issue_dir = issue.inputPath | replace('/index.njk', '/') %}
     
-    <section class="issue-block mb-5 p-4 bg-light rounded border-start border-4 border-pink shadow-sm">
-      <h2 class="serif fw-bold text-dark mb-4">
-        Volume {{ issue.data.volume }}, Issue {{ issue.data.issue }}, Season {{ issue.data.season }}
-        {% if issue.data.title %} — {{ issue.data.title }}{% endif %}
-      </h2>
+    <section class="issue-block mb-5 p-4 bg-body-tertiary rounded border-start border-4 
+    border-primary shadow-sm">
+      <h2 class="serif fw-bold text-body-emphasis mb-2">
+    {{ issue.data.volume }}.{{ issue.data.issue }} - {{ issue.data.season }}
+    {% if issue.data.title %} - {{ issue.data.title }}{% endif %}
+  </h2>
+  {% if issue.data.description %}<p class="text-body-secondary mb-4">{{ issue.data.description }}</p>{% endif %}
+
 
       <div class="row">
         {% set issue_articles = [] %}
@@ -62,16 +65,12 @@ pagination:
         {% for article in issue_articles | sort(false, false, 'data.articleNumber') %}
           <div class="col-12 border-bottom pb-3 mb-3 article-item">
             <h3 class="h5 serif fw-bold mb-1">
-              <a href="{{ article.url }}" class="text-decoration-none text-dark hover-pink">
+              <a href="{{ article.url }}" class="text-decoration-none text-body-emphasis hover-primary">
                 {{ article.data.title or article.fileSlug }}
               </a>
             </h3>
 
-            {% if article.data.tags.length > 0 %}
-              <div class="mb-2 small text-muted">
-                <i class="bi bi-tags"></i> {{ article.data.tags | join(", ") }}
-              </div>
-            {% endif %}
+            
 
             {% if article.data.author %}
               <p class="small mb-0">
@@ -80,10 +79,10 @@ pagination:
                 {% for aName in authorNames %}
                   {% set authorData = collections.authors | getAuthorObj(aName) %}
                   {% if authorData %}
-                    <a href="{{ authorData.url }}" class="fw-bold text-pink text-decoration-none hover-pink">{{ authorData.data.name or authorData.data.title or aName }}</a>
-                    {% if authorData.data.affiliation %}<span class="text-muted small"> ({{ authorData.data.affiliation }})</span>{% endif %}
+                 <a href="{{ authorData.url }}" class="fw-bold text-primary text-decoration-none hover-primary">{{ authorData.data.name or authorData.data.title or aName }}</a>
+                {% if authorData.data.affiliation %}<span class="text-muted small"> ({{ authorData.data.affiliation }})</span>{% endif %}
                   {% else %}
-                    <span class="fw-bold text-pink">{{ aName }}</span>
+                    <span class="fw-bold text-primary">{{ aName }}</span>
                   {% endif %}
                   {% if not loop.last %}; {% endif %}
                 {% endfor %}
@@ -113,7 +112,8 @@ pagination:
 
       <div class="text-end" style="flex: 1;">
           {% if offset + itemsPerPage < totalItems %}
-              <a href="{{ pagination.href.next }}" class="btn-editorial-ghost">Older →</a>
+              <a href="{{ pagination.href.next }}" 
+              class="btn-editorial-ghost">Older →</a>
           {% else %}
               <span class="page-info text-uppercase text-secondary fw-bold small">Page {{ pagination.pageNumber + 1 }} of {{ totalPages }}</span>
           {% endif %}

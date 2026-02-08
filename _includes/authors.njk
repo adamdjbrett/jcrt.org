@@ -17,7 +17,7 @@ layout: base.njk
             <h1><strong><span class="none text-dark">{{ title }}</span></strong></h1>
             <h2 class="lead text-uppercase mb-3">{{ description }}</h2>
             {% if affiliation %}
-            <h2 class="h5 text-pink text-uppercase mb-1">{{ affiliation }}</h2>
+            <h2 class="h5 text-primary text-uppercase mb-1">{{ affiliation }}</h2>
           {% endif %}
           <p class="lead italic mb-3">{{ description }}</p>
           
@@ -41,7 +41,7 @@ layout: base.njk
             <p>
               {% if button %}
                 {% for b in button %}
-                  <a href="{{ b.url }}" class="btn btn-pink me-2 text-white">{{ b.title }}</a>
+                  <a href="{{ b.url }}" class="btn btn-primary me-2 text-white">{{ b.title }}</a>
                 {% endfor %}
               {% endif %}
             </p>
@@ -62,7 +62,7 @@ layout: base.njk
                   {{ b.data.description }}
                 </p>
                 <p>
-                  <a href="{{ b.url }}" class="btn  btn-pink">Learn More</a>
+                  <a href="{{ b.url }}" class="btn  btn-primary">Learn More</a>
                 </p>
               </div>
             {% endfor %}

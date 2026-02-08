@@ -117,8 +117,8 @@
 </head>
 <body>
   {% include "partials/sidebar.njk" %}
-  <div id="content-wrapper" class="mse">
-    <div class="col-md-6 mx-auto p-3 mt-3 shadow rounded alert alert-danger alert-dismissible fade show" role="alert">
+<div id="content-wrapper" class="mse col-md-10 mx-auto ">
+    <div class="col-md-12 p-3 mt-3 shadow rounded alert alert-danger alert-dismissible fade show" role="alert">
   {{metadata.site.alert |md | safe }}
   <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
 </div>

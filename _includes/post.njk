@@ -12,7 +12,7 @@ layout: base.njk
 	        {% if page.url and page.url.startsWith('/archives/') and author %}<p class="text-secondary">{% set authorNames = author.split(';') %}{% for aName in authorNames %}{% set trimmedName = aName | trim %}{% if trimmedName %}{% set aSlug = trimmedName | authorSlug %}{% set authorObj = collections.authors | getAuthorObj(aSlug) %}{% if authorObj %}<a href="{{ authorObj.url }}">{{ trimmedName }}</a>{% else %}{{ trimmedName }}{% endif %}{% if not loop.last %}; {% endif %}{% endif %}{% endfor %}{% if affilation %}&nbsp;|&nbsp;{{ affilation }}{% endif %}</p>{% endif %}
 	        {% if page.url and page.url.startsWith('/archives/') and abstract %}<p class="text-secondary">{{ abstract }}</p>{% endif %}
 	        {% if page.url and page.url.startsWith('/archives/') and pdf and pdfUrl %}
-	          <p><a href="{{ pdfUrl }}" class="btn btn-pink text-white" target="_blank" rel="noopener"><i class="fa-solid fa-file-pdf me-2"></i>View Article (PDF)</a></p>
+	          <p><a href="{{ pdfUrl }}" class="btn btn-primary text-white" target="_blank" rel="noopener"><i class="fa-solid fa-file-pdf me-2"></i>View Article (PDF)</a></p>
 	        {% endif %}
 	        
 	        <p>
@@ -26,7 +26,7 @@ layout: base.njk
         <p>
           {% if button %}
             {% for b in button %}
-              <a href="{{ b.url }}" class="btn btn-pink me-2 text-white">{{ b.title }}</a>
+              <a href="{{ b.url }}" class="btn btn-primary me-2 text-white">{{ b.title }}</a>
             {% endfor %}
           {% endif %}
         </p>
@@ -53,7 +53,7 @@ layout: base.njk
             Tags: 
             {%- for tag in filteredTags %}
               {%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
-              <a href="{{ tagUrl }}" class="btn btn-sm btn-pink ms-2">{{ tag }}</a>
+              <a href="{{ tagUrl }}" class="btn btn-sm btn-primary ms-2">{{ tag }}</a>
             {% endfor %}
           </p>
           <hr/>
@@ -81,7 +81,7 @@ layout: base.njk
                       <p class="text-secondary mb-1">AUTHOR</p>
                       <h3 class="h5"><strong>{{ currentAuthor.data.name or currentAuthor.data.title }}</strong></h3>  
                       <p class="small text-muted">{{ currentAuthor.data.description or currentAuthor.data.bio }}</p>
-                      <a href="{{ currentAuthor.url }}" class="small text-pink">View Profile →</a>
+                      <a href="{{ currentAuthor.url }}" class="small text-primary">View Profile →</a>
                     </div>
                   </div>
                 </div>
@@ -99,14 +99,14 @@ layout: base.njk
             <div class="row">
               <div class="col-6">
                 {%- if previousPost %}
-                  <a href="{{ previousPost.url }}" class="btn btn-pink">
+                  <a href="{{ previousPost.url }}" class="btn btn-primary">
                     <i class="fas fa-arrow-left me-3"></i> Previous
                   </a>
                 {% endif %}
               </div>
               <div class="col-6 text-end">
                 {%- if nextPost %}
-                  <a href="{{ nextPost.url }}" class="btn btn-pink">
+                  <a href="{{ nextPost.url }}" class="btn btn-primary">
                     Next <i class="fas fa-arrow-right ms-3"></i>
                   </a>
                 {% endif %}

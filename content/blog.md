@@ -4,7 +4,7 @@ title: Blogs
 description: Update blog articles
 pagination:
   data: collections.posts
-  size: 2
+  size: 6
   reverse: true
 testdata:
   - item1

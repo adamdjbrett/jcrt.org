@@ -8,8 +8,6 @@ permalink: /religioustheory/archive/index.html
 
   <h1>Archive</h1>
   <p>Browse all {{ (theory.posts or []) | length }} posts.</p>
-
-  {# Build a list of years in newest→oldest order (theory.posts is already sorted desc). #}
   {% set years = [] %}
   {% for post in (theory.posts or []) %}
     {% set y = post.date | readableDate('yyyy') %}

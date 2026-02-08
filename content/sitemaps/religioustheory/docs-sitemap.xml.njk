@@ -1,23 +1,15 @@
 ---
-permalink: /sitemaps/religioustheory/docs-sitemap.xml
+permalink: /sitemaps/religioustheory/docs-sitemap1xml
 layout: false
 ---
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="/sitemaps/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{%- set base = sitemapBaseUrl or metadata.url -%}
-{%- for p in collections.all %}
-	{%- if p.url and p.url.startsWith("/religioustheory/") %}
-			{%- set u = p.url | lower -%}
-			{%- if u.endsWith(".pdf") or u.endsWith(".docx") or u.endsWith(".rtf") %}
-			{% set absoluteUrl %}{{ (base ~ ((p.url | url) | htmlEntityDecode)) | xmlEscape | safe }}{% endset %}
-			<url>
-				<loc>{{ absoluteUrl }}</loc>
-			{% set lm = p.inputPath | lastModifiedDate %}
-				{% if lm %}<lastmod>{{ lm | htmlDateString }}</lastmod>{% endif %}
-				<priority>0.2</priority>
-			</url>
-		{%- endif %}
-	{%- endif %}
+{%- set base = metadata.url -%}
+{%- for doc in theoryDocs %}
+    <url>
+        <loc>{{ base }}{{ doc.url }}</loc>
+        <lastmod>{{ doc.date | htmlDateString }}</lastmod>
+        <priority>0.2</priority>
+    </url>
 {%- endfor %}
-	</urlset>
+</urlset>

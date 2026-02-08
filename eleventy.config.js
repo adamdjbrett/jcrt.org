@@ -424,6 +424,8 @@ export default async function (eleventyConfig) {
 		eleventyConfig.addPassthroughCopy("content/archives/**/*.jpg");
 		eleventyConfig.addPassthroughCopy("content/archives/**/*.jpeg");
 		eleventyConfig.addPassthroughCopy("content/archives/**/*.tif");
+		eleventyConfig.addPassthroughCopy("content/religioustheory/**/*.pdf");
+		eleventyConfig.addPassthroughCopy("content/religioustheory/**/*.docx");
 		eleventyConfig.addPassthroughCopy("content/archives/**/*.tiff");
 	}
 	eleventyConfig.addCollection("archives", function (collectionApi) {
@@ -622,6 +624,7 @@ export default async function (eleventyConfig) {
 	eleventyConfig.addPlugin(pluginFilters);
 
 	eleventyConfig.watchIgnores.add("_data/theory_archive.json");
+	eleventyConfig.watchIgnores.add("errors.txt");
 	eleventyConfig.ignores.add("_drafts/**");
 	eleventyConfig.ignores.add("submissions/**");
 

@@ -8,7 +8,7 @@ layout: base.njk
     <article class="py-4">
       <header class="mb-5 border-bottom pb-4">
         {% if article_number %}
-          <div class="text-pink fw-bold small text-uppercase mb-2">Article No. {{ article_number }}</div>
+          <div class="text-primary fw-bold small text-uppercase mb-2">Article No. {{ article_number }}</div>
         {% endif %}
 
         <h1 class="serif fw-bold display-4">{{ jsonEntry.title or title }}</h1>
@@ -22,7 +22,7 @@ layout: base.njk
               {%- for aName in authorNames -%}
                 {% set authorObj = collections.authors | getAuthorObj(aName) %}
                 {%- if authorObj -%}
-                  <a href="{{ authorObj.url }}" class="text-decoration-underline text-dark hover-pink">{{ aName }}</a>
+                  <a href="{{ authorObj.url }}" class="text-decoration-underline text-dark hover-primary">{{ aName }}</a>
                 {%- else -%}
                   {{ aName }}
                 {%- endif -%}
@@ -40,7 +40,7 @@ layout: base.njk
           {% endif %}
           
           {% if pdfUrl %}
-            <a href="{{ pdfUrl }}" class="btn  btn-pink px-3 shadow-sm" target="_blank">
+            <a href="{{ pdfUrl }}" class="btn  btn-primary px-3 shadow-sm" target="_blank">
               <i class="bi bi-file-earmark-pdf"></i> Download PDF
             </a>
           {% endif %}

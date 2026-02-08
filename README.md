@@ -81,7 +81,7 @@ Total:         48s → ~10s
 
 ## Changelog
 ### Dre
-1. https://jcrt.xmit.dev/archives/
+1. https://jcrt.xmit.dev/archives/  - DONE
     1. hide keywords
     2. in header show volume, issue, season, title in that order
     3. under header show in plain text the description (base on /#.#/index.njk) only if one is present. For example proper titles should be 
@@ -92,10 +92,10 @@ The following issue has resulted from a conference in the fall of 2024.  The con
 ```
 
 ### Dre Cont
-- TODO verify all sitemap XMLs are valid + every `<loc>` resolves to a real output file (including `/sitemaps/religioustheory/pages-sitemap.xml`)
-- TODO ingest and fix `_data/errors.txt` (dev `--serve --incremental` heap OOM)
-- TODO ensure a successful production build with correct absolute URLs (no `localhost` in deployed sitemaps)
-- TODO optimize `.github/workflows/deploy-xmit.yml` (build + pagefind once, caching, speed)
+- TODO verify all sitemap XMLs are valid + every `<loc>` resolves to a real output file (including `/sitemaps/religioustheory/pages-sitemap.xml`) - DONE
+- TODO ingest and fix `_data/errors.txt` (dev `--serve --incremental` heap OOM) - DONE
+- TODO ensure a successful production build with correct absolute URLs (no `localhost` in deployed sitemaps) - DONE
+- TODO optimize `.github/workflows/deploy-xmit.yml` (build + pagefind once, caching, speed) - DONE
  
 ## Crowcodes
 - ~~TODO error: archive 24.1 XIAOQIAN ZHANG does not have files anywhere~~ adjb

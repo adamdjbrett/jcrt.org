@@ -4,19 +4,19 @@ title: "Religious Theory Tags"
 permalink: /religioustheory/tags/index.html
 ---
 
-<article class="container mt-5">
+<article class="container-fluid mt-5">
   {% include "partials/nav_desktop.njk" %}
-  <header class="mb-4 text-center">
-    <h1 class="display-4 fw-bold serif-font">Tags</h1>
-    <p class="text-muted">Browse Religious Theory posts by tag.</p>
+  <header class="mb-4">
+    <h1><strong><span class="border-bottom border-4 border-primary pb-2">
+      Tags</span></strong></h1>
   </header>
 
   <div class="row justify-content-center">
-    <div class="col-md-9">
-      <ul class="list-unstyled">
+    <div class="col-md-12 mt-5">
+      <ul class="list-unstyled row">
         {%- for tag in (religioustheory_taxonomy.tags or []) %}
           {% set count = religioustheory_taxonomy.tagCounts[tag] or 0 %}
-          <li class="mb-2">
+          <li class="mb-2 col-md-3 col-6">
             <a class="text-decoration-none" href="/religioustheory/tags/{{ tag | slugify }}/">#{{ tag }}</a>
             <span class="text-muted small">({{ count }})</span>
           </li>
