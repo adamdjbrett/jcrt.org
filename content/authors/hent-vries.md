@@ -1,5 +1,5 @@
 ---
-name: Hent Vries
+name: Hent de Vries
 affiliation:
 bio:
 social:

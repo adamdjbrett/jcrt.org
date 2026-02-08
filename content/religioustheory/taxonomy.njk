@@ -22,7 +22,7 @@ permalink: /religioustheory/taxonomy/index.html
                 {% for post in theory.posts %}
                     {% if post.categories | hasCategoryTheory(cat) %}
                     <div class="mb-2">
-                        <a href="/religioustheory/posts/{{ post.slug }}/" class="text-decoration-none text-secondary small hover-pink">
+                        <a href="/religioustheory/posts/{{ post.slug | slugify }}/" class="text-decoration-none text-secondary small hover-pink">
                             • {{ post.title }}
                         </a>
                     </div>
@@ -46,7 +46,7 @@ permalink: /religioustheory/taxonomy/index.html
                 {% for post in theory.posts %}
                     {% if post.tags | hasTagTheory(tag) %}
                     <div class="mb-2">
-                        <a href="/religioustheory/posts/{{ post.slug }}/" class="text-decoration-none text-secondary small hover-pink">
+                        <a href="/religioustheory/posts/{{ post.slug | slugify }}/" class="text-decoration-none text-secondary small hover-pink">
                             • {{ post.title }}
                         </a>
                     </div>

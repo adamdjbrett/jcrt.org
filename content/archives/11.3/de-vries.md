@@ -1,6 +1,6 @@
 ---
 title: "MINIMAL DIFFERENCE WITH MAXIMAL IMPORT: ‘DEEP PRAGMATISM’ AND GLOBAL RELIGION: AN INTERVIEW WITH HENT DE VRIES"
-author: "Victor E Taylor; Hent Vries"
+author: "Victor E Taylor; Hent de Vries"
 affilation:
 abstract:
 keywords:

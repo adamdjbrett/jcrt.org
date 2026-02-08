@@ -1,0 +1,35 @@
+---
+layout: theory.njk
+title: Archive
+permalink: /religioustheory/archive/index.html
+---
+<div class="col-md-10 mx-auto">
+  {% include "partials/nav_desktop.njk" %}
+
+  <h1>Archive</h1>
+  <p>Browse all {{ (theory.posts or []) | length }} posts.</p>
+
+  {# Build a list of years in newest→oldest order (theory.posts is already sorted desc). #}
+  {% set years = [] %}
+  {% for post in (theory.posts or []) %}
+    {% set y = post.date | readableDate('yyyy') %}
+    {% if y and (y not in years) %}
+      {% set years = years.concat([y]) %}
+    {% endif %}
+  {% endfor %}
+
+  {% for y in years %}
+    <h2 style="margin-top: 2rem;">{{ y }}</h2>
+    <ul>
+      {% for post in (theory.posts or []) %}
+        {% if (post.date | readableDate('yyyy')) == y %}
+          <li>
+            <a href="/religioustheory/posts/{{ post.slug | slugify }}/">{{ post.title }}</a>
+            {% if post.date %}<small> — {{ post.date | readableDate }}</small>{% endif %}
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  {% endfor %}
+</div>
+

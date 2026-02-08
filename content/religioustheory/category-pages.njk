@@ -37,7 +37,7 @@ const eleventyComputed = {
   {% if post.categories and (category in post.categories) %}
     <div class="col-md-6 p-3 p-md-4">
       <div class="img-zoom-container mb-3">
-        <a href="/religioustheory/posts/{{ post.slug }}/">
+        <a href="/religioustheory/posts/{{ post.slug | slugify }}/">
           {% set currentImg = post.image if post.image and post.image != 'null' else '/img/se.jpg' %}
           <img src="{{ currentImg }}" 
                class="img-post rounded shadow-sm w-100" 
@@ -49,7 +49,7 @@ const eleventyComputed = {
       
       <h3 class="h5">
         <strong>
-          <a class="text-decoration-none text-dark" href="/religioustheory/posts/{{ post.slug }}/">
+          <a class="text-decoration-none text-dark" href="/religioustheory/posts/{{ post.slug | slugify }}/">
             {{ post.title }}
           </a>
         </strong>
@@ -61,8 +61,8 @@ const eleventyComputed = {
         <p class="small text-muted mb-2">({{ post.date | postDate }})</p>
       {% endif %}
 
-    <a href="/religioustheory/posts/{{ post.slug }}/" 
-    class="btn col-12 btn-pink">View Document</a>
+    <a href="/religioustheory/posts/{{ post.slug | slugify }}/" 
+    class="btn col-12 btn-pink">Read Post</a>
     </div>
   {% endif %}
 {% endfor %}

@@ -27,7 +27,7 @@ permalink: /religioustheory/index.html
     {% for post in theory.posts.slice(0, 6) %}
       <article class="ghost-card mb-5 d-md-flex align-items-center">
         <div class="ghost-img-wrapper me-md-4 mb-3 mb-md-0" style="flex: 0 0 300px;">
-          <a href="/religioustheory/posts/{{ post.slug }}/">
+          <a href="/religioustheory/posts/{{ post.slug | slugify }}/">
           <img src="{% if post.image and post.image != 'null' and post.image != '' %}{{ post.image }}{% else %}/img/default-theory.jpg{% endif %}" 
      alt="{{ post.title }}" 
      class="img-fluid rounded shadow-sm"
@@ -38,7 +38,7 @@ permalink: /religioustheory/index.html
 
         <div class="ghost-content">
           <h3 class="h4 fw-bold mb-2">
-            <a href="/religioustheory/posts/{{ post.slug }}/" class="text-decoration-none text-dark hover-pink">
+            <a href="/religioustheory/posts/{{ post.slug | slugify }}/" class="text-decoration-none text-dark hover-pink">
               {{ post.title }}
             </a>
           </h3>
@@ -48,7 +48,7 @@ permalink: /religioustheory/index.html
           <p class="text-secondary small">
             {{ post.excerpt | truncate(150) if post.excerpt else "Explore this latest article from our religious theory archive..." }}
           </p>
-          <a href="/religioustheory/posts/{{ post.slug }}/" 
+          <a href="/religioustheory/posts/{{ post.slug | slugify }}/" 
           class="text-pink fw-bold text-decoration-none small">
             Read Article &rarr;
           </a>

@@ -6,7 +6,7 @@ layout: false
 <?xml-stylesheet type="text/xsl" href="/sitemaps/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {% set base = sitemapBaseUrl or metadata.url %}
-{%- for p in collections.all %}
+{%- for p in collections.archivesToc %}
 	{%- if p.url %}
 		{% set ip = p.inputPath or "" %}
 		{% if ip and ip.startsWith("./") %}{% set ip = ip.slice(2) %}{% endif %}

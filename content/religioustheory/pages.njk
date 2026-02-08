@@ -10,7 +10,7 @@ permalink: /religioustheory/pages/index.html
 {% for pg in theory.pages %}
   <li class="p-3">
     <strong>
-      <a href="/religioustheory/pages/{{ pg.slug | slugify }}/">{{ pg.title }}</a>
+      <a href="/religioustheory/{{ pg.slug | slugify }}/">{{ pg.title }}</a>
     </strong>
     <p><small>Source Path: {{ pg.path }}</small></p>
   </li>
