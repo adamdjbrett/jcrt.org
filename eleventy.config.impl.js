@@ -17,6 +17,7 @@ import pluginFilters from "./_config/filters.js";
 import { authorSlug, splitAuthors } from "./_config/authorSlug.js";
 import fs from "fs";
 import path from "path";
+import os from "node:os";
 
 function archiveIssueSortKey(inputPath, url) {
 	// Prefer the directory segment under `content/archives/`.
@@ -37,11 +38,64 @@ function archiveIssueSortKey(inputPath, url) {
 	return { major, minor, issue, url: url || "" };
 }
 
+async function ensureFavicons() {
+	// `@11ty/eleventy-img` requires Node versions that implement `os.availableParallelism()`.
+	// If you run the build on an older Node (e.g. v18.12.x), skip generation.
+	if (typeof os.availableParallelism !== "function") return;
+
+	const sourceSvg = path.join(process.cwd(), "public/img/logos/JCRT.svg");
+	const outputDir = path.join(process.cwd(), "public/img/logos");
+
+	const sizesToName = new Map([
+		[16, "favicon-16x16"],
+		[32, "favicon-32x32"],
+		[48, "favicon-48x48"],
+		[96, "favicon-96x96"],
+		[180, "apple-touch-icon"],
+		[192, "android-chrome-192x192"],
+		[512, "android-chrome-512x512"],
+	]);
+
+	try {
+		const srcStat = fs.statSync(sourceSvg);
+		const outputs = [...sizesToName.values()].map((base) =>
+			path.join(outputDir, `${base}.png`)
+		);
+		const allFresh = outputs.every((p) => {
+			try {
+				return fs.statSync(p).mtimeMs >= srcStat.mtimeMs;
+			} catch {
+				return false;
+			}
+		});
+		if (allFresh) return;
+	} catch {
+		// If the source icon doesn't exist, do nothing.
+		return;
+	}
+
+	const { default: Image } = await import("@11ty/eleventy-img");
+	await Image(sourceSvg, {
+		widths: [...sizesToName.keys()],
+		formats: ["png"],
+		outputDir,
+		urlPath: "/img/logos",
+		filenameFormat: function (_id, _src, width, format) {
+			const base = sizesToName.get(width) || `favicon-${width}x${width}`;
+			return `${base}.${format}`;
+		},
+	});
+}
+
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function (eleventyConfig) {
 	const filePath = path.resolve("_data/theory_archive.json");
 	const isFastBuild = Boolean(process.env.FAST_BUILD);
 	eleventyConfig.addGlobalData("isFastBuild", isFastBuild);
+
+	eleventyConfig.on("eleventy.before", async () => {
+		await ensureFavicons();
+	});
 
 	// Removed manual authors.json loading. Eleventy will auto-load _data/authors.yaml and _data/authors.json as global data.
 	eleventyConfig.addPreprocessor("drafts", "*", (data, content) => {
@@ -496,7 +550,31 @@ export default async function (eleventyConfig) {
 			language: "en",
 			title: "Editorial",
 			subtitle: "Editorial 11ty.",
-			base: "https://www.example.com/",
+			base: process.env.SITE_URL || "http://localhost:8080",
+			author: {
+				name: "adamdjbrett",
+			},
+		},
+	});
+
+	eleventyConfig.addPlugin(feedPlugin, {
+		type: "rss",
+		outputPath: "/feed/feed.rss",
+		templateData: {
+			eleventyNavigation: {
+				key: "Feed (RSS)",
+				order: 11,
+			},
+		},
+		collection: {
+			name: "feed",
+			limit: 75,
+		},
+		metadata: {
+			language: "en",
+			title: "Editorial",
+			subtitle: "Editorial 11ty.",
+			base: process.env.SITE_URL || "http://localhost:8080",
 			author: {
 				name: "adamdjbrett",
 			},

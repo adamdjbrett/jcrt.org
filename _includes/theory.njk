@@ -39,9 +39,19 @@
   <meta property="dc:creator" content="{{ metadata.author.name }}" />
   <meta name="locale" content="{{ metadata.locale }}" />
 
-  <link rel="icon" href="{{ metadata.favicon }}" type="image/x-icon" />
-  <link rel="apple-touch-icon" href="{{ metadata.favicon }}" />
-  <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="{{ metadata.site.title }}">
+  <link rel="icon" href="/img/logos/JCRT.svg" type="image/svg+xml" />
+  <link rel="icon" href="/img/logos/favicon-16x16.png" type="image/png" sizes="16x16" />
+  <link rel="icon" href="/img/logos/favicon-32x32.png" type="image/png" sizes="32x32" />
+  <link rel="icon" href="/img/logos/favicon-48x48.png" type="image/png" sizes="48x48" />
+  <link rel="icon" href="/img/logos/android-chrome-192x192.png" type="image/png" sizes="192x192" />
+  <link rel="icon" href="/img/logos/android-chrome-512x512.png" type="image/png" sizes="512x512" />
+  <link rel="apple-touch-icon" href="/img/logos/apple-touch-icon.png" sizes="180x180" />
+  <link rel="manifest" href="/img/logos/site.webmanifest" />
+  <meta name="theme-color" content="#ffffff" />
+
+  <!-- use application/atom+xml for an atom feed -->
+  <link rel="alternate" href="{{ metadata.url }}/feed/feed.xml" type="application/atom+xml" title="{{ metadata.site.title }}" />
+  <link rel="alternate" href="{{ metadata.url }}/feed/feed.rss" type="application/rss+xml" title="{{ metadata.site.title }}" />
 
   <style>{% include "css/bs.css" %}</style>
   <style>{% getBundle "css" %}</style>

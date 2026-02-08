@@ -1,9 +1,9 @@
 title: "JCRT"
 description: "Journal for Cultural and Religious Theory (JCRT), whitestone foundation publication"
-image: "/img/jcrt.jpg"
+image: "/img/logos/favicon.svg"
 language: "en"
 locale: en_US
-favicon: "/img/jcrt.jpg"
+favicon: "/img/logos/favicon.svg"
 #url: "https://editorial.000000076.xyz"
 url: http://localhost:8080
 homepage_archive: 
