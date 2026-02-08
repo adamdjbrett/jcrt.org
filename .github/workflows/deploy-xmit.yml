@@ -42,6 +42,9 @@ jobs:
           node-version: 'lts/*'
           cache: 'npm'
 
+      - name: Ensure Eleventy cache dir
+        run: mkdir -p .cache
+
       # Cache the Eleventy build output (.cache for eleventy-img, etc.)
       - name: Cache Eleventy
         uses: actions/cache@v4
