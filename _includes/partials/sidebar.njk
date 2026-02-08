@@ -18,7 +18,7 @@
 
 <div class="p-3 bg-light"> 
 		
-<h3 class="mb-4"><span class="bgb-pink p-1">{{metadata.sidebar.menu.title}}</span></h3>
+<h3 class="mb-4"><span class="bgb-primary p-1">{{metadata.sidebar.menu.title}}</span></h3>
 <ul class="nav-editorial">
   {% for n in metadata.sidebar.menu.list %}
     <li class="nav-item-editorial">
@@ -39,17 +39,17 @@
             </div>
         {% endfor %}
     {% endfor %}
-	<a href="{{metadata.sidebar.info.button.url}}" class="btn btn-s, btn-pink text-uppercase">{{metadata.sidebar.info.button.text}}</a></p>
+	<a href="{{metadata.sidebar.info.button.url}}" class="btn btn-s, btn-primary text-uppercase">{{metadata.sidebar.info.button.text}}</a></p>
 </div>
 
 			
 <div class="smaller">
-<h3 class="mt-3 mb-5"><span class="bgb-pink p-1">{{metadata.sidebar.contact.title}}</span></h3>
+<h3 class="mt-3 mb-5"><span class="bgb-primary p-1">{{metadata.sidebar.contact.title}}</span></h3>
 <p>
 {{metadata.sidebar.contact.text}}
 </p>
 {% for c in metadata.sidebar.contact.list %}<p class="mb-3">
-<i class="{{c.icon}} me-3 text-pink"></i>{% if c.url %}<a href="{{c.url}}">{{c.title}}</a>{% else %}{{c.title}}{% endif %}</p><hr/>{% endfor %}
+<i class="{{c.icon}} me-3 text-primary"></i>{% if c.url %}<a href="{{c.url}}">{{c.title}}</a>{% else %}{{c.title}}{% endif %}</p><hr/>{% endfor %}
 </div>
 			
 <div class="mt-5">

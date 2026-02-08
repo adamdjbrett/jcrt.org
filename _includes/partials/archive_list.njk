@@ -7,10 +7,10 @@
     <div class="col-md-12 px-3 px-md-5 mb-4">
       <div class="d-flex align-items-center justify-content-between">
         <h3 class="m-0">
-          <strong><span class="bgb-pink">{{ metadata.homepage_archive.section_title }}</span></strong>
+          <strong><span class="bgb-primary">{{ metadata.homepage_archive.section_title }}</span></strong>
           <span class="ms-2 badge bg-light text-secondary small" style="font-size: 0.5em;">#{{ featuredTag }}</span>
         </h3>
-        <a href="/archives/" class="text-pink text-decoration-none small">Explore All Archives →</a>
+        <a href="/archives/" class="text-primary text-decoration-none small">Explore All Archives →</a>
       </div>
     </div>
 
@@ -30,14 +30,14 @@
           <h3 class="h5"><strong>{{ post.data.title }}</strong></h3>
           
           {% if post.data.authors %}
-            <p class="small text-pink mb-2">By {{ post.data.authors }}</p>
+            <p class="small text-primary mb-2">By {{ post.data.authors }}</p>
           {% endif %}
 
           <p class="text-secondary small">
             {{ post.data.description | truncate(110) }}
           </p>
           
-          <a href="{{ post.url }}" class="btn btn-sm btn-pink">View Document</a>
+          <a href="{{ post.url }}" class="btn btn-sm btn-primary">View Document</a>
         </div>
       {% endfor %}
     </div>

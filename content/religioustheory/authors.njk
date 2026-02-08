@@ -3,29 +3,31 @@ layout: theory.njk
 title: "Religious Theory Authors"
 permalink: /religioustheory/authors/index.html
 ---
-
-<article class="container mt-5">
+<article class="container-fluid mt-5">
   {% include "partials/nav_desktop.njk" %}
-  <header class="mb-4 text-center">
-    <h1 class="display-4 fw-bold serif-font">Authors</h1>
-    <p class="text-muted">Browse Religious Theory posts by author.</p>
+  <header class="mb-5 text-center">
+    <h1 class="display-4 fw-bold serif">Authors</h1>
+    <p class="text-muted text-uppercase small" style="letter-spacing: 1px;">Browse Religious Theory posts by author</p>
   </header>
 
   <div class="row justify-content-center">
-    <div class="col-md-9">
-      <ul class="list-unstyled">
+    <div class="col-md-8">
+      <div class="d-flex flex-wrap justify-content-center gap-3">
         {%- for authorName in religioustheory_taxonomy.authors %}
           {% set count = 0 %}
           {%- for post in theory.posts %}
             {% set postAuthor = post.authorData.name or post.author or "Editors" %}
             {%- if postAuthor == authorName %}{% set count = count + 1 %}{% endif -%}
           {%- endfor %}
-          <li class="mb-2">
-            <a class="text-decoration-none" href="/religioustheory/authors/{{ authorName | slugify }}/">{{ authorName }}</a>
-            <span class="text-muted small">({{ count }})</span>
-          </li>
+          
+          <a href="/religioustheory/authors/{{ authorName | slugify }}/" 
+             class="btn btn-outline-primary border-2 px-4 py-2 fw-bold text-uppercase d-flex align-items-center" 
+             style="font-size: 0.85rem; letter-spacing: 1px;">
+            {{ authorName }}
+            <span class="badge bg-primary ms-2 rounded-pill">{{ count }}</span>
+          </a>
         {%- endfor %}
-      </ul>
+      </div>
     </div>
   </div>
 </article>

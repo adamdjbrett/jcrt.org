@@ -25,46 +25,72 @@ const eleventyComputed = {
 	},
 };
 ---
-<div class="col-md-10 mx-auto">
+<div class="container-fluid">
   {% include "partials/nav_desktop.njk" %}
 
-  <h1>Category: {{ category }} <a href="/religioustheory/categories/" 
-    class="btn btn-pink float-end">← Back to categories</a></h1>
+  <h1><strong><span class="border-bottom border-4 border-primary pb-2">Category: {{ category }}</span></strong> <a href="/religioustheory/categories/" 
+    class="btn btn-primary float-end">← Back to categories</a></h1>
   
 
-  <div class="row">
-   {% for post in theory.posts %}
+ <div class="row mt-3 mb-3">
+{% for post in theory.posts %}
   {% if post.categories and (category in post.categories) %}
-    <div class="col-md-6 p-3 p-md-4">
-      <div class="img-zoom-container mb-3">
-        <a href="/religioustheory/posts/{{ post.slug | slugify }}/">
-          {% set currentImg = post.image if post.image and post.image != 'null' else '/img/se.jpg' %}
-          <img src="{{ currentImg }}" 
-               class="img-post rounded shadow-sm w-100" 
-               alt="{{ post.title }}"
-               style="aspect-ratio: 16/9; object-fit: cover;"
-               onerror="this.src='/img/jcrt.jpg';">
-        </a>
-      </div>
-      
-      <h3 class="h5">
-        <strong>
-          <a class="text-decoration-none text-dark" href="/religioustheory/posts/{{ post.slug | slugify }}/">
-            {{ post.title }}
-          </a>
-        </strong>
-      </h3>
-      
-      {% if post.authorData.name %}
-        <p class="small text-pink mb-2">By {{ post.authorData.name }}</p>
-      {% elif post.date %}
-        <p class="small text-muted mb-2">({{ post.date | postDate }})</p>
-      {% endif %}
 
-    <a href="/religioustheory/posts/{{ post.slug | slugify }}/" 
-    class="btn col-12 btn-pink">Read Post</a>
+    <div class="col-md-6 col-lg-4 p-3 small p-md-5"> 
+        
+        <div class="img-zoom-container rounded-4 shadow-sm mb-3" style="aspect-ratio: 16/9; overflow: hidden;">
+            <a href="/religioustheory/posts/{{ post.slug }}/" title="{{ post.title }}">
+                {% set currentImg = post.image if post.image and post.image != 'null' else '/img/se.jpg' %}
+                <img class="img-post img-fluid" 
+                     style="width: 100%; height: 100%; object-fit: cover;" 
+                     alt="{{ post.title }}" 
+                     src="{{ currentImg }}"
+                     onerror="this.onerror=null;this.src='/img/jcrt.jpg';">
+            </a>
+        </div>
+
+        <h3 class="serif fw-bold h5">
+            <a class="text-decoration-none text-dark hover-primary" href="/religioustheory/posts/{{ post.slug }}/">
+                {{ post.title }}
+            </a>
+        </h3>
+        
+        <div class="mb-2">
+            <p class="text-muted x-small text-uppercase fw-bold mb-1" style="font-size: 0.7rem; letter-spacing: 0.5px;">
+                {% if post.date %}{{ post.date | postDate }}{% endif %}
+                {% if post.authorData.name %}
+                  — By <span class="text-primary">{{ post.authorData.name }}</span>
+                {% endif %}
+            </p>
+
+        
+            {% if post.categories %}
+                <div class="d-flex flex-wrap gap-1 mb-2">
+                    {% for cat in post.categories %}
+                        <a href="/religioustheory/categories/{{ cat | slugify }}/" 
+                           class="text-primary fw-bold text-decoration-none x-small border-end pe-1 me-1" 
+                           style="font-size: 0.7rem; border-color: var(--primary-jcrt) !important;">
+                            {{ cat }}
+                        </a>
+                    {% endfor %}
+                </div>
+            {% endif %}
+        </div>
+
+        
+        <p class="text-secondary small">
+            {{ post.excerpt | truncate(110) if post.excerpt else "Explore this latest article from our religious theory archive..." }}
+        </p>
+
+        
+        <p class="mt-auto">
+            <a href="/religioustheory/posts/{{ post.slug }}/" class="btn btn-primary px-4 py-2 fw-bold text-uppercase" style="font-size: 0.75rem; letter-spacing: 1px;">
+                Learn More
+            </a>
+        </p>
+
     </div>
   {% endif %}
 {% endfor %}
-	</div>
+</div>
 </div>

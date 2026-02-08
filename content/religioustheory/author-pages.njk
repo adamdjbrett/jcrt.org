@@ -8,28 +8,53 @@ permalink: "/religioustheory/authors/{{ authorName | slugify }}/index.html"
 eleventyComputed:
   title: "Author: {{ authorName }}"
 ---
-
-<article class="container mt-5">
+<article class="container-fluid mt-5">
   {% include "partials/nav_desktop.njk" %}
-  <header class="mb-4 text-center">
-    <h1 class="display-4 fw-bold serif-font">{{ authorName }}</h1>
-    <p><a class="text-decoration-none" href="/religioustheory/authors/">All authors</a></p>
+  <header class="mb-5 text-center">
+    <h1 class="display-4 fw-bold serif">{{ authorName }}</h1>
+    <p><a class="text-primary fw-bold text-decoration-none text-uppercase" style="font-size: 0.8rem; letter-spacing: 1px;" href="/religioustheory/authors/">
+      &larr; View All Authors
+    </a></p>
   </header>
 
-  <div class="row justify-content-center">
-    <div class="col-md-9">
-      <ul>
-        {%- for post in theory.posts %}
-          {% set postAuthor = post.authorData.name or post.author or "Editors" %}
-          {%- if postAuthor == authorName %}
-            <li>
-              <a href="/religioustheory/posts/{{ post.slug | slugify }}/">{{ post.title }}</a>
-              {% if post.date %}<span class="text-muted small"> — {{ post.date | postDate }}</span>{% endif %}
-            </li>
-          {%- endif %}
-        {%- endfor %}
-      </ul>
-    </div>
+  <div class="row mt-3 mb-3">
+    {%- for post in theory.posts %}
+      {% set postAuthor = post.authorData.name or post.author or "Editors" %}
+      {%- if postAuthor == authorName %}
+        <div class="col-md-6 col-lg-4 p-3 small p-md-5"> 
+            <div class="img-zoom-container rounded-4 shadow-sm mb-3" style="aspect-ratio: 16/9; overflow: hidden;">
+                <a href="/religioustheory/posts/{{ post.slug | slugify }}/" title="{{ post.title }}">
+                    {% if post.image and post.image != 'null' and post.image != '' %}
+                        <img class="img-post img-fluid" style="width: 100%; height: 100%; object-fit: cover;" 
+                             alt="{{ post.title }}" src="{{ post.image }}"
+                             onerror="this.onerror=null;this.src='/img/jcrt.jpg';">
+                    {% else %}
+                        <img class="img-post img-fluid" style="width: 100%; height: 100%; object-fit: cover;" 
+                             alt="{{ post.title }}" src="/img/se.jpg"
+                             onerror="this.onerror=null;this.src='/img/jcrt.jpg';">
+                    {% endif %}
+                </a>
+            </div>
+
+            <h3 class="serif fw-bold h5">
+                <a class="text-decoration-none text-dark hover-primary" href="/religioustheory/posts/{{ post.slug | slugify }}/">
+                    {{ post.title }}
+                </a>
+            </h3>
+            
+            <p class="text-muted x-small text-uppercase fw-bold mb-2" style="font-size: 0.7rem;">
+                {% if post.date %}{{ post.date | postDate }}{% endif %}
+            </p>
+
+            <p class="text-secondary">
+                {{ post.excerpt | truncate(110) if post.excerpt else "Explore articles contributed by " + authorName + "..." }}
+            </p>
+
+            <p><a href="/religioustheory/posts/{{ post.slug | slugify }}/" class="btn btn-primary px-4 py-2 fw-bold text-uppercase" style="font-size: 0.75rem; letter-spacing: 1px;">
+                Learn More
+            </a></p>
+        </div>
+      {%- endif %}
+    {%- endfor %}
   </div>
 </article>
-

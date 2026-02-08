@@ -4,13 +4,13 @@ const pagination = {
 	data: "collections",
 	size: 1,
 	alias: "tag",
-	filter: ["all", "posts"],
-	// addAllPagesToCollections: true,
+	filter: ["all", "posts" , "archives"],
 };
 
 const eleventyExcludeFromCollections = true;
 
 const eleventyComputed = {
+	layout: "base.njk",
 	title: "Tagged '{{ tag }}'",
 	permalink: function(data) {
 		// Avoid generating thousands of tag pages during `--serve` (can OOM).
@@ -22,9 +22,17 @@ const eleventyComputed = {
 	}
 };
 ---
-<h1>Tagged “{{ tag }}”</h1>
+<div class="container-fluid">
+
+ {% include "partials/nav_desktop.njk" %}
+
+<h1 class="display-5 fw-bold mb-5 border-bottom pb-3">
+	<span class="border-bottom border-4 border-primary pb-2">
+	Tagged “{{ tag }}”
+</span>
+</h1>
 
 {% set postslist = collections[ tag ] %}
 {% include "postslist.njk" %}
 
-<p>See <a href="tags.njk">all tags</a>.</p>
+<p>See <a href="/tags">all tags</a>.</p>

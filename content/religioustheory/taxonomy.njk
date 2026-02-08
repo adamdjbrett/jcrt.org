@@ -4,13 +4,13 @@ title: Tags & Categories Archive
 permalink: /religioustheory/taxonomy/index.html
 ---
 
-<div class="col-md-10 mx-auto">
+<div class="container-fluid">
 
  {% include "partials/nav_desktop.njk" %}
 <h1 class="display-5 fw-bold mb-5 border-bottom pb-3">Digital Archive Index</h1>
    <div class="row">
     <div class="col-md-12 mb-5">
-        <h3 class="h4 text-uppercase mb-4 fw-bold text-pink">Categories</h3>
+        <h3 class="h4 text-uppercase mb-4 fw-bold text-primary">Categories</h3>
         {% set allCats = theory.posts | categoryTheory | sort %}
         {% for cat in allCats %}
         <details class="mb-3 border-bottom pb-2">
@@ -22,7 +22,9 @@ permalink: /religioustheory/taxonomy/index.html
                 {% for post in theory.posts %}
                     {% if post.categories | hasCategoryTheory(cat) %}
                     <div class="mb-2">
-                        <a href="/religioustheory/posts/{{ post.slug | slugify }}/" class="text-decoration-none text-secondary small hover-pink">
+
+                        <a href="/religioustheory/posts/{{ post.slug }}/" class="text-decoration-none text-secondary small hover-primary">
+
                             • {{ post.title }}
                         </a>
                     </div>
@@ -34,7 +36,7 @@ permalink: /religioustheory/taxonomy/index.html
     </div>
 
     <div class="col-md-12 mb-5">
-        <h3 class="h4 text-uppercase mb-4 fw-bold text-pink">Tags</h3>
+        <h3 class="h4 text-uppercase mb-4 fw-bold text-primary">Tags</h3>
         {% set allTags = theory.posts | tagTheory | sort %}
         {% for tag in allTags %}
         <details class="mb-3 border-bottom pb-2">
@@ -46,7 +48,9 @@ permalink: /religioustheory/taxonomy/index.html
                 {% for post in theory.posts %}
                     {% if post.tags | hasTagTheory(tag) %}
                     <div class="mb-2">
-                        <a href="/religioustheory/posts/{{ post.slug | slugify }}/" class="text-decoration-none text-secondary small hover-pink">
+
+                        <a href="/religioustheory/posts/{{ post.slug }}/" class="text-decoration-none text-secondary small hover-primary">
+
                             • {{ post.title }}
                         </a>
                     </div>

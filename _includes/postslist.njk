@@ -1,16 +1,43 @@
-<div class="row">
+<div class="row mt-3 mb-3">
 {%- for post in postslist | reverse %}
-    <div class="col-md-4 p-3">
-        <h3><a href="{{ post.url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a></h3>
-        <p>{{ post.data.description }}</p>
-        {% if post.data.tags %}
-        <div class="mt-2">
-            {%- for tag in post.data.tags | filterTagList %}
-                {%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
-                <a href="{{ tagUrl }}" class="badge bg-light text-secondary text-decoration-none me-1">#{{ tag }}</a>
-            {%- endfor %}
-        </div>
-        {% endif %}
+<div class="col-md-6 col-lg-4 p-3 small p-md-5"> 
+    <div class="img-zoom-container rounded-4 shadow-sm mb-3" style="aspect-ratio: 16/9; overflow: hidden;">
+        <a href="{{ post.url }}" title="{{ post.data.title }}">
+            {% set currentImg = post.data.image if post.data.image else '/img/se.jpg' %}
+            <img class="img-post img-fluid" 
+                 style="width: 100%; height: 100%; object-fit: cover;" 
+                 alt="{{ post.data.title }}" 
+                 src="{{ currentImg }}"
+                 onerror="this.onerror=null;this.src='/img/jcrt.jpg';">
+        </a>
     </div>
+
+    <h3 class="serif fw-bold h5">
+        <a href="{{ post.url }}" class="text-decoration-none text-dark hover-primary">
+            {% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}
+        </a>
+    </h3>
+    
+    <p class="text-secondary small">
+        {{ post.data.description | truncate(110) }}
+    </p>
+
+    {% if post.data.tags %}
+    <div class="mt-2 mb-3">
+        {%- for tag in post.data.tags | filterTagList %}
+            {%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+            <a href="{{ tagUrl }}" class="badge bg-light text-primary border border-primary text-decoration-none me-1" style="font-size: 0.7rem;">
+                #{{ tag }}
+            </a>
+        {%- endfor %}
+    </div>
+    {% endif %}
+
+    <p class="mt-auto">
+        <a href="{{ post.url }}" class="btn btn-primary px-4 py-2 fw-bold text-uppercase" style="font-size: 0.75rem; letter-spacing: 1px;">
+            Learn More
+        </a>
+    </p>
+</div>
 {%- endfor %}
 </div>
