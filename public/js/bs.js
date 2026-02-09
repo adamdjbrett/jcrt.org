@@ -25,3 +25,35 @@
             }
         });
     });
+    document.getElementById('close-sidebar')?.addEventListener('click', function() {
+    document.getElementById('sidebar-container').classList.remove('active'); // Sesuaikan dengan class toggle lo
+});
+const menuBtn = document.getElementById('menu-toggle-btn');
+const sidebar = document.getElementById('sidebar-container');
+const content = document.getElementById('content-wrapper');
+const body = document.body;
+
+function toggleMenu() {
+    sidebar.classList.toggle('active');
+    body.classList.toggle('sidebar-open');
+}
+
+menuBtn.addEventListener('click', function(e) {
+    e.stopPropagation(); 
+    toggleMenu();
+});
+
+content.addEventListener('click', function() {
+    if (body.classList.contains('sidebar-open')) {
+        toggleMenu();
+    }
+});
+
+const menuLinks = sidebar.querySelectorAll('a');
+menuLinks.forEach(link => {
+    link.addEventListener('click', () => {
+        if (body.classList.contains('sidebar-open')) {
+            toggleMenu();
+        }
+    });
+});
