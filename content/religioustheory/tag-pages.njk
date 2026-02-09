@@ -1,27 +1,44 @@
+---js
+{
+  layout: "theory.njk",
+  pagination: {
+    data: "collections.theoryPosts",
+    size: 1,
+    alias: "tag",
+    before: function(posts) {
+      const tagSet = new Set();
+      for (const post of posts) {
+        const tags = post.data.tags || [];
+        for (const t of tags) {
+         if (typeof t === 'string' && t !== 'theoryPosts' && t !== 'all') {
+            tagSet.add(t);
+          }
+        }
+      }
+      return Array.from(tagSet).sort();
+    }
+  },
+  permalink: "/religioustheory/tags/{{ tag | slugify }}/index.html",
+  eleventyComputed: {
+    title: "Tag: {{ tag }}"
+  }
+}
 ---
-layout: theory.njk
-pagination:
-  data: religioustheory_taxonomy.tags
-  size: 1
-  alias: tag
-permalink: "/religioustheory/tags/{{ tag | slugify }}/index.html"
-eleventyComputed:
-  title: "Tag: {{ tag }}"
----
-
 <article class="container-fluid mt-5">
   {% include "partials/nav_desktop.njk" %}
   
   <header class="mb-5 text-center">
     <h1 class="display-4 fw-bold serif">#{{ tag }}</h1>
-    <p><a class="text-primary fw-bold text-decoration-none text-uppercase" style="font-size: 0.8rem; letter-spacing: 1px;" href="/religioustheory/tags/">
+    <p><a class="text-primary fw-bold text-decoration-none
+       text-uppercase" style="font-size: 0.8rem; 
+       letter-spacing: 1px;" href="/religioustheory/tags/">
       &larr; View All Tags
     </a></p>
   </header>
 
   <div class="row mt-3 mb-3">
-    {%- for post in theory.posts %}
-      {%- set t = post.tags or [] -%}
+    {%- for post in collections.theoryPosts %}
+      {%- set t = post.data.tags or [] -%}
       {%- if t and (tag in t) %}
         <div class="col-md-6 col-lg-4 p-3 small p-md-5"> 
             <div class="img-zoom-container rounded-4 shadow-sm mb-3" style="aspect-ratio: 16/9; overflow: hidden;">

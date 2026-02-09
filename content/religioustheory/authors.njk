@@ -13,20 +13,22 @@ permalink: /religioustheory/authors/index.html
   <div class="row justify-content-center">
     <div class="col-md-8">
       <div class="d-flex flex-wrap justify-content-center gap-3">
-        {%- for authorName in religioustheory_taxonomy.authors %}
-          {% set count = 0 %}
-          {%- for post in theory.posts %}
-            {% set postAuthor = post.authorData.name or post.author or "Editors" %}
-            {%- if postAuthor == authorName %}{% set count = count + 1 %}{% endif -%}
-          {%- endfor %}
-          
-          <a href="/religioustheory/authors/{{ authorName | slugify }}/" 
-             class="btn btn-outline-primary border-2 px-4 py-2 fw-bold text-uppercase d-flex align-items-center" 
-             style="font-size: 0.85rem; letter-spacing: 1px;">
-            {{ authorName }}
-            <span class="badge bg-primary ms-2 rounded-pill">{{ count }}</span>
-          </a>
-        {%- endfor %}
+       {%- for authorName in religioustheory_taxonomy.authors %}
+  {% set countArray = [] %}
+  {%- for post in collections.theoryPosts %}
+    {% set postAuthor = post.data.author or "Editors" %}
+    {%- if postAuthor == authorName %}
+      {% set _ = countArray.push(1) %}
+    {%- endif %}
+  {%- endfor %}
+  
+  <a href="/religioustheory/authors/{{ authorName | slugify }}/" 
+     class="btn btn-outline-primary border-2 px-4 py-2 fw-bold text-uppercase d-flex align-items-center" 
+     style="font-size: 0.85rem; letter-spacing: 1px;">
+    {{ authorName }}
+    <span class="badge bg-primary ms-2 rounded-pill">{{ countArray | length }}</span>
+  </a>
+{%- endfor %}
       </div>
     </div>
   </div>

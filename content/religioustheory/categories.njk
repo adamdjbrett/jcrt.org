@@ -12,12 +12,21 @@ permalink: /religioustheory/categories/index.html
   </header>
 
   <div class="row row-cols-1 row-cols-md-3 g-4 mb-5">
-    {% set categories = theory.posts | categoryTheory | sort %}
-    
-    {% for c in categories %}
+
+{% set categories = [] %}
+{% for post in collections.theoryPosts %}
+    {% for cat in post.data.categories %}
+        {% if cat not in categories %}
+            {% set categories = (categories.push(cat), categories) %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
+<div class="row row-cols-1 row-cols-md-3 g-4 mb-5">
+    {% for c in categories | sort %}
       <div class="col">
         <a href="/religioustheory/categories/{{ c | slugify }}/" class="text-decoration-none">
-          <div class="card h-100 shadow-sm hover-shadow transition-all border-0 bg-light">
+          <div class="card h-100 shadow-sm border-0 bg-light">
             <div class="card-body p-4 d-flex justify-content-between align-items-center">
               <h3 class="h5 fw-bold mb-0 text-dark">{{ c | capitalize }}</h3>
               <span class="text-primary fw-bold">Explore &rarr;</span>
@@ -26,7 +35,6 @@ permalink: /religioustheory/categories/index.html
         </a>
       </div>
     {% endfor %}
-  </div>
 </div>
 
 <style>

@@ -81,7 +81,7 @@ Total:         48s → ~10s
 
 ## Changelog
 ### Dre
-1. Fix the homepage so that the following works again to show a /archives/#.# make it easy to set like typing 24.1 type thing.
+1. Fix the homepage so that the following works again to show a /archives/#.# make it easy to set like typing 24.1 type thing. - DONE
 
 ```yaml
 homepage_archive: 
@@ -89,6 +89,8 @@ homepage_archive:
   section_title: From the Archive
   max_items: 3
 ```
+
+
 1. https://jcrt.xmit.dev/archives/  - DONE
     1. hide keywords
     2. in header show volume, issue, season, title in that order

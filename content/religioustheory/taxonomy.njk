@@ -5,27 +5,37 @@ permalink: /religioustheory/taxonomy/index.html
 ---
 
 <div class="container-fluid">
-
- {% include "partials/nav_desktop.njk" %}
-<h1 class="display-5 fw-bold mb-5 border-bottom pb-3">Digital Archive Index</h1>
-   <div class="row">
+  {% include "partials/nav_desktop.njk" %}
+  <h1 class="display-5 fw-bold mb-5 border-bottom pb-3">Digital Archive Index</h1>
+  
+  <div class="row">
+    
     <div class="col-md-12 mb-5">
         <h3 class="h4 text-uppercase mb-4 fw-bold text-primary">Categories</h3>
-        {% set allCats = theory.posts | categoryTheory | sort %}
-        {% for cat in allCats %}
+        
+        
+        {% set allCats = [] %}
+        {% for post in collections.theoryPosts %}
+          {% for cat in post.data.categories %}
+            {% if cat not in allCats %}
+              {% set allCats = (allCats.push(cat), allCats) %}
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+
+        {% for cat in allCats | sort %}
         <details class="mb-3 border-bottom pb-2">
             <summary class="d-flex justify-content-between align-items-center fw-bold cursor-pointer">
                 {{ cat | capitalize }}
                 <i class="fas fa-chevron-down small text-muted"></i>
             </summary>
             <div class="mt-3 ps-3 border-start">
-                {% for post in theory.posts %}
-                    {% if post.categories | hasCategoryTheory(cat) %}
+                {% for post in collections.theoryPosts %}
+                    
+                    {% if post.data.categories and cat in post.data.categories %}
                     <div class="mb-2">
-
-                        <a href="/religioustheory/posts/{{ post.slug }}/" class="text-decoration-none text-secondary small hover-primary">
-
-                            • {{ post.title }}
+                        <a href="{{ post.url }}" class="text-decoration-none text-secondary small hover-primary">
+                            • {{ post.data.title }}
                         </a>
                     </div>
                     {% endif %}
@@ -35,23 +45,33 @@ permalink: /religioustheory/taxonomy/index.html
         {% endfor %}
     </div>
 
+    
     <div class="col-md-12 mb-5">
         <h3 class="h4 text-uppercase mb-4 fw-bold text-primary">Tags</h3>
-        {% set allTags = theory.posts | tagTheory | sort %}
-        {% for tag in allTags %}
+        
+        
+        {% set allTags = [] %}
+        {% for post in collections.theoryPosts %}
+          {% for tag in post.data.tags %}
+            {% if tag not in allTags %}
+              {% set allTags = (allTags.push(tag), allTags) %}
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+
+        {% for tag in allTags | sort %}
         <details class="mb-3 border-bottom pb-2">
             <summary class="d-flex justify-content-between align-items-center fw-bold cursor-pointer">
                 #{{ tag | upper }}
                 <i class="fas fa-chevron-down small text-muted"></i>
             </summary>
             <div class="mt-3 ps-3 border-start">
-                {% for post in theory.posts %}
-                    {% if post.tags | hasTagTheory(tag) %}
+                {% for post in collections.theoryPosts %}
+                    
+                    {% if post.data.tags and tag in post.data.tags %}
                     <div class="mb-2">
-
-                        <a href="/religioustheory/posts/{{ post.slug }}/" class="text-decoration-none text-secondary small hover-primary">
-
-                            • {{ post.title }}
+                        <a href="{{ post.url }}" class="text-decoration-none text-secondary small hover-primary">
+                            • {{ post.data.title }}
                         </a>
                     </div>
                     {% endif %}
@@ -60,5 +80,5 @@ permalink: /religioustheory/taxonomy/index.html
         </details>
         {% endfor %}
     </div>
-</div>
+  </div>
 </div>

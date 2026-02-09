@@ -1,43 +1,53 @@
-{% set featuredTag = metadata.homepage_archive.active_tag %}
-{% set maxItems = metadata.homepage_archive.max_items or 3 %}
-{% set archivePosts = collections.archives | filterByTag(featuredTag) | head(maxItems) %}
+{% set archiveConfig = metadata.homepage_archive %}
+{% set activeTag = archiveConfig.active_tag | string %}
+{% set archivePosts = [] %}
+
+{% for post in collections.archivesSorted %}
+  {% if archivePosts.length < archiveConfig.max_items %}
+    {% set volIssue = post.data.volume + "." + post.data.issue %}
+    {% if (activeTag in post.data.tags) or (activeTag == volIssue) %}
+      {% set archivePosts = (archivePosts.push(post), archivePosts) %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
 {% if archivePosts.length > 0 %}
 <section class="archive-featured-section border-top pt-5">
-  <div class="container-fluid">
-    <div class="col-md-12 px-3 px-md-5 mb-4">
-      <div class="d-flex align-items-center justify-content-between">
-        <h3 class="m-0">
-          <strong><span class="bgb-primary">{{ metadata.homepage_archive.section_title }}</span></strong>
-          <span class="ms-2 badge bg-light text-secondary small" style="font-size: 0.5em;">#{{ featuredTag }}</span>
-        </h3>
-        <a href="/archives/" class="text-primary text-decoration-none small">Explore All Archives →</a>
-      </div>
+  <div class="container-fluid px-3 px-md-5">
+    <div class="d-flex align-items-center justify-content-between mb-4">
+      <h3 class="m-0 serif fw-bold">
+        <span class="border-bottom border-3 border-primary pb-1">{{ archiveConfig.section_title }}</span>
+        <span class="ms-2 badge bg-light text-secondary small" style="font-size: 0.5em;">#{{ activeTag }}</span>
+      </h3>
+      <a href="/archives/" class="text-primary text-decoration-none small fw-bold text-uppercase">Explore All →</a>
     </div>
 
-    <div class="row px-md-4">
+    <div class="row">
       {% for post in archivePosts %}
-        <div class="col-md-6 col-lg-4 p-3 p-md-4">
-          <div class="img-zoom-container mb-3">
+        <div class="col-md-4 mb-4">
+          <div class="img-zoom-container mb-3 shadow-sm rounded" style="aspect-ratio: 16/9; overflow: hidden;">
             <a href="{{ post.url }}">
-              <img src="{{ post.data.image or metadata.image }}" 
-                   class="img-post rounded shadow-sm" 
-                   alt="{{ post.data.title }}"
-                   width="100%" height="auto"
-                   style="aspect-ratio: 16/9; object-fit: cover;">
+              <img src="{{ post.data.image if post.data.image and post.data.image != 'null' else '/img/jcrt.jpg' }}" 
+                   class="img-fluid w-100 h-100" 
+                   style="object-fit: cover;" 
+                   alt="{{ post.data.title }}">
             </a>
           </div>
           
-          <h3 class="h5"><strong>{{ post.data.title }}</strong></h3>
+          <h4 class="h6 serif fw-bold mb-1">{{ post.data.title or "Untitled Document" }}</h4>
           
-          {% if post.data.authors %}
-            <p class="small text-primary mb-2">By {{ post.data.authors }}</p>
-          {% endif %}
+          <p class="small text-muted mb-2">
+            By {{ post.data.author or post.data.authors or "Unknown" }}
+            {% if post.data.volume %}
+              <span class="mx-1">•</span> Vol {{ post.data.volume }}.{{ post.data.issue }}
+            {% endif %}
+          </p>
 
           <p class="text-secondary small">
-            {{ post.data.description | truncate(110) }}
+            {{ post.data.description | truncate(110) if post.data.description else post.templateContent | striptags | truncate(110) }}
           </p>
           
-          <a href="{{ post.url }}" class="btn btn-sm btn-primary">View Document</a>
+          <a href="{{ post.url }}" class="btn btn-link p-0 text-primary text-decoration-none fw-bold small text-uppercase">View Document</a>
         </div>
       {% endfor %}
     </div>

@@ -7,15 +7,33 @@ permalink: /religioustheory/tags/index.html
 <article class="container-fluid mt-5">
   {% include "partials/nav_desktop.njk" %}
   <header class="mb-4">
-    <h1><strong><span class="border-bottom border-4 border-primary pb-2">
-      Tags</span></strong></h1>
+    <h1>
+      <strong>
+        <span class="border-bottom border-4 border-primary pb-2">Tags</span>
+      </strong>
+    </h1>
   </header>
 
   <div class="row justify-content-center">
     <div class="col-md-12 mt-5">
       <ul class="list-unstyled row">
-        {%- for tag in (religioustheory_taxonomy.tags or []) %}
-          {% set count = religioustheory_taxonomy.tagCounts[tag] or 0 %}
+        {% set allTags = [] %}
+        {% for post in collections.theoryPosts %}
+          {% for t in post.data.tags %}
+            {% if t not in allTags %}
+              {% set allTags = (allTags.push(t), allTags) %}
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+
+        {%- for tag in allTags | sort %}
+          {% set count = 0 %}
+          {% for p in collections.theoryPosts %}
+            {% if tag in p.data.tags %}
+              {% set count = count + 1 %}
+            {% endif %}
+          {% endfor %}
+
           <li class="mb-2 col-md-3 col-6">
             <a class="text-decoration-none" href="/religioustheory/tags/{{ tag | slugify }}/">#{{ tag }}</a>
             <span class="text-muted small">({{ count }})</span>

@@ -26,7 +26,8 @@ export default function(eleventyConfig) {
     eleventyConfig.addFilter("getKeys", target => (target ? Object.keys(target) : []));
 
     eleventyConfig.addFilter("filterTagList", function filterTagList(tags) {
-        return (tags || []).filter(tag => ["all", "posts", "authors", "nav"].indexOf(tag) === -1);
+        return (tags || []).filter(tag => ["all", "posts", "authors",
+             "nav"].indexOf(tag) === -1);
     });
 
     eleventyConfig.addFilter("sortAlphabetically", (strings) =>
@@ -61,15 +62,7 @@ eleventyConfig.addFilter("lastModifiedDate", (dateObj) => {
 
   return date.toISOString();
 });
-eleventyConfig.addCollection("religioustheory", function(collectionApi) {
-  return collectionApi.getFilteredByGlob("content/religioustheory/**/*")
-    .filter(item => {
-      const isIndex = item.inputPath.includes("index.md");
-      const isContent = item.inputPath.endsWith(".md") || item.inputPath.endsWith(".html");
-      
-      return !isIndex && isContent;
-    });
-});
+
 
 eleventyConfig.addFilter("isoDate", (dateObj) => {
     if (!dateObj) return new Date().toISOString();

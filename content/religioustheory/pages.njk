@@ -7,7 +7,7 @@ permalink: /religioustheory/pages/index.html
 <h1>Static Pages</h1>
 
 <ul>
-{% for pg in theory.pages %}
+{% for pg in collections.theoryPages %}
   <li class="p-3">
     <strong>
       <a href="/religioustheory/{{ pg.slug | slugify }}/">{{ pg.title }}</a>

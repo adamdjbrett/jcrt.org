@@ -1,6 +1,6 @@
 ---js
 const pagination = {
-	data: "theory.posts",
+	data: "collections.theoryPosts",
 	size: 1,
 	alias: "category",
 	before: function(posts) {
@@ -33,7 +33,7 @@ const eleventyComputed = {
   
 
  <div class="row mt-3 mb-3">
-{% for post in theory.posts %}
+{% for post in collections.theoryPosts %}
   {% if post.categories and (category in post.categories) %}
 
     <div class="col-md-6 col-lg-4 p-3 small p-md-5"> 
