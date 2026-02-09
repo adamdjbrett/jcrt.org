@@ -3,6 +3,9 @@ layout: base.njk
 ---
 <div class="col-md-10 mx-auto">
   {% include "partials/nav_desktop.njk" %}
+  {% set urlParts = (page.url or '').split('/') %}
+  {% set issueSlug = urlParts[2] or '' %}
+  {% set isIssueIndex = page.url and page.url.startsWith('/archives/') and page.url.endsWith('/') and (urlParts | length) == 4 and issueSlug.includes('.') %}
 
   <div class="container-fluid">
     <article class="py-4">
@@ -12,6 +15,20 @@ layout: base.njk
         {% endif %}
 
         <h1 class="serif fw-bold display-4 mb-3">{{ jsonEntry.title or title }}</h1>
+
+        {% if isIssueIndex %}
+          {% set issueImage = image or '/img/logos/JCRT.svg' %}
+          <div class="mb-4">
+            <img
+              src="{{ issueImage }}"
+              alt="{{ title or 'Journal issue cover image' }}"
+              class="img-fluid rounded shadow-sm w-100"
+              style="max-height: 420px; object-fit: cover;"
+              loading="lazy"
+              onerror="this.onerror=null;this.src='/img/logos/JCRT.svg';"
+            >
+          </div>
+        {% endif %}
         
         <div class="text-muted mb-4">
           <span class="fw-bold text-dark">{{ jsonEntry.author or author }}</span>

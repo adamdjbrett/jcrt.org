@@ -28,8 +28,10 @@ pagination:
     <section class="issue-block mb-5 p-4 bg-body-tertiary rounded border-start border-4 
     border-primary shadow-sm">
       <h2 class="serif fw-bold text-body-emphasis mb-2">
-    {{ issue.data.volume }}.{{ issue.data.issue }} - {{ issue.data.season }}
-    {% if issue.data.title %} - {{ issue.data.title }}{% endif %}
+        <a href="{{ issue.url }}" class="text-decoration-none text-body-emphasis hover-primary">
+          {{ issue.data.volume }}.{{ issue.data.issue }} - {{ issue.data.season }}
+          {% if issue.data.title %} - {{ issue.data.title }}{% endif %}
+        </a>
   </h2>
   {% if issue.data.description %}<p class="text-body-secondary mb-4">{{ issue.data.description }}</p>{% endif %}
 

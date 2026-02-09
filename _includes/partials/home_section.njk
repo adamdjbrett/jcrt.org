@@ -4,25 +4,61 @@
             <h2><strong><span class="bgb-primary">{{section.title}}</span></strong></h2>
         </div>
 
-        {% for s in section.list %} 
-        <div class="col-12 col-lg-6 p-3 p-md-4">
-            <div class="row align-items-center">
-                <div class="col-12 col-md-4 d-flex justify-content-center mb-3 mb-md-0">
-                    <div class="wajik-wrapper">
-                        <div class="wajik-isi">
-                            <a href="{{s.url}}">
-                                <i class="{{s.icon}} fa-2x text-primary"></i>
+        {% if section.mode == "recent_journal_issues" %}
+            {% set recentIssues = collections.archivesToc | reverse | head(4) %}
+            {% for issue in recentIssues %}
+            <div class="col-12 col-lg-6 p-3 p-md-4">
+                <div class="row align-items-start">
+                    <div class="col-12 col-md-4 mb-3 mb-md-0">
+                        {% set issueImage = issue.data.image or "/img/logos/JCRT.svg" %}
+                        <a href="{{ issue.url }}" class="d-block">
+                            <img
+                                src="{{ issueImage }}"
+                                alt="{{ issue.data.title or ('Volume ' ~ issue.data.volume ~ '.' ~ issue.data.issue) }}"
+                                class="img-fluid rounded shadow-sm w-100"
+                                style="max-height: 120px; object-fit: cover;"
+                                loading="lazy"
+                                onerror="this.onerror=null;this.src='/img/logos/JCRT.svg';"
+                            >
+                        </a>
+                    </div>
+                    <div class="col-12 col-md-8 text-center text-md-start pe-md-5">
+                        <h3 class="h5 mb-1">
+                            <a href="{{ issue.url }}" class="text-decoration-none">
+                                {{ issue.data.volume }}.{{ issue.data.issue }} - {{ issue.data.season }}
                             </a>
-                        </div>
+                        </h3>
+                        {% if issue.data.title %}
+                        <p class="small fw-bold mb-1">{{ issue.data.title }}</p>
+                        {% endif %}
+                        {% if issue.data.description %}
+                        <p class="small mb-0">{{ issue.data.description }}</p>
+                        {% endif %}
                     </div>
                 </div>
-                <div class="col-12 col-md-8 text-center text-md-start pe-md-5">
-                    <h3 class="h5"><a href="{{s.url}}" class="text-decoration-none">{{s.title}}</a></h3>
-                    <p class="small mb-0">{{s.text}}</p>
+            </div>
+            {% endfor %}
+        {% else %}
+            {% for s in section.list %}
+            <div class="col-12 col-lg-6 p-3 p-md-4">
+                <div class="row align-items-center">
+                    <div class="col-12 col-md-4 d-flex justify-content-center mb-3 mb-md-0">
+                        <div class="wajik-wrapper">
+                            <div class="wajik-isi">
+                                <a href="{{s.url}}">
+                                    <i class="{{s.icon}} fa-2x text-primary"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-8 text-center text-md-start pe-md-5">
+                        <h3 class="h5"><a href="{{s.url}}" class="text-decoration-none">{{s.title}}</a></h3>
+                        <p class="small mb-0">{{s.text}}</p>
+                    </div>
                 </div>
             </div>
-        </div>
-        {% endfor %}
+            {% endfor %}
+        {% endif %}
 
         <div class="col-12 p-3 border-bottom"></div>
     </div>

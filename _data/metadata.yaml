@@ -4,9 +4,8 @@ image: "/img/logos/favicon.svg"
 language: "en"
 locale: en_US
 favicon: "/img/logos/favicon.svg"
-#url: "https://editorial.000000076.xyz"
-#url: http://localhost:8080
-url: https://jcrt.xmit.dev
+url: http://localhost:8080
+#url: https://jcrt.xmit.dev
 homepage_archive: 
   active_tag: cat
   section_title: From the Archive
@@ -42,7 +41,7 @@ sidebar:
         url: /
       - nav: About
         url: /about/
-      - nav: Archives
+      - nav: Journal Archive
         url: /archives/
       - nav: News
         url: /blog/
