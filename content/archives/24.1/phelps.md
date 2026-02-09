@@ -1,9 +1,9 @@
 ---
 title: "CONSTRUCTING MYSTICAL EXPERIENCES: A CRITIQUE OF THE MYSTICAL PARADIGM IN PSYCHEDELIC RESEARCH"
 author: "Hollis Phelps"
-affilation:
+affilation: Mercer University
 abstract:
-keywords: []
+keywords: [psychadelics]
 pdf: Phelps.pdf
 sort_id: 09
 volume: 24

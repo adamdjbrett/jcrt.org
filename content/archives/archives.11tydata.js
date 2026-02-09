@@ -1,10 +1,46 @@
+function normalizePermalink(value) {
+  if (!value || typeof value !== "string") return null;
+  const trimmed = value.trim();
+  if (!trimmed) return null;
+  const withLeadingSlash = trimmed.startsWith("/") ? trimmed : `/${trimmed}`;
+  return withLeadingSlash.endsWith("/") ? withLeadingSlash : `${withLeadingSlash}/`;
+}
+
 export default {
   title: "Journal for Cultural and Religious Theory",
   layout: "archive-post.njk",
   eleventyComputed: {
     jsonEntry: (data) => {
-      const slug = data.page.fileSlug;
-      return data.theory?.posts?.find(p => p.slug === slug || p.permalink?.includes(slug)) ?? null;
+      const pagePermalink = normalizePermalink(data.page?.url);
+      // theory_archive.json content is restricted to /religioustheory/ routes only.
+      if (!pagePermalink || !pagePermalink.startsWith("/religioustheory/")) {
+        return null;
+      }
+
+      const posts = Array.isArray(data.theory?.posts) ? data.theory.posts : [];
+      if (!posts.length) return null;
+
+      const explicitPermalink = normalizePermalink(
+        data.theoryPermalink ?? data.sourcePermalink ?? null
+      );
+      if (explicitPermalink) {
+        const byExplicitPermalink = posts.find(
+          (post) => normalizePermalink(post.permalink) === explicitPermalink
+        );
+        if (byExplicitPermalink) return byExplicitPermalink;
+      }
+
+      const byPagePermalink = posts.find(
+        (post) => normalizePermalink(post.permalink) === pagePermalink
+      );
+      if (byPagePermalink) return byPagePermalink;
+
+      const explicitSlug = data.theorySlug ?? data.sourceSlug ?? null;
+      if (explicitSlug) {
+        return posts.find((post) => post.slug === explicitSlug) ?? null;
+      }
+
+      return null;
     },
     pdfUrl: (data) => {
       const slug = data.page.fileSlug;

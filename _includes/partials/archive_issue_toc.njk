@@ -1,0 +1,58 @@
+{% set current_dir = page.inputPath | replace('/index.njk', '/') %}
+{% set issue_items = [] %}
+
+{% for entry in collections.all %}
+  {% if entry.inputPath and entry.inputPath.startsWith(current_dir) %}
+    {% set relative_path = entry.inputPath | replace(current_dir, '') %}
+    {% if relative_path.endsWith('.md') and relative_path != 'index.md' and '/' not in relative_path %}
+      {% set sort_id = entry.data.sort_id %}
+      {% set pages = entry.data.pages %}
+      {% set pages_first = (pages or "").toString().split("-")[0].trim() %}
+      {% set pages_num = pages_first.replace("S", "").replace("s", "").replace("P", "").replace("p", "").trim() %}
+      {% set sort_key = (sort_id or pages_num or "999999").toString().padStart(6, "0") %}
+      {% set issue_items = issue_items.concat([{ entry: entry, sort_key: sort_key }]) %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% set sorted_items = issue_items | sort(false, false, "sort_key") %}
+
+{% if sorted_items | length %}
+  <section class="issue-toc">
+    <h2 class="h4 serif fw-bold mb-4">Table of Contents</h2>
+    <div class="row">
+      {% for item in sorted_items %}
+        {% set entry = item.entry %}
+        {% set toc_number = ("00" + loop.index0).slice(-2) %}
+        <div class="col-12 border-bottom pb-3 mb-3 article-item">
+          <h3 class="h5 serif fw-bold mb-1">
+            <span class="text-muted me-2">{{ toc_number }}</span>
+            <a href="{{ entry.url }}" class="text-decoration-none text-body-emphasis hover-primary">
+              {{ entry.data.title or entry.fileSlug }}
+            </a>
+          </h3>
+          {% if entry.data.author %}
+            <p class="small mb-0">
+              <span class="text-muted">By</span>
+              {% set authorNames = entry.data.author | splitAuthors %}
+              {% for aName in authorNames %}
+                {% set authorData = collections.authors | getAuthorObj(aName) %}
+                {% if authorData %}
+                  <a href="{{ authorData.url }}" class="fw-bold text-primary text-decoration-none hover-primary">
+                    {{ authorData.data.name or authorData.data.title or aName }}
+                  </a>
+                  {% if authorData.data.affiliation %}<span class="text-muted small"> ({{ authorData.data.affiliation }})</span>{% endif %}
+                {% else %}
+                  <span class="fw-bold text-primary">{{ aName }}</span>
+                {% endif %}
+                {% if not loop.last %}; {% endif %}
+              {% endfor %}
+            </p>
+          {% endif %}
+        </div>
+      {% endfor %}
+    </div>
+  </section>
+{% else %}
+  <p class="text-muted">No articles found for this issue.</p>
+{% endif %}

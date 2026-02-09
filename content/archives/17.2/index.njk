@@ -7,33 +7,4 @@ description: "Beyond Myth and Enlightenment Phenomenological Reconsiderations of
 image: /img/freeway.png
 ---
 
-{% set current_dir = page.inputPath | replace('/index.njk', '/') %}
-{% set items = [] %}
-
-{% for entry in collections.all %}
-  {% if entry.inputPath and entry.inputPath.startsWith(current_dir) %}
-    {% set relative_path = entry.inputPath | replace(current_dir, '') %}
-    {% if relative_path.endsWith('.md') and relative_path != 'index.md' and '/' not in relative_path %}
-      {% set items = items.concat([entry]) %}
-    {% endif %}
-  {% endif %}
-{% endfor %}
-
-{% set sortable = [] %}
-{% for entry in items %}
-  {% set sort_id = entry.data.sort_id %}
-  {% set pages = entry.data.pages %}
-  {% set pages_first = (pages or "").toString().split("-")[0].trim() %}
-  {% set pages_num = pages_first.replace("S", "").replace("s", "").replace("P", "").replace("p", "").trim() %}
-  {% set sort_key = (sort_id or pages_num or "999999").toString().padStart(6, "0") %}
-  {% set sortable = sortable.concat([{ entry: entry, sort_key: sort_key }]) %}
-{% endfor %}
-
-{% set sorted_items = sortable | sort(false, false, "sort_key") %}
-
-<ul>
-{% for item in sorted_items %}
-  {% set entry = item.entry %}
-  <li><a href="{{ entry.url }}">{{ entry.data.sort_id or entry.data.pages or "" }} {{ entry.fileSlug }}</a></li>
-{% endfor %}
-</ul>
+{% include "partials/archive_issue_toc.njk" %}
