@@ -1,0 +1,115 @@
+---
+title: >-
+  The Imagination In Spinoza – The Moral Good Between Prophecy And The Amor Dei
+  Intellectualis, Part 1 (Caterina De Gaetano)
+date: 2023-07-27T16:21:05.000Z
+author: editors
+permalink: >-
+  /2023/07/27/the-imagination-in-spinoza-the-moral-good-between-prophecy-and-the-amor-dei-intellectualis-part-1-caterina-de-gaetano/
+image: /images/2023/08/Baruch_Spinoza_plaque_Budapest07_cropped-917x642.jpg
+categories:
+  - Philosophy of Religion
+layout: theory.njk
+slug: >-
+  the-imagination-in-spinoza-the-moral-good-between-prophecy-and-the-amor-dei-intellectualis-part-1-caterina-de-gaetano
+tags:
+  - posts
+---
+
+*The following is the first of a two-part series.* *[The entire article](https://jcrt.org/archives/22.1/Degaetano.pdf) appears in Issue 22.1 of the* Journal for Cultural and Religious Theor*y.*
+
+Spinoza’s *Tractatus Theologico-Politicus* is a book in which the author’s mature ideas about the epistemological capacities of the human being are used to propose a configuration of political roles, religious power, and general human relationships.[^1]  Spinoza is a republican: he believes that a secular democratic government is the best way for people to converge towards a (rational) union of intentions and improve their condition. He believes that a good state is fundamental for the happiness of its citizens, and a good state is one without religious interference.
+
+Thus, examining how Spinoza formulates the relationship between human intellectual capacities, their social role, and religion is relevant for understanding his position on political and moral matters in general. What I will try to do in this work is to show that Spinoza’s position regarding this theme in the *Tractactus Theologico-Politicus* presupposes a fundamental role of the body. His critique to religion is founded on the assumption that the human imagination – our corporeal, epistemic faculty – is not sufficient for truly knowing God. At the same time, he shows that without this faculty and without the well-being of our body, which is intrinsically related to a social well-being, our mind would not be able to know God. That is, our true happiness: the highest good.
+
+This piece of the Spinozian theory of knowledge and its application in the political and moral scope considers a much-desired secular society not because spirituality must be condemned, but because religion must be a private matter. What is important is the relationship the individual builds with a God that is accessible to everyone, a God that is material and coincides with the reality that surrounds us (and involves us). In this transition from an exclusive relationship between the prophet and God, which is a public matter, to a private path of the intellectual love of God, the body plays an ambiguous but important role through the imagination.[^2]
+
+Section 1 introduces the Spinozian critique to prophecy inside the *Tractactus Theologico-Politicus* and describes the role that the imagination, and thus, the body plays in the definition of who a prophet is. Through a comparison with the description of prophecy in Maimonides’ *The Guide for the Perplexed* it will be shown that the status of the prophet as a well-learned individual has important social and political consequences. Section 2 gives an account of the imagination as a corporeal and representative epistemic faculty through an analysis in *Ethica*. Section 3 returns to the practical dimension of religion.
+
+Given the precedent set in the analysis, the imagination is traced an alternative configuration of religion no longer related to truth but important for the practical regulation of shared life. Finally, Section 4 questions the relationship between this form of morality related to the body and the highest good. What I wish to convey is that according to Spinoza it is not possible to articulate a path towards the love or knowledge of God without considering the fundamental role of the body. The Conclusion summarizes the sequential argument made throughout the sections.
+
+*The Prophecy in Spinoza’s* Tractatus Theologico-Politicus
+
+When Spinoza starts writing the *Tractatus Theologico-Politicus* (hereafter TTP) in 1665, he explicitly states (*Epistola* XXXI) that the targets of his critique are the prejudices inspired by religious authority. The theologians and *Predikanten* in Amsterdam exert political power and influence on the population, which is undesirable for Spinoza and his republican friends. [^3] In order to avoid persecution, in the TTP Spinoza mostly limits the scope of his critique on theology to an audience of Jewish thinkers. He often criticizes Cristian thinkers indirectly through references to Jewish personalities cited by them.[^4]
+
+Consequently, Spinoza’s critique of Jewish prophecy must be understood as a general critique to all religions based on revelation. His aim is to demonstrate that religion cannot be taken as a source of speculative truth (TTP II, 1). Given this, intellectual research is and must remain completely autonomous from strictly theological discourse, as shown in TTP XV. These are the premises used by Spinoza in the last five chapters of the TTP in order to formulate an argument in favour of a secular democratic government, which would allow complete freedom of thought by being predominantly political regarding religious institutions.
+
+But how does Spinoza undermine the authority of prophecy regarding speculative matters? He engages in this argumentation in the first two Chapters of the TTP through an analysis of the prophecy as a way of getting to know God. Spinoza follows in the steps of earlier Islamic and Jewish philosophers (one and for all Maimonides in *The Guide of the Perplexed*) but the crucial part in his argument is the characterization of prophets as peculiar individuals whose greatest epistemic ability is the imagination. As he writes, *Prophetas, non nisi ope imaginationis, Dei revelata percepisse, hoc est, mediantibus verbis, vel imaginibus, iisque veris, aut imaginariis.* (TTP I, 27)[^5] : the only way through which the prophet can access the knowledge of God is his *imaginatio*, i.e., he does not use his intellect.
+
+While that which we understand *clare et distincte* via the *intellectus* is obtained without the help of words, the *imaginatio* can only know things by using images or words. Moreover, not only do the prophets acquire knowledge in an imaginative way, but they can also express their knowledge solely by imaginative means. Hence, regarding the teachings of the prophets, there cannot be any certainty produced by an intellectual understanding of the truth. Rather, one can only have faith in what they report because they narrate instead of teaching (TTP I, 3, *Adnotatio* II).
+
+It follows that neither when the prophecy is experienced in first person, nor when someone hears or reads the revelation, the knowledge they gain makes one more learned (TTP II, 2-3). The fact is that the prophets do nothing more than repeat already held opinions to express something about God. This is the reason why different prophets have described God in a great variety of manners: the *imaginatio* alone cannot bring the person to recognize rational common features shared by the structures of nature and therefore to recognize the univocal true nature of God.
+
+Here, Spinoza introduces the expression *ad captum \[alicuius\]* (TTP II, 13): the prophecy is constructed, and it is consequently expressed according to the intellectual capabilities of the person to whom it is addressed. The prophecy cannot create new knowledge because its intrinsic nature is to accommodate itself to the opinions already held by the individual. Hence, when Joshua said that God could stop the sun revolving around the Earth, he did so because the knowledge expressed in his prophecy relied only on the opinions of his time and of his education (specifically, the earth stands still, and the sun moves). Having access only to an imaginative way of knowing, Joshua had no way to conceive of God other than through what he already held as a previous belief (TTP II, 13).
+
+This idea of the excellence of the imagination among the prophet’s virtues can be traced back to Islamic and Jewish medieval philosophy. Inspired by the Neo-platonic concept of emanation and the Aristotelian structure of the intellect[^6] , philosophers of these traditions conceived the process of acquiring knowledge as an emanation from the First Intellect to the human faculties.
+
+In *The Guide of the Perplexed,* Maimonides describes three different categories of human beings depending on whether the imagination, the intellect or both faculties are involved in the emanation process. Knowledge from God can arrive on different faculties, and depending on which ones, that knowledge generates different kinds of individual knowledge.[^7]  The first class is that of politicians. They can express their knowledge through images in an effective and persuasive manner although without the understanding of what they have received, ie., what God decides to communicate to them. In this case only the imagination is affected.
+
+The intellect is not involved at all. Politicians are capable of ruling because using symbols and impressive metaphors is sufficient to govern the masses even without an intellectual grasp of the truth. Secondly, there are the philosophers. They have only a speculative knowledge of God because they receive the emanation exclusively through the intellect. Finally, the prophets receive the emanation first at the level of the intellect, where it then passes to the imagination. They not only understand God on a speculative level but are also able to express this knowledge via images to the ignorant common folk (*vulgus*). They rationally comprehend *and* persuade.
+
+The persuasive character of the imagination is crucial to explain the role of the prophets not only in the Maimonidean system but also in the Spinozian. According to both philosophers, imagination is essentially a bodily faculty that is fitting to keep, organize and imitate (re-create) sensory perception. What is interesting here is this particular of productivity: it is possible to create specific images although they do not actually exist. Even if the sensory apparatus is not affected by the objects the images represent, it is possible to generate those images.
+
+So, as Ravven explains, according to Maimonides, the prophet has the gift of conveying abstract speculative truths via simple, concrete, and accessible images.[^8] Indeed, Maimonides often insists on the allegorical character of the Bible in that it contains only true statements that are hidden under a metaphorical meaning. The Bible is the culmination of the prophetic art of asserting a difficult concept in an ambiguous and trivial manner.
+
+This means that the Bible has two different audiences: on the one hand, there are those who can understand the hidden truth. They comprehend the esoteric meaning of the prophecies. These are the philosophers. On the other hand, there is the *vulgus* which perceives only the exoteric meaning and blindly trust the beliefs constructed to hide the reality. It is necessary to hide the true philosophical meaning of the Bible’s assertion because, from Maimonides’ perspective, a true assertion can be dangerous if it is not properly understood. The *vulgus* needs to be given some false yet benign lies which lead it toward the well-being and stability of the state.  In other words, these metaphors have a moral and political goal, in addition to being capable of actively bringing on speculative knowledge if correctly interpreted.
+
+Here lies the central difference between Maimonides and Spinoza: the latter, although clearly influenced by the Maimonidean idea of imagination as a source of effective narrative means to inspire ethical behaviours in the masses, completely rejects the understanding of the Bible as an esoteric book.[^9] According to Spinoza, the revealed text does not contain any hidden speculative wisdom because its authors were not particularly erudite people.
+
+It might be fair to say that in Spinoza’s mind, the prophet plays the role of the Maimonidean politician: prophets possess only a passionate imaginative faculty as well as great eloquence, both of which are useful in guiding those who are not able to access the highest intellectual good. They must therefore at least be led towards the good of the body, i.e., towards a prosperous state (TTP III, 1-6). In Spinoza’s view, there is no reason to struggle in search of a key to interpret the Bible allegorically in order to show that it has some speculative knowledge inside, since it contains only imaginative and persuasive statements (TTP II, 1).
+
+## The Representative Character of the Imagination
+
+In *Ethica*, the *imaginatio* is described simply as the faculty of having images about the external bodies as present to us *(Ethica* II Prop 17 Scholium). It is impossible to have an imaginative idea of a body if this has never affected the human body, however after the human body has been affected by the object for the first time, it is possible for that same affect and for its corresponding image to return even in the effective absence of the object (*Ethica* II Prop 17 *Corollarium*). The affection that any external body produces on our bodies, even though it involves the nature of both, informs us far more about our own body than about the external one (*Ethica* II Prop 16 *Corollarium* II).
+
+Spinoza is a son of the scientific revolution. He is aware that the mental entities derived from the perception of real objects are not an exact mould of their physical characteristics. Rather, they are a qualitative result of the interaction of bodies’ features with the anatomical structure of our senses. They are merely an appearance of reality, albeit a necessary appearance, determined by the very structure of the human body. However, thanks to the necessity of their appearance, they can be interpreted to recognize within them the objectiveness of their nature.
+
+Hence, the imaginative ideas do not constitute adequate knowledge neither of our body nor of external ones (*Ethica* II Prop 25, 27). Indeed, both objects are not known according to the natural order of things, but rather according to the necessarily contingent order dependent on the variable disposition of our body. Moreover, the images always imply the consideration of the external body as actually existing, even if the cause of the affect is not an existing external body, but a movement inside the human body such as in the case of the hallucination. It seems that the images we possess are not a reliable source of knowledge, yet the argument is even more complex: these images intrinsically evade the categories of true and false because they are the products of our experiences of the world.
+
+The elusive character of our images is necessarily derived from our mind’s constitution. No amount of adequate knowledge can prevent the imaginative experience. However, every time we apply our intellect in *interpreting* these images, we judge them according to our previous knowledge, be it adequate or inadequate, about what they are showing us. We then formulate a true or false idea.[^10]
+
+This semiotic aspect of the images is crucial. The *involvere* proper to them constitutes their representational character. As Mignini explains, the dimming of the images precedes and anticipates the further determination (the *exprimere)* of existing within the concepts and the ideas of the intellect.[^11]
+
+Additionally, the more a body is suitable to create a great variety of images, the more it becomes possible to compare these representations and to recognize in them the common features which pertain to the knowledge of the *ratio*. At first sight, this proportional link seems in open contradiction with what it is said at the beginning of TTP II: *Nam qui maxime imaginatione pollent, minus apti sunt ad res pure intelligendum, & contra, qui intellectu magis pollent, eumque maxime colunt, potentiam imaginandi magis temperatam, magisque sub potestatem habent, & quasi freno tenent, ne cum intellectu confundatur* (TTP II, 1)[^12] . However, as Gueroult (1974, 221) shows, in the TTP the *potentia* denotes the dominance of the imagination on the intellect, not its productive capacity. If the *intellectus* does not take over from the *imaginatio* to gain adequate knowledge of the entities, the possibility of a *clare et distincte* understanding is spoiled.
+
+This reasoning shows that the imaginative activity is not wrong per se. The problem lies in the lack of adequate ideas. Such ideas would allow correct interpretation of the images that we have by virtue of the affects produced from external bodies. From this we should be able to interpret our sensory inputs. These inputs follow the order of our body according to the natural order of things –specifically the rational and true order – i.e., we should perceive them *sub specie aeternitatis.* On the contrary, the failure of the application of true ideas gives rise to permanence in an obscured and confused judgement.
+
+In an opinionative and unreliable knowledge, the images are signs which are interpreted through other signs and images in a contingent order given by our body, rather than being contextualized in a frame of necessary relations derived by our adequate knowledge. Hence, it is impossible to have a necessary certainty about them.[^13] Since the *Tractatus de Intellectus Emendatione*, Spinoza assigns this knowledge by hearsay or by means of another *arbitrary* sign at the lowest rung of our epistemological capabilities because of its contingent character. Joshua’s ignorance of the phenomenon’s true cause leads him to interpret the lengthening of the day’s light according to the non-certain, i.e., non-demonstrable belief that it is the sun which moves around the Earth and not the other way around. From the non-demonstrable belief follows the contingent opinion that the sun must have been miraculously halted by God. This same scheme repeats for all the other biblical prophecies, leading Spinoza to claim that these are characterized by an exclusively moral and non-necessary certainty.
+
+Indeed, it is usually easier to grasp an example than to really understand a demonstration. The reception of the first is more immediate and effortless while the understanding of the second, especially if it is particularly complex, is difficult, time-consuming, and not always accessible through our previous knowledge. However, we can never be perfectly sure about what any given example is referring to. There is always a margin of error to any interpretation we can give of images. On the contrary, when with difficulty we have understood a demonstration, we can be sure to have grasped the truth that the demonstration is conveying. If that were not the case, we would not accept it.
+
+Thus, the reason is clear why the imagination plays a powerful role in shaping the way in which we communicate with each other in practical situations: the persuasive character of the images is motivated by their immediacy. It is also clear why Spinoza cannot accept this kind of knowledge as the basis of authentic intellectual research: having images of external bodies is necessary to all knowledge. But these signs alone are not only useless, they are also dangerous if not interpreted correctly through adequate ideas of the intellect.
+
+*Caterina De Gaetano graduated at Rome La Sapienza University, attends currently Milan State University and has made an Erasmus experience at University of Vienna. She has a specific interest in the modes of knowledge, both in traditional philosophy and in the interdisciplinary field of cognitive sciences. One of the major topic for her is the role of the body in shaping human experience and articulating the relationship between the individual and the world, the latter conceived in its broadest sense as the natural and social environment or the spiritual aspect of reality.*
+
+* * *
+
+## Footnotes
+
+[^1]: Spinoza, Benedictus. *Spinoza. Tutte le opere* (Italian Edition). Milano: Bompiani, 2014.  Hereafter the following works are cited: The following works were cited:*Tractatus Theologico-Politicus* \[1670\]; Tractatus de Intellectus Emendatione. In *Opera Posthuma* \[1677\]; *Ethica*. In *Opera Posthuma* \[1677\]; *Epistolae*. In *Opera Posthuma* \[1677\].
+
+[^2]: The concrete elaboration of this theme was developed due to important feedbacks received during the presentation of this papers´ general idea at the conference about *The Body and the Sacred* on 28-9th September 2022, organized conjointly by the University of Vienna and the University of Denver.
+
+[^3]: Steven Nadler, *A Book Forged in Hell: Spinoza’s Scandalous Treatise and the Birth of the Secular Age* (Princeton: Princeton University Press, 2011), 22
+
+[^4]: Furthermore, Spinoza *is* a Jewish thinker: he is inserted within the tradition of the medieval Jewish philosophy, and it is hard to understand many of his arguments, if the references, cryptically or more rarely, explicitly done by him to the Jewish thought, are not understood. Regarding this idea of a hidden author in Spinoza’s works, see also Harry A. *Wolfson, The Philosophy of Spinoza: Unfolding the Latent*
+
+*Process of His Reasoning (Cambridge, MA and London:: Harvard University Press, 2013),* vii.
+
+[^5]: “The prophets perceived things revealed by God by way of their imagination, that is via words or visions which may have been either real or imaginary” (Israel and Silverthorne, 2007, trans.)
+
+[^6]: Essentially, they borrow from Aristotle’s *De Anima* the idea of an agent´s intellect, which is the efficient cause of the passage from potential knowledge to actual knowledge in the human intellect. However, they inscribe this scheme in a neo-platonically inspired cosmological hierarchy of several intellects, among which the highest is, naturally, God.   
+
+[^7]: Moses Maimonides, *La Guida dei Perpless* (Novara: UTET ), 117.
+
+[^8]:  Heidi Ravven, “Some Thoughts on What Spinoza Learned from Maimonides about the Prophetic Imagination: Part 1”, *Journal of the History of Philosophy* 39 (2001):198.
+
+[^9]:  Heidi Ravven, “Some Thoughts on What Spinoza Learned from Maimonides about the Prophetic Imagination: Part 2”, *Journal of the History of Philosophy* 39 (2001):386.
+
+[^10]:  Martial Guerolt,  *Spinoza II. L’ame, Ethique*, II (Paris: Aubier-Montaigne, 1974).
+
+[^11]:  Filippo Mignini, *Ars Imaginandi* (Napoli: Edizioni Scientifiche Italiane, 1981), 175-179, 194-195.
+
+[^12]: “Those who are most powerful in imagination are less good at merely understanding things; those who have trained and powerful intellects have a more modest power of imagination and have it under better control, reining it in, so to speak, and not confusing it with understanding.
+
+[^13]: Mignini, op. cit. 197.

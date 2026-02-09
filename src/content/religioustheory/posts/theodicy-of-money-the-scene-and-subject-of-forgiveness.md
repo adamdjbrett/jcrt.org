@@ -1,0 +1,74 @@
+---
+title: Theodicy of Money – The Scene and Subject of Forgiveness (Timothy Snediker)
+date: 2016-05-18T20:23:24.000Z
+author: editors
+permalink: /2016/05/18/theodicy-of-money-the-scene-and-subject-of-forgiveness/
+image: /images/2016/05/Mammon_and_His_Slave.jpg
+categories:
+  - Religion and Economics
+  - Political Theology
+layout: theory.njk
+slug: theodicy-of-money-the-scene-and-subject-of-forgiveness
+tags:
+  - posts
+---
+
+Today the question of debt forgiveness has become an eminently practical, not to mention political, question.  From sovereign debt crises in Greece, Spain, Puerto Rico and elsewhere, to ballooning student debt bubbles, to the aftermath of the mortgage crisis, it seems like everyone is talking about forgiveness.
+
+That forgiveness in itself is a good goes virtually unquestioned; it is the conditions of forgiveness that are up for debate, as is the case with Greece and the other countries subjected to the austerity measures (cutting social services in exchange for debt relief) levied by their creditors, typically mediated by the International Monetary Fund (IMF). The same goes for student debt situation, in which debts can be forgiven at the end of a term of 20 years of timely minimum payments (10 years if one is working in the public or non-profit sector). In sum, there is forgiveness, but there are, more importantly, conditions that must be satisfied in order for this forgiveness to be, so to speak, given.
+
+In what follows, I will not focus on these specific debt crises and the various schemes of forgiveness that subtend them; rather, in the hopes of illuminating the stakes and the political structure of the crises mentioned above, I want to isolate the more or less general scene of forgiveness that characterizes our contemporary discourse on political economy, and the subjectivity that is produced therein—the subject of forgiveness. Together, the scene and subject of forgiveness constitute a theodicy of money.
+
+## Capitalism and Christianity
+
+Maurizio Lazzarato has written recently on the figure of the indebted subject, which has risen to ascendency as the regnant subjectivity in neoliberal capitalism. By the same token, I want to speak of a subject of forgiveness—or, what amounts to the same thing, the modern liberal subject and the essentially religious structure of its constitution. What must be understood straightaway is that the structure of capitalism as such is religious, as Walter Benjamin noted in the early 1920s in a fragment entitled, “Capitalism as Religion.”
+
+Moreover, inasmuch as capitalism is a religion, its religious structure is not simply or generically religious, but operates according to a Christian logic of equality-in-atonement. That is to say, the Christian doctrine of salvation understood as rendering each human being equal before God is the formal structure of the requirement of bourgeois society: formal equality and formal freedom are necessary (if not sufficient) conditions for the capitalist mode of production to emerge.
+
+No doubt, when one hears talk of the relation between Christianity and capitalism, one immediately recalls the classic argument of Max Weber’s The Protestant Ethic and the Spirit of Capitalism. I cannot address that argument here, save to note that Benjamin, in the fragment mentioned above, goes so far as to directly refute Weber’s conclusion, claiming that “the Christianity of the reformation period did not favor the growth of capitalism; instead it transformed itself into capitalism.”
+
+There is therefore a decisive difference between Weber and Benjamin upon which every critique of capitalism and Christianity depends. Either capitalism has merely an ‘elective affinity’ with the theological innovations of the Reformation, which invested the pursuit of economic gain with soteriological and moral significance; or capitalism is itself the modern praxis of Christianity, and conversely, Christianity is the theory or logic of capitalism.
+
+The latter position has many merits, not least among them the fact that Weber’s theory can still be meaningfully incorporated into Benjamin’s without compromising Benjamin’s truly radical approach, according to which there is an identity of Christianity and capitalism, rather than a mere resemblance or affinity. Hence, any future critique of capitalism must pursue the vicissitudes and the structure of this identity; the critique of the capitalist mode of production must proceed concomitantly with, or as, a critique of Christianity. Such a project will obviously have to grapple with the extraordinary variety and dissimulation internal to both of its objects: Christianity is not a simple, unified set of doctrines and practices any more than capitalism is an undivided, ahistorical structure of production.
+
+The wager of the critique in question is that, even if one must speak equivocally about Christianity and capitalism taken in isolation from one another, one can—and should—speak univocally about Christianity and capitalism taken together in their (still) speculative identity. The task of thought, or of the politics to come, thus becomes the deformalization of this identity; one should seek the concrete and material conditions of the co-constitution and self-masking proper to the Christian-capitalist machine.
+
+Perhaps we can further illuminate the stakes and the structure of this critique by turning to the recent work of Gil Anidjar, who offers the following paradoxical alternative:
+
+Either Christianity is a religion and there are no others (because without Christianization and the globalization of Christianity, none of the so-called ‘world religions’ would have been identified as religions, nor would they have had to refer to themselves as such). Or, there are religions in the world—according to one definition or another—but Christianity is not one of them.
+
+In order to speak univocally of capitalism and Christianity, it is necessary to affirm both sides of this alternative. On the one hand, there is only one religion (capitalism is vera religio) and there are no others; on the other hand, there are many religions in the world, but Christianity is not one of them (Christianity is a political economy). Perhaps this is why Deleuze and Guattari were able to claim that “there is no ideology, there are only organizations of power,” and that Christianity is a privileged example of such an organization of power. It is, in fact, well within the interests of Christianity to be treated as an ideology (“it feeds ecumenism”), but Christianity has never been an ideology, and is rather “a very original, very specific organization of power that has assumed diverse forms … It’s far more important than ideology.”
+
+This is, in part, why I have opted to interrogate the identity between capitalism and Christianity in terms of forgiveness: the capitalist-Christian complex of power—its organization and machinations, its apparatuses and operations—presents itself not as ideology but rather as theodicy.
+
+## Forgiveness and Sovereignty
+
+[Devin Singh has written recently on the subject of debt forgiveness,](http://cosmologicsmagazine.com/devin-singh-debt-cancellation-as-sovereign-crisis-management/) and his conclusions are of particular interest for a theory of a Christian-capitalist theodicy. Singh notes that debt forgiveness or cancellation has the structure of an exception, such that forgiveness is always located outside of the juridical or economic order into which it intervenes: “Debt cancellation, as an exceptional moment betraying the constitutive position of the sovereign in relation to the politico-economic order, marks the instantiation of sovereignty.” Or in the parlance of Carl Schmitt: sovereign is he who decides to forgive.
+
+The upshot of this imbrication of sovereignty and the power to forgive is that—according to a Nietzschean inspiration—being freed from one’s debt reestablishes (and entrenches) a relationship of indebtedness toward the sovereign who forgives. As Singh puts it: “To be set free from debt obligation is to be set free to continue to serve the sovereign. A celebration of the sovereign’s debt clearing is simultaneously a consent to be governed.” The scene of forgiveness is essentially a coronation or re-coronation. Forgiveness is a particular strategy of—and for—an organization of power. The scene is one of penitence or destitution, and its product is a continual negotiation between guilt and innocence: one must be guilty (indebted) to be forgiven, and in being-forgiven is rendered innocent, docile, consenting.
+
+That this scene should not resemble so much as express a theodicy is apparent from the moment one considers its central operation: the production of a subject of forgiveness in its dual role of material of forgiveness material for forgiveness. The subject of forgiveness is in one sense the sovereign itself (where the subjectivity of the debtor is like an organ of the sovereign body, becoming the means to the end of an auto-absolution), and in other sense is the insolvent subject or citizen who requires a cancellation of the debt in order to maintain their subsistence.
+
+What is crucial is that the sovereign need subjects as the material condition for the scene of forgiveness. No doubt, the sovereign (the State, the creditor) is that which dispenses forgiveness—but this ‘dispensation’ is always a stratagem of a theodicy—the true aim being the auto-justification, auto-absolution of the creditor. Forgiveness starts or restarts the machine; forgiveness ordains or redeems the future.
+
+A subtle, yet decisive, shift occurs with the advent of Christianity. Rather than an earthly sovereign who possesses the power to forgive this or that debt, to cancel this or that insolvency, Christianity installs at the heart of human subjectivity an absolutely inexpiable debt—and a single creditor to whom the debt is owed. Nietzsche’s suspicions in the second essay of the Genealogy of Morals are finally and radically borne out with the progression of civil society to a true totality and the nascence of the capitalist mode of production.
+
+Capitalist exchange requires as a necessary condition the formal equality and formal freedom of its various actors. By flattening out the formal economic variables between human agents (e.g. all human beings now owe an infinite debt to God), Christianity provides the formal and theoretical basis for the practical operations of the capitalist mode of production: good people spending good money in a good society. The Christian-capitalist logic: everyone is guilty, therefore everyone is innocent. The path to the perfect liberal democra![New-York-Stock-Exchange-Public-Domain](/images/2016/05/New-York-Stock-Exchange-Public-Domain-300x201.jpg)tic society is open…
+
+## Theodicy of Money
+
+There are at least two dangers that inhere in the structure and operation of forgiveness understood, in Singh’s phrasing, as “sovereign crisis management.” The first is explicit and has immediate social ramifications; the second is implicit and concerns any future critique of capitalism.
+
+In the first case, one must necessarily adopt an equivocal attitude toward debt forgiveness. On the one hand, wide-ranging and penetrating debt forgiveness is, by any measure, the only way forward for indebted nations such as Greece and for students drowning in educational debt. The situation as it stands is unsustainable: the hawkish Wall Street Journal is, predictably, worried about the fallout of a mass default by student borrowers; not to mention the general panic induced by the specter of a global economic crisis that could result from Greece or Puerto Rico openly defaulting on their debts. Something or, so to speak, someone has to give.
+
+That it should be forgiveness that is given in this instance is perhaps unavoidable. The explicit danger is that the debtors in question must necessarily accept forgiveness without calling into question the very structures of power that made them ‘guilty’ in the first place. No doubt, today we are all indebted subjects of neoliberalism, but we have, more profoundly, been subjects of forgiveness for a very long time, and may well carry on in our innocence for a long time to come.
+
+The second case concerns the question of the identity of Christianity and capitalism, and the theodicy of money that plays out in their becoming-identical. What does it mean to speak of a theodicy of money? Why speak of theodicy rather than ideology? Everything hinges on the fact that the question must be posed in terms of power—not in the limited sense of political authority or military strength, but in the Foucauldian register of social fields invested with power relations.
+
+Money is perhaps the power relation par excellence, since it mediates not only the vicissitudes of capitalist exchange, but also because money is primarily a social relation between creditor and debtor. Hence the necessity of isolating, interrogating, and rendering intelligible the identity of Christianity and capitalism, which transforms the simple creditor-debtor relation from an isolated social relationship into a universal indebtedness—in which guilt and innocence coincide without remainder and lay the foundation for liberal democracy and capitalist accumulation.
+
+Against the standard left critique of capitalism, which presupposes a certain secularism and a certain atheism, one must rather grapple with the peculiar verve of a [comment made by Giorgio Agamben](https://libcom.org/library/god-didnt-die-he-was-transformed-money-interview-giorgio-agamben-peppe-sav%C3%A0): “God did not die; he was transformed into money.” To the identity of Christianity and capitalism corresponds the identity of God and money.
+
+The Good has come down to earth; the Good has become goods, which circulate endlessly in a market without limits. Inasmuch as global capitalism is, or has subsumed, the totality of social relations under the aegis of its symbolic economy, it appears as a profound theodicy, in which we are both actors and patients, and from which we can emerge only by challenging the very conditions of our—for lack of a better term—guilt-in-innocence, our being-forgiven; namely, that logic or theory of capitalism that is called Christianity, and the capitalist praxis which we ourselves desire and to which we aspire. Today, it is simply not enough to be an atheist, because, in the last instance, everyone believes in money.
+
+*Timothy Snediker is currently a graduate student in Religious Studies at the University of Denver. His master’s thesis is entitled “To Have Done with Forgiveness: Capitalism, Christianity, and the Politics of Immanence.” He will begin doctoral work in Religious Studies at the University of California Santa Barbara in Fall 2016.*

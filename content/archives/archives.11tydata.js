@@ -51,9 +51,12 @@ export default {
     },
     articleNumber: (data) => parseInt(data.article_number, 10) || 999,
     tags: (data) => {
+      const manualTags = Array.isArray(data.tags) ? data.tags : [];
       const keywords = data.keywords ?? [];
-      const tagArray = Array.isArray(keywords) ? keywords : String(keywords).split(",");
-      return [...new Set(tagArray.map(t => String(t).trim()).filter(Boolean))];
+      const keywordArray = Array.isArray(keywords) ? keywords : String(keywords).split(",");
+      const essentialTags = ["archives"];
+      const combined = [...manualTags, ...keywordArray, ...essentialTags];
+      return [...new Set(combined.map(t => String(t).trim()).filter(Boolean))];
     }
   }
 };

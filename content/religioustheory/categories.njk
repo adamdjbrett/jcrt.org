@@ -3,36 +3,65 @@ layout: theory.njk
 title: All Topics
 permalink: /religioustheory/categories/index.html
 ---
-<div class="container-fluid">
+<article class="container-fluid mt-5">
   {% include "partials/nav_desktop.njk" %}
 
-  <header class="mb-5 border-bottom pb-4">
-    <h1 class="display-4 fw-bold">Categories</h1>
-    <p class="lead text-muted">Exploration topics from the Religious Theory archive.</p>
+  <header class="mb-5">
+    <h1>
+      <strong>
+        <span class="border-bottom border-4 border-primary pb-2">Categories</span>
+      </strong>
+    </h1>
   </header>
 
-  <div class="row row-cols-1 row-cols-md-3 g-4 mb-5">
-    {% set categories = theory.posts | categoryTheory | sort %}
+  <div class="row g-4 mb-5">
+    {% set theoryCats = [] %}
     
-    {% for c in categories %}
-      <div class="col">
+    {# Ambil data murni dari Markdown #}
+    {% for post in collections.theoryPosts %}
+      {% if post.data.categories %}
+        {% for cat in post.data.categories %}
+          {% if cat not in theoryCats %}
+            {% set theoryCats = (theoryCats.push(cat), theoryCats) %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
+
+    {% for c in theoryCats | sort %}
+      <div class="col-md-4 col-6">
         <a href="/religioustheory/categories/{{ c | slugify }}/" class="text-decoration-none">
-          <div class="card h-100 shadow-sm hover-shadow transition-all border-0 bg-light">
+          <div class="card h-100 shadow-sm border-0 bg-light transition-all hover-shadow">
             <div class="card-body p-4 d-flex justify-content-between align-items-center">
-              <h3 class="h5 fw-bold mb-0 text-dark">{{ c | capitalize }}</h3>
-              <span class="text-primary fw-bold">Explore &rarr;</span>
+              <div>
+                <h3 class="h5 fw-bold mb-0 text-dark">{{ c | capitalize }}</h3>
+                {# Hitung jumlah post secara akurat #}
+                {% set count = 0 %}
+                {% for p in collections.theoryPosts %}
+                  {% if p.data.categories and c in p.data.categories %}
+                    {% set count = count + 1 %}
+                  {% endif %}
+                {% endfor %}
+                <span class="text-muted small">({{ count }} Articles)</span>
+              </div>
+              <span class="text-primary fw-bold">&rarr;</span>
             </div>
           </div>
         </a>
       </div>
+    {% else %}
+      <div class="col-12 text-center py-5">
+        <p class="text-muted">No categories found in Markdown files.</p>
+        <p class="small">Pastikan di file .md ada: <br><code>categories: [Nama Kategori]</code></p>
+      </div>
     {% endfor %}
   </div>
-</div>
+</article>
 
 <style>
   .hover-shadow:hover { 
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0,0,0,0.1) !important;
+    transition: all 0.3s ease;
   }
-  .transition-all { transition: all 0.3s ease; }
 </style>

@@ -1,72 +1,73 @@
 ---js
-const pagination = {
-	data: "theory.posts",
-	size: 1,
-	alias: "category",
-	before: function(posts) {
-		const cats = [];
-		const seen = {};
-		for (const post of posts || []) {
-			for (const c of post.categories || []) {
-				if (!c || seen[c]) continue;
-				seen[c] = true;
-				cats.push(c);
-			}
-		}
-		return cats.sort((a, b) => String(a).localeCompare(String(b)));
-	},
-};
-
-const eleventyComputed = {
-	layout: "theory.njk",
-	title: data => `Category: ${data.category}`,
-	permalink: function(data) {
-		return `/religioustheory/categories/${this.slugify(data.category)}/`;
-	},
-};
+{
+  pagination: {
+    data: "collections.theoryPosts",
+    size: 1,
+    alias: "category",
+    before: function(posts) {
+      if (!posts || posts.length === 0) return [];
+      const catSet = new Set();
+      for (const post of posts) {
+        // Akses data melalui post.data
+        const cats = post.data?.categories || [];
+        for (const c of cats) {
+          if (typeof c === 'string') {
+            catSet.add(c);
+          }
+        }
+      }
+      return Array.from(catSet).sort();
+    }
+  },
+  layout: "theory.njk",
+  eleventyComputed: {
+    title: "Category: {{ category }}",
+    permalink: "/religioustheory/categories/{{ category | slugify }}/index.html"
+  }
+}
 ---
-<div class="container-fluid">
+<div class="container-fluid mt-5">
   {% include "partials/nav_desktop.njk" %}
 
-  <h1><strong><span class="border-bottom border-4 border-primary pb-2">Category: {{ category }}</span></strong> <a href="/religioustheory/categories/" 
-    class="btn btn-primary float-end">← Back to categories</a></h1>
-  
+  <header class="mb-5">
+    <h1 class="display-5 fw-bold">
+      <strong><span class="border-bottom border-4 border-primary pb-2">Category: {{ category }}</span></strong>
+      <a href="/religioustheory/categories/" class="btn btn-primary float-end">← Back to categories</a>
+    </h1>
+  </header>
 
- <div class="row mt-3 mb-3">
-{% for post in theory.posts %}
-  {% if post.categories and (category in post.categories) %}
+  <div class="row mt-3 mb-3">
+    {%- for post in collections.theoryPosts %}
+      {%- set postCats = post.data.categories or [] -%}
+      {%- if category in postCats %}
+        <div class="col-md-6 col-lg-4 p-3 small p-md-5 d-flex flex-column"> 
+            
+            <div class="img-zoom-container rounded-4 shadow-sm mb-3" style="aspect-ratio: 16/9; overflow: hidden;">
+                <a href="{{ post.url }}">
+                    <img class="img-post img-fluid" 
+                         style="width: 100%; height: 100%; object-fit: cover;" 
+                         alt="{{ post.data.title }}" 
+                         src="{{ post.data.image or '/img/jcrt.jpg' }}"
+                         onerror="this.onerror=null;this.src='/img/jcrt.jpg';">
+                </a>
+            </div>
 
-    <div class="col-md-6 col-lg-4 p-3 small p-md-5"> 
-        
-        <div class="img-zoom-container rounded-4 shadow-sm mb-3" style="aspect-ratio: 16/9; overflow: hidden;">
-            <a href="/religioustheory/posts/{{ post.slug }}/" title="{{ post.title }}">
-                {% set currentImg = post.image if post.image and post.image != 'null' else '/img/se.jpg' %}
-                <img class="img-post img-fluid" 
-                     style="width: 100%; height: 100%; object-fit: cover;" 
-                     alt="{{ post.title }}" 
-                     src="{{ currentImg }}"
-                     onerror="this.onerror=null;this.src='/img/jcrt.jpg';">
-            </a>
-        </div>
+            <h3 class="serif fw-bold h5">
+                <a class="text-decoration-none text-dark hover-primary" href="{{ post.url }}">
+                    {{ post.data.title }}
+                </a>
+            </h3>
+            
+            <div class="mb-2">
+                <p class="text-muted x-small text-uppercase fw-bold mb-1" style="font-size: 0.7rem; letter-spacing: 0.5px;">
+                    {{ post.date | postDate if post.date else "Recently Published" }}
+                    {% if post.data.author %}
+                      — By <span class="text-primary">{{ post.data.author }}</span>
+                    {% endif %}
+                </p>
 
-        <h3 class="serif fw-bold h5">
-            <a class="text-decoration-none text-dark hover-primary" href="/religioustheory/posts/{{ post.slug }}/">
-                {{ post.title }}
-            </a>
-        </h3>
-        
-        <div class="mb-2">
-            <p class="text-muted x-small text-uppercase fw-bold mb-1" style="font-size: 0.7rem; letter-spacing: 0.5px;">
-                {% if post.date %}{{ post.date | postDate }}{% endif %}
-                {% if post.authorData.name %}
-                  — By <span class="text-primary">{{ post.authorData.name }}</span>
-                {% endif %}
-            </p>
-
-        
-            {% if post.categories %}
                 <div class="d-flex flex-wrap gap-1 mb-2">
-                    {% for cat in post.categories %}
+                    {% for cat in postCats %}
                         <a href="/religioustheory/categories/{{ cat | slugify }}/" 
                            class="text-primary fw-bold text-decoration-none x-small border-end pe-1 me-1" 
                            style="font-size: 0.7rem; border-color: var(--primary-jcrt) !important;">
@@ -74,23 +75,19 @@ const eleventyComputed = {
                         </a>
                     {% endfor %}
                 </div>
-            {% endif %}
+            </div>
+
+            <p class="text-secondary small">
+                {{ post.data.excerpt | truncate(110) if post.data.excerpt else "Explore this article..." }}
+            </p>
+
+            <p class="mt-auto">
+                <a href="{{ post.url }}" class="btn btn-primary px-4 py-2 fw-bold text-uppercase" style="font-size: 0.75rem; letter-spacing: 1px;">
+                    Learn More
+                </a>
+            </p>
         </div>
-
-        
-        <p class="text-secondary small">
-            {{ post.excerpt | truncate(110) if post.excerpt else "Explore this latest article from our religious theory archive..." }}
-        </p>
-
-        
-        <p class="mt-auto">
-            <a href="/religioustheory/posts/{{ post.slug }}/" class="btn btn-primary px-4 py-2 fw-bold text-uppercase" style="font-size: 0.75rem; letter-spacing: 1px;">
-                Learn More
-            </a>
-        </p>
-
-    </div>
-  {% endif %}
-{% endfor %}
-</div>
+      {%- endif %}
+    {%- endfor %}
+  </div>
 </div>

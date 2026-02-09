@@ -3,39 +3,41 @@
 if (typeof globalThis.File === "undefined") globalThis.File = class File {};
 
 const [
-	{ IdAttributePlugin, InputPathToUrlTransformPlugin, HtmlBasePlugin },
-	{ feedPlugin },
-	{ default: pluginSyntaxHighlight },
-	{ default: pluginNavigation },
-	{ default: yaml },
-	{ default: markdownIt },
-	{ default: markdownItAnchor },
-	{ default: markdownItFootnote },
-	{ default: markdownItAttrs },
-	{ default: markdownItTableOfContents },
-	{ default: pluginTOC },
-	{ default: pluginFilters },
-	authorSlugMod,
-	fs,
-	path,
-	os,
+    { IdAttributePlugin, InputPathToUrlTransformPlugin, HtmlBasePlugin },
+    { feedPlugin },
+    { default: pluginSyntaxHighlight },
+    { default: pluginNavigation },
+    { default: yaml },
+    { default: theorySync },
+    { default: markdownIt },
+    { default: markdownItAnchor },
+    { default: markdownItFootnote },
+    { default: markdownItAttrs },
+    { default: markdownItTableOfContents },
+    { default: pluginTOC },
+    { default: pluginFilters },
+    authorSlugMod,
+    fs,
+    path,
+    os,
 ] = await Promise.all([
-	import("@11ty/eleventy"),
-	import("@11ty/eleventy-plugin-rss"),
-	import("@11ty/eleventy-plugin-syntaxhighlight"),
-	import("@11ty/eleventy-navigation"),
-	import("js-yaml"),
-	import("markdown-it"),
-	import("markdown-it-anchor"),
-	import("markdown-it-footnote"),
-	import("markdown-it-attrs"),
-	import("markdown-it-table-of-contents"),
-	import("eleventy-plugin-toc"),
-	import("./_config/filters.js"),
-	import("./_config/authorSlug.js"),
-	import("node:fs"),
-	import("node:path"),
-	import("node:os"),
+    import("@11ty/eleventy"),                         // 1
+    import("@11ty/eleventy-plugin-rss"),              // 2
+    import("@11ty/eleventy-plugin-syntaxhighlight"),  // 3
+    import("@11ty/eleventy-navigation"),               // 4
+    import("js-yaml"),                               // 5
+    import("./_data/theory.js"),                     // 6 -> theorySync
+    import("markdown-it"),                           // 7
+    import("markdown-it-anchor"),                    // 8
+    import("markdown-it-footnote"),                  // 9
+    import("markdown-it-attrs"),                     // 10
+    import("markdown-it-table-of-contents"),          // 11
+    import("eleventy-plugin-toc"),                   // 12 -> pluginTOC
+    import("./_config/filters.js"),                  // 13 -> pluginFilters
+    import("./_config/authorSlug.js"),               // 14
+    import("node:fs"),                               // 15
+    import("node:path"),                             // 16
+    import("node:os"),                               // 17
 ]);
 
 const { authorSlug, splitAuthors } = authorSlugMod;
@@ -108,6 +110,8 @@ async function ensureFavicons() {
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function (eleventyConfig) {
+	eleventyConfig.addPlugin(pluginFilters);
+	await theorySync(); 
 	const filePath = path.resolve("_data/theory_archive.json");
 	const isFastBuild = Boolean(process.env.FAST_BUILD);
 	eleventyConfig.addGlobalData("isFastBuild", isFastBuild);
@@ -122,7 +126,7 @@ export default async function (eleventyConfig) {
 			return false;
 		}
 	});
-
+	
 	// dev mode
 	if (process.env.QUICK_DEV) {
 		eleventyConfig.addPreprocessor("collections", "limit-dev", (collections) => {
@@ -137,16 +141,6 @@ export default async function (eleventyConfig) {
 						collections[tagName] = collections[tagName].slice(0, 5);
 					}
 				});
-			}
-		});
-		eleventyConfig.addGlobalData("theory_archive", () => {
-			try {
-				const data = JSON.parse(
-					fs.readFileSync("./_data/theory_archive.json", "utf-8")
-				);
-				return { ...data, posts: data.posts.slice(0, 5) };
-			} catch (e) {
-				return { posts: [] };
 			}
 		});
 		console.log("🚀 QUICK_DEV MODE: Active (Everything limited to 5)");
@@ -416,6 +410,18 @@ export default async function (eleventyConfig) {
 				return nameA.localeCompare(nameB);
 			});
 	});
+	eleventyConfig.addCollection("theoryPosts", function(collectionApi) {
+  return collectionApi.getFilteredByGlob("content/religioustheory/**/*")
+    .filter(item => {
+      const isRootIndex = item.inputPath.endsWith("religioustheory/index.html") || 
+                          item.inputPath.endsWith("religioustheory/index.njk") ||
+                          item.inputPath.endsWith("religioustheory/index.md");     
+      const validExtensions = [".md", ".njk", ".html"];
+      const isFile = validExtensions.some(ext => item.inputPath.endsWith(ext));
+      const hasTag = item.data.tags && item.data.tags.includes("theoryPosts");
+      return !isRootIndex && isFile && hasTag;
+    });
+});
 	eleventyConfig.addPassthroughCopy({ "public/js": "js" });
 	// Archives contain PDFs/scans that need to be copied, but the markdown is built into HTML.
 	// CI can pre-copy these via scripts/pre-copy-assets.sh (hardlinks), so allow skipping passthrough copy.
@@ -424,8 +430,8 @@ export default async function (eleventyConfig) {
 		eleventyConfig.addPassthroughCopy("content/archives/**/*.jpg");
 		eleventyConfig.addPassthroughCopy("content/archives/**/*.jpeg");
 		eleventyConfig.addPassthroughCopy("content/archives/**/*.tif");
-		eleventyConfig.addPassthroughCopy("content/religioustheory/**/*.pdf");
-		eleventyConfig.addPassthroughCopy("content/religioustheory/**/*.docx");
+		// change folder 
+		eleventyConfig.addPassthroughCopy("content/religioustheory/posts/*.{pdf,docx,png,jpg}");
 		eleventyConfig.addPassthroughCopy("content/archives/**/*.tiff");
 	}
 	eleventyConfig.addCollection("archives", function (collectionApi) {
@@ -601,7 +607,7 @@ export default async function (eleventyConfig) {
 			},
 		},
 	});
-
+/*
 	eleventyConfig.addFilter("getKeywordsFromJSON", (pageTitle, theoryArchive) => {
 		if (!theoryArchive || !pageTitle) return "";
 
@@ -621,9 +627,8 @@ export default async function (eleventyConfig) {
 		}
 		return "";
 	});
-	eleventyConfig.addPlugin(pluginFilters);
-
 	eleventyConfig.watchIgnores.add("_data/theory_archive.json");
+	*/
 	eleventyConfig.watchIgnores.add("errors.txt");
 	eleventyConfig.ignores.add("_drafts/**");
 	eleventyConfig.ignores.add("submissions/**");

@@ -80,8 +80,16 @@ Total:         48s → ~10s
 - [andrew - older but still good css](https://andrewbanchich.github.io/editorial-jekyll-theme/)
 
 ## Changelog
+
+
 ### Dre
-1. Fix the homepage so that the following works again to show a /archives/#.# make it easy to set like typing 24.1 type thing.
+
++ Migration JSON data convert in to markdown
++ Update all schema data 
++ Update all religioustheroy visual with md data
+
+
+1. Fix the homepage so that the following works again to show a /archives/#.# make it easy to set like typing 24.1 type thing. - DONE
 
 ```yaml
 homepage_archive: 
@@ -89,6 +97,8 @@ homepage_archive:
   section_title: From the Archive
   max_items: 3
 ```
+
+
 1. https://jcrt.xmit.dev/archives/  - DONE
     1. hide keywords
     2. in header show volume, issue, season, title in that order
