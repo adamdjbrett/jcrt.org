@@ -1,36 +1,67 @@
 ---
 layout: theory.njk
-title: "Religious Theory Authors"
-permalink: /religioustheory/authors/index.html
+pagination:
+  data: collections.theoryAuthors
+  size: 1
+  alias: authorName
+permalink: "/religioustheory/authors/{{ authorName | slugify }}/index.html"
+eleventyComputed:
+  title: "Author: {{ authorName }}"
 ---
 <article class="container-fluid mt-5">
   {% include "partials/nav_desktop.njk" %}
+  
   <header class="mb-5 text-center">
-    <h1 class="display-4 fw-bold serif">Authors</h1>
-    <p class="text-muted text-uppercase small" style="letter-spacing: 1px;">Browse Religious Theory posts by author</p>
+    <h1 class="display-4 fw-bold serif">{{ authorName }}</h1>
+    <p>
+      <a class="text-primary fw-bold text-decoration-none text-uppercase" 
+         style="font-size: 0.8rem; letter-spacing: 1px;" 
+         href="/religioustheory/authors/">
+        &larr; View All Authors
+      </a>
+    </p>
   </header>
 
-  <div class="row justify-content-center">
-    <div class="col-md-8">
-      <div class="d-flex flex-wrap justify-content-center gap-3">
-       {%- for authorName in religioustheory_taxonomy.authors %}
-  {% set countArray = [] %}
-  {%- for post in collections.theoryPosts %}
-    {% set postAuthor = post.data.author or "Editors" %}
-    {%- if postAuthor == authorName %}
-      {% set _ = countArray.push(1) %}
-    {%- endif %}
-  {%- endfor %}
-  
-  <a href="/religioustheory/authors/{{ authorName | slugify }}/" 
-     class="btn btn-outline-primary border-2 px-4 py-2 fw-bold text-uppercase d-flex align-items-center" 
-     style="font-size: 0.85rem; letter-spacing: 1px;">
-    {{ authorName }}
-    <span class="badge bg-primary ms-2 rounded-pill">{{ countArray | length }}</span>
-  </a>
-{%- endfor %}
-      </div>
-    </div>
+  <div class="row mt-3 mb-3">
+    {%- for post in collections.theoryPosts %}
+      {% set postAuthor = post.data.author or "Editors" %}
+      
+      {%- if postAuthor == authorName %}
+        <div class="col-md-6 col-lg-4 p-3 small p-md-5 d-flex flex-column"> 
+            <div class="img-zoom-container rounded-4 shadow-sm mb-3" style="aspect-ratio: 16/9; overflow: hidden;">
+                <a href="{{ post.url }}">
+                    <img class="img-post img-fluid" 
+                         style="width: 100%; height: 100%; object-fit: cover;" 
+                         alt="{{ post.data.title }}" 
+                         src="{{ post.data.image or '/img/jcrt.jpg' }}"
+                         onerror="this.onerror=null;this.src='/img/jcrt.jpg';">
+                </a>
+            </div>
+
+            <h3 class="serif fw-bold h5">
+                <a class="text-decoration-none text-dark hover-primary" href="{{ post.url }}">
+                    {{ post.data.title }}
+                </a>
+            </h3>
+            
+            <div class="mb-2">
+                <p class="text-muted x-small text-uppercase fw-bold mb-1" style="font-size: 0.7rem;">
+                    {% if post.date %}{{ post.date | postDate }}{% endif %}
+                    — By {{ postAuthor }}
+                </p>
+            </div>
+
+            <p class="text-secondary small">
+                {{ post.data.excerpt | truncate(110) if post.data.excerpt else "Explore this article by " + authorName + "..." }}
+            </p>
+
+            <p class="mt-auto">
+                <a href="{{ post.url }}" class="btn btn-primary px-4 py-2 fw-bold text-uppercase" style="font-size: 0.75rem; letter-spacing: 1px;">
+                    Learn More
+                </a>
+            </p>
+        </div>
+      {%- endif %}
+    {%- endfor %}
   </div>
 </article>
-

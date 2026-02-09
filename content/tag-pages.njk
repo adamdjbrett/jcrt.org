@@ -1,38 +1,36 @@
----js
-// <script>
-const pagination = {
-	data: "collections",
-	size: 1,
-	alias: "tag",
-	filter: ["all", "posts" , "archives"],
-};
-
-const eleventyExcludeFromCollections = true;
-
-const eleventyComputed = {
-	layout: "base.njk",
-	title: "Tagged '{{ tag }}'",
-	permalink: function(data) {
-		// Avoid generating thousands of tag pages during `--serve` (can OOM).
-		// Override with `FULL_TAG_PAGES=1` if needed.
-		if (process.env.ELEVENTY_RUN_MODE === "serve" && !process.env.FULL_TAG_PAGES) {
-			return false;
-		}
-		return `/tags/${this.slugify(data.tag)}/`;
-	}
-};
+---
+pagination:
+  data: collections
+  size: 1
+  alias: tag
+  filter:
+    - all
+    - posts
+    - archives
+    - theoryPosts
+eleventyExcludeFromCollections: true
+layout: base.njk
+eleventyComputed:
+  title: "Tagged '{{ tag }}'"
+permalink: "/tags/{{ tag | slugify }}/index.html"
 ---
 <div class="container-fluid">
+  {% include "partials/nav_desktop.njk" %}
 
- {% include "partials/nav_desktop.njk" %}
+  <h1 class="display-5 fw-bold mb-5 border-bottom pb-3">
+    <span class="border-bottom border-4 border-primary pb-2">
+      Tagged “{{ tag }}”
+    </span>
+  </h1>
 
-<h1 class="display-5 fw-bold mb-5 border-bottom pb-3">
-	<span class="border-bottom border-4 border-primary pb-2">
-	Tagged “{{ tag }}”
-</span>
-</h1>
+  {% set postslist = collections[tag] %}
+  
+  {% if postslist %}
+    {% include "postslist.njk" %}
+  {% else %}
+    <p>No posts found with this tag.</p>
+  {% endif %}
 
-{% set postslist = collections[ tag ] %}
-{% include "postslist.njk" %}
-
-<p>See <a href="/tags">all tags</a>.</p>
+  <hr class="mt-5">
+  <p>See <a href="/tags" class="fw-bold text-primary text-decoration-none">all tags</a>.</p>
+</div>

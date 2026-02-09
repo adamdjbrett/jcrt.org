@@ -6,11 +6,13 @@
     size: 1,
     alias: "tag",
     before: function(posts) {
+      if (!posts || posts.length === 0) return [];
+      
       const tagSet = new Set();
       for (const post of posts) {
-        const tags = post.data.tags || [];
+        const tags = post.data?.tags || [];
         for (const t of tags) {
-         if (typeof t === 'string' && t !== 'theoryPosts' && t !== 'all') {
+          if (typeof t === 'string' && t !== 'all') {
             tagSet.add(t);
           }
         }
@@ -29,50 +31,50 @@
   
   <header class="mb-5 text-center">
     <h1 class="display-4 fw-bold serif">#{{ tag }}</h1>
-    <p><a class="text-primary fw-bold text-decoration-none
-       text-uppercase" style="font-size: 0.8rem; 
-       letter-spacing: 1px;" href="/religioustheory/tags/">
-      &larr; View All Tags
-    </a></p>
+    <p>
+      <a class="text-primary fw-bold text-decoration-none text-uppercase" 
+         style="font-size: 0.8rem; letter-spacing: 1px;" 
+         href="/religioustheory/tags/">
+        &larr; View All Tags
+      </a>
+    </p>
   </header>
 
   <div class="row mt-3 mb-3">
     {%- for post in collections.theoryPosts %}
-      {%- set t = post.data.tags or [] -%}
-      {%- if t and (tag in t) %}
+      {%- set postTags = post.data.tags or [] -%}
+      {%- if tag in postTags %}
         <div class="col-md-6 col-lg-4 p-3 small p-md-5"> 
             <div class="img-zoom-container rounded-4 shadow-sm mb-3" style="aspect-ratio: 16/9; overflow: hidden;">
-                <a href="/religioustheory/posts/{{ post.slug | slugify }}/" title="{{ post.title }}">
-                    {% if post.image and post.image != 'null' and post.image != '' %}
-                        <img class="img-post img-fluid" style="width: 100%; height: 100%; object-fit: cover;" 
-                             alt="{{ post.title }}" src="{{ post.image }}"
-                             onerror="this.onerror=null;this.src='/img/jcrt.jpg';">
-                    {% else %}
-                        <img class="img-post img-fluid" style="width: 100%; height: 100%; object-fit: cover;" 
-                             alt="{{ post.title }}" src="/img/se.jpg"
-                             onerror="this.onerror=null;this.src='/img/jcrt.jpg';">
-                    {% endif %}
+                <a href="{{ post.url }}">
+                    <img class="img-post img-fluid" 
+                         style="width: 100%; height: 100%; object-fit: cover;" 
+                         alt="{{ post.data.title }}" 
+                         src="{{ post.data.image or '/img/jcrt.jpg' }}"
+                         onerror="this.onerror=null;this.src='/img/jcrt.jpg';">
                 </a>
             </div>
 
             <h3 class="serif fw-bold h5">
-                <a class="text-decoration-none text-dark hover-primary" href="/religioustheory/posts/{{ post.slug | slugify }}/">
-                    {{ post.title }}
+                <a class="text-decoration-none text-dark hover-primary" href="{{ post.url }}">
+                    {{ post.data.title }}
                 </a>
             </h3>
             
             <p class="text-muted x-small text-uppercase fw-bold mb-2" style="font-size: 0.7rem;">
-                {% if post.date %}{{ post.date | postDate }}{% endif %}
-                {% if post.authorData.name %} — By {{ post.authorData.name }}{% endif %}
+                {{ post.date | postDate if post.date else "Recently Published" }}
+                {% if post.data.author %} — By {{ post.data.author }}{% endif %}
             </p>
 
-            <p class="text-secondary">
-                {{ post.excerpt | truncate(110) if post.excerpt else "Explore this article under #" + tag + " archive..." }}
+            <p class="text-secondary small">
+                {{ post.data.excerpt | truncate(110) if post.data.excerpt else "Explore this article..." }}
             </p>
 
-            <p><a href="/religioustheory/posts/{{ post.slug | slugify }}/" class="btn btn-primary px-4 py-2 fw-bold text-uppercase" style="font-size: 0.75rem; letter-spacing: 1px;">
-                Learn More
-            </a></p>
+            <p>
+                <a href="{{ post.url }}" class="btn btn-primary px-4 py-2 fw-bold text-uppercase" style="font-size: 0.75rem; letter-spacing: 1px;">
+                    Learn More
+                </a>
+            </p>
         </div>
       {%- endif %}
     {%- endfor %}

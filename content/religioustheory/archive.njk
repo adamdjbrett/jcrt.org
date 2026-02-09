@@ -1,0 +1,26 @@
+---
+layout: theory.njk
+title: Archive
+permalink: /religioustheory/archive/index.html
+---
+<div class="col-md-10 mx-auto">
+  {% include "partials/nav_desktop.njk" %}
+
+  <h1>Archive</h1>
+  <p>Browse all {{ collections.theoryPosts | length }} posts.</p>
+
+  {% set postsByYear = collections.theoryPosts | reverse | groupby("date.getFullYear()") %}
+  {% for year, yearPosts in postsByYear | dictsort | reverse %}
+    <h2 style="margin-top: 2rem;">{{ year }}</h2>
+    <ul>
+      {% for post in yearPosts %}
+        <li>
+          <a href="{{ post.url }}">{{ post.data.title }}</a>
+          {% if post.date %}
+            <small> — {{ post.date | readableDate }}</small>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
+</div>

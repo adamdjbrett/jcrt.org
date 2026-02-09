@@ -7,6 +7,7 @@ pagination:
   size: 5
   alias: paginated_issues
   reverse: true
+permalink: "archives/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
 ---
 <div class="col-md-10 col-12 mx-auto">
 
@@ -37,45 +38,47 @@ pagination:
 
 
       <div class="row">
-        {% set issue_articles = [] %}
-        {% for article in collections.all %}
-          {% if article.inputPath and article.inputPath.startsWith(issue_dir) %}
-            {% set rel = article.inputPath | replace(issue_dir, '') %}
-            {% if rel.endsWith('.md') and rel != 'index.md' and '/' not in rel %}
-              {% set issue_articles = (issue_articles.push(article), issue_articles) %}
-            {% endif %}
-          {% endif %}
-        {% endfor %}
+  
+  {% set issue_articles = collections.all | selectattr("inputPath", "assigned") %}
+  
+  {% for article in issue_articles | sort(false, false, 'data.articleNumber') %}
+    {% if article.inputPath and article.inputPath.startsWith(issue_dir) %}
+      {% set rel = article.inputPath | replace(issue_dir, '') %}
+      {% if rel.endsWith('.md') and rel != 'index.md' and '/' not in rel %}
+        
+        <div class="col-12 border-bottom pb-3 mb-3 article-item">
+          <h3 class="h5 serif fw-bold mb-1">
+            <a href="{{ article.url }}" class="text-decoration-none text-body-emphasis hover-primary">
+              {{ article.data.title or article.fileSlug }}
+            </a>
+          </h3>
 
-        {% for article in issue_articles | sort(false, false, 'data.articleNumber') %}
-          <div class="col-12 border-bottom pb-3 mb-3 article-item">
-            <h3 class="h5 serif fw-bold mb-1">
-              <a href="{{ article.url }}" class="text-decoration-none text-body-emphasis hover-primary">
-                {{ article.data.title or article.fileSlug }}
-              </a>
-            </h3>
-
-            
-
-            {% if article.data.author %}
-              <p class="small mb-0">
-                <span class="text-muted">By</span>
-                {% set authorNames = article.data.author | splitAuthors %}
-                {% for aName in authorNames %}
-                  {% set authorData = collections.authors | getAuthorObj(aName) %}
-                  {% if authorData %}
-                 <a href="{{ authorData.url }}" class="fw-bold text-primary text-decoration-none hover-primary">{{ authorData.data.name or authorData.data.title or aName }}</a>
-                {% if authorData.data.affiliation %}<span class="text-muted small"> ({{ authorData.data.affiliation }})</span>{% endif %}
-                  {% else %}
-                    <span class="fw-bold text-primary">{{ aName }}</span>
+          {% if article.data.author %}
+            <p class="small mb-0">
+              <span class="text-muted">By</span>
+              {% set authorNames = article.data.author | splitAuthors %}
+              {% for aName in authorNames %}
+                {% set authorData = collections.authors | getAuthorObj(aName) %}
+                {% if authorData %}
+                  <a href="{{ authorData.url }}" class="fw-bold text-primary text-decoration-none hover-primary">
+                    {{ authorData.data.name or authorData.data.title or aName }}
+                  </a>
+                  {% if authorData.data.affiliation %}
+                    <span class="text-muted small"> ({{ authorData.data.affiliation }})</span>
                   {% endif %}
-                  {% if not loop.last %}; {% endif %}
-                {% endfor %}
-              </p>
-            {% endif %}
-          </div>
-        {% endfor %}
-      </div>
+                {% else %}
+                  <span class="fw-bold text-primary">{{ aName }}</span>
+                {% endif %}
+                {% if not loop.last %}; {% endif %}
+              {% endfor %}
+            </p>
+          {% endif %}
+        </div>
+
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</div>
     </section>
   {% endfor %}
 

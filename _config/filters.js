@@ -29,7 +29,14 @@ export default function(eleventyConfig) {
         return (tags || []).filter(tag => ["all", "posts", "authors",
              "nav"].indexOf(tag) === -1);
     });
-
+eleventyConfig.addCollection("theoryAuthors", function(collectionApi) {
+    const posts = collectionApi.getFilteredByTag("theoryPosts");
+    const authors = new Set();
+    posts.forEach(item => {
+        authors.add(item.data.author || "Editors");
+    });
+    return Array.from(authors).sort();
+});
     eleventyConfig.addFilter("sortAlphabetically", (strings) =>
         [...(strings || [])].sort((a, b) =>
             String(a ?? "").localeCompare(String(b ?? ""))
@@ -63,7 +70,13 @@ eleventyConfig.addFilter("lastModifiedDate", (dateObj) => {
   return date.toISOString();
 });
 
-
+eleventyConfig.addFilter("getAllTags", (collection) => {
+  let tagSet = new Set();
+  for (let item of collection) {
+    (item.data.tags || []).forEach(tag => tagSet.add(tag));
+  }
+  return Array.from(tagSet);
+});
 eleventyConfig.addFilter("isoDate", (dateObj) => {
     if (!dateObj) return new Date().toISOString();
     return new Date(dateObj).toISOString();
@@ -82,33 +95,47 @@ eleventyConfig.addFilter("categoryTheory", function(posts) {
     if (!Array.isArray(posts)) return [];
     
     posts.forEach(post => {
-        if (post.categories && Array.isArray(post.categories)) {
-            post.categories.forEach(cat => catSet.add(cat));
+        
+        const categories = post.data?.categories; 
+        if (categories && Array.isArray(categories)) {
+            categories.forEach(cat => {
+                if (cat) catSet.add(cat);
+            });
         }
     });
-    return Array.from(catSet);
+    return Array.from(catSet).sort();
 });
+
+
 eleventyConfig.addFilter("tagTheory", function(posts) {
     let tagSet = new Set();
     if (!Array.isArray(posts)) return [];
     
     posts.forEach(post => {
-        if (post.tags && Array.isArray(post.tags)) {
-            post.tags.forEach(tag => tagSet.add(tag));
+        
+        const tags = post.data?.tags;
+        if (tags && Array.isArray(tags)) {
+            tags.forEach(tag => {
+                
+                if (tag && !["posts", "theoryPosts", "all"].includes(tag)) {
+                    tagSet.add(tag);
+                }
+            });
         }
     });
-    return Array.from(tagSet);
+    return Array.from(tagSet).sort();
 });
 
-eleventyConfig.addFilter("hasTagTheory", function(postTags, targetTag) {
-    if (!Array.isArray(postTags)) return false;
-    return postTags.includes(targetTag);
+eleventyConfig.addFilter("hasTagTheory", function(post, targetTag) {
+    const tags = post?.data?.tags || [];
+    return Array.isArray(tags) && tags.includes(targetTag);
 });
 
-eleventyConfig.addFilter("hasCategoryTheory", function(postCategories, targetCategory) {
-    if (!Array.isArray(postCategories)) return false;
-    return postCategories.includes(targetCategory);
+eleventyConfig.addFilter("hasCategoryTheory", function(post, targetCategory) {
+    const categories = post?.data?.categories || [];
+    return Array.isArray(categories) && categories.includes(targetCategory);
 });
+  
 eleventyConfig.addCollection("issueList", function(collectionApi) {
     const allEntries = collectionApi.getAll();
     const issues = [];
@@ -152,7 +179,7 @@ eleventyConfig.addCollection("archivesSorted", function(collectionApi) {
     const aKey = `${String(vA).padStart(3, '0')}.${String(iA).padStart(3, '0')}`;
     const bKey = `${String(vB).padStart(3, '0')}.${String(iB).padStart(3, '0')}`;
     
-    return bKey.localeCompare(aKey); // Urutan terbaru
+    return bKey.localeCompare(aKey);
   });
 });
 

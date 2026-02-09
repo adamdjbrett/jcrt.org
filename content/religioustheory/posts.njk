@@ -4,111 +4,99 @@ pagination:
   data: collections.theoryPosts
   size: 10
   alias: postlist
-permalink: "/religioustheory/posts/{% if pagination.pageNumber > 0 %}page-{{ pagination.pageNumber }}{% endif %}/"
+permalink: "/religioustheory/posts/{% if pagination.pageNumber > 0 %}page-{{ pagination.pageNumber }}/{% endif %}index.html"
 ---
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-12">
-    {% include "partials/nav_desktop.njk" %}
-      <h1><strong><span class="border-bottom border-4 border-primary pb-2">
-        Religious Theory Posts</span></strong></h1>
-      
+      {% include "partials/nav_desktop.njk" %}
+      <h1><strong><span class="border-bottom border-4 border-primary pb-2">Religious Theory Posts</span></strong></h1>
 
-<div class="col-md-12 border-top mt-5">
-<div class="row">
-{% for post in pagination.items %}
-<div class="col-md-6 col-lg-4 p-3 small p-md-5"> 
-    <div class="img-zoom-container rounded-4 shadow-sm mb-3" style="aspect-ratio: 16/9; overflow: hidden;">
-        <a href="/religioustheory/posts/{{ post.slug }}/" title="{{ post.title }}">
-            {% set currentImg = post.image if post.image and post.image != 'null' else '/img/se.jpg' %}
-            <img class="img-post img-fluid" 
-                 style="width: 100%; height: 100%; object-fit: cover;" 
-                 alt="{{ post.title }}" 
-                 src="{{ currentImg }}"
-                 onerror="this.onerror=null;this.src='/img/jcrt.jpg';">
-        </a>
-
-    </div>
-
-    <h3 class="serif fw-bold h5">
-        <a class="text-decoration-none text-dark hover-primary" href="/religioustheory/posts/{{ post.slug }}/">
-            {{ post.title }}
-        </a>
-    </h3>
-    
-    <div class="mb-2">
-        <p class="text-muted x-small text-uppercase fw-bold mb-1" style="font-size: 0.7rem; letter-spacing: 0.5px;">
-            {{ post.date | postDate if post.date else "Recently Published" }} 
-            — By 
-            {% set authorPage = collections.authors | getAuthorObj(post.author) %}
-            {% if authorPage %}
-                <a href="{{ authorPage.url }}" class="text-primary text-decoration-none">{{ post.authorData.name or post.author }}</a>
-            {% else %}
-                <span class="text-primary">{{ post.authorData.name or post.author }}</span>
-            {% endif %}
-        </p>
-
-        {% if post.categories %}
-            <div class="d-flex flex-wrap gap-1 mb-2">
-                {% for cat in post.categories %}
-                    <a href="/religioustheory/categories/{{ cat | slugify }}/" 
-                       class="text-primary fw-bold text-decoration-none x-small border-end pe-1 me-1" 
-                       style="font-size: 0.7rem; border-color: var(--primary-jcrt) !important;">
-                        {{ cat }}
-                    </a>
-                {% endfor %}
+      <div class="col-md-12 border-top mt-5">
+        <div class="row">
+          {% for post in postlist %}
+          <div class="col-md-6 col-lg-4 p-3 small p-md-5"> 
+            <div class="img-zoom-container rounded-4 shadow-sm mb-3" style="aspect-ratio: 16/9; overflow: hidden;">
+              <a href="{{ post.url }}" title="{{ post.data.title }}">
+                {% set currentImg = post.data.image if post.data.image and post.data.image != 'null' else '/img/se.jpg' %}
+                <img class="img-post img-fluid" 
+                     style="width: 100%; height: 100%; object-fit: cover;" 
+                     alt="{{ post.data.title }}" 
+                     src="{{ currentImg }}"
+                     onerror="this.onerror=null;this.src='/img/jcrt.jpg';">
+              </a>
             </div>
-        {% endif %}
-    </div>
 
-    <p class="text-secondary small">
-        {{ post.excerpt | truncate(110) if post.excerpt else "Explore this latest article from our religious theory archive..." }}
-    </p>
+            <h3 class="serif fw-bold h5">
+              <a class="text-decoration-none text-dark hover-primary" href="{{ post.url }}">
+                {{ post.data.title }}
+              </a>
+            </h3>
+            
+            <div class="mb-2">
+              <p class="text-muted x-small text-uppercase fw-bold mb-1" style="font-size: 0.7rem; letter-spacing: 0.5px;">
+                {{ post.date | postDate if post.date else "Recently Published" }} 
+                — By 
+                <span class="text-primary">{{ post.data.author or "Editors" }}</span>
+              </p>
 
-    <p class="mt-auto">
-        <a href="/religioustheory/posts/{{ post.slug }}/" class="btn btn-primary px-4 py-2 fw-bold text-uppercase" style="font-size: 0.75rem; letter-spacing: 1px;">
-            Learn More
-        </a>
-    </p>
-</div>
-{% endfor %}
-</div>
+              {% if post.data.categories %}
+              <div class="d-flex flex-wrap gap-1 mb-2">
+                {% for cat in post.data.categories %}
+                <a href="/religioustheory/categories/{{ cat | slugify }}/" 
+                   class="text-primary fw-bold text-decoration-none x-small border-end pe-1 me-1" 
+                   style="font-size: 0.7rem; border-color: var(--primary-jcrt) !important;">
+                  {{ cat }}
+                </a>
+                {% endfor %}
+              </div>
+              {% endif %}
+            </div>
 
-{% set totalPages = pagination.pages.length %}
-{% set currentPage = pagination.pageNumber + 1 %}
+            <p class="text-secondary small">
+              {{ post.data.excerpt | truncate(110) if post.data.excerpt else "Explore this latest article from our religious theory archive..." }}
+            </p>
 
-{% if totalPages > 1 %}
-<nav class="pagination-editorial border-top pt-5 mt-5 d-flex align-items-center justify-content-between px-md-5" role="navigation">
-    
-    <div class="d-flex align-items-center" style="flex: 1;">
-        {% if pagination.href.previous %}
-            <a href="{{ pagination.href.previous }}" class="btn-editorial-ghost me-3">← Newer</a>
-        {% else %}
-            <span class="page-info text-secondary fw-bold small">Page {{ currentPage }} of {{ totalPages }}</span>
-        {% endif %}
-    </div>
+            <p class="mt-auto">
+              <a href="{{ post.url }}" class="btn btn-primary px-4 py-2 fw-bold text-uppercase" style="font-size: 0.75rem; letter-spacing: 1px;">
+                Learn More
+              </a>
+            </p>
+          </div>
+          {% endfor %}
+        </div>
 
-    
-    <div class="text-center d-none d-md-block" style="flex: 1;">
-        {% if pagination.href.previous and pagination.href.next %}
-            <span class="page-info text-secondary fw-bold small">Page {{ currentPage }} of {{ totalPages }}</span>
-        {% endif %}
-    </div>
+        {% set totalPages = pagination.pages.length %}
+        {% set currentPage = pagination.pageNumber + 1 %}
 
-    <div class="text-end" style="flex: 1;">
-        {% if pagination.href.next %}
-            <a href="{{ pagination.href.next }}" class="btn-editorial-ghost">Older →</a>
-        {% else %}
+        {% if totalPages > 1 %}
+        <nav class="pagination-editorial border-top pt-5 mt-5 d-flex align-items-center justify-content-between px-md-5" role="navigation">
+          <div class="d-flex align-items-center" style="flex: 1;">
             {% if pagination.href.previous %}
-                <span class="page-info text-secondary fw-bold small">Page {{ currentPage }} of {{ totalPages }}</span>
+            <a href="{{ pagination.href.previous }}" class="btn-editorial-ghost me-3">← Newer</a>
+            {% else %}
+            <span class="page-info text-secondary fw-bold small">Page {{ currentPage }} of {{ totalPages }}</span>
             {% endif %}
+          </div>
+
+          <div class="text-center d-none d-md-block" style="flex: 1;">
+            {% if pagination.href.previous and pagination.href.next %}
+            <span class="page-info text-secondary fw-bold small">Page {{ currentPage }} of {{ totalPages }}</span>
+            {% endif %}
+          </div>
+
+          <div class="text-end" style="flex: 1;">
+            {% if pagination.href.next %}
+            <a href="{{ pagination.href.next }}" class="btn-editorial-ghost">Older →</a>
+            {% else %}
+            {% if pagination.href.previous %}
+            <span class="page-info text-secondary fw-bold small">Page {{ currentPage }} of {{ totalPages }}</span>
+            {% endif %}
+            {% endif %}
+          </div>
+        </nav>
         {% endif %}
-    </div>
-</nav>
-{% endif %}
-
-</div>
-
+      </div>
     </div>
   </div>
 </div>

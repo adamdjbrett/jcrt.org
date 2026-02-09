@@ -110,6 +110,7 @@ async function ensureFavicons() {
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function (eleventyConfig) {
+	eleventyConfig.addPlugin(pluginFilters);
 	await theorySync(); 
 	const filePath = path.resolve("_data/theory_archive.json");
 	const isFastBuild = Boolean(process.env.FAST_BUILD);
@@ -140,16 +141,6 @@ export default async function (eleventyConfig) {
 						collections[tagName] = collections[tagName].slice(0, 5);
 					}
 				});
-			}
-		});
-		eleventyConfig.addGlobalData("theory_archive", () => {
-			try {
-				const data = JSON.parse(
-					fs.readFileSync("./_data/theory_archive.json", "utf-8")
-				);
-				return { ...data, posts: data.posts.slice(0, 5) };
-			} catch (e) {
-				return { posts: [] };
 			}
 		});
 		console.log("🚀 QUICK_DEV MODE: Active (Everything limited to 5)");
@@ -616,7 +607,7 @@ export default async function (eleventyConfig) {
 			},
 		},
 	});
-
+/*
 	eleventyConfig.addFilter("getKeywordsFromJSON", (pageTitle, theoryArchive) => {
 		if (!theoryArchive || !pageTitle) return "";
 
@@ -636,9 +627,8 @@ export default async function (eleventyConfig) {
 		}
 		return "";
 	});
-	eleventyConfig.addPlugin(pluginFilters);
-
 	eleventyConfig.watchIgnores.add("_data/theory_archive.json");
+	*/
 	eleventyConfig.watchIgnores.add("errors.txt");
 	eleventyConfig.ignores.add("_drafts/**");
 	eleventyConfig.ignores.add("submissions/**");
