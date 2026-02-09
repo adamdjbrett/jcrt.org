@@ -7,29 +7,12 @@ eleventyExcludeFromCollections: true
 <?xml-stylesheet type="text/xsl" href="/sitemaps/sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	{% set base = sitemapBaseUrl or metadata.url %}
-	{#- Note: individual sitemaps live in `content/sitemaps/*.xml.njk` but are excluded from collections for performance. -#}
-	{% set sitemapFiles = [
-		"journal-sitemap.xml",
-		"archives-toc-sitemap.xml",
-		"archives-pages-sitemap.xml",
-		"archives-docs-sitemap.xml",
-		"author-sitemap.xml",
-		"post-sitemap.xml",
-		"tags-sitemap.xml",
-		"image-sitemap.xml",
-		"pdf-sitemap.xml",
-		"journal-keywords-sitemap.xml",
-		"religioustheory-index.xml"
+	{% set sitemapPaths = [
+		"/sitemaps/sitemap.xml",
+		"/religioustheory/sitemap.xml"
 	] %}
 
-	{% set sitemapPaths = [] %}
-	{% for f in sitemapFiles %}
-		{% set sitemapPaths = sitemapPaths.concat([ "/sitemaps/" ~ f ]) %}
-	{% endfor %}
-
-	{% set feedPaths = ["/feed/feed.xml"] %}
-
-	{%- for p in (sitemapPaths.concat(feedPaths)) %}
+	{%- for p in sitemapPaths %}
 		<sitemap>
 			<loc>{{ (base ~ (p | url)) | xmlEscape | safe }}</loc>
 		</sitemap>

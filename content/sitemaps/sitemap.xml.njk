@@ -1,0 +1,78 @@
+---
+permalink: /sitemaps/sitemap.xml
+layout: false
+eleventyExcludeFromCollections: true
+# To remove a page from the sitemap add this into frontmatter: sitemapIgnore: true
+---
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemaps/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	{% set baseUrl = sitemapBaseUrl or metadata.url or (site and site.url) or "" %}
+	{% set seen = [] %}
+	{% set defaultLastmod = page.inputPath | lastModifiedDate %}
+
+	{# All non-religioustheory template URLs #}
+	{% for entry in collections.all -%}
+		{%- if entry.url and not entry.url.startsWith("/religioustheory/") -%}
+			{%- if entry.data.sitemapIgnore !== true and not entry.data.draft -%}
+				{% set path = entry.url | url %}
+				{% set skip = false %}
+				{% if path == "/sitemap.xml" or path.startsWith("/sitemaps/") %}{% set skip = true %}{% endif %}
+				{% if path == "/404/" or path == "/404.html" %}{% set skip = true %}{% endif %}
+				{%- if not skip and (path not in seen) -%}
+					{% set seen = (seen.push(path), seen) %}
+					<url>
+						<loc>{{ (baseUrl ~ path) | xmlEscape | safe }}</loc>
+						{% set lastmodSource = entry.data.dateUpdated or entry.date or entry.inputPath | lastModifiedDate %}
+						{% if lastmodSource %}<lastmod>{{ lastmodSource | htmlDateString }}</lastmod>{% endif %}
+					</url>
+				{%- endif -%}
+			{% endif -%}
+		{% endif -%}
+	{% endfor -%}
+
+	{# Non-religioustheory image URLs #}
+	{% for img in (assets.images or []) -%}
+		{%- if img.url and not img.url.startsWith("/religioustheory/") -%}
+			{% set path = img.url | url %}
+			{%- if path not in seen -%}
+				{% set seen = (seen.push(path), seen) %}
+				<url>
+					<loc>{{ (baseUrl ~ path) | xmlEscape | safe }}</loc>
+					{% set lm = img.path | lastModifiedDate %}
+					{% if lm %}<lastmod>{{ lm | htmlDateString }}</lastmod>{% endif %}
+				</url>
+			{%- endif -%}
+		{% endif -%}
+	{% endfor -%}
+
+	{# Non-religioustheory PDF URLs #}
+	{% for pdf in (assets.pdfs or []) -%}
+		{%- if pdf.url and not pdf.url.startsWith("/religioustheory/") -%}
+			{% set path = pdf.url | url %}
+			{%- if path not in seen -%}
+				{% set seen = (seen.push(path), seen) %}
+				<url>
+					<loc>{{ (baseUrl ~ path) | xmlEscape | safe }}</loc>
+					{% set lm = pdf.path | lastModifiedDate %}
+					{% if lm %}<lastmod>{{ lm | htmlDateString }}</lastmod>{% endif %}
+				</url>
+			{%- endif -%}
+		{% endif -%}
+	{% endfor -%}
+
+	{# Feed endpoints #}
+	{% for path in [
+		"/feed/feed.xml",
+		"/feed/feed.rss",
+		"/feed/religioustheory/feed.xml"
+	] -%}
+		{%- if path not in seen -%}
+			{% set seen = (seen.push(path), seen) %}
+			<url>
+				<loc>{{ (baseUrl ~ path) | xmlEscape | safe }}</loc>
+				{% if defaultLastmod %}<lastmod>{{ defaultLastmod | htmlDateString }}</lastmod>{% endif %}
+			</url>
+		{%- endif -%}
+	{% endfor -%}
+</urlset>

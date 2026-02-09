@@ -1,0 +1,33 @@
+---
+permalink: /feed/religioustheory/feed.xml
+layout: false
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="/feed/pretty-atom-feed.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	{% set baseUrl = sitemapBaseUrl or metadata.url or (site and site.url) or "" %}
+	{% set posts = theory.posts or [] %}
+	<title>{{ ((metadata.site and metadata.site.title) or "Religious Theory") | xmlEscape | safe }}</title>
+	<subtitle>{{ ((metadata.site and metadata.site.description) or "Religious Theory posts feed") | xmlEscape | safe }}</subtitle>
+	<link href="{{ (baseUrl ~ "/feed/religioustheory/feed.xml") | xmlEscape | safe }}" rel="self" />
+	<link href="{{ (baseUrl ~ "/religioustheory/") | xmlEscape | safe }}" />
+	<updated>{{ ((posts[0] and (posts[0].dateUpdated or posts[0].date)) or page.date) | isoDate }}</updated>
+	<id>{{ (baseUrl ~ "/religioustheory/") | xmlEscape | safe }}</id>
+	<author>
+		<name>{{ ((metadata.site and metadata.site.author) or "editors_religioustheory") | xmlEscape | safe }}</name>
+	</author>
+	{%- for post in posts | limit(100) %}
+		{%- if post.slug and not post.draft %}
+			{% set path = ("/religioustheory/posts/" ~ (post.slug | slugify) ~ "/") | url %}
+			{% set absoluteUrl = baseUrl ~ path %}
+			<entry>
+				<title>{{ (post.title or post.slug) | xmlEscape | safe }}</title>
+				<link href="{{ absoluteUrl | xmlEscape | safe }}" />
+				<updated>{{ (post.dateUpdated or post.date or page.date) | isoDate }}</updated>
+				<id>{{ absoluteUrl | xmlEscape | safe }}</id>
+				<content type="html">{{ (post.content | md) | xmlEscape | safe }}</content>
+			</entry>
+		{%- endif %}
+	{%- endfor %}
+</feed>
