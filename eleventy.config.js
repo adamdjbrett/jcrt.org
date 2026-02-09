@@ -437,7 +437,7 @@ export default async function (eleventyConfig) {
 			.getAll()
 			.filter((p) => {
 				const ip = String(p?.inputPath || "");
-				return ip.startsWith("./content/archives/") && ip.endsWith("/index.njk") && p?.url;
+				return /^\.\/content\/archives\/[^/]+\/index\.njk$/.test(ip) && p?.url;
 			})
 			.map((p) => {
 				const key = archiveIssueSortKey(p.inputPath, p.url);

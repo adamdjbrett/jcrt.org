@@ -3,34 +3,18 @@ layout: base.njk
 title: Journal Archives
 description: Browse past Thompson issues and articles.
 pagination:
-  data: collections.archives
+  data: collections.archivesToc
   size: 5
-  alias: ignore
+  alias: paginated_issues
+  reverse: true
 ---
 <div class="col-md-10 col-12 mx-auto">
 
  {% include "partials/nav_desktop.njk" %}
-{% set current_dir = page.inputPath | replace('/index.njk', '/') %}
-{% set issues = [] %}
-
-{% for entry in collections.all %}
-  {% if entry.inputPath and entry.inputPath.startsWith(current_dir) and entry.inputPath.endsWith('/index.njk') %}
-    {% set relative_path = entry.inputPath | replace(current_dir, '') %}
-    {% if relative_path.split('/') | length == 2 %}
-      {% set s = "000" + (entry.data.season or "") %}
-      {% set i = "000" + (entry.data.issue or "") %}
-      {% set sort_key = s.slice(-3) + "." + i.slice(-3) %}
-      {% set issues = (issues.push({ entry: entry, sort_key: sort_key }), issues) %}
-    {% endif %}
-  {% endif %}
-{% endfor %}
-
-{% set sorted_issues = issues | sort(false, false, 'sort_key') | reverse %}
 {% set itemsPerPage = 5 %}
-{% set totalItems = sorted_issues | length %}
-{% set totalPages = (totalItems / itemsPerPage) | round(0, "ceil") %}
+{% set totalItems = collections.archivesToc | length %}
+{% set totalPages = pagination.pages | length %}
 {% set offset = pagination.pageNumber * itemsPerPage %}
-{% set paginated_issues = sorted_issues.slice(offset, offset + itemsPerPage) %}
 
 <main class="container-fluid">
   <div class="text-center mb-5">
@@ -38,8 +22,7 @@ pagination:
     <p class="text-secondary italic">Volume, Seasons, and Issues</p>
   </div>
 
-  {% for issue_item in paginated_issues %}
-    {% set issue = issue_item.entry %}
+  {% for issue in paginated_issues %}
     {% set issue_dir = issue.inputPath | replace('/index.njk', '/') %}
     
     <section class="issue-block mb-5 p-4 bg-body-tertiary rounded border-start border-4 
