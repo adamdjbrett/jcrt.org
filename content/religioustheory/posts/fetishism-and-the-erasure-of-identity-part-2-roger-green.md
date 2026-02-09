@@ -1,6 +1,6 @@
 ---
 title: 'Fetishism And The Erasure Of Identity, Part 2 (Roger Green)'
-date: 2019-07-16T12:42:47.000Z
+date: '2019-07-16T12:42:47.000Z'
 author: editors
 image: /images/2019/07/Lome%CC%81_Fetish_Market1.jpg
 categories:

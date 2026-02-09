@@ -2,7 +2,7 @@
 title: >-
   The Re-Enchantment Of Bodies – The Transformative Power Of Charismatic
   Healings, Part 1 (Anna Magnasco)
-date: 2023-11-28T16:40:43.000Z
+date: '2023-11-28T16:40:43.000Z'
 author: editors
 image: >-
   /images/2023/12/St_Peter_and_St_John_healing_the_cripple_1841_Wellcome_L0000122-1210x642.jpg

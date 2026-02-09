@@ -1,6 +1,6 @@
 ---
 title: Call For Papers – Special Issue On Walter Benjamin And Religion
-date: 2019-04-30T17:00:54.000Z
+date: '2019-04-30T17:00:54.000Z'
 author: editors
 image: /images/2019/04/kirsh_1-071014.jpg
 categories:

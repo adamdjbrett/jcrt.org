@@ -1,6 +1,6 @@
 ---
 title: Review – Caputo’s “Spooky” Call To Theology (Rob Kennedy)
-date: 2017-05-15T19:10:04.000Z
+date: '2017-05-15T19:10:04.000Z'
 author: editors
 image: /images/2017/05/ghost-story.jpg
 categories:

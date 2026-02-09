@@ -3,7 +3,7 @@ title: >-
   Transmodern Sufism, Or Stepping With Levinas On The Footprints Of A
   Speculative Sufism Not Re-Framed By 20th Century Orientalists, Part 2 (Philipp
   Valentini)
-date: 2018-09-15T02:24:13.000Z
+date: '2018-09-15T02:24:13.000Z'
 author: editors
 image: /images/2018/09/IMG_2675.jpg
 categories:

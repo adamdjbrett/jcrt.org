@@ -2,7 +2,7 @@
 title: >-
   Locating The Oceanic In Sylvia Wynter’s “Demonic Ground”, Part 3 (Justine M.
   Bakker)
-date: 2022-01-27T20:12:29.000Z
+date: '2022-01-27T20:12:29.000Z'
 author: editors
 image: /images/2022/01/Clouds_and_Water_MET_DP236116.jpg
 categories:

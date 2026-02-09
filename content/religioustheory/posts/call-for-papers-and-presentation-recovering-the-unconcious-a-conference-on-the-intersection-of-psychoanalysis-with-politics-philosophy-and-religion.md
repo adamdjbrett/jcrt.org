@@ -2,7 +2,7 @@
 title: >-
   Recovering the Unconscious – A Conference on the Intersection of
   Psychoanalysis With Politics, Philosophy, and Religion – CFP
-date: 2016-04-02T03:43:51.000Z
+date: '2016-04-02T03:43:51.000Z'
 author: editors
 image: /images/2016/04/Freud-and-clutter.jpg
 categories:

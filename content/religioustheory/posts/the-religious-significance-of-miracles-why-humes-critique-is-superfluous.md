@@ -2,7 +2,7 @@
 title: >-
   The Religious Significance Of Miracles – Why Hume’s Critique Is Superfluous,
   Part 1 (Alberto Urquidez)
-date: 2020-07-14T01:46:44.000Z
+date: '2020-07-14T01:46:44.000Z'
 author: editors
 image: /images/2020/07/Rubens-Les_miracles_de_saint_Benoi%CC%82t.jpg
 categories:

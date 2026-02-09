@@ -1,6 +1,6 @@
 ---
 title: Review – A Stranger Thought For Stranger Times (Liam Burrell)
-date: 2017-04-06T04:00:49.000Z
+date: '2017-04-06T04:00:49.000Z'
 author: Books
 image: /images/2016/11/laruelle.jpg
 categories:

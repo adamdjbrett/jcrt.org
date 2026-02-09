@@ -2,7 +2,7 @@
 title: >-
   Thinking About God In A Pluralistic World – The Challenge of Modern Theology,
   Lecture 1 (Johannes Zachhuber)
-date: 2018-05-12T16:22:51.000Z
+date: '2018-05-12T16:22:51.000Z'
 author: editors
 image: /images/2018/05/Christian-mosaic.jpg
 categories:

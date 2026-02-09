@@ -2,7 +2,7 @@
 title: >-
   Critical Conversations – 2020 And The Catastrophe Of The Global Neoliberal
   Order (Announcement)
-date: 2020-11-03T02:30:54.000Z
+date: '2020-11-03T02:30:54.000Z'
 author: editors
 image: /images/2020/11/Crisis-City.jpeg
 categories:

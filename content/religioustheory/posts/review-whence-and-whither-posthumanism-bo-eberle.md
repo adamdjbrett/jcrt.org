@@ -1,6 +1,6 @@
 ---
 title: Review – Whence and Whither Posthumanism? (Bo Eberle)
-date: 2016-10-06T08:00:49.000Z
+date: '2016-10-06T08:00:49.000Z'
 author: Books
 image: /images/2016/10/posthumanism.jpg
 categories:

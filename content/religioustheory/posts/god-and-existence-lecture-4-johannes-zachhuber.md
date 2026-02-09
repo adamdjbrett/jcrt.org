@@ -1,6 +1,6 @@
 ---
 title: 'God And Existence, Lecture 4 (Johannes Zachhuber)'
-date: 2018-08-29T17:34:34.000Z
+date: '2018-08-29T17:34:34.000Z'
 author: editors
 image: /images/2018/08/IMG_2603.jpg
 categories:

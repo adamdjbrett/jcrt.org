@@ -1,6 +1,6 @@
 ---
 title: Review – The Enigmatic Absolute (Stanimir Panayotov)
-date: 2019-02-22T02:44:30.000Z
+date: '2019-02-22T02:44:30.000Z'
 author: Books
 image: /images/2019/02/dewang-gupta-636342-unsplash.jpg
 categories:

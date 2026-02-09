@@ -2,7 +2,7 @@
 title: >-
   Spiritual Erotics, Part 1 – Affect Theory and the Transformation of Machismo
   Among Latino Pentecostal Men
-date: 2016-03-30T00:42:20.000Z
+date: '2016-03-30T00:42:20.000Z'
 author: editors
 image: /images/2016/03/20120503nw1179.jpg
 categories:

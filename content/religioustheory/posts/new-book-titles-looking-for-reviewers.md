@@ -1,6 +1,6 @@
 ---
 title: Looking For Reviewers
-date: 2018-01-02T00:09:52.000Z
+date: '2018-01-02T00:09:52.000Z'
 author: editors
 image: /images/2017/04/woman-face-in-shadow.jpg
 categories:

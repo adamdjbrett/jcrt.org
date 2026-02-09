@@ -1,6 +1,6 @@
 ---
 title: Review – An Uncritical Critique of Theism (Rebekah Gordon)
-date: 2018-03-07T14:45:41.000Z
+date: '2018-03-07T14:45:41.000Z'
 author: Books
 image: /images/2018/03/jbcol.png
 categories:

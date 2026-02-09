@@ -2,7 +2,7 @@
 title: >-
   Review – Digital Technologies and Religion in the Postmodern Era (Albert
   McClure)
-date: 2016-07-14T11:45:56.000Z
+date: '2016-07-14T11:45:56.000Z'
 author: Books
 image: /images/2016/07/Internet-handshake.jpg
 categories:

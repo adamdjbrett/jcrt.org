@@ -2,7 +2,7 @@
 title: >-
   From Holistic To In-Between Theology – The Ethiopian Evangelical Church Mekane
   Yesus, Part 3 (Rode Molla)
-date: 2022-05-18T20:43:53.000Z
+date: '2022-05-18T20:43:53.000Z'
 author: editors
 image: /images/2022/06/Tigray_Near_Yeha_Ethiopia.jpg
 categories:

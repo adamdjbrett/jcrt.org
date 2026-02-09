@@ -1,6 +1,6 @@
 ---
 title: 'Religious Theory – A New Review, Commentary, and Conversations Feature of JCRT'
-date: 2016-02-24T00:08:00.000Z
+date: '2016-02-24T00:08:00.000Z'
 author: editors
 image: /images/2016/02/adam-1.jpg
 categories:

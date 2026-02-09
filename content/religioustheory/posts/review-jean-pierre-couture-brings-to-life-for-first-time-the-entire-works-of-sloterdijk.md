@@ -2,7 +2,7 @@
 title: >-
   Review – Jean-Pierre Couture Brings To Life The Ongoing Oeuvre of Peter
   Sloterdijk
-date: 2016-04-15T15:15:37.000Z
+date: '2016-04-15T15:15:37.000Z'
 author: editors
 image: /images/2016/04/open_no09_djong_02_walkingcity.jpg
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Lacan And Pneumatology (Mark Murphy)
-date: 2020-03-22T18:41:58.000Z
+date: '2020-03-22T18:41:58.000Z'
 author: editors
 image: >-
   /images/2020/03/catholicism_benedictine_monastery_god_christ_jesus_virgin_mary_christianity-569944.jpg

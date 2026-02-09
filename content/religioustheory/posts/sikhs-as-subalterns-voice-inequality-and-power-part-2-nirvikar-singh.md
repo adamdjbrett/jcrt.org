@@ -1,6 +1,6 @@
 ---
 title: 'Sikhs As Subalterns – Voice, Inequality, And Power, Part 2 (Nirvikar Singh)'
-date: 2024-01-26T17:09:44.000Z
+date: '2024-01-26T17:09:44.000Z'
 author: editors
 image: /images/2024/02/Peace_Symposium_between_Sikhs__Muslims_of_Pakistan-919x642.jpg
 categories:

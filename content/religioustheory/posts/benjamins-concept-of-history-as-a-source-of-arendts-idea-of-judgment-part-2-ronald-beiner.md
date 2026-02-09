@@ -2,7 +2,7 @@
 title: >-
   Benjamin’s Concept of History As A Source of Arendt’s Idea of Judgment – Part
   2 (Ronald Beiner)
-date: 2016-08-15T05:34:31.000Z
+date: '2016-08-15T05:34:31.000Z'
 author: editors
 image: >-
   /images/2016/08/Thomas_Abel_Prior_-_Queen_Victoria_opening_the_1851_Universal_Exhibition_at_the_Crystal_Palace_in_London_-_Google_Art_Project.jpg

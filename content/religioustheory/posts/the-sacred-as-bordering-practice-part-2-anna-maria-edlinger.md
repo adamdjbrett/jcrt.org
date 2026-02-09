@@ -1,6 +1,6 @@
 ---
 title: 'The Sacred As Bordering Practice, Part 2 (Anna-Maria Edlinger)'
-date: 2023-11-13T16:11:04.000Z
+date: '2023-11-13T16:11:04.000Z'
 author: editors
 image: /images/2023/12/IMG_1693-1200x642.jpeg
 categories:

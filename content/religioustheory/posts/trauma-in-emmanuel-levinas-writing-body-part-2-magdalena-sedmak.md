@@ -1,6 +1,6 @@
 ---
 title: 'Trauma In Emmanuel Levinas’ Writing Body, Part 2 (Magdalena Sedmak)'
-date: 2023-06-30T23:40:25.000Z
+date: '2023-06-30T23:40:25.000Z'
 author: editors
 image: /images/2023/07/Emmanuel_Levinas_cropped-680x642.jpg
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Review – Agamben’s Political Reading of the Trial of Jesus (Ryne Beddard)
-date: 2016-07-21T08:00:10.000Z
+date: '2016-07-21T08:00:10.000Z'
 author: Books
 image: /images/2016/07/Pontius-Pilate.jpg
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Critical Conversations – “On Decoloniality” With Walter Mignolo (Announcement)
-date: 2020-12-29T20:12:22.000Z
+date: '2020-12-29T20:12:22.000Z'
 author: editors
 image: /images/2020/12/Wmignolo.jpg
 categories:

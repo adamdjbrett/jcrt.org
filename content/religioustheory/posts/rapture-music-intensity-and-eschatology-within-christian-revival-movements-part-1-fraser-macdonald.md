@@ -2,7 +2,7 @@
 title: >-
   Rapture Music – Intensity And Eschatology Within Christian Revival Movements,
   Part 1 (Fraser Macdonald)
-date: 2022-07-04T02:37:00.000Z
+date: '2022-07-04T02:37:00.000Z'
 author: editors
 image: /images/2022/08/Iaptdbras.jpg
 categories:

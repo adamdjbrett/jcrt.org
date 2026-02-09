@@ -1,6 +1,6 @@
 ---
 title: From Christology to Political Theology (Cyril Hovorun)
-date: 2018-02-26T18:03:11.000Z
+date: '2018-02-26T18:03:11.000Z'
 author: editors
 image: /images/2018/02/Style-8022831138_b3bf36a30d_b-Wavy-Lines-0.4MP.jpg
 categories:

@@ -1,6 +1,6 @@
 ---
 title: 'Sikhs As Subalterns – Voice, Inequality, And Power, Part 3 (Nirvikar Singh)'
-date: 2024-02-08T17:50:32.000Z
+date: '2024-02-08T17:50:32.000Z'
 author: editors
 image: /images/2024/02/Golden_Temple_Sikhism-1176x642.jpg
 categories:

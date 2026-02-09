@@ -1,6 +1,6 @@
 ---
 title: 'Love, Psychoanalysis, and Leftist Political Ontology, Part 2 (Daniel Tutt)'
-date: 2016-09-13T16:38:35.000Z
+date: '2016-09-13T16:38:35.000Z'
 author: editors
 image: >-
   /images/2016/09/public-domain-images-free-stock-photos-wedding-dress-outdoors-green-grass-wisteria-vines-1024x683.jpg

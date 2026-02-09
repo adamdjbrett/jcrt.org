@@ -1,6 +1,6 @@
 ---
 title: Review – Mysticism As Language Game (Adam Loch)
-date: 2017-06-15T12:55:38.000Z
+date: '2017-06-15T12:55:38.000Z'
 author: editors
 image: /images/2017/06/IMG_1533.jpg
 categories:

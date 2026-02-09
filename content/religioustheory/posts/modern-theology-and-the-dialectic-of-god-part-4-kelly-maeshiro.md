@@ -1,6 +1,6 @@
 ---
 title: 'Modern Theology And The Dialectic Of God, Part 4 (Kelly Maeshiro)'
-date: 2021-03-01T17:18:02.000Z
+date: '2021-03-01T17:18:02.000Z'
 author: editors
 image: /images/2021/03/Janus_.jpg
 categories:

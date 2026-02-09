@@ -2,7 +2,7 @@
 title: >-
   Lacan As “Spiritual Director” – On The Relationship Between Psychoanalysis And
   Christian Mysticism, Part 3 (Mark Murphy)
-date: 2018-08-15T03:18:13.000Z
+date: '2018-08-15T03:18:13.000Z'
 author: editors
 image: /images/2018/08/keys-to-the-kingdom.jpg
 categories:

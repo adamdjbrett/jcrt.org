@@ -1,6 +1,6 @@
 ---
 title: Religious Faith In Pursuit of Environmental Justice (Chris Durante)
-date: 2024-07-25T23:59:15.000Z
+date: '2024-07-25T23:59:15.000Z'
 author: J.C. Smith
 image: /images/2024/09/2018-09-06_riseclimate-421.jpg
 categories:

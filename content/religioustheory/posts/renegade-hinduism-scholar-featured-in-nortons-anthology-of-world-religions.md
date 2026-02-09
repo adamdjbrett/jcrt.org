@@ -1,6 +1,6 @@
 ---
 title: Renegade Hinduism Scholar Featured In Norton’s Anthology of World Religions
-date: 2016-04-08T20:15:31.000Z
+date: '2016-04-08T20:15:31.000Z'
 author: editors
 image: /images/2016/04/Ilaiah.jpg
 categories:

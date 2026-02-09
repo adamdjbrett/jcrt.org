@@ -2,7 +2,7 @@
 title: >-
   Rethinking Anselm’s Atonement Theory –  “Unmaking” The Indebted Man (Ryne
   Beddard)
-date: 2017-01-03T20:16:03.000Z
+date: '2017-01-03T20:16:03.000Z'
 author: editors
 image: /images/2017/01/atonement-lg.jpg
 categories:

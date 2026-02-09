@@ -2,7 +2,7 @@
 title: >-
   Embodiment – A Conference On The Crisis In Contemporary Theory And The
   Humanities (Announcement)
-date: 2022-08-25T20:39:16.000Z
+date: '2022-08-25T20:39:16.000Z'
 author: editors
 image: /images/2022/08/IMG_0123-2-739x642.jpg
 categories:

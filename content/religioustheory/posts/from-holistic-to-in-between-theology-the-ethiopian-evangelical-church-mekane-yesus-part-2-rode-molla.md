@@ -2,7 +2,7 @@
 title: >-
   From Holistic To In-Between Theology – The Ethiopian Evangelical Church Mekane
   Yesus, Part 2 (Rode Molla)
-date: 2022-04-30T14:21:06.000Z
+date: '2022-04-30T14:21:06.000Z'
 author: editors
 image: /images/2022/05/Dassanech_Girl_Omerate_Ethiopia_21073880372-1-1200x642.jpg
 categories:

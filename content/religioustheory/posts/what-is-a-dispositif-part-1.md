@@ -1,6 +1,6 @@
 ---
 title: What Is A Dispositif? – Part 1 (Gregg Lambert)
-date: 2016-07-11T03:35:20.000Z
+date: '2016-07-11T03:35:20.000Z'
 author: editors
 image: /images/2016/07/682px-thumbnail.jpg
 categories:

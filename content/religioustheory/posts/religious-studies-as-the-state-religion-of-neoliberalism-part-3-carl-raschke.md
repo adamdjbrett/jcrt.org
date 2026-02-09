@@ -2,7 +2,7 @@
 title: >-
   Religious Studies As The “State Religion” Of Neoliberalism, Part 3 (Carl
   Raschke)
-date: 2022-10-05T20:58:53.000Z
+date: '2022-10-05T20:58:53.000Z'
 author: editors
 image: /images/2022/10/Tellus_-_Ara_Pacis-1200x642.jpg
 categories:

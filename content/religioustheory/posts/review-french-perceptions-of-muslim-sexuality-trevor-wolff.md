@@ -1,6 +1,6 @@
 ---
 title: Review – French Perceptions of Muslim Sexuality (Trevor Wolff)
-date: 2018-01-05T02:34:24.000Z
+date: '2018-01-05T02:34:24.000Z'
 author: Books
 image: /images/2018/01/Ira_giotto.jpg
 categories:

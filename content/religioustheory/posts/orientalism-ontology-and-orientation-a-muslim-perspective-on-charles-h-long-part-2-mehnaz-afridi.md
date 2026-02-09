@@ -2,7 +2,7 @@
 title: >-
   Orientalism, Ontology, And Orientation – A Muslim Perspective On Charles H.
   Long, Part 2 (Mehnaz Afridi)
-date: 2022-08-19T21:56:22.000Z
+date: '2022-08-19T21:56:22.000Z'
 author: editors
 image: /images/2022/08/Willmette_how-1000x642.jpg
 categories:

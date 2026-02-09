@@ -1,6 +1,6 @@
 ---
 title: Review – Bahai Religion And Religious Cycles (Rebekah Gordon)
-date: 2017-06-07T05:18:55.000Z
+date: '2017-06-07T05:18:55.000Z'
 author: editors
 image: /images/2017/06/churches-of-the-world.jpg
 categories:

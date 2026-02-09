@@ -2,7 +2,7 @@
 title: >-
   “Damn It, He’s An Injun!” Christian Murder, Colonial Wealth, And Tanned Human
   Skin, Part 3 (Tink Tinker, wazhazhe udsethe)
-date: 2019-03-26T16:40:06.000Z
+date: '2019-03-26T16:40:06.000Z'
 author: editors
 image: /images/2019/03/Native-American-statue.jpg
 categories:

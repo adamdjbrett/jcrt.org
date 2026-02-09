@@ -2,7 +2,7 @@
 title: >-
   Critical Conversations – A Conversation With Arthur Bradley On Sovereignty,
   Part 1
-date: 2022-05-27T18:59:19.000Z
+date: '2022-05-27T18:59:19.000Z'
 author: editors
 image: /images/2022/06/Leviathan_-_Hobbes_Leviathan_1651_title_page_-_BL-1016x642.jpg
 categories:

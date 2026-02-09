@@ -1,6 +1,6 @@
 ---
 title: Review – Eugene Thacker’s “Cosmic Pessimism” (N.N. Trakakis)
-date: 2016-10-27T08:00:23.000Z
+date: '2016-10-27T08:00:23.000Z'
 author: Books
 image: /images/2016/10/cioran.jpg
 categories:

@@ -1,6 +1,6 @@
 ---
 title: 'Spiritual Erotics, Part 3 – Eros, Ecstasy, and the Pentecostal Experience'
-date: 2016-04-13T01:12:35.000Z
+date: '2016-04-13T01:12:35.000Z'
 author: editors
 image: /images/2016/04/Catharsis.jpg
 categories:

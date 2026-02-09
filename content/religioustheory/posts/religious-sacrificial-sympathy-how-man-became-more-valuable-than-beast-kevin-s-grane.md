@@ -2,7 +2,7 @@
 title: >-
   Religious Sacrificial Sympathy- How Man Became More Valuable Than Beast (Kevin
   S. Grane)
-date: 2024-03-15T13:53:12.000Z
+date: '2024-03-15T13:53:12.000Z'
 author: editors
 image: /images/2024/09/3725-1210x642.jpg
 categories:

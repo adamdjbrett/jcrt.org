@@ -1,6 +1,6 @@
 ---
 title: 'The Hollow Christians Of End Times Fiction, Part 2 (Paul Maltby)'
-date: 2020-02-25T00:35:12.000Z
+date: '2020-02-25T00:35:12.000Z'
 author: editors
 image: /images/2020/03/1280px-Last_Judgement_Michelangelo.jpg
 categories:

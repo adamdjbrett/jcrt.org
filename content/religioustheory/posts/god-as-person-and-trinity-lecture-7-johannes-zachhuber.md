@@ -1,6 +1,6 @@
 ---
 title: 'God As Person and Trinity, Lecture 7 (Johannes Zachhuber)'
-date: 2019-04-10T10:23:29.000Z
+date: '2019-04-10T10:23:29.000Z'
 author: editors
 image: /images/2019/04/800px-Holy_Trinity_Column_-_top.jpg
 categories:

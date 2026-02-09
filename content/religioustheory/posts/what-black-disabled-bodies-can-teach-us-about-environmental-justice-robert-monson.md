@@ -2,7 +2,7 @@
 title: >-
   What Black Disabled Bodies Can Teach Us About Environmental Justice (Robert
   Monson)
-date: 2024-07-10T12:13:39.000Z
+date: '2024-07-10T12:13:39.000Z'
 author: editors
 image: /images/2024/07/Disabled_BIPOC_in_front_of_pride_flag-1210x642.jpg
 categories:

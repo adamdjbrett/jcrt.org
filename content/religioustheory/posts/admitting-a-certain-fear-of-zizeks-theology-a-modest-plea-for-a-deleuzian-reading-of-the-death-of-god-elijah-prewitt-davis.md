@@ -2,7 +2,7 @@
 title: >-
   Admitting A Certain Fear of Zizek’s Theology – A Modest Plea For A Deleuzian
   Reading Of The Death Of God (Elijah Prewitt-Davis)
-date: 2018-04-09T14:13:22.000Z
+date: '2018-04-09T14:13:22.000Z'
 author: editors
 image: /images/2018/04/horror.jpg
 categories:

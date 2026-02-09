@@ -2,7 +2,7 @@
 title: >-
   Negative Theology And Its Problems: Barth And Marion, Lecture 3 (Johannes
   Zachhuber)
-date: 2018-07-26T22:43:26.000Z
+date: '2018-07-26T22:43:26.000Z'
 author: editors
 image: /images/2018/07/thumb_IMG_2156_1024.jpg
 categories:

@@ -2,7 +2,7 @@
 title: >-
   Review – Ontic Flows: From Digital Humanities to Posthumanities (Dean
   Dettloff)
-date: 2017-05-25T01:00:00.000Z
+date: '2017-05-25T01:00:00.000Z'
 author: Books
 image: /images/2017/05/IMG_1445.jpg
 categories:

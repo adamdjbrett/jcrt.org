@@ -2,7 +2,7 @@
 title: >-
   Healing As A Multimedia Practice – Contemporary Spirituality In Turkey, Part 1
   (Duygu Sendag)
-date: 2024-10-17T23:09:22.000Z
+date: '2024-10-17T23:09:22.000Z'
 author: editors
 image: /images/2024/09/how-art-therapy-can-help-with-depression.jpg
 categories:

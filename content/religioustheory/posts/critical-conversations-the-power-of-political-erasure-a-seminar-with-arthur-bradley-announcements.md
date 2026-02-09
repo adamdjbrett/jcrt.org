@@ -2,7 +2,7 @@
 title: >-
   Critical Conversations – The Power Of “Political Erasure”, A Seminar With
   Arthur Bradley (Announcements)
-date: 2022-03-02T03:50:10.000Z
+date: '2022-03-02T03:50:10.000Z'
 author: editors
 image: /images/2022/03/Guernica_museum_sofia_queen_on_july_2018-rotated-1210x642.jpg
 categories:

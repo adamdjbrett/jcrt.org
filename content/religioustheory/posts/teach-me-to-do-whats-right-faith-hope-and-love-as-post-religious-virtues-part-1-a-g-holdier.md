@@ -2,7 +2,7 @@
 title: >-
   “Teach Me To Do What’s Right” – Faith, Hope, And Love As Post-Religious
   Virtues, Part 1 (A.G. Holdier)
-date: 2021-09-08T16:01:19.000Z
+date: '2021-09-08T16:01:19.000Z'
 author: editors
 image: /images/2021/09/The_Theological_Virtues-_Faith_Charity_Hope_MET_DT7354.jpg
 categories:

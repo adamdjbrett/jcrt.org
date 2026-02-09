@@ -1,6 +1,6 @@
 ---
 title: Review – The Ethics Of Time (Matthew Clemente)
-date: 2018-04-17T04:05:49.000Z
+date: '2018-04-17T04:05:49.000Z'
 author: Books
 image: /images/2018/04/vasnetsov_samolet.jpg
 categories:

@@ -2,7 +2,7 @@
 title: >-
   Mischief, Idolatry, And The Demonic – Toward A Hermeneutic Of Play, Part I
   (Kevin Lewis)
-date: 2018-05-19T17:37:39.000Z
+date: '2018-05-19T17:37:39.000Z'
 author: editors
 image: /images/2018/05/IMG_0921-1.jpg
 categories:

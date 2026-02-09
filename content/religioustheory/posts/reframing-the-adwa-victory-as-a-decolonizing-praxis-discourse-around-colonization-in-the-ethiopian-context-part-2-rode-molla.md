@@ -2,7 +2,7 @@
 title: >-
   Reframing The Adwa Victory As A Decolonizing Praxis – Discourse Around
   Colonization In The Ethiopian Context, Part 2 (Rode Molla)
-date: 2020-02-04T23:01:58.000Z
+date: '2020-02-04T23:01:58.000Z'
 author: editors
 image: /images/2020/02/1599px-Ethiopian_mothers_with_babies.jpg
 categories:

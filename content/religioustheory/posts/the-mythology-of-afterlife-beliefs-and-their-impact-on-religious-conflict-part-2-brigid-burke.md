@@ -2,7 +2,7 @@
 title: >-
   The Mythology of Afterlife Beliefs and Their Impact on Religious Conflict,
   Part 2 (Brigid Burke)
-date: 2017-11-07T22:29:04.000Z
+date: '2017-11-07T22:29:04.000Z'
 author: editors
 image: /images/2017/10/Genrich_Ippolitovich_Semiradsky_-_Roma_1889.jpg
 categories:

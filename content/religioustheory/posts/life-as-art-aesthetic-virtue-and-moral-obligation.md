@@ -1,6 +1,6 @@
 ---
 title: Life As Art – Aesthetic Virtue and Moral Obligation
-date: 2016-02-24T02:46:50.000Z
+date: '2016-02-24T02:46:50.000Z'
 author: editors
 image: >-
   /images/2016/02/Cezanne-Still-life-with-flower-holder-1905-trivium-art-history.jpg

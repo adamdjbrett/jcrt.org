@@ -1,6 +1,6 @@
 ---
 title: 'Modern Theology And The Dialectic Of God, Part 3 (Kelly Maeshiro)'
-date: 2021-02-22T16:53:48.000Z
+date: '2021-02-22T16:53:48.000Z'
 author: editors
 image: /images/2021/03/IMG_7446-1.jpeg
 categories:

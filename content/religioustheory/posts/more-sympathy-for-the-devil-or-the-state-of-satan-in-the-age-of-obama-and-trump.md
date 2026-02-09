@@ -2,7 +2,7 @@
 title: >-
   More Sympathy for the Devil, or The State of Satan in The Age of Obama and
   Trump
-date: 2016-05-01T21:22:52.000Z
+date: '2016-05-01T21:22:52.000Z'
 author: editors
 image: /images/2016/03/Satan-comedy.gif
 categories:

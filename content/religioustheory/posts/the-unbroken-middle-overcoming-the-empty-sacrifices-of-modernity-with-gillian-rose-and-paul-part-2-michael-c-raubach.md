@@ -2,7 +2,7 @@
 title: >-
   The Unbroken Middle: Overcoming The Empty Sacrifices Of Modernity With Gillian
   Rose And Paul, Part 2 (Michael C. Raubach)
-date: 2021-11-18T15:52:31.000Z
+date: '2021-11-18T15:52:31.000Z'
 author: editors
 image: >-
   /images/2021/11/Abrahams_Sacrifice_The_Sacrifice_of_Isaac_Met_DP888579-1119x642.jpg

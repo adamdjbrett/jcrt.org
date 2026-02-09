@@ -1,6 +1,6 @@
 ---
 title: “Notations” – Call for Contributors
-date: 2018-01-01T00:14:28.000Z
+date: '2018-01-01T00:14:28.000Z'
 author: editors
 image: >-
   /images/2016/02/951986_stock-photo-music-notes-on-old-paper-sheet-to-use-for-the-background-2.jpg

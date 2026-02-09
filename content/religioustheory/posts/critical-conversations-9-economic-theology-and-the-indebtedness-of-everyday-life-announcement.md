@@ -2,7 +2,7 @@
 title: >-
   Critical Conversations 9 – Economic Theology And The Indebtedness Of Everyday
   Life (Announcement)
-date: 2021-04-19T03:32:05.000Z
+date: '2021-04-19T03:32:05.000Z'
 author: editors
 image: /images/2021/05/Aamidor-on-Chuck-Taylor-IMAGE-2.jpg
 categories:

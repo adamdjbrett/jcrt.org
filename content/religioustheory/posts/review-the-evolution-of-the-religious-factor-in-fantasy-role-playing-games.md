@@ -2,7 +2,7 @@
 title: >-
   Review – The Evolution of the Religious Factor in Fantasy Role-Playing Games
   (Jeffrey Scholes)
-date: 2016-07-02T19:43:11.000Z
+date: '2016-07-02T19:43:11.000Z'
 author: editors
 image: /images/2016/07/dragon-slayer.jpg
 categories:

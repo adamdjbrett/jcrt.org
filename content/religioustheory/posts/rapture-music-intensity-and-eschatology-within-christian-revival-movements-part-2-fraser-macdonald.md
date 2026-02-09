@@ -2,7 +2,7 @@
 title: >-
   Rapture Music – Intensity And Eschatology Within Christian Revival Movements,
   Part 2 (Fraser Macdonald)
-date: 2022-07-12T02:50:01.000Z
+date: '2022-07-12T02:50:01.000Z'
 author: editors
 image: >-
   /images/2022/08/800px-Haitian_vodou_altar_to_Petwo_Rada_and_Gede_spirits_November_5_2010..jpg

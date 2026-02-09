@@ -2,7 +2,7 @@
 title: >-
   Foucault’s Disciplinary Society And The Community Rule Of Qumran (Rebekah
   Gordon)
-date: 2017-03-10T02:20:55.000Z
+date: '2017-03-10T02:20:55.000Z'
 author: editors
 image: /images/2017/03/qumran-drawing.jpg
 categories:

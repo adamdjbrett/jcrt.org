@@ -1,6 +1,6 @@
 ---
 title: Forging A Path From Theory To Theology – Review Essay (Matt Waggoner)
-date: 2017-04-11T05:03:59.000Z
+date: '2017-04-11T05:03:59.000Z'
 author: editors
 image: /images/2017/04/the-insurrection.jpg
 categories:

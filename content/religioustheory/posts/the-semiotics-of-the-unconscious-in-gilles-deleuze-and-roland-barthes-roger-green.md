@@ -2,7 +2,7 @@
 title: >-
   The Semiotics of the Unconscious in Gilles Deleuze and Roland Barthes, Part 1
   (Roger Green)
-date: 2016-12-19T11:35:39.000Z
+date: '2016-12-19T11:35:39.000Z'
 author: editors
 image: /images/2016/12/jnnocence1094.jpg
 categories:

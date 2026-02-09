@@ -2,7 +2,7 @@
 title: >-
   Announcing “The New Polis” – An E-Publication On Critical Theory, Cultural
   Analysis, And Political Thought
-date: 2018-03-16T17:14:06.000Z
+date: '2018-03-16T17:14:06.000Z'
 author: editors
 image: /images/2018/03/unnamed-14.jpg
 categories:

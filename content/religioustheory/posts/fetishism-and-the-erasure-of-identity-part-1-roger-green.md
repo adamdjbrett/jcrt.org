@@ -1,6 +1,6 @@
 ---
 title: 'Fetishism And The Erasure Of Identity, Part 1 (Roger Green)'
-date: 2019-07-08T13:03:16.000Z
+date: '2019-07-08T13:03:16.000Z'
 author: editors
 image: /images/2019/07/Fe%CC%81tiche_Ewe%CC%81-Togo_2.jpg
 categories:

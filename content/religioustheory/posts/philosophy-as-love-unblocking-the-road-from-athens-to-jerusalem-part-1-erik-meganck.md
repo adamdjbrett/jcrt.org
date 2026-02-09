@@ -2,7 +2,7 @@
 title: >-
   Philosophy As Love – Unblocking The Road From Athens To Jerusalem, Part 1
   (Erik Meganck)
-date: 2022-11-29T11:57:41.000Z
+date: '2022-11-29T11:57:41.000Z'
 author: editors
 image: /images/2022/12/1600px-Platos_symposium_Met_DP888791-1200x642.jpg
 categories:

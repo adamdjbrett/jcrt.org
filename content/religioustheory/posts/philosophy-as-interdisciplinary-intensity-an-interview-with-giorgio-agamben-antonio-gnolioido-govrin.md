@@ -2,7 +2,7 @@
 title: >-
   Philosophy As Interdisciplinary Intensity – An Interview With Giorgio Agamben
   (Antonio Gnolio/Ido Govrin)
-date: 2017-02-06T18:07:41.000Z
+date: '2017-02-06T18:07:41.000Z'
 author: editors
 image: /images/2017/02/intensity.jpg
 categories:

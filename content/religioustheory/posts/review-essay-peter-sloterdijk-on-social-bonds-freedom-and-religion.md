@@ -1,6 +1,6 @@
 ---
 title: 'Review Essay – Peter Sloterdijk on Social Bonds, Freedom, and Religion'
-date: 2016-03-10T02:19:00.000Z
+date: '2016-03-10T02:19:00.000Z'
 author: editors
 image: /images/2016/03/Peter-Sloterdijk.png
 categories:

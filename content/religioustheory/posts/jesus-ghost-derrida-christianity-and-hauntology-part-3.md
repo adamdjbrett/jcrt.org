@@ -1,6 +1,6 @@
 ---
 title: 'Jesus’ Ghost – Derrida, Christianity, and “Hauntology”, Part 3'
-date: 2016-05-14T21:41:02.000Z
+date: '2016-05-14T21:41:02.000Z'
 author: editors
 image: /images/2016/05/brain-facs.jpg
 categories:

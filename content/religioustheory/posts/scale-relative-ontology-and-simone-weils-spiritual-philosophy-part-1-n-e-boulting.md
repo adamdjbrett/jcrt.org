@@ -2,7 +2,7 @@
 title: >-
   “Scale Relative Ontology” And Simone Weil’s Spiritual Philosophy, Part 1 (N.E.
   Boulting)
-date: 2021-05-11T02:35:23.000Z
+date: '2021-05-11T02:35:23.000Z'
 author: editors
 image: /images/2021/05/2014-08-25-SimoneWeilCroquis-byTh.Rioult.jpg
 categories:

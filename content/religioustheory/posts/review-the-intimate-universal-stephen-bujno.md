@@ -1,6 +1,6 @@
 ---
 title: Review – The Intimate Universal (Stephen Bujno)
-date: 2019-03-08T03:46:26.000Z
+date: '2019-03-08T03:46:26.000Z'
 author: Books
 image: /images/2019/02/dhruv-weaver-618958-unsplash.jpg
 categories:

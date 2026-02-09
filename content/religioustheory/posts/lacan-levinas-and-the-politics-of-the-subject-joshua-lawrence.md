@@ -1,6 +1,6 @@
 ---
 title: 'Lacan, Levinas, And The Politics Of The Subject (Joshua Lawrence)'
-date: 2017-01-21T18:54:54.000Z
+date: '2017-01-21T18:54:54.000Z'
 author: editors
 image: /images/2017/01/levinas1.jpg
 categories:

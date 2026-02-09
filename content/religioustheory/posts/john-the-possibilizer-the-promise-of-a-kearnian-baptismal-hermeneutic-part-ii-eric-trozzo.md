@@ -2,7 +2,7 @@
 title: >-
   John the Possibilizer: The Promise of a Kearnian Baptismal Hermeneutic, Part
   II (Eric Trozzo)
-date: 2018-01-28T23:44:10.000Z
+date: '2018-01-28T23:44:10.000Z'
 author: editors
 image: /images/2018/01/24054189.a75190ba.640.jpg
 categories:

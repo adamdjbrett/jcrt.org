@@ -1,6 +1,6 @@
 ---
 title: 'Modern Theology And The Dialectic Of God, Part 1 (Kelly Maeshiro)'
-date: 2021-02-01T17:07:14.000Z
+date: '2021-02-01T17:07:14.000Z'
 author: editors
 image: /images/2021/02/GOD_by_GABE_ALBERRO.jpg
 categories:

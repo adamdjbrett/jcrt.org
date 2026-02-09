@@ -2,7 +2,7 @@
 title: >-
   The Curious Whiteheadian Proclivity In Scheler’s Account Of God And Persons,
   Part 2 (J. Edward Hackett)
-date: 2020-04-23T19:45:07.000Z
+date: '2020-04-23T19:45:07.000Z'
 author: editors
 image: /images/2020/04/download.jpg
 categories:

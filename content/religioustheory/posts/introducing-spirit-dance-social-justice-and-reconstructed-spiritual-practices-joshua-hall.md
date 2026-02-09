@@ -2,7 +2,7 @@
 title: >-
   Introducing Spirit/Dance – Social Justice And Reconstructed Spiritual
   Practices, Part 1 (Joshua Hall)
-date: 2023-03-16T03:14:11.000Z
+date: '2023-03-16T03:14:11.000Z'
 author: editors
 image: >-
   /images/2023/04/800px-Volute_krater_wedding_purifying_B_Lucania_Roccanova_Painter_350-325_BC_Prague_NM-H10_4759_151621.jpg

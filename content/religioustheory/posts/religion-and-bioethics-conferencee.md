@@ -1,6 +1,6 @@
 ---
 title: Religion and Bioethics (Conferencee)
-date: 2024-12-18T18:23:13.000Z
+date: '2024-12-18T18:23:13.000Z'
 author: editors
 image: /images/2024/09/Human_genome.png
 categories:

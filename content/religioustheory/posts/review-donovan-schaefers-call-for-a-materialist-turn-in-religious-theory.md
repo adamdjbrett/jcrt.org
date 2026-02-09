@@ -2,7 +2,7 @@
 title: >-
   Review – Donovan Schaefer’s Call For a Materialist Turn In Religious Theory
   (Jonathan Russell)
-date: 2016-06-03T04:17:59.000Z
+date: '2016-06-03T04:17:59.000Z'
 author: editors
 image: /images/2016/06/Busy-Fall.jpg
 categories:

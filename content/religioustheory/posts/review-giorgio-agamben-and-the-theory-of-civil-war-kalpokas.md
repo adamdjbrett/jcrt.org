@@ -1,6 +1,6 @@
 ---
 title: Review – Giorgio Agamben and the Theory of Civil War (Ignas Kalpokas)
-date: 2016-08-11T08:00:32.000Z
+date: '2016-08-11T08:00:32.000Z'
 author: Books
 image: /images/2016/08/agamben.jpg
 categories:

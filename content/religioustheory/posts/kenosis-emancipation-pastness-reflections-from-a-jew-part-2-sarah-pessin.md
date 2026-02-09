@@ -2,7 +2,7 @@
 title: >-
   Kenosis, Emancipation, Pastness – Reflections From A Jew, Part 2 (Sarah
   Pessin)
-date: 2019-07-01T21:09:48.000Z
+date: '2019-07-01T21:09:48.000Z'
 author: editors
 image: /images/2019/07/1599px-Jewish_Star_Star_of_David_6002048043.jpg
 categories:

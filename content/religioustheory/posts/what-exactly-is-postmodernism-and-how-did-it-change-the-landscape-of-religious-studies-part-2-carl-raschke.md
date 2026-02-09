@@ -2,7 +2,7 @@
 title: >-
   What Exactly Is Postmodernism, And How Did It Change The Landscape Of
   Religious Studies?, Part 2 (Carl Raschke)
-date: 2023-10-11T17:33:44.000Z
+date: '2023-10-11T17:33:44.000Z'
 author: editors
 image: /images/2023/09/Albert-Niemeyer-2016_Andy_Warhol-1200x642.jpg
 categories:

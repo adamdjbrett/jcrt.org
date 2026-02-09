@@ -1,6 +1,6 @@
 ---
 title: Review—Whither Philosophy of Religion? (Benjamin Steele-Fisher)
-date: 2017-10-27T03:07:20.000Z
+date: '2017-10-27T03:07:20.000Z'
 author: Books
 image: /images/2017/10/wordcloud.jpg
 categories:

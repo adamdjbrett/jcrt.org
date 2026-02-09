@@ -2,7 +2,7 @@
 title: >-
   Dreaming Innocence in America – Paul Tillich’s Radical Theology of Liberation,
   Part 1 (Alan Jay Richard)
-date: 2016-11-07T22:06:49.000Z
+date: '2016-11-07T22:06:49.000Z'
 author: editors
 image: /images/2016/11/Public-domain-installation.jpg
 categories:

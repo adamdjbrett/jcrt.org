@@ -1,6 +1,6 @@
 ---
 title: 'Review – The Origins of Neoliberalism: A Racialized Review (Adam F. Braun)'
-date: 2017-05-04T13:00:57.000Z
+date: '2017-05-04T13:00:57.000Z'
 author: Books
 image: /images/2017/05/origins.jpg
 categories:

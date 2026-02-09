@@ -2,7 +2,7 @@
 title: >-
   Geschlecht III – Authentic Faith, Religion, And Politics In Derrida’s Readings
   of Heidegger’s “Geist”, Part 1 (Jake Sirota)
-date: 2022-02-07T22:17:31.000Z
+date: '2022-02-07T22:17:31.000Z'
 author: editors
 image: /images/2022/02/Abraham-Abulafia_artwork.jpg
 categories:

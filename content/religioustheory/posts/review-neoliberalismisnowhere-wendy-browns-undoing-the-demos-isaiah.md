@@ -2,7 +2,7 @@
 title: >-
   Review – Neoliberalsm Is Nowhere – Wendy Brown’s Undoing the Demos (Isaiah
   Dylan Ellis)
-date: 2017-02-16T10:00:53.000Z
+date: '2017-02-16T10:00:53.000Z'
 author: Books
 image: /images/2017/02/charles_hope-thatcher_tina.jpg
 categories:

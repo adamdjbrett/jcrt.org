@@ -2,7 +2,7 @@
 title: >-
   A Tainted Trophy And The Framing Of White Supremacy In America, Part 3 (Tink
   Tinker)
-date: 2022-11-10T04:34:35.000Z
+date: '2022-11-10T04:34:35.000Z'
 author: editors
 image: /images/2022/11/Indian-picture.png
 categories:

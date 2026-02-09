@@ -1,6 +1,6 @@
 ---
 title: Review – Reverent Irreverence (Amit Gvaryahu)
-date: 2018-04-05T22:34:41.000Z
+date: '2018-04-05T22:34:41.000Z'
 author: Books
 image: /images/2018/03/Alexej_von_Jawlensky_-_The_old_Jew_1893.jpg
 categories:

@@ -2,7 +2,7 @@
 title: >-
   The Kingdom, The Power, The Glory, And The Tawdry – Media And The Undoing Of
   The Demos, Part 1 (Carl Raschke)
-date: 2017-07-04T20:51:08.000Z
+date: '2017-07-04T20:51:08.000Z'
 author: editors
 image: /images/2017/07/IMG_1588.jpg
 categories:

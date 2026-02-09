@@ -1,6 +1,6 @@
 ---
 title: Inventing Afterlives – Review (Camille Grace Leon Angelo)
-date: 2018-10-22T13:31:58.000Z
+date: '2018-10-22T13:31:58.000Z'
 author: editors
 image: /images/2018/10/Anna_Sahlste%CC%81n_-_Passage-1.jpg
 categories:

@@ -1,6 +1,6 @@
 ---
 title: 'Review – The Evangelicals: The Struggle to Shape America (Rebekah Gordon)'
-date: 2017-10-13T17:07:50.000Z
+date: '2017-10-13T17:07:50.000Z'
 author: Books
 image: /images/2017/10/pastors-daughter.jpg
 categories:

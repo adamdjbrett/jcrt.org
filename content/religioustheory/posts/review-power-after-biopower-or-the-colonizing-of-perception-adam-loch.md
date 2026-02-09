@@ -1,6 +1,6 @@
 ---
 title: 'Review – Power After Biopower, Or The Colonizing Of Perception (Adam Loch)'
-date: 2017-11-28T14:09:56.000Z
+date: '2017-11-28T14:09:56.000Z'
 author: editors
 image: /images/2017/11/PicassoGuernica.jpg
 categories:

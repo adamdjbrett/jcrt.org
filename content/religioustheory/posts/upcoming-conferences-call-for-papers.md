@@ -1,6 +1,6 @@
 ---
 title: Conferences and CFPs – Upcoming
-date: 2016-02-26T20:48:25.000Z
+date: '2016-02-26T20:48:25.000Z'
 author: editors
 image: /images/2016/02/William-Pynchon.png
 categories:

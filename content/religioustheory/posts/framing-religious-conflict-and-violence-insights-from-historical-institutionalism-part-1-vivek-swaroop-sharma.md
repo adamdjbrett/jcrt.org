@@ -2,7 +2,7 @@
 title: >-
   Framing Religious Conflict and Violence – Insights from Historical
   Institutionalism, Part 1 (Vivek Swaroop Sharma)
-date: 2017-09-12T18:15:22.000Z
+date: '2017-09-12T18:15:22.000Z'
 author: editors
 image: /images/2017/09/7e40f143e74c385ee290c7e279d9897f.jpg
 categories:

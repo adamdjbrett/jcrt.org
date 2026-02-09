@@ -2,7 +2,7 @@
 title: >-
   A Tainted Trophy And The Framing Of White Supremacy In America, Part 2 (Tink
   Tinker)
-date: 2022-10-31T04:19:21.000Z
+date: '2022-10-31T04:19:21.000Z'
 author: editors
 image: /images/2022/11/Native-American-women-1067x642.png
 categories:

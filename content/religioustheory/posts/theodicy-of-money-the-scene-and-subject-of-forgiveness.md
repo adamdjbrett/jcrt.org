@@ -1,6 +1,6 @@
 ---
 title: Theodicy of Money – The Scene and Subject of Forgiveness (Timothy Snediker)
-date: 2016-05-18T20:23:24.000Z
+date: '2016-05-18T20:23:24.000Z'
 author: editors
 image: /images/2016/05/Mammon_and_His_Slave.jpg
 categories:

@@ -1,6 +1,6 @@
 ---
 title: 'The Hollow Christians Of End Times Fiction, Part 3 (Paul Maltby)'
-date: 2020-03-03T04:32:12.000Z
+date: '2020-03-03T04:32:12.000Z'
 author: editors
 image: /images/2020/03/Apocalypse-Albert_Goodwin.jpg
 categories:

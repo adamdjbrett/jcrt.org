@@ -1,6 +1,6 @@
 ---
 title: 'Tsimtsum In Life Of Pi, Part 4 (Daniel Reiser)'
-date: 2020-12-22T05:53:55.000Z
+date: '2020-12-22T05:53:55.000Z'
 author: editors
 image: /images/2020/12/Albert_Bierstadt_Farallon_Island_1887_Oil_on_Canvas.jpg
 categories:

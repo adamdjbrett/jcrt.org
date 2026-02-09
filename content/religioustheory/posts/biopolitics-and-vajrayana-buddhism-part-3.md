@@ -1,6 +1,6 @@
 ---
 title: 'Biopolitics and Vajrayana Buddhism, Part 3 (Padraic Fitzgerald)'
-date: 2016-06-21T21:55:17.000Z
+date: '2016-06-21T21:55:17.000Z'
 author: editors
 image: /images/2016/06/1418.jpg
 categories:

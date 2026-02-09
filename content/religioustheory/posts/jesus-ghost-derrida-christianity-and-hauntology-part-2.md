@@ -1,6 +1,6 @@
 ---
 title: 'Jesus’ Ghost – Derrida, Christianity, and “Hauntology”, Part 2'
-date: 2016-05-06T21:40:13.000Z
+date: '2016-05-06T21:40:13.000Z'
 author: editors
 image: /images/2016/05/California-ghost-town.jpg
 categories:

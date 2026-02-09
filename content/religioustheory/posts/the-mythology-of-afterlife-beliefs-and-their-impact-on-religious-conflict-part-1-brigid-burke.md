@@ -2,7 +2,7 @@
 title: >-
   The Mythology of Afterlife Beliefs and Their Impact on Religious Conflict,
   Part 1 (Brigid Burke)
-date: 2017-11-01T12:05:42.000Z
+date: '2017-11-01T12:05:42.000Z'
 author: editors
 image: /images/2017/10/afterlife.jpg
 categories:

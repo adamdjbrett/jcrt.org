@@ -1,6 +1,6 @@
 ---
 title: 'Sikhs As Subalterns – Voice, Inequality, and Power, Part 1 (Nirvikar Singh)'
-date: 2024-01-10T16:51:29.000Z
+date: '2024-01-10T16:51:29.000Z'
 author: editors
 image: /images/2024/02/Sikh_man_Agra_10-1200x642.jpg
 categories:

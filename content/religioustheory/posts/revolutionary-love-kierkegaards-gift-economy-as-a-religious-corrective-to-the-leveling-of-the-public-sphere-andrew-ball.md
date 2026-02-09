@@ -2,7 +2,7 @@
 title: >-
   Revolutionary Love – Kierkegaard’s Gift Economy As A Religious Corrective To
   The Leveling Of The Public Sphere, Part 1 (Andrew Ball)
-date: 2020-05-16T18:21:11.000Z
+date: '2020-05-16T18:21:11.000Z'
 author: editors
 image: /images/2020/05/876px-S%C3%B8ren_Kierkegaard_1813-1855_-_9645353110.jpg
 categories:

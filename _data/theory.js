@@ -7,22 +7,36 @@ import AdmZip from "adm-zip";
 
 export default async function() {
     const outputDir = path.join(process.cwd(), "content/religioustheory/posts");
-    
-    if (!fs.existsSync(outputDir)) {
-        fs.mkdirSync(outputDir, { recursive: true });
-    }
+    if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir, { recursive: true });
 
     const metadataPath = path.join(process.cwd(), "_data/metadata.yaml");
     const metadata = yaml.load(fs.readFileSync(metadataPath, "utf8"));
-    
     const { github_user: OWNER, github_repo: REPO, branch: BRANCH = "main" } = metadata;
-    const zipUrl = `https://github.com/${OWNER}/${REPO}/archive/refs/heads/${BRANCH}.zip`;
 
-    console.log(`[TheorySync] Fetching from: ${OWNER}/${REPO}`);
-
+    
+    const commitUrl = `https://api.github.com/repos/${OWNER}/${REPO}/commits/${BRANCH}`;
+    
     try {
+        const commitData = await EleventyFetch(commitUrl, {
+            duration: "1m", 
+            type: "json"
+        });
+
+        const lastSha = commitData.sha;
+        const cachePath = path.join(process.cwd(), ".theory-sync-cache");
+        
+        
+        if (fs.existsSync(cachePath) && fs.readFileSync(cachePath, "utf8") === lastSha) {
+            console.log(`[TheorySync] No updates found (SHA: ${lastSha}). Skipping fetch.`);
+            return [];
+        }
+
+        // 2. Jika ada update, baru fetch ZIP raksasanya
+        const zipUrl = `https://github.com/${OWNER}/${REPO}/archive/refs/heads/${BRANCH}.zip`;
+        console.log(`[TheorySync] Update detected! Fetching from: ${OWNER}/${REPO}`);
+
         const zipBuffer = await EleventyFetch(zipUrl, {
-            duration: "1d",
+            duration: "0s",
             type: "buffer"
         });
 
@@ -32,15 +46,11 @@ export default async function() {
 
         zipEntries.forEach((entry) => {
             const entryPath = entry.entryName;
-            
             if (entryPath.endsWith(".md") && entryPath.includes("/content/posts/")) {
                 let rawContent = entry.getData().toString("utf8")
-                    .replace(/\u2028/g, '\n')
-                    .replace(/\u2029/g, '\n')
-                    .replace(/\r\n/g, '\n');
+                    .replace(/[\u2028\u2029\r\n]/g, '\n');
 
                 const { data, content } = matter(rawContent);
-                
                 let baseSlug = path.basename(entryPath, ".md");
                 let finalSlug = data.slug || baseSlug;
 
@@ -51,14 +61,10 @@ export default async function() {
                 }
                 usedSlugs.add(finalSlug);
 
-                
                 const postDate = data.date ? new Date(data.date) : new Date();
-                const year = postDate.getFullYear();
-                const month = String(postDate.getMonth() + 1).padStart(2, '0');
-
                 const newFrontMatter = {
-                    title: data.title || metadata.title,
-                    date: data.date || postDate.toISOString(),
+                    title: data.title || "Untitled",
+                    date: postDate.toISOString(),
                     author: data.author || "editors",
                     image: data.image || "/images/logos/JCRT.svg",
                     categories: Array.isArray(data.categories) ? data.categories : ["General"],
@@ -68,15 +74,15 @@ export default async function() {
                 };
 
                 const finalFileContent = matter.stringify(content, newFrontMatter);
-                
                 fs.writeFileSync(path.join(outputDir, `${finalSlug}.md`), finalFileContent);
             }
         });
 
-        console.log(`[TheorySync] Done! Data synced to content/religioustheory/posts`);
-        return [];
+        fs.writeFileSync(cachePath, lastSha);
+        console.log(`[TheorySync] Sync completed for SHA: ${lastSha}`);
+
     } catch (err) {
         console.error("[TheorySync] Error during sync:", err.message);
-        return [];
     }
+    return [];
 };

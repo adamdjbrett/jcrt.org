@@ -1,6 +1,6 @@
 ---
 title: Review – Badiou and Gauchet on Capitalism and Democracy
-date: 2016-05-12T21:22:23.000Z
+date: '2016-05-12T21:22:23.000Z'
 author: editors
 image: /images/2016/05/badiou-photo-thumb-large.jpg
 categories:

@@ -2,7 +2,7 @@
 title: >-
   The Ultimate And The Penultimate – Bonhoeffer’s Twofold Contextualism In
   Adjudicating Competing Ethical Claims, Part 1 (W. Travis McMaken)
-date: 2020-08-17T20:20:33.000Z
+date: '2020-08-17T20:20:33.000Z'
 author: editors
 image: /images/2020/08/Dietrich_Bonhoeffer_und_Wilhelm_Rott_um_1938.jpg
 categories:

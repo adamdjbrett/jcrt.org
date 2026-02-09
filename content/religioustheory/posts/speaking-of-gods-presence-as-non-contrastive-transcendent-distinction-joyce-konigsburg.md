@@ -2,7 +2,7 @@
 title: >-
   Speaking Of God’s Presence As Non-Contrastive Transcendent Distinction (Joyce
   Konigsburg)
-date: 2019-07-28T01:42:10.000Z
+date: '2019-07-28T01:42:10.000Z'
 author: editors
 image: >-
   /images/2019/08/964px-Angel_of_the_Divine_Presence_Bringing_Eve_to_Adam_The_Creation_of_Eve-__And_She_Shall_be_Called_Woman_recto_Sketch_for_the_same_verso_MET_DP805381.jpg

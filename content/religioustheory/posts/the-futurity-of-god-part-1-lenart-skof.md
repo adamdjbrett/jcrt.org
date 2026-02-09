@@ -1,6 +1,6 @@
 ---
 title: 'The Futurity Of God, Part 1 (Lenart Škof)'
-date: 2021-12-02T21:22:23.000Z
+date: '2021-12-02T21:22:23.000Z'
 author: editors
 image: /images/2021/12/Visnow_example_visualization_-_molecular_electrostatics.jpg
 categories:

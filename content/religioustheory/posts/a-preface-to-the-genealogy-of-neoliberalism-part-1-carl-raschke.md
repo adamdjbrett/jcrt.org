@@ -1,6 +1,6 @@
 ---
 title: 'A Preface To The Genealogy of Neoliberalism, Part 1 (Carl Raschke)'
-date: 2016-08-22T06:04:22.000Z
+date: '2016-08-22T06:04:22.000Z'
 author: editors
 image: /images/2016/08/Malabon-City.jpg
 categories:

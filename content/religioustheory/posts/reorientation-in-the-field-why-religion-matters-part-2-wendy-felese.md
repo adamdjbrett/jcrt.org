@@ -1,6 +1,6 @@
 ---
 title: 'Reorientation In The Field – Why Religion Matters, Part 2 (Wendy Felese)'
-date: 2021-03-29T01:57:00.000Z
+date: '2021-03-29T01:57:00.000Z'
 author: editors
 image: >-
   /images/2021/03/Sikoslingmuit_Eskimo_Woman._Southern_Baffin_Island._Copper-plate_engraving_17459827988.jpg

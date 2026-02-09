@@ -2,7 +2,7 @@
 title: >-
   The Dangers Of Dealing With Derrida – Revisiting the Caputo-Hägglund Debate On
   The “Religious” Reading Of Deconstruction, Part 3 (Neal DeRoo)
-date: 2018-07-11T22:56:31.000Z
+date: '2018-07-11T22:56:31.000Z'
 author: editors
 image: /images/2018/07/IMG_1464-1.jpg
 categories:

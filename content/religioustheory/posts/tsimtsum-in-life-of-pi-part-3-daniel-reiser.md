@@ -1,6 +1,6 @@
 ---
 title: 'Tsimtsum In Life Of Pi, Part 3 (Daniel Reiser)'
-date: 2020-12-15T05:31:14.000Z
+date: '2020-12-15T05:31:14.000Z'
 author: editors
 image: /images/2020/12/Rabbi_Pinchas_HaKohen_Lintup.jpg
 categories:

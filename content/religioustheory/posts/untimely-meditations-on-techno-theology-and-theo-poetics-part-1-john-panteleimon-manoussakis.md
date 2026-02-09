@@ -2,7 +2,7 @@
 title: >-
   Untimely Meditations on Techno-Theology and Theo-Poetics, Part 1 (John
   Panteleimon Manoussakis)
-date: 2017-03-22T13:22:18.000Z
+date: '2017-03-22T13:22:18.000Z'
 author: editors
 image: /images/2017/03/Mesopotamia.jpg
 categories:

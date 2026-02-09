@@ -2,7 +2,7 @@
 title: >-
   Review – Love’s Unfortunate Presence between Faith and Belief (Daniel
   Boscaljon)
-date: 2016-08-18T08:00:50.000Z
+date: '2016-08-18T08:00:50.000Z'
 author: Books
 image: /images/2016/08/Phenomenological-Psychology.jpg
 categories:

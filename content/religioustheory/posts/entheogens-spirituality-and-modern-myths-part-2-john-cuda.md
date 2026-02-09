@@ -1,6 +1,6 @@
 ---
 title: 'Entheogens, Spirituality, And Modern Myths, Part 2 (John Cuda)'
-date: 2021-10-12T21:31:25.000Z
+date: '2021-10-12T21:31:25.000Z'
 author: editors
 image: /images/2021/09/edward-howell-VlTJdP8ZY1c-unsplash-1210x642.jpg
 categories:

@@ -1,6 +1,6 @@
 ---
 title: 'The Futurity Of God, Part 2 (Lenart Škof)'
-date: 2021-12-16T00:18:53.000Z
+date: '2021-12-16T00:18:53.000Z'
 author: editors
 image: /images/2021/12/800px-Apophysis_Cyclone.png
 categories:

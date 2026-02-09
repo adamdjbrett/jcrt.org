@@ -2,7 +2,7 @@
 title: >-
   Slow Journalism? Ethnography as a Means of Understanding Religious Social
   Activism, Part 2 (James V. Spickard)
-date: 2017-10-23T16:40:32.000Z
+date: '2017-10-23T16:40:32.000Z'
 author: editors
 image: /images/2017/10/denali-national-park-1733313_1280.uncharted-territory.jpg
 categories:

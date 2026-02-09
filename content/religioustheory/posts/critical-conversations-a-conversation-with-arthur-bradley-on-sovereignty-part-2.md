@@ -2,7 +2,7 @@
 title: >-
   Critical Conversations – A Conversation With Arthur Bradley On Sovereignty,
   Part 2
-date: 2022-06-09T19:27:23.000Z
+date: '2022-06-09T19:27:23.000Z'
 author: editors
 image: /images/2022/06/Aboriginal_Sovereignty_-_panoramio-1210x642.jpg
 categories:

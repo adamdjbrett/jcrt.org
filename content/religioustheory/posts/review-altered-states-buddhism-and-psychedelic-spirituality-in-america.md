@@ -2,7 +2,7 @@
 title: >-
   Review – Altered States: Buddhism and Psychedelic Spirituality in America
   (Roger Green)
-date: 2016-07-28T08:00:53.000Z
+date: '2016-07-28T08:00:53.000Z'
 author: Books
 image: /images/2016/07/psychedelic-therapy.jpg
 categories:

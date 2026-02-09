@@ -2,7 +2,7 @@
 title: >-
   Review – New Trends In The Theory And Methods For Studying Religion (David
   Kim)
-date: 2016-12-29T18:36:39.000Z
+date: '2016-12-29T18:36:39.000Z'
 author: editors
 image: /images/2016/12/clock.jpg
 categories:

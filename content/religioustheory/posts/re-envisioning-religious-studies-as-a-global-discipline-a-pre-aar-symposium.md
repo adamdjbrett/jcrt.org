@@ -1,6 +1,6 @@
 ---
 title: Re-Envisioning Religious Studies As A Global Discipline – A Pre-AAR Symposium
-date: 2018-10-02T22:22:09.000Z
+date: '2018-10-02T22:22:09.000Z'
 author: editors
 image: /images/2018/10/Indigenous-peoples-4.jpg
 categories:

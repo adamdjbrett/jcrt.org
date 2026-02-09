@@ -2,7 +2,7 @@
 title: >-
   Reframing The Adwa Victory As A Decolonizing Praxis –  Discourse Around
   Colonization In The Ethiopian Context, Part 1 (Rode Molla)
-date: 2020-01-30T04:54:10.000Z
+date: '2020-01-30T04:54:10.000Z'
 author: editors
 image: /images/2020/01/Adoua_1.jpg
 categories:

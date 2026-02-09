@@ -2,7 +2,7 @@
 title: >-
   The Vertical Form – The Iconological Dimension in 20th Century Russian
   Religious Aesthetics and Literary Criticism, Part I (Oleg Komkov)
-date: 2018-03-21T00:19:44.000Z
+date: '2018-03-21T00:19:44.000Z'
 author: editors
 image: >-
   /images/2018/03/Umberto_Boccioni_1913_Dynamism_of_a_Cyclist_Dinamismo_di_un_ciclista_oil_on_canvas_70_x_95_cm_Gianni_Mattioli_Collection_on_long-term_loan_to_the_Peggy_Gugg.jpg

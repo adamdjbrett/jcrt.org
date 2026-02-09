@@ -1,6 +1,6 @@
 ---
 title: 'Prayer After The Death Of God, Part I (Ashley [Gay] Graham)'
-date: 2018-02-11T20:01:30.000Z
+date: '2018-02-11T20:01:30.000Z'
 author: editors
 image: /images/2018/01/The-praying-Jew.jpg
 categories:

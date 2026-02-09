@@ -2,7 +2,7 @@
 title: >-
   Philosophy As Love – Unblocking The Road From Athens To Jerusalem, Part 2
   (Erik Meganck)
-date: 2022-12-15T12:17:29.000Z
+date: '2022-12-15T12:17:29.000Z'
 author: editors
 image: /images/2022/12/Retro-futurism.jpg
 categories:

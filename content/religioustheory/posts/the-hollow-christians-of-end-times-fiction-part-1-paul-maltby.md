@@ -1,6 +1,6 @@
 ---
 title: 'The Hollow Christians Of End Times Fiction, Part 1 (Paul Maltby)'
-date: 2020-02-18T04:18:55.000Z
+date: '2020-02-18T04:18:55.000Z'
 author: editors
 image: /images/2020/02/Doctor_Who_Experience_3998731216.jpg
 categories:

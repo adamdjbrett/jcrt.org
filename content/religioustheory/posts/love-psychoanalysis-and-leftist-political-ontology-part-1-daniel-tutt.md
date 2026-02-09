@@ -1,6 +1,6 @@
 ---
 title: 'Love, Psychoanalysis, and Leftist Political Ontology, Part 1 (Daniel Tutt)'
-date: 2016-09-05T06:20:15.000Z
+date: '2016-09-05T06:20:15.000Z'
 author: editors
 image: /images/2016/09/Muses.jpg
 categories:

@@ -2,7 +2,7 @@
 title: >-
   Longing For An Impossible Past – Derrida’s Of Grammatology And The Coronavirus
   As The Inauguration Of An Age Of Writing, Part 1 (Jared Lacy)
-date: 2020-06-17T14:40:58.000Z
+date: '2020-06-17T14:40:58.000Z'
 author: editors
 image: /images/2020/06/Hieroglyphics_in_an_Egyptian_temple.jpg
 categories:

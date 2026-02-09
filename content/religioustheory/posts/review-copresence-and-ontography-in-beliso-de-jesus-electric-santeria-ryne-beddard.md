@@ -2,7 +2,7 @@
 title: >-
   Review – The Metaphysics of Copresence in Beliso-De Jesùs’ Electric Santeria
   (Ryne Beddard)
-date: 2017-03-17T08:00:26.000Z
+date: '2017-03-17T08:00:26.000Z'
 author: Books
 image: /images/2017/03/santeria-cover.jpg
 categories:

@@ -2,7 +2,7 @@
 title: >-
   Psychedelic Aesthetics And The Crises Of Liberalism – A “Critical
   Conversation” With Roger Green
-date: 2022-03-29T19:40:35.000Z
+date: '2022-03-29T19:40:35.000Z'
 author: editors
 image: >-
   /images/2022/04/800px-La_visio%CC%81n_de_%C2%ABTatutsi_Xuweri_Timaiweme%C2%BB_-_Arte_del_pueblo_wixa%CC%81rika.jpg

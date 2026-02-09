@@ -2,7 +2,7 @@
 title: >-
   Introducing Spirit/Dance – Social Justice And Reconstructed Spiritual
   Practices, Part 2 (Joshua Hall)
-date: 2023-03-31T03:31:41.000Z
+date: '2023-03-31T03:31:41.000Z'
 author: editors
 image: /images/2023/04/800px-Mongol_Shaman_just_before_rituals..jpg
 categories:

@@ -2,7 +2,7 @@
 title: >-
   Sexual Difference And The Vatican – A Lacanian Response, Part 2 (Melissa
   Conroy)
-date: 2020-10-06T18:43:03.000Z
+date: '2020-10-06T18:43:03.000Z'
 author: editors
 image: /images/2020/10/Jaques_Lacan.jpg
 categories:

@@ -2,7 +2,7 @@
 title: >-
   Love Strong as Death – Jews against Heidegger, On the Issue of Finitude – Part
   2 (Agata Bielik-Robson)
-date: 2016-08-01T05:27:14.000Z
+date: '2016-08-01T05:27:14.000Z'
 author: editors
 image: /images/2016/07/transcendence.jpg
 categories:

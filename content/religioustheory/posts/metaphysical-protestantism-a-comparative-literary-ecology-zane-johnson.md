@@ -1,6 +1,6 @@
 ---
 title: Metaphysical Protestantism-A Comparative Literary Ecology (Zane Johnson)
-date: 2024-06-05T14:50:13.000Z
+date: '2024-06-05T14:50:13.000Z'
 author: editors
 image: /images/2024/09/20210225-104958-Clear-cut-forests_Eugene-OR_WebExtent0106.jpg
 categories:

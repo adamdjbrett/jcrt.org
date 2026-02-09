@@ -1,6 +1,6 @@
 ---
 title: 'Entheogens, Spirituality, And Modern Myths, Part 3 (John Cuda)'
-date: 2021-10-21T22:02:12.000Z
+date: '2021-10-21T22:02:12.000Z'
 author: editors
 image: /images/2021/10/Screen-Shot-2021-10-21-at-9.57.51-PM-864x642.png
 categories:

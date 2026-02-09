@@ -1,6 +1,6 @@
 ---
 title: Review – Three Agambens on Display (S.J. Cowan)
-date: 2018-02-06T16:13:34.000Z
+date: '2018-02-06T16:13:34.000Z'
 author: Books
 image: /images/2017/02/agamben-c2.jpg
 categories:

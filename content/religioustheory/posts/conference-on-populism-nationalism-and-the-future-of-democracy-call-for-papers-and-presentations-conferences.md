@@ -2,7 +2,7 @@
 title: >-
   Conference on Populism, Nationalism, and the Future of Democracy – Call for
   Papers and Presentations (Conferences)
-date: 2025-04-18T20:11:47.000Z
+date: '2025-04-18T20:11:47.000Z'
 author: editors
 image: >-
   /images/2025/04/Bundesarchiv_Bild_183-1989-1106-405_Plauen_Demonstration_vor_dem_Rathaus.jpg

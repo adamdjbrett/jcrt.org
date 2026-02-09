@@ -1,6 +1,6 @@
 ---
 title: 'Debriefing On Decoloniality – A Public Conversation, Part 2'
-date: 2021-06-22T04:47:14.000Z
+date: '2021-06-22T04:47:14.000Z'
 author: editors
 image: /images/2021/06/Nama_man_greeting_us_3693359757.jpg
 categories:

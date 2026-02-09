@@ -1,6 +1,6 @@
 ---
 title: Religious Studies and Comparative Theology – An Appraisal (Joshua Samuel)
-date: 2017-10-09T02:29:56.000Z
+date: '2017-10-09T02:29:56.000Z'
 author: editors
 image: /images/2017/10/pdr.jpg
 categories:

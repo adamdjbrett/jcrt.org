@@ -1,6 +1,6 @@
 ---
 title: 'The “New Hegel” And The Question Of God, Part 1 (Gavin Hyman)'
-date: 2019-05-24T12:20:15.000Z
+date: '2019-05-24T12:20:15.000Z'
 author: editors
 image: /images/2019/05/Hegel_by_Kugler_retouched.jpg
 categories:

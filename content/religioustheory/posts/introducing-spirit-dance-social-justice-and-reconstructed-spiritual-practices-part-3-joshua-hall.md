@@ -2,7 +2,7 @@
 title: >-
   Introducing Spirit/Dance – Social Justice And Reconstructed Spiritual
   Practices, Part 3 (Joshua Hall)
-date: 2023-04-10T03:48:00.000Z
+date: '2023-04-10T03:48:00.000Z'
 author: editors
 image: /images/2023/04/Screenshot-2023-04-09-at-10.45.25-PM.jpg
 categories:

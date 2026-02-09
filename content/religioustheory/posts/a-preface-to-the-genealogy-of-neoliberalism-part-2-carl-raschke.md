@@ -1,6 +1,6 @@
 ---
 title: 'A Preface To The Genealogy of Neoliberalism, Part 2 (Carl Raschke)'
-date: 2016-08-29T17:47:24.000Z
+date: '2016-08-29T17:47:24.000Z'
 author: editors
 image: /images/2016/08/debt-slave.jpg
 categories:

@@ -1,6 +1,6 @@
 ---
 title: 'Jesus’ Ghost – Derrida, Christianity, and “Hauntology” – Part 1'
-date: 2016-04-27T01:19:32.000Z
+date: '2016-04-27T01:19:32.000Z'
 author: editors
 image: /images/2016/04/Hamlets-ghost.jpg
 categories:

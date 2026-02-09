@@ -2,7 +2,7 @@
 title: >-
   Lacan As “Spiritual Director” – On The Relationship Between Psychoanalysis And
   Christian Mysticism, Part 1  (Mark Murphy)
-date: 2018-07-31T21:05:28.000Z
+date: '2018-07-31T21:05:28.000Z'
 author: editors
 image: /images/2018/07/IMG_1638.jpg
 categories:

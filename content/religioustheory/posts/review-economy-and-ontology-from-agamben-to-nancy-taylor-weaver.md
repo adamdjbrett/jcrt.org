@@ -1,6 +1,6 @@
 ---
 title: Review – Economy And Ontology From Agamben To Nancy (Taylor Weaver)
-date: 2017-05-23T01:36:27.000Z
+date: '2017-05-23T01:36:27.000Z'
 author: editors
 image: /images/2017/05/IMG_1354.jpg
 categories:

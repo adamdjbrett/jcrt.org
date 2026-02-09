@@ -1,6 +1,6 @@
 ---
 title: “The End Of Cognitive Empire” (Critical Conversations)
-date: 2020-09-09T04:32:47.000Z
+date: '2020-09-09T04:32:47.000Z'
 author: editors
 image: >-
   /images/2020/09/Geographica_restituta_per_globi_trientes_-_Norman_B._Leventhal_Map_Center_at_the_BPL.jpg

@@ -2,7 +2,7 @@
 title: >-
   Bushwhacking Derrida – “Perception” – “Context of Context”, “The Hunter And
   The Hunted” (Gary Bedford)
-date: 2020-08-10T21:54:19.000Z
+date: '2020-08-10T21:54:19.000Z'
 author: editors
 image: /images/2020/08/Screen-Shot-2020-08-17-at-5.00.03-PM.png
 categories:

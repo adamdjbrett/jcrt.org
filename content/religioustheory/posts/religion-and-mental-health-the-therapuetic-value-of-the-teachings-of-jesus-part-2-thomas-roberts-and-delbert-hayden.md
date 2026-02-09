@@ -2,7 +2,7 @@
 title: >-
   Religion And Mental Health – The Therapuetic Value Of The Teachings of Jesus,
   Part 2 (Thomas Roberts and Delbert Hayden)
-date: 2018-10-09T01:23:34.000Z
+date: '2018-10-09T01:23:34.000Z'
 author: editors
 image: /images/2018/10/entry_of_jesus.jpg
 categories:

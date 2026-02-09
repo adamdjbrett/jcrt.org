@@ -2,7 +2,7 @@
 title: >-
   Sexual Difference And The Vatican – A Lacanian Response, Part 1 (Melissa
   Conroy)
-date: 2020-09-28T15:09:36.000Z
+date: '2020-09-28T15:09:36.000Z'
 author: editors
 image: /images/2020/10/Pair_of_mandarin_ducks.jpg
 categories:

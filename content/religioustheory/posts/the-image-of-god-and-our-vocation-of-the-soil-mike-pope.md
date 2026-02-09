@@ -1,6 +1,6 @@
 ---
 title: 'The Image of God and Our Vocation of the Soil, Part 1 (Mick Pope)'
-date: 2024-05-03T22:51:43.000Z
+date: '2024-05-03T22:51:43.000Z'
 author: editors
 image: /images/2024/09/Eckelrade-wegkruis_Linderweg-Eckelraderweg.jpg
 categories:

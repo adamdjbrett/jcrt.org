@@ -1,6 +1,6 @@
 ---
 title: Review – Medicinal Religion (Aaron Klink)
-date: 2018-08-02T02:15:40.000Z
+date: '2018-08-02T02:15:40.000Z'
 author: Books
 image: /images/2018/07/Style-Meditation-State-Colorful-World-0.4MP.jpg
 categories:

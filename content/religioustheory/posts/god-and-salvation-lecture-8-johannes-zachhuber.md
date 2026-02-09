@@ -1,6 +1,6 @@
 ---
 title: 'God And Salvation, Lecture 8 (Johannes Zachhuber)'
-date: 2019-04-17T02:32:33.000Z
+date: '2019-04-17T02:32:33.000Z'
 author: editors
 image: /images/2019/04/Gauguin-christ-in-garden.jpg
 categories:

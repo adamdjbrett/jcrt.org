@@ -2,7 +2,7 @@
 title: >-
   Horror Fiction And Catholic Theology – A Rhetorical Synthesis, Part 2 (Gavin
   Hurley)
-date: 2020-01-05T23:29:49.000Z
+date: '2020-01-05T23:29:49.000Z'
 author: editors
 image: /images/2020/01/buchcover-1572453224D0o.jpg
 categories:

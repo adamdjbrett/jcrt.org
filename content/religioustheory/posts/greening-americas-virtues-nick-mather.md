@@ -1,6 +1,6 @@
 ---
 title: Greening America’s Virtues (Nick Mather)
-date: 2024-10-02T11:59:01.000Z
+date: '2024-10-02T11:59:01.000Z'
 author: editors
 image: /images/2024/10/Rockymountainnps_1-1210x642.jpg
 categories:

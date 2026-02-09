@@ -2,7 +2,7 @@
 title: >-
   The Secularizing Ethos and the End of Biblical Authority – How Today’s
   Evangelicals Abandoned Evangelicalism
-date: 2016-03-02T15:38:11.000Z
+date: '2016-03-02T15:38:11.000Z'
 author: editors
 image: >-
   /images/2016/03/Illustrations_to_Dantes_Divine_Comedy_object_44_Butlin_812-42_The_Baffled_Devils_Fighting.jpg

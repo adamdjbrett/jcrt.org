@@ -2,7 +2,7 @@
 title: >-
   George Batailles On Ethnographic Surrealism And “The Limits Of The Useful” –
   Review Essay (Matt Waggoner)
-date: 2023-08-20T04:30:04.000Z
+date: '2023-08-20T04:30:04.000Z'
 author: editors
 image: /images/2023/08/Joan_Miro_-_Dona_i_ocell_2-1000x642.jpg
 categories:

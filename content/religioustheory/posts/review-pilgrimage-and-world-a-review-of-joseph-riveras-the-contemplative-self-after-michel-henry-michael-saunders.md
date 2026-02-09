@@ -1,6 +1,6 @@
 ---
 title: Review – The Contemplative Self after Michel Henry (Michael Saunders)
-date: 2017-06-29T00:04:42.000Z
+date: '2017-06-29T00:04:42.000Z'
 author: Books
 image: /images/2017/06/t-henry.jpg
 categories:

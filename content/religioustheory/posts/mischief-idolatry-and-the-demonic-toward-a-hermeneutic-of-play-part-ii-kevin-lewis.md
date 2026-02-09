@@ -2,7 +2,7 @@
 title: >-
   Mischief, Idolatry, And The Demonic – Toward A Hermeneutic Of Play, Part II
   (Kevin Lewis)
-date: 2018-05-28T14:19:34.000Z
+date: '2018-05-28T14:19:34.000Z'
 author: editors
 image: >-
   /images/2018/02/William_Blake_-_Satan_Smiting_Job_with_Sore_Boils_-_Google_Art_Project.jpg

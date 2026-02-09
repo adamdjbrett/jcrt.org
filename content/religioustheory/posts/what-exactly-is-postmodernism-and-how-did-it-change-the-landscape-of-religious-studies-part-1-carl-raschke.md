@@ -2,7 +2,7 @@
 title: >-
   What Exactly Is Postmodernism, And How Did It Change The Landscape Of
   Religious Studies?, Part 1 (Carl Raschke)
-date: 2023-09-28T17:26:12.000Z
+date: '2023-09-28T17:26:12.000Z'
 author: editors
 image: >-
   /images/2023/09/Viewing_Robert_Smithsons_Spiral_Jetty_on_June_18th_2018-1200x642.jpg

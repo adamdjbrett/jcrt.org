@@ -2,7 +2,7 @@
 title: >-
   Benjamin’s Concept of History As A Source of Arendt’s Idea of Judgment – Part
   1 (Ronald Beiner)
-date: 2016-08-08T06:37:39.000Z
+date: '2016-08-08T06:37:39.000Z'
 author: editors
 image: /images/2016/08/Benjamins-Angel-of-History.jpg
 categories:

@@ -2,7 +2,7 @@
 title: >-
   Horror Fiction And Catholic Theology – A Rhetorical Synthesis, Part 1 (Gavin
   Hurley)
-date: 2019-12-29T21:37:41.000Z
+date: '2019-12-29T21:37:41.000Z'
 author: editors
 image: /images/2019/12/Ossuary-Bones.jpg
 categories:

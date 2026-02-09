@@ -2,7 +2,7 @@
 title: >-
   Slow Journalism? Ethnography As A Means Of Understanding Religious Social
   Activism, Part 1 (James V. Spickard)
-date: 2017-10-16T21:33:10.000Z
+date: '2017-10-16T21:33:10.000Z'
 author: editors
 image: >-
   /images/2017/10/1532494-shiva-and-parvati-on-bull-images-sculptures-on-hindu-temple-gopura-tower-menakshi-temple-madurai-tamil-nadu-india.jpg

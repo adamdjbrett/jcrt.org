@@ -2,7 +2,7 @@
 title: >-
   The Legacy Of Charles H. Long – Resisting and Short-Circuiting the Discourses
   Of Exclusion In The Theory And Practice Of Administration (Victor E. Taylor)
-date: 2022-06-23T21:34:57.000Z
+date: '2022-06-23T21:34:57.000Z'
 author: editors
 image: /images/2022/06/Charles-H.-Long.png
 categories:

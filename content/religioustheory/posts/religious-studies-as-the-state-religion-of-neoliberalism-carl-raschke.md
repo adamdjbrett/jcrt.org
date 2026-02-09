@@ -2,7 +2,7 @@
 title: >-
   Religious Studies As The “State Religion” Of Neoliberalism, Part 1 (Carl
   Raschke)
-date: 2022-09-07T20:13:03.000Z
+date: '2022-09-07T20:13:03.000Z'
 author: editors
 image: /images/2022/10/August_Labicana_Massimo_Inv56230_n2-1200x642.jpg
 categories:

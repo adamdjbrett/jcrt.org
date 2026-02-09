@@ -1,6 +1,6 @@
 ---
 title: What Is A Dispositif? – Part 2 (Gregg Lambert)
-date: 2016-07-18T14:11:35.000Z
+date: '2016-07-18T14:11:35.000Z'
 author: editors
 image: /images/2016/07/Foucaults-pendulum.jpg
 categories:

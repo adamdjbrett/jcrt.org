@@ -1,6 +1,6 @@
 ---
 title: Spinoza’s Theory of Religion – Stabilized Superstition (Ehud Benor)
-date: 2017-01-13T22:59:35.000Z
+date: '2017-01-13T22:59:35.000Z'
 author: editors
 image: /images/2017/01/jewish-1159704_1920.jpg
 categories:

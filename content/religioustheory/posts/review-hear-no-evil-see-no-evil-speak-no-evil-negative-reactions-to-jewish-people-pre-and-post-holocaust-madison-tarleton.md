@@ -2,7 +2,7 @@
 title: >-
   Review – Hear No Evil, See No Evil, Speak No Evil: Negative Reactions to the
   Jewish Pre- and Post-Holocaust (Madison Tarleton)
-date: 2018-01-14T19:27:49.000Z
+date: '2018-01-14T19:27:49.000Z'
 author: Books
 image: /images/2018/01/a867c350-b8ad-4896-b926-f0b71c0cb1f8.jpg
 categories:

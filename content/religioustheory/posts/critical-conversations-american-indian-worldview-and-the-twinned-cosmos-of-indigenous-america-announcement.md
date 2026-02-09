@@ -2,7 +2,7 @@
 title: >-
   Critical Conversations – American Indian Worldview And The Twinned Cosmos Of
   Indigenous America (Announcement)
-date: 2020-11-18T05:00:30.000Z
+date: '2020-11-18T05:00:30.000Z'
 author: editors
 image: /images/2020/11/legend.jpg
 categories:

@@ -2,7 +2,7 @@
 title: >-
   Locating The Oceanic in Sylvia Wynter’s “Demonic Ground”, Part 1 (Justine M.
   Bakker)
-date: 2022-01-07T19:38:39.000Z
+date: '2022-01-07T19:38:39.000Z'
 author: editors
 image: /images/2022/01/Irish-ruins-1210x642.jpg
 categories:

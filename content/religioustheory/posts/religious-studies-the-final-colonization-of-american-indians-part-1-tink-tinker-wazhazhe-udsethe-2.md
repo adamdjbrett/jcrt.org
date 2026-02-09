@@ -2,7 +2,7 @@
 title: >-
   Religious Studies – The Final Colonization Of American Indians, Part 2 (Tink
   Tinker, wazhazhe udsethe)
-date: 2020-06-09T02:47:11.000Z
+date: '2020-06-09T02:47:11.000Z'
 author: editors
 image: /images/2020/06/Shonka_Sabe.jpg
 categories:

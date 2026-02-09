@@ -1,6 +1,6 @@
 ---
 title: 'God And Language, Lecture 6 (Johannes Zachhuber)'
-date: 2019-04-02T04:06:03.000Z
+date: '2019-04-02T04:06:03.000Z'
 author: editors
 image: /images/2019/04/Ludwig-Wittgenstein.jpg
 categories:

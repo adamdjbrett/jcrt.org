@@ -2,7 +2,7 @@
 title: >-
   John the Possibilizer: The Promise of a Kearnian Baptismal Hermeneutic, Part I
   (Eric Trozzo)
-date: 2018-01-21T21:20:32.000Z
+date: '2018-01-21T21:20:32.000Z'
 author: editors
 image: >-
   /images/2018/01/Style-Head_of_Saint_John_the_Baptist_by_an_anonymous_Spanish_painter_c._1600-1650_Cleveland_Museum_of_Art-Ballpoint-0.4MP.jpg

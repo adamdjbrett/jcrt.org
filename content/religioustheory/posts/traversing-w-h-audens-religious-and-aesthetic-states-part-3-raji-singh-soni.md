@@ -2,7 +2,7 @@
 title: >-
   Traversing W.H. Auden’s Religious And Aesthetic States, Part 3 (Raji Singh
   Soni)
-date: 2017-08-13T03:32:03.000Z
+date: '2017-08-13T03:32:03.000Z'
 author: editors
 image: /images/2017/08/Style-img_7932-Kanagawa-0.4MP.jpg
 categories:

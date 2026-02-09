@@ -2,7 +2,7 @@
 title: >-
   To Not Lose Sight Of The Good – Notes On The Zapatismo Ethic, Part 1 (Matt
   Rosen)
-date: 2020-01-14T05:31:14.000Z
+date: '2020-01-14T05:31:14.000Z'
 author: editors
 image: /images/2020/01/Zapatismo_Picture_Marcos.jpg
 categories:

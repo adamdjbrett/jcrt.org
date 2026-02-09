@@ -2,7 +2,7 @@
 title: >-
   Spiritual Erotics, Part 2 – The Nature and History of Machismo and Its
   Feminine Counterpart As “Marianismo”
-date: 2016-04-06T18:31:29.000Z
+date: '2016-04-06T18:31:29.000Z'
 author: editors
 image: /images/2016/04/749_20_2.jpg
 categories:

@@ -2,7 +2,7 @@
 title: >-
   Force in Religious Thought – Carl Raschke and Victoria Kahn in Dialogue, Part
   2 (Roger Green)
-date: 2016-06-17T03:22:41.000Z
+date: '2016-06-17T03:22:41.000Z'
 author: editors
 image: /images/2016/06/storytelling.jpg
 categories:

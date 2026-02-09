@@ -2,7 +2,7 @@
 title: >-
   The Kingdom, The Power, The Glory, And The Tawdry – Media And The Undoing Of
   The Demos, Part 3 (Carl Raschke)
-date: 2017-07-19T13:58:20.000Z
+date: '2017-07-19T13:58:20.000Z'
 author: editors
 image: /images/2017/07/Blake_jacobsladder.jpg
 categories:

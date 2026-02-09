@@ -2,7 +2,7 @@
 title: >-
   Secularism And Its Discontents – On Charting Pathways With A Phenomenology Of
   Religion, Part 1 (Ludger Hagerdorn and Michael Staudigl)
-date: 2018-04-21T17:24:16.000Z
+date: '2018-04-21T17:24:16.000Z'
 author: editors
 image: /images/2018/04/800px-Michelangelo_Moses-1.jpg
 categories:

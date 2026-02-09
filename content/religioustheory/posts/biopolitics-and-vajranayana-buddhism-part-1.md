@@ -1,6 +1,6 @@
 ---
 title: 'Biopolitics and Vajrayana Buddhism, Part 1 (Padraic Fitzgerald)'
-date: 2016-05-27T00:43:59.000Z
+date: '2016-05-27T00:43:59.000Z'
 author: editors
 image: >-
   /images/2016/05/BuddhistprayerflagsinNepalatopstupawithBuddhaWisdomEyesbyKarnevilflickr.png

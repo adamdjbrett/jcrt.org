@@ -1,6 +1,6 @@
 ---
 title: 'Prayer After the Death of God, Part II (Ashley [Gay] Graham)'
-date: 2018-02-18T22:55:37.000Z
+date: '2018-02-18T22:55:37.000Z'
 author: editors
 image: /images/2018/02/IMG_0502.jpg
 categories:

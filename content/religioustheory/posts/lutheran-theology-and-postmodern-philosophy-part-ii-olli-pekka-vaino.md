@@ -1,6 +1,6 @@
 ---
 title: 'Lutheran Theology and Postmodern Philosophy, Part II (Olli-Pekka Vaino)'
-date: 2018-05-09T07:22:26.000Z
+date: '2018-05-09T07:22:26.000Z'
 author: editors
 image: /images/2018/05/IMG_0946.jpg
 categories:

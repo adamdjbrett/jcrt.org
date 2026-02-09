@@ -2,7 +2,7 @@
 title: >-
   Beyond Religious Ideas – The Legacy Of Max Weber In Critical Theory And
   Critical Religion (Joel Harrison)
-date: 2018-06-19T14:31:30.000Z
+date: '2018-06-19T14:31:30.000Z'
 author: editors
 image: /images/2018/06/Max-Weber.jpg
 categories:

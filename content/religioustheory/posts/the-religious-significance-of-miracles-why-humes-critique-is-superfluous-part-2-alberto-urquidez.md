@@ -2,7 +2,7 @@
 title: >-
   The Religious Significance Of Miracles – Why Hume’s Critique Is Superfluous,
   Part 2 (Alberto Urquidez)
-date: 2020-07-22T02:21:01.000Z
+date: '2020-07-22T02:21:01.000Z'
 author: editors
 image: >-
   /images/2020/07/Allan_Ramsay_-_David_Hume_1711_-_1776._Historian_and_philosopher_-_Google_Art_Project.jpg

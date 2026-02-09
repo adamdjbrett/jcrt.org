@@ -1,6 +1,6 @@
 ---
 title: Call for Contributors – The Dialectic of Divine Presence and Absence
-date: 2018-02-14T04:19:46.000Z
+date: '2018-02-14T04:19:46.000Z'
 author: editors
 image: /images/2016/02/IMG_0554.jpg
 categories:

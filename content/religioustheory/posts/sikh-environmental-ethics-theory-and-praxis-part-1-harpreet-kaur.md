@@ -1,6 +1,6 @@
 ---
 title: Sikh Environmental Ethics-Theory and Praxis Part 1 (Harpreet Kaur)
-date: 2024-08-07T00:43:28.000Z
+date: '2024-08-07T00:43:28.000Z'
 author: editors
 image: /images/2024/09/4537954501_6aa8869549_b-1024x642.jpg
 categories:

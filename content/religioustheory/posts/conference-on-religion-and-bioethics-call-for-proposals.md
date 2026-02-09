@@ -1,6 +1,6 @@
 ---
 title: Conference on Religion and Bioethics – Call for Proposals
-date: 2024-09-26T02:18:17.000Z
+date: '2024-09-26T02:18:17.000Z'
 author: editors
 image: /images/2024/09/Human_genome.png
 categories:

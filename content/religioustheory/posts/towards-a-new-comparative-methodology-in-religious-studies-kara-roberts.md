@@ -1,6 +1,6 @@
 ---
 title: Towards A New Comparative Methodology In Religious Studies (Kara Roberts)
-date: 2018-09-23T23:04:41.000Z
+date: '2018-09-23T23:04:41.000Z'
 author: editors
 image: /images/2018/09/IMG_0497.jpg
 categories:

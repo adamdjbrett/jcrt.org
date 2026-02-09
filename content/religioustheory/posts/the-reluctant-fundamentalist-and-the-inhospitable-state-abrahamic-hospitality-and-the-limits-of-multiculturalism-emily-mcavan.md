@@ -2,7 +2,7 @@
 title: >-
   “The Reluctant Fundamentalist” And The Inhospitable State – Abrahamic
   Hospitality And The Limits Of Multiculturalism, Part 1 (Emily McAvan)
-date: 2020-04-01T03:58:31.000Z
+date: '2020-04-01T03:58:31.000Z'
 author: editors
 image: /images/2020/04/Eisa_shikawi.jpg
 categories:

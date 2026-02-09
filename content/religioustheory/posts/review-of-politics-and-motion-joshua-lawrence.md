@@ -1,6 +1,6 @@
 ---
 title: Review – Of Politics and Motion (Joshua Lawrence)
-date: 2016-09-08T08:00:36.000Z
+date: '2016-09-08T08:00:36.000Z'
 author: Books
 image: /images/2016/09/Migrant-boat.jpg
 categories:

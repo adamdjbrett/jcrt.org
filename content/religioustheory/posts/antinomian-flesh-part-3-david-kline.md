@@ -1,6 +1,6 @@
 ---
 title: 'Antinomian Flesh, Part 3 (David Kline)'
-date: 2020-11-09T05:00:05.000Z
+date: '2020-11-09T05:00:05.000Z'
 author: editors
 image: /images/2020/11/Toni_Morrison_2008-2.jpg
 categories:

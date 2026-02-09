@@ -2,7 +2,7 @@
 title: >-
   Review – The Search For Transcendence In The “Material Phenomenology” of David
   Foster Wallace (Jeff Appel)
-date: 2016-07-07T00:19:50.000Z
+date: '2016-07-07T00:19:50.000Z'
 author: editors
 image: /images/2016/07/DavidFosterWallace1.jpg
 categories:

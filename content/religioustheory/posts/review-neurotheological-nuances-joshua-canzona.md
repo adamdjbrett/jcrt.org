@@ -1,6 +1,6 @@
 ---
 title: Review – Neurotheological Nuances (Joshua Canzona)
-date: 2018-08-22T23:42:26.000Z
+date: '2018-08-22T23:42:26.000Z'
 author: Books
 image: /images/2018/08/Munch-the-scream.jpg
 categories:

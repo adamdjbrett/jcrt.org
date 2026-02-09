@@ -1,6 +1,6 @@
 ---
 title: 'Biopolitics and Vajrayana Buddhism, Part 2 (Padraic Fitzgerald)'
-date: 2016-06-08T05:19:53.000Z
+date: '2016-06-08T05:19:53.000Z'
 author: editors
 image: /images/2016/06/Chod-ritual.jpg
 categories:

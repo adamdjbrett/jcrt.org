@@ -2,7 +2,7 @@
 title: >-
   The Place Of Das Ding – Psychoanalysis, Phenomenology, Religion, Part 1 (John
   Panteleimon Manoussakis)
-date: 2017-02-13T22:56:28.000Z
+date: '2017-02-13T22:56:28.000Z'
 author: editors
 image: /images/2017/02/Dd.jpg
 categories:

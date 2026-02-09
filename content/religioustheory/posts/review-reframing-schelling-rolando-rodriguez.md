@@ -1,6 +1,6 @@
 ---
 title: Review – Reframing Schelling (Rolando Rodriguez)
-date: 2017-11-04T02:51:21.000Z
+date: '2017-11-04T02:51:21.000Z'
 author: Books
 image: >-
   /images/2017/11/220px-Nb_pinacoteca_stieler_friedrich_wilhelm_joseph_von_schelling.jpg

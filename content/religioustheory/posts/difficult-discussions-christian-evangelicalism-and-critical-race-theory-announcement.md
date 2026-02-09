@@ -2,7 +2,7 @@
 title: >-
   Difficult Discussions – Christian Evangelicalism And Critical Race Theory
   (Announcement)
-date: 2021-07-26T21:38:31.000Z
+date: '2021-07-26T21:38:31.000Z'
 author: editors
 image: /images/2021/07/DD-l-709x642.png
 categories:

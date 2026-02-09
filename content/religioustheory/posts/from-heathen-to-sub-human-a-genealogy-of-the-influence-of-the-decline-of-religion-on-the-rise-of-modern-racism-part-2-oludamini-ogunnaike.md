@@ -2,7 +2,7 @@
 title: >-
   From Heathen to Sub-Human – A Genealogy of the Influence of the Decline of
   Religion on the Rise of Modern Racism, Part 2 (Oludamini Ogunnaike)
-date: 2016-09-27T04:16:08.000Z
+date: '2016-09-27T04:16:08.000Z'
 author: editors
 image: /images/2016/09/cat11.jpg
 categories:

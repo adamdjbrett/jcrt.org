@@ -2,7 +2,7 @@
 title: >-
   The Imagination In Spinoza – The Moral Good Between Prophecy And The Amor Dei
   Intellectualis, Part 2 (Caterina De Gaetano)
-date: 2023-08-05T16:37:27.000Z
+date: '2023-08-05T16:37:27.000Z'
 author: editors
 image: /images/2023/08/Screenshot-2023-08-11-at-11.35.37-AM.png
 categories:

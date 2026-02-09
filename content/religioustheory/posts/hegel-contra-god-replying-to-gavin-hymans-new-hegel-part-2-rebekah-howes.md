@@ -2,7 +2,7 @@
 title: >-
   Hegel Contra God – Replying To Gavin Hyman’s “New Hegel”, Part 2 (Rebekah
   Howes)
-date: 2023-01-30T23:14:33.000Z
+date: '2023-01-30T23:14:33.000Z'
 author: editors
 image: /images/2023/02/Hegel-dancing.png
 categories:

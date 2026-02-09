@@ -2,7 +2,7 @@
 title: >-
   Hegel Contra God – Replying To Gavin Hyman’s “New Hegel”, Part 1 (Rebekah
   Howes)
-date: 2023-01-12T23:00:59.000Z
+date: '2023-01-12T23:00:59.000Z'
 author: editors
 image: /images/2023/02/Hegel_042-1210x642.jpg
 categories:

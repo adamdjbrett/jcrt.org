@@ -2,7 +2,7 @@
 title: >-
   Sexual Difference And The Vatican – A Lacanian Response, Part 3 (Melissa
   Conroy)
-date: 2020-10-12T02:55:20.000Z
+date: '2020-10-12T02:55:20.000Z'
 author: editors
 image: /images/2020/10/Candi_Ceto_Lingam_and_Yoni_1259.jpg
 categories:

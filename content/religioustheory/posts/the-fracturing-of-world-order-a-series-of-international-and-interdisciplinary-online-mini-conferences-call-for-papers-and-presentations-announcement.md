@@ -3,7 +3,7 @@ title: >-
   The Fracturing Of World Order – A Series of International and
   Interdisciplinary Online Mini-Conferences, Call For Papers And Presentations
   (Announcement)
-date: 2022-03-10T04:43:12.000Z
+date: '2022-03-10T04:43:12.000Z'
 author: editors
 image: /images/2022/03/crack-3364707_1280-1210x642.jpg
 categories:

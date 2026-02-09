@@ -2,7 +2,7 @@
 title: >-
   Philosophical Anthropology or Philosophy of Praxis? Axel Honneth and Andrew
   Feenberg on Lukács’ Theory of Reification (Konstantinos Kavoulakos)
-date: 2017-03-15T18:04:08.000Z
+date: '2017-03-15T18:04:08.000Z'
 author: editors
 image: /images/2017/03/Lukacs-and-woman.jpg
 categories:

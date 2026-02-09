@@ -2,7 +2,7 @@
 title: >-
   The Environmental Ethics of Pope Francis – Parsing Key Terms and Claims In
   Laudato Si’ (Thomas Massaro, S.J.)
-date: 2024-04-17T14:02:56.000Z
+date: '2024-04-17T14:02:56.000Z'
 author: editors
 image: /images/2024/09/15448438025_31e8467aa3_b-1024x642.jpg
 categories:

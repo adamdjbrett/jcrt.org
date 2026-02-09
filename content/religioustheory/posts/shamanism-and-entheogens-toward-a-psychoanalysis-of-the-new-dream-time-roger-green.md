@@ -2,7 +2,7 @@
 title: >-
   Shamanism and Entheogens – Toward A Psychoanalysis Of The New “Dream Time”
   (Roger Green)
-date: 2016-10-24T06:12:04.000Z
+date: '2016-10-24T06:12:04.000Z'
 author: editors
 image: /images/2016/10/sorrowing-old-man-psilocybin-depression.jpg
 categories:

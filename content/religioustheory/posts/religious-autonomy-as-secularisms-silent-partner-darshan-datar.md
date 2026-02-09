@@ -1,6 +1,6 @@
 ---
 title: Religious Autonomy As Secularism’s Silent Partner (Darshan Datar)
-date: 2017-05-31T04:39:51.000Z
+date: '2017-05-31T04:39:51.000Z'
 author: editors
 image: /images/2017/05/IMG_1444.jpg
 categories:

@@ -2,7 +2,7 @@
 title: >-
   Hegel Contra God – Replying To Gavin Hyman’s “New Hegel”, Part 3 (Rebekah
   Howes)
-date: 2023-02-11T23:30:55.000Z
+date: '2023-02-11T23:30:55.000Z'
 author: editors
 image: /images/2023/02/Socrates_statue_at_the_Louvre_8_April_2013-800x642.jpg
 categories:

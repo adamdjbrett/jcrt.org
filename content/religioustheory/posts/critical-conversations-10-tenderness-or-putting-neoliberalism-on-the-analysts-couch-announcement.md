@@ -2,7 +2,7 @@
 title: >-
   Critical Conversations 10 – “Tenderness,” Or Putting Neoliberalism On The
   Analyst’s Couch (Announcement)
-date: 2021-06-04T17:12:57.000Z
+date: '2021-06-04T17:12:57.000Z'
 author: editors
 image: /images/2021/06/The_Kiss_Klimt-1.jpg
 categories:

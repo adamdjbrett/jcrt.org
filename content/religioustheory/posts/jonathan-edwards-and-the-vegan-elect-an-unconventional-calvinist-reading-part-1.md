@@ -2,7 +2,7 @@
 title: >-
   Jonathan Edwards And The Vegan Elect – An Unconventional Calvinist Reading,
   Part 1 (Tadd Ruetenik)
-date: 2019-04-23T16:59:41.000Z
+date: '2019-04-23T16:59:41.000Z'
 author: editors
 image: /images/2019/04/J-edwards.jpg
 categories:

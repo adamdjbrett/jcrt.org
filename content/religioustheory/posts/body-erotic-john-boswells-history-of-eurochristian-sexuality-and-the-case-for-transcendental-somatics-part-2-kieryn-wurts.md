@@ -2,7 +2,7 @@
 title: >-
   Body Erotic – John Boswell’s History Of Eurochristian Sexuality And The Case
   For Transcendental Somatics, Part 2 (Kieryn Wurts)
-date: 2023-05-08T17:11:28.000Z
+date: '2023-05-08T17:11:28.000Z'
 author: editors
 image: /images/2023/05/Jerusalem_gay_pride_parade_05-1-1200x642.jpg
 categories:

@@ -2,7 +2,7 @@
 title: >-
   NOTATIONS – The “Unacculturable” – Refugee Flux Spurs Crisis of European
   Belief
-date: 2016-03-06T01:21:01.000Z
+date: '2016-03-06T01:21:01.000Z'
 author: editors
 image: /images/2016/03/Syrian-Refugees.jpg
 categories:

@@ -2,7 +2,7 @@
 title: >-
   “Damn It, He’s An Injun!” Christian Murder, Colonial Wealth, And Tanned Human
   Skin, Part 2 (Tink Tinker, wazhazhe udsethe)
-date: 2019-03-21T16:21:23.000Z
+date: '2019-03-21T16:21:23.000Z'
 author: editors
 image: /images/2019/03/Creek_War_Treaty_1814.jpg
 categories:

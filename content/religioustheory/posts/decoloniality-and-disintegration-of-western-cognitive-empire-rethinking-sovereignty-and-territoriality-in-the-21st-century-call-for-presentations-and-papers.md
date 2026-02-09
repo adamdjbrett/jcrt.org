@@ -3,7 +3,7 @@ title: >-
   Call For Presentations And Proposals – Decoloniality And Disintegration Of
   Western Cognitive Empire, Or Rethinking Sovereignty And Territoriality In The
   21st Century (Announcement)
-date: 2021-01-13T01:13:02.000Z
+date: '2021-01-13T01:13:02.000Z'
 author: editors
 image: /images/2021/01/1600px-Machu_Picchu__the_lost_city_of_the_inca_empire.jpg
 categories:
