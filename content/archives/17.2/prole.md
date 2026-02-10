@@ -12,7 +12,7 @@ keywords:
   - conrad-martius
   - hedwig
 pdf: Prole.pdf
-sort_id:
+sort_id: 02
 volume: 17
 issue: 2
 season: spring

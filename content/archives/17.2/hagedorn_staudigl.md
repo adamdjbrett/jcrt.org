@@ -7,8 +7,8 @@ keywords:
   - religion
   - secularism
   - phenomenology
-pdf:
-sort_id:
+pdf: Hagedorn-and-Staudigl.pdf
+sort_id: 01
 volume: 17
 issue: 2
 season: spring

@@ -8,7 +8,7 @@ keywords:
   - bible-genesis
   - wisdom-of-god
 pdf: Mensch.pdf
-sort_id:
+sort_id: 13
 volume: 17
 issue: 2
 season: spring

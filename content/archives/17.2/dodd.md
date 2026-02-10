@@ -9,7 +9,7 @@ keywords:
   - violence
   - justification-ethics
 pdf: Dodd.pdf
-sort_id:
+sort_id: 14
 volume: 17
 issue: 2
 season: spring
