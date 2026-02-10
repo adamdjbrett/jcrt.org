@@ -30,14 +30,8 @@ collections:
             name: "section"
             widget: "object"
             fields:
-              - {label: "Title", name: "title", widget: "string"}
-              - label: "List Items"
-                name: "list"
-                widget: "list"
-                fields:
-                  - {label: "Title", name: "title", widget: "string"}
-                  - {label: "Icon (Font Awesome)", name: "icon", widget: "string", hint: "e.g., fab fa-facebook"}
-                  - {label: "Text", name: "text", widget: "text"}
+              - {label: "Section Title", name: "title", widget: "string"}
+              - {label: "Mode", name: "mode", widget: "string"}
           - label: "Blog Section"
             name: "blog"
             widget: "object"
@@ -49,7 +43,6 @@ collections:
                 fields:
                   - {label: "Text", name: "text", widget: "string"}
                   - {label: "URL", name: "url", widget: "string"}
-          - {label: "Body Content", name: "body", widget: "markdown"}
 
   - name: "blogIndex"
     label: "Blog Index"
