@@ -8,7 +8,7 @@ keywords:
   - phenomenology
   - scientism
 pdf: Bornemark.pdf
-sort_id:
+sort_id: 12
 volume: 17
 issue: 2
 season: spring

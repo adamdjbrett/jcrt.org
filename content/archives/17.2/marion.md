@@ -9,7 +9,7 @@ keywords:
   - silence
   - god
 pdf: Marion.pdf
-sort_id:
+sort_id: 06
 volume: 17
 issue: 2
 season: spring

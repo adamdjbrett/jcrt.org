@@ -127,3 +127,5 @@ The following issue has resulted from a conference in the fall of 2024.  The con
 - ~~TODO archvives 18.2 "Religious Studies and Comparative Theology: An Appraisal Joshua Samuel, Union Theological Seminary" is listed but has no files, would be sort_id: 12~~ adjb
 - archives 18.2, 18.1, 17.3 done
 - 20260206: ARCHIVES 28% COMPLETE
+- TODO archives17.2 Jean Leclerq How to do things with words (of God)? Michel Henry’s Phenomenology of Religion - original site lists it but has a dead link, new build has no files on it whatsoever, would be sort id 04
+- archives 17.2 done

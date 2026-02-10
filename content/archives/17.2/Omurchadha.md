@@ -7,8 +7,8 @@ keywords:
   - faith
   - love
   - phenomenology
-pdf:
-sort_id:
+pdf: OMurchadha.pdf
+sort_id: 07
 volume: 17
 issue: 2
 season: spring

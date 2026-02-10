@@ -8,7 +8,7 @@ keywords:
   - practical-politics
   - economic-status
 pdf: Alvis.pdf
-sort_id:
+sort_id: 10
 volume: 17
 issue: 2
 season: spring

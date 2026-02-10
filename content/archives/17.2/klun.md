@@ -10,7 +10,7 @@ keywords:
   - husserl
   - transcendence-philosophy
 pdf: Klun.pdf
-sort_id:
+sort_id: 08
 volume: 17
 issue: 2
 season: spring

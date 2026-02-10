@@ -9,7 +9,7 @@ keywords:
   - phenomenology
   - cloud-of-unknowing
 pdf: Hart.pdf
-sort_id:
+sort_id: 09
 volume: 17
 issue: 2
 season: spring
