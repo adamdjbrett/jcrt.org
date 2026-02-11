@@ -10,9 +10,9 @@ keywords:
   - logics-of-worlds-book
   - social-conditions-of-black-people
 pdf: Beddard.pdf
-sort_id:
+sort_id: 09
 volume: 16
 issue: 3
-season: summer
+season: fall
 pages: 1-14
 ---

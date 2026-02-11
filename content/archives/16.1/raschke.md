@@ -8,7 +8,7 @@ keywords:
   - financial-crises
   - humanities
 pdf: Raschke.pdf
-sort_id:
+sort_id: 02
 volume: 16
 issue: 1
 season: winter

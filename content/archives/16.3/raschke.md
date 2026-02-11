@@ -11,6 +11,6 @@ pdf:
 sort_id:
 volume: 16
 issue: 3
-season: summer
+season: fall
 pages: 260-270
 ---

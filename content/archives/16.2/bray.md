@@ -8,7 +8,7 @@ keywords:
   - postsecularism
   - gender-differences-psychology
 pdf: Bray.pdf
-sort_id:
+sort_id: 03
 volume: 16
 issue: 2
 season: spring

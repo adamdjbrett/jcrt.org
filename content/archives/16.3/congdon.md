@@ -10,9 +10,9 @@ keywords:
   - badiou
   - god-is-dead-book
 pdf: Congdon.pdf
-sort_id:
+sort_id: 03
 volume: 16
 issue: 3
-season: summer
+season: fall
 pages: 294-329
 ---

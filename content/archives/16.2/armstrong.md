@@ -8,7 +8,7 @@ keywords:
   - race-discrimination
   - reproduction
 pdf: Armstrong.pdf
-sort_id:
+sort_id: 02
 volume: 16
 issue: 2
 season: spring

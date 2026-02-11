@@ -9,9 +9,9 @@ keywords:
   - alain
   - badiou
 pdf: Phelps.pdf
-sort_id:
+sort_id: 04
 volume: 16
 issue: 3
-season: summer
+season: fall
 pages: 330-346
 ---

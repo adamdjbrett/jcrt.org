@@ -7,7 +7,7 @@ keywords:
   - democracy
   - black-feminists
 pdf: Meyer.pdf
-sort_id:
+sort_id: 06
 volume: 16
 issue: 2
 season: spring

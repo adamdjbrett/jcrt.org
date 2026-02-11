@@ -7,7 +7,7 @@ keywords:
   - theology
   - postsecularism
 pdf: Moody.pdf
-sort_id:
+sort_id: 07
 volume: 16
 issue: 2
 season: spring
