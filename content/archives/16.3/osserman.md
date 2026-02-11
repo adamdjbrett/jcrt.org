@@ -17,9 +17,9 @@ keywords:
   - radical-jew
   - saint-paul-la-fondation-de-l-universalisme-book
 pdf: Osserman.pdf
-sort_id:
+sort_id: 07
 volume: 16
 issue: 3
-season: summer
+season: fall
 pages: 382-402
 ---

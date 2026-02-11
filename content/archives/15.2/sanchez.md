@@ -10,7 +10,7 @@ keywords:
   - mercier-camier-book
   - samuel
 pdf: sanchez.pdf
-sort_id:
+sort_id: 05
 volume: 15
 issue: 2
 season: spring

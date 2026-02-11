@@ -9,9 +9,9 @@ keywords:
   - peace-corps-u-s
   - sexual-assault
 pdf: Davis.pdf
-sort_id:
+sort_id: 02
 volume: 16
 issue: 3
-season: summer
+season: fall
 pages: 271-293
 ---

@@ -128,4 +128,9 @@ The following issue has resulted from a conference in the fall of 2024.  The con
 - archives 18.2, 18.1, 17.3 done
 - 20260206: ARCHIVES 28% COMPLETE
 - TODO archives17.2 Jean Leclerq How to do things with words (of God)? Michel Henry’s Phenomenology of Religion - original site lists it but has a dead link, new build has no files on it whatsoever, would be sort id 04
-- archives 17.2 done
+- archives 17.2 17.1 done
+- archives 16.3 16.2  done
+- TODO archives 16.1, original lists "Review of Judith Butler’s Senses of the Subject Matt Waggoner", no files in original or new site exist, would be last item on page sort id 10
+- archives 16.1 15.2  done 
+
+

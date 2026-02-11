@@ -8,7 +8,7 @@ keywords:
   - rap-music
   - spoken-word-poetry
 pdf: Carson.pdf
-sort_id:
+sort_id: 06
 volume: 16
 issue: 1
 season: winter

@@ -11,9 +11,9 @@ keywords:
   - badiou
   - saint-paul-la-fondation-de-l-universalisme-book
 pdf: Karlsen.pdf
-sort_id:
+sort_id: 08
 volume: 16
 issue: 3
-season: summer
+season: fall
 pages: 403-436
 ---
