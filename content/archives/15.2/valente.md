@@ -1,18 +1,16 @@
 ---
-title: "THERE’S A GIRL INSIDE."
+title: "IS THE AU IN AUTISM THE AU IN AUTONOMY?"
 author: "JOSEPH VALENTE"
 affilation:
-abstract: "The article critiques the film"
+abstract: "The author discusses how culture can sentimentalize autism as disabled stereotype, as liberal myth of individualism, and as the after image of ego ideal."
 keywords:
-  - 1968
+  - stereotypes
   - autism
-  - docter
-  - inside-out-film
-  - pete
+  - psychology-culture
 pdf: valente.pdf
-sort_id:
+sort_id: 06
 volume: 15
 issue: 2
 season: spring
-pages: 16-21
+pages: 71-84
 ---

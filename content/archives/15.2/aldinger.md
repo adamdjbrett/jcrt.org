@@ -1,16 +1,18 @@
 ---
-title: "INTRODUCTION."
-author: "MARIA ALMANZA; JOSEPH ALDINGER"
+title: "NARRATIVES OF OVERCOMING: DISABILITY THEORY AND THE CRASH REEL."
+author: "JOSEPH M. M. ALDINGER"
 affilation:
-abstract: "An introduction is presented in which editors discuss various reports within the issue on topics including feminist disability studies, aesthetic principles, and symbolic use of disability."
+abstract: "The article critiques the film"
 keywords:
-  - religion
-  - disabilities
-  - feminists
+  - crash-reel
+  - lucy
+  - sports-injuries
+  - the-film
+  - walker
 pdf: aldinger.pdf
-sort_id:
+sort_id: 07
 volume: 15
 issue: 2
 season: spring
-pages: 1-3
+pages: 85-97
 ---

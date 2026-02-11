@@ -131,6 +131,6 @@ The following issue has resulted from a conference in the fall of 2024.  The con
 - archives 17.2 17.1 done
 - archives 16.3 16.2  done
 - TODO archives 16.1, original lists "Review of Judith Butler’s Senses of the Subject Matt Waggoner", no files in original or new site exist, would be last item on page sort id 10
-- archives 16.1 done 
+- archives 16.1 15.2  done 
 
 

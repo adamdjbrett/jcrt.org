@@ -11,7 +11,7 @@ keywords:
   - the-book-wells
   - wells
 pdf: reid.pdf
-sort_id:
+sort_id: 04
 volume: 15
 issue: 2
 season: spring

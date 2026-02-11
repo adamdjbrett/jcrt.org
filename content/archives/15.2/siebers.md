@@ -8,7 +8,7 @@ keywords:
   - park-young-sook
   - women-with-intellectual-disabilities
 pdf: siebers.pdf
-sort_id:
+sort_id: 02
 volume: 15
 issue: 2
 season: spring

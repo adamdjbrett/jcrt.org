@@ -9,7 +9,7 @@ keywords:
   - niki
   - sculpture
 pdf: fox.pdf
-sort_id:
+sort_id: 03
 volume: 15
 issue: 2
 season: spring
