@@ -2,7 +2,7 @@ backend:
   name: github
   repo: adamdjbrett/jcrt.org
   branch: main
-  base_url: xxxx # yourworker cloudflare
+  base_url: https://jcrt-auth.adam.workers.dev # yourworker cloudflare
 
 media_folder: "public/img"
 
