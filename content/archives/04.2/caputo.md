@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Caputo - After Jacques Derrida Comes the Future - JCRT 4.2 
+---
+Caputo - After Jacques Derrida Comes the Future - JCRT 4.2 
 
 # After Jacques Derrida Comes the Future
 

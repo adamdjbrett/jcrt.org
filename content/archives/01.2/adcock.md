@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----  Adcock - Xena Warrior Princess - JCRT 1.2
+---
+Adcock - Xena Warrior Princess - JCRT 1.2
 
 # Xena Warrior Princess and the Texture of the Religious: Re-imagining the Role of Popular Culture in Academic Discourse
 

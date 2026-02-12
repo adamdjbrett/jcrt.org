@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Druen - Book Profile: Sacred Pain - JCRT 3.3 
+---
+Druen - Book Profile: Sacred Pain - JCRT 3.3 
 
 # Book Profile: _Sacred Pain_
 

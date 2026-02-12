@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----     Lakeland - Book Profile: Beyond Foundationalism - JCRT 2.3 
+---
+Lakeland - Book Profile: Beyond Foundationalism - JCRT 2.3 
 
 # Book Profile
 

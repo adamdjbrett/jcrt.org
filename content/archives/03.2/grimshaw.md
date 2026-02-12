@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Grimshaw - Preacher, or the Death of God in Pictures - JCRT 3.2 
+---
+Grimshaw - Preacher, or the Death of God in Pictures - JCRT 3.2 
 
 # _Preacher_, or the Death of God in Pictures
 

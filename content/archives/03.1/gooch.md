@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----     Gooch - The Epistemic Status of Value-Cognition - JCRT 3.1 
+---
+Gooch - The Epistemic Status of Value-Cognition - JCRT 3.1 
 
 # The Epistemic Status of Value-Cognition in Max Scheler's Philosophy of Religion
 

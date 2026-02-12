@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Raschke - From Religion to Faith - JCRT 4.1 
+---
+Raschke - From Religion to Faith - JCRT 4.1 
 
 # From Religion to Faith: Levinasian Ethics and the Grammar of Address
 

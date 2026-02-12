@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    DiCenso - Splitting Religion - JCRT 1.3 
+---
+DiCenso - Splitting Religion - JCRT 1.3 
 
 # Splitting Religion: Heteronomy, Autonomy, and Reflection
 

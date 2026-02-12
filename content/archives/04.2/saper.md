@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Saper - Of Spectacularization - JCRT 4.2 
+---
+Saper - Of Spectacularization - JCRT 4.2 
 
 # Of Spectacularization: Writing New Media Theory
 

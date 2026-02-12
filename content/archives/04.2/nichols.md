@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
---- Nichols - Laughter as Gesture - JCRT 4.2 
+---
+Nichols - Laughter as Gesture - JCRT 4.2 
 
 # Laughter as Gesture: Hilarity and the Anti-Sublime
 

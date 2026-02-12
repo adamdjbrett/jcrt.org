@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Caputo & Raschke - Loosening Philosophy's Tongue - JCRT 3.2 
+---
+Caputo & Raschke - Loosening Philosophy's Tongue - JCRT 3.2 
 
 # Loosening Philosophy's Tongue: A Conversation with Jack Caputo
 

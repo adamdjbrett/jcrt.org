@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Reinhart - Why and how does humanity have a capacity for inhumanity? - JCRT 3.3 
+---
+Reinhart - Why and how does humanity have a capacity for inhumanity? - JCRT 3.3 
 
 # Why and how does humanity have a capacity for inhumanity?
 

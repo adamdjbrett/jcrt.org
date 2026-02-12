@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Kosky - Iconic Revisions of the Modern World Picture - JCRT 4.1 
+---
+Kosky - Iconic Revisions of the Modern World Picture - JCRT 4.1 
 
 # Iconic Revisions of the Modern World Picture
 

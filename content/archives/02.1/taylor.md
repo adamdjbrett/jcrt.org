@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
---- Taylor - Art Exhibit - JCRT 2.1 
+---
+Taylor - Art Exhibit - JCRT 2.1 
 
 # Artist's Statement
 

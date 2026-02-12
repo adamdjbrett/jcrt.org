@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Flaxman - Past Imperfect, Future Unknown - JCRT 4.2 
+---
+Flaxman - Past Imperfect, Future Unknown - JCRT 4.2 
 
 # Past Imperfect, Future Unknown: The Discourse of Theory
 

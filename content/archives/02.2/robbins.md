@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Robbins - De-Nominating Religion and Postmodernism - JCRT 2.2 
+---
+Robbins - De-Nominating Religion and Postmodernism - JCRT 2.2 
 
 # De-Nominating Religion and Postmodernism: A Conversation between Jean-Luc Marion and Jacques Derrida
 

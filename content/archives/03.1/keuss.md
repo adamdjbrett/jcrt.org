@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----     Keuss - Diff'rance That Comes As One Unknown - JCRT 3.1 
+---
+Keuss - Diff'rance That Comes As One Unknown - JCRT 3.1 
 
 # Diff'rance That Comes As One Unknown: Christology after Derrida's "Structure, Sign, and Play in the Discourse of the Human Sciences"
 

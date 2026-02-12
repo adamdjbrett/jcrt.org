@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----     Dean - The Archaeology of American Thought - JCRT 3.1 
+---
+Dean - The Archaeology of American Thought - JCRT 3.1 
 
 # Book Profile: The Archaeology of American Thought
 

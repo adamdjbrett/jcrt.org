@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----  Taylor & Lambert - The Future of Theory - JCRT 4.2 
+---
+Taylor & Lambert - The Future of Theory - JCRT 4.2 
 
 # The Future of Theory
 

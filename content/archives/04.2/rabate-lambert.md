@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
---- Rabaté & Lambert - Conversation on The Future of Theory - JCRT 4.2 
+---
+Rabaté & Lambert - Conversation on The Future of Theory - JCRT 4.2 
 
 # Conversation on _The Future of Theory_\*
 

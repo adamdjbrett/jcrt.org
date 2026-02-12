@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----     Raschke - The Deposition of the Sign - JCRT 3.1 
+---
+Raschke - The Deposition of the Sign - JCRT 3.1 
 
 # The Deposition of the Sign: Postmodernism and the Crisis of Religious Studies
 

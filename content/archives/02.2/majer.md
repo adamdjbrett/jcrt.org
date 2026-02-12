@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Majer - On Contagions - JCRT 2.2 
+---
+Majer - On Contagions - JCRT 2.2 
 
 # On Contagions: Leviticus and the Fascination of the Abomination
 

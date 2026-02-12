@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----      Katchen - Book Profile: Psychiatric Abuse and the Intelligence Community - JCRT 2.3 
+---
+Katchen - Book Profile: Psychiatric Abuse and the Intelligence Community - JCRT 2.3 
 
 # Book Profile: Psychiatric Abuse and the Intelligence Community
 

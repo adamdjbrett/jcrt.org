@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Hale - Book Profile: Terror and the Sacred - JCRT 3.2 
+---
+Hale - Book Profile: Terror and the Sacred - JCRT 3.2 
 
 # Terror and the Sacred
 

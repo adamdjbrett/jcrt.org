@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----  Taylor - The Division of Religion - JCRT 1.2_
+---
+Taylor - The Division of Religion - JCRT 1.2_
 
 The Journal of Cultural and Religious Theory is committed to advancing critical discourses aiming to (re)define the nature of disciplinary and inter-disciplinary scholarship in religion and culture studies. In a series of feature articles, the editors and members of the editorial board will address a wide range of issues in cultural and religious theory.
 

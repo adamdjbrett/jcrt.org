@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Richard - Aristotle and Religious Theory - JCRT 1.3 
+---
+Richard - Aristotle and Religious Theory - JCRT 1.3 
 
 # Aristotle and Religious Theory
 

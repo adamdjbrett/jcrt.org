@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
---- Halpern - Creation: Lacan in Kansas - JCRT 2.1 
+---
+Halpern - Creation: Lacan in Kansas - JCRT 2.1 
 
 # Creation: Lacan in Kansas
 

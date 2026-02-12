@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Taylor - The Metaphysics of Indeterminacy - JCRT 2.2 
+---
+Taylor - The Metaphysics of Indeterminacy - JCRT 2.2 
 
 # The Metaphysics of Indeterminacy: Postmodern Religious Theory and The Ruin of Referentiality
 

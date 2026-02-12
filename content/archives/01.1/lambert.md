@@ -6,7 +6,8 @@ affilation: 03
 abstract:
 keywords: []
 pdf:
---- Lambert - The Work of Art - JCRT 1.1 
+---
+Lambert - The Work of Art - JCRT 1.1 
 
 # The Work of Art in the Age of Alien Reproduction
 

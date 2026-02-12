@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Tatusko - The Theological Challenge of Cyberspace and the Logic of Simulation - JCRT 2.2 
+---
+Tatusko - The Theological Challenge of Cyberspace and the Logic of Simulation - JCRT 2.2 
 
 # The Theological Challenge of Cyberspace and the Logic of Simulation
 

@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----  Lee - Deconstructing the Great Chain of Being - JCRT 1.1
+---
+Lee - Deconstructing the Great Chain of Being - JCRT 1.1
 
 # Deconstructing the Great Chain of Being
 

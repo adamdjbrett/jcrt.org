@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----  Vahanian - Rebellious No - JCRT 1.2
+---
+Vahanian - Rebellious No - JCRT 1.2
 
 # Rebellious No
 

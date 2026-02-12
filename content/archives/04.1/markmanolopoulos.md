@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Manolopolous - When Marion's Theology Seeks Certainty - JCRT 4.1 
+---
+Manolopolous - When Marion's Theology Seeks Certainty - JCRT 4.1 
 
 # When Marion's Theology Seeks Certainty
 

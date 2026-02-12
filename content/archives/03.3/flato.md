@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Flato - Book Profile: Christianity in Jewish Terms - JCRT 3.3 
+---
+Flato - Book Profile: Christianity in Jewish Terms - JCRT 3.3 
 
 # Book Profile: _Christianity in Jewish Terms_
 

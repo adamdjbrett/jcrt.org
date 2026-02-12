@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----  Young - God and Derrida's Politics - JCRT 1.1
+---
+Young - God and Derrida's Politics - JCRT 1.1
 
 # God and Derrida's Politics: At the Edge of Exemplarity
 

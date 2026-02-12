@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
---- Crockett - Taking Shape: On the Current Constellation - JCRT 3.3 
+---
+Crockett - Taking Shape: On the Current Constellation - JCRT 3.3 
 
 # Taking Shape: On the Current Constellation of (Religious) Thought
 

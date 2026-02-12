@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Cha - Language, Conceptualization and Awakening - JCRT 2.3 
+---
+Cha - Language, Conceptualization and Awakening - JCRT 2.3 
 
 # Language, Conceptualization and Awakening: On the Paradox of Discourse in Classical Indian _Yogacara_
 

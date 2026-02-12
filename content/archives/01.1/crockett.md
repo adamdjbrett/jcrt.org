@@ -32,7 +32,8 @@ volume: 1
 issue: 1
 season: winter
 pages:
----  Crockett - Anxiety and the S(ub)lime Body of God - JCRT 1.1
+---
+Crockett - Anxiety and the S(ub)lime Body of God - JCRT 1.1
 
 # Anxiety and the S(ub)lime Body of God
 

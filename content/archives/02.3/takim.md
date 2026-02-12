@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----     Takim - Book Profile: Islamic Ethics of Life - JCRT 2.3 
+---
+Takim - Book Profile: Islamic Ethics of Life - JCRT 2.3 
 
 # Book Profile
 

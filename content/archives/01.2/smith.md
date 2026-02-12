@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----  Smith - Difficult History - JCRT 1.2 
+---
+Smith - Difficult History - JCRT 1.2 
 
 # Difficult History
 

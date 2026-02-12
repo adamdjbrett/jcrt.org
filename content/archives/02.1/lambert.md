@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
---- Lambert - Redemption: Lacan avec Marx - JCRT 2.1 
+---
+Lambert - Redemption: Lacan avec Marx - JCRT 2.1 
 
 # Redemption: Lacan avec Marx
 

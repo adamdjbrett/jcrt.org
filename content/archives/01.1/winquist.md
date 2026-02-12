@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----  Winquist - Ambiguous Gift of Desire - JCRT 1.1
+---
+Winquist - Ambiguous Gift of Desire - JCRT 1.1
 
 # The Ambiguous Gift of Desire
 

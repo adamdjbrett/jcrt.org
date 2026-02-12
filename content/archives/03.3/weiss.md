@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Weiss - Review of In Our Image - JCRT 3.3 
+---
+Weiss - Review of In Our Image - JCRT 3.3 
 
 # In Our Image
 

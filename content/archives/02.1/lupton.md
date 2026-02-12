@@ -24,7 +24,8 @@ volume: 2
 issue: 1
 season: winter
 pages:
----Religion and Psychoanalysis: Three Fundamental Concepts
+---
+Religion and Psychoanalysis: Three Fundamental Concepts
 =======================================================
 
 Introduction\

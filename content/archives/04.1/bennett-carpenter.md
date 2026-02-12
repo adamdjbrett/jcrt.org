@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Bennett-Carpenter - Quoting Mieke Bal's Navel - JCRT 4.1 
+---
+Bennett-Carpenter - Quoting Mieke Bal's Navel - JCRT 4.1 
 
 # Quoting Mieke Bal's Navel: Contemporary Theory, Preposterous Religion
 

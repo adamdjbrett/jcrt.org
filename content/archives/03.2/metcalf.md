@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Metcalf - The Word of Freud - JCRT 3.2 
+---
+Metcalf - The Word of Freud - JCRT 3.2 
 
 # The Word of Freud: Our God is _logos_
 

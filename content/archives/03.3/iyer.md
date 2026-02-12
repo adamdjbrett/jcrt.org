@@ -6,7 +6,8 @@ affilation:
 abstract: 
 keywords: []
 pdf:
----The City and the Stars: Politics and Alterity in Heidegger, Levinas and Blanchot
+---
+The City and the Stars: Politics and Alterity in Heidegger, Levinas and Blanchot
 ================================================================================
 
 Lars Iyer\

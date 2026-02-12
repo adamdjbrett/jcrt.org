@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
---- Raschke - Para/theology - JCRT 2.1 
+---
+Raschke - Para/theology - JCRT 2.1 
 
 # Para/theology: The Study of Religion and the Science of the Negative
 

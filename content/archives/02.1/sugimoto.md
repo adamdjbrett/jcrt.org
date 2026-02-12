@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
---- Sugimoto - Nation as University - JCRT 2.1 
+---
+Sugimoto - Nation as University - JCRT 2.1 
 
 # Nation as University; or the School We Never Leave
 

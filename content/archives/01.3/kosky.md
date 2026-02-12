@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Kosky - Contemporary Encounters with Apophatic Theology - JCRT 1.3 
+---
+Kosky - Contemporary Encounters with Apophatic Theology - JCRT 1.3 
 
 # Contemporary Encounters with Apophatic Theology: The Case of Emmanuel Levinas
 

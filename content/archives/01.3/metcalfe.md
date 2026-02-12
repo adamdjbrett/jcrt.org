@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Metcalfe - Wonder, Creativity and Knowledge - JCRT 1.3 
+---
+Metcalfe - Wonder, Creativity and Knowledge - JCRT 1.3 
 
 # Wonder, Creativity and Knowledge
 

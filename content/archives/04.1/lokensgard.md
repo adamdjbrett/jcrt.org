@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Lokensgard - The Matter of Responsibility - JCRT 4.1 
+---
+Lokensgard - The Matter of Responsibility - JCRT 4.1 
 
 # The Matter of Responsibility: Derrida and Gifting Across Cultures
 

@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Ronan - Blessed Are They Who Mourn - JCRT 2.3 
+---
+Ronan - Blessed Are They Who Mourn - JCRT 2.3 
 
 # Blessed Are They Who Mourn: Roman Catholic Sex/Gender Ideology after Vatican II
 

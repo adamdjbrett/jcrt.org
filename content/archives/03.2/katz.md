@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Katz - Left Traumatized - JCRT 3.2 
+---
+Katz - Left Traumatized - JCRT 3.2 
 
 # Left Traumatized: Zizek's Lenin and Politics After 9/11
 

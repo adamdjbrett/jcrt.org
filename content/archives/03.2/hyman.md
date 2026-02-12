@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Hyman - Radical Orthodoxy, Ethics and Ambivalence - JCRT 3.2 
+---
+Hyman - Radical Orthodoxy, Ethics and Ambivalence - JCRT 3.2 
 
 # Radical Orthodoxy, Ethics and Ambivalence
 

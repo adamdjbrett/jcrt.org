@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Strysick - Culture Wars, Religion, and the Postmodern Sacred - JCRT 1.3 
+---
+Strysick - Culture Wars, Religion, and the Postmodern Sacred - JCRT 1.3 
 
 # Culture Wars, Religion, and the Postmodern Sacred
 

@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----  Kavka - Rationality of Derrida's Religion - JCRT 1.1 
+---
+Kavka - Rationality of Derrida's Religion - JCRT 1.1 
 
 # The Rationality of Derrida's "Religion without Religion": A Phenomenological Gift for John D. Caputo
 

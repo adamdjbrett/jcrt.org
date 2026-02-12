@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
---- Journal for Cultural and Religious Theory - Issue 4.2 - April 2003   
+---
+Journal for Cultural and Religious Theory - Issue 4.2 - April 2003   
 
 ![JCRT](../10.2/color_block_pdf_left.jpg) 
 

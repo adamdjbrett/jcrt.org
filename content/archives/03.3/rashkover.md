@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Rashkover - The Semiotics of Embodiment - JCRT 3.3 
+---
+Rashkover - The Semiotics of Embodiment - JCRT 3.3 
 
 # The Semiotics of Embodiment: Radical Orthodoxy and Jewish-Christian Relations
 

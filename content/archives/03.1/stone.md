@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----     Stone - "Misrecognition of the Limits" - JCRT 3.1 
+---
+Stone - "Misrecognition of the Limits" - JCRT 3.1 
 
 # "Misrecognition of the Limits": Bourdieu's _Religious Capital_ and Social Transformation
 

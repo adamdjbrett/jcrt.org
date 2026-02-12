@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Game - Falling - JCRT 1.3 
+---
+Game - Falling - JCRT 1.3 
 
 # Falling
 

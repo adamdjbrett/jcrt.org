@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Crockett - Review of Heidegger's Contributions to Philosophy - JCRT 2.3 
+---
+Crockett - Review of Heidegger's Contributions to Philosophy - JCRT 2.3 
 
 # On God and Being: A Review of Martin Heidegger's _Contributions to Philosophy_
 

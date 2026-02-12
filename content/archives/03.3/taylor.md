@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Taylor - Encircling Kafka: A Review of the City of K. - JCRT 3.3 
+---
+Taylor - Encircling Kafka: A Review of the City of K. - JCRT 3.3 
 
 # Encircling Kafka? _The City of K.: Franz Kafka and Prague_
 

@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----     Weiss - Posthuman Pleasures - JCRT 1.3
+---
+Weiss - Posthuman Pleasures - JCRT 1.3
 
 # Posthuman Pleasures: Review of N. Katherine Hayles' _How We Became Posthuman_
 

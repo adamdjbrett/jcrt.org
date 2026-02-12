@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----     Hale - Book Profile: The Critique of Theological Reason - JCRT 2.3 
+---
+Hale - Book Profile: The Critique of Theological Reason - JCRT 2.3 
 
 # Book Profile: Dissing Postmodernism
 

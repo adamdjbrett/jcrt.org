@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Pecora - Religion and Modernity in Current Debate - JCRT 4.2 
+---
+Pecora - Religion and Modernity in Current Debate - JCRT 4.2 
 
 # Religion and Modernity in Current Debate
 

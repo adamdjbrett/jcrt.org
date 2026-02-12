@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Zerbe - Book Profile: Anaximander and the Architects - JCRT 3.3 
+---
+Zerbe - Book Profile: Anaximander and the Architects - JCRT 3.3 
 
 # Book Profile: Anaximander and the Architects
 

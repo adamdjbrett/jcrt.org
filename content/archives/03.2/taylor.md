@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Taylor - Desire and Mourning: Theology and the Literary Imagination - JCRT 3.2 
+---
+Taylor - Desire and Mourning: Theology and the Literary Imagination - JCRT 3.2 
 
 _The JCRT's introductory essays over the past two years have focused on the status of religious studies in the context of critical theory. The editors have traced these developments, provided analyses of religious theory, and modeled critical discourse. 'Desire and Mourning: Theology and the Literary Imagination' follows the last of these, bringing theology into literature by investing theology with a critical force to open an analysis of literary language. Subsequent introductions will return to these and other issues in our continued effort to reshape the discourse of cultural and religious theory._
 

@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Bennett-Carpenter - The Divine Simulacrum of Andy Warhol - JCRT 1.3 
+---
+Bennett-Carpenter - The Divine Simulacrum of Andy Warhol - JCRT 1.3 
 
 # The Divine Simulacrum of Andy Warhol: Baudrillard's Light on the Pope of Pop's "Religious Art"
 

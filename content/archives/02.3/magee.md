@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Magee - Heidegger, Religion, and the Transience of Digital Memory - JCRT 2.3 
+---
+Magee - Heidegger, Religion, and the Transience of Digital Memory - JCRT 2.3 
 
 # Heidegger, Religion, and the Transience of Digital Memory
 

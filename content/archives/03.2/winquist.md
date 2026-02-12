@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    In Memoriam: Dr. Charles E. Winquist - JCRT 3.2  
+---
+In Memoriam: Dr. Charles E. Winquist - JCRT 3.2  
 
 # In Memoriam  
 Dr. Charles E. Winquist (1944 ' 2002)

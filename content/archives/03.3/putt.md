@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Putt - The Benefit of the Doubt - JCRT 3.3 
+---
+Putt - The Benefit of the Doubt - JCRT 3.3 
 
 # The Benefit of the Doubt: Merold Westphal's Prophetic Philosophy of Religion
 

@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Elias - Ekphrastic Plastic Fragments - JCRT 2.2 
+---
+Elias - Ekphrastic Plastic Fragments - JCRT 2.2 
 
 # Ekphrastic Plastic Fragments: Mark C. Taylor In and Out of Context
 

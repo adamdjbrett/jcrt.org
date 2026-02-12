@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Taylor & Raschke - About About Religion - JCRT 2.2 
+---
+Taylor & Raschke - About About Religion - JCRT 2.2 
 
 # About _About Religion_: A Conversation with Mark C. Taylor
 

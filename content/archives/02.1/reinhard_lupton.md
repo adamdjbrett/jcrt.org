@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
---- Reinhard & Lupton - Revelation - JCRT 2.1 
+---
+Reinhard & Lupton - Revelation - JCRT 2.1 
 
 # Revelation: Lacan and the Ten Commandments
 

@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----  Canning - Jesus Christ Holocaust - JCRT 1.2
+---
+Canning - Jesus Christ Holocaust - JCRT 1.2
 
 # Jesus Christ Holocaust: Fabulation of the Jews in Christian and Nazi History
 

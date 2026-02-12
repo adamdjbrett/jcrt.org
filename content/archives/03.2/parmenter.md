@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Parmenter - Book Profile: Writing the Medieval Self - JCRT 3.2 
+---
+Parmenter - Book Profile: Writing the Medieval Self - JCRT 3.2 
 
 # Writing the Medieval Self
 

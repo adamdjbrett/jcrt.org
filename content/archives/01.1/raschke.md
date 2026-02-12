@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----  Raschke - Theorizing Religion at the Turn of the Millennium - JCRT 1.1
+---
+Raschke - Theorizing Religion at the Turn of the Millennium - JCRT 1.1
 
 # Theorizing Religion at the Turn of the Millennium: From the Sacred to the Semiotic
 

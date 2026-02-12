@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----     Caputo - For Love of Things Themselves - JCRT 1.3 
+---
+Caputo - For Love of Things Themselves - JCRT 1.3 
 
 # For Love of the Things Themselves: Derrida's Hyper-Realism
 

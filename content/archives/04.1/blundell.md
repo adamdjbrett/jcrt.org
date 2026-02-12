@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Blundell - Book Profile: The New Ricoeur Scholarship - JCRT 4.1 
+---
+Blundell - Book Profile: The New Ricoeur Scholarship - JCRT 4.1 
 
 # The New Ricoeur Scholarship
 

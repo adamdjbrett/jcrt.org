@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----   Reinhard/Lupton - Jewish Studies and the Secular University - JCRT 1.1
+---
+Reinhard/Lupton - Jewish Studies and the Secular University - JCRT 1.1
 
 # Jewish Studies and the Secular University: Religion Between Culture and Philosophy
 

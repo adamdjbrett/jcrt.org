@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    Altizer - Absolute Nothingness and Taylor's Imagology - JCRT 2.2 
+---
+Altizer - Absolute Nothingness and Taylor's Imagology - JCRT 2.2 
 
 # Absolute Nothingness and Taylor's Imagology
 

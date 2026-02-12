@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----    McGrath - Young Heidegger's Problematic Reading of Augustine - JCRT 4.1 
+---
+McGrath - Young Heidegger's Problematic Reading of Augustine - JCRT 4.1 
 
 # The Young Heidegger's Problematic Reading of Augustine's Ontological Restlessness
 

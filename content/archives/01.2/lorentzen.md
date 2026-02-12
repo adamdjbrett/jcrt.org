@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----  Lorentzen - Re-Constructing Theological Thought with Deleuze - JCRT 1.2
+---
+Lorentzen - Re-Constructing Theological Thought with Deleuze - JCRT 1.2
 
 # Re-Constructing Theological Thought with Deleuze
 

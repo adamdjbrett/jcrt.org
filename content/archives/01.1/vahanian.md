@@ -6,7 +6,8 @@ affilation:
 abstract:
 keywords: []
 pdf:
----  Vahanian - The Otherness of Time - JCRT 1.1
+---
+Vahanian - The Otherness of Time - JCRT 1.1
 
 # The Otherness of Time: Secularisation as Worlding of the Word and the Hallowing of Time
 
