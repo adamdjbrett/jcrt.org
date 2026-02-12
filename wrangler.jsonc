@@ -1,5 +1,5 @@
 {
-  "name": "jcrt.org",
+  "name": "jcrt-auth",
   "compatibility_date": "2025-11-24",
   "assets": {
     "directory": "./_site",
