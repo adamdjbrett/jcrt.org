@@ -2,11 +2,11 @@
 
 backend:
   name: github
-  repo: mesinkasir/jcrt.org
+  repo: adamdjbrett/jcrt.org
   branch: main
-  base_url: https://jcrt.hockeycorpmarketing.workers.dev
+  base_url: https://jcrt-auth.adam.workers.dev
   auth_endpoint: auth
-  local_backend: true
+#  local_backend: true
 
 media_folder: "public/img"
 public_folder: "/img"
@@ -100,8 +100,10 @@ collections:
     slug: "{{key}}"
     fields:
       - {label: "Title", name: "title", widget: "string", hint: "Full name of the author."}
+      - {label: "Name", name: "name", widget: "string", hint: "Author Name."}
       - {label: "Description", name: "description", widget: "string", hint: "Description of authors example University of Denver."}
       - {label: "Affiliation", name: "affiliation", widget: "string", hint: "Affiliation."}
+      - {label: "Biography", name: "bio", widget: "string", hint: "Bio."}
       - {label: "Orcid", name: "orcid", widget: "string", hint: "Orcid."}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Profile Image", name: "image", widget: "image"}
@@ -139,14 +141,14 @@ collections:
     format: "frontmatter"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "archives.njk"}
-      - {label: "Article Number", name: "article_number", widget: "string", hint: "Gunakan 01, 02, dst (Poin 7 Adam)"}
-      - {label: "Volume", name: "volume", widget: "string", hint: "Contoh: 24"}
-      - {label: "Issue", name: "issue", widget: "string", hint: "Contoh: 1"}
+      - {label: "Article Number", name: "article_number", widget: "string", hint: "Use 01, 02,"}
+      - {label: "Volume", name: "volume", widget: "string", hint: "Eg: 24"}
+      - {label: "Issue", name: "issue", widget: "string", hint: "Eg: 1"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Author Name", name: "author", widget: "string", hint: "Nama lengkap penulis"}
-      - {label: "Affiliation", name: "affiliation", widget: "string", required: false, hint: "Poin 8 Adam"}
+      - {label: "Author Name", name: "author", widget: "string", hint: "Authors"}
+      - {label: "Affiliation", name: "affiliation", widget: "string", required: false, hint: "Affiliation"}
       - {label: "Description", name: "description", widget: "text"}
-      - {label: "PDF File", name: "pdf", widget: "file", required: false, hint: "Poin 5 Adam"}
+      - {label: "PDF File", name: "pdf", widget: "file", required: false, hint: "PDF file"}
       - {label: "Body", name: "body", widget: "markdown", required: false}
   - name: "metadata"
     label: "Metadata"
