@@ -1,7 +1,21 @@
-# This is ENV Setup
-SVELTIA_GIT_PROVIDER: 
-SVELTIA_GIT_REPO: 
-SVELTIA_GIT_BRANCH: 
-SVELTIA_GIT_TOKEN: 
-SVELTIA_OAUTH_CLIENT_ID: 
-SVELTIA_OAUTH_CLIENT_SECRET: 
+# Sveltia CMS Quick Notes
+
+`public/admin/config.yml` must include:
+
+```yaml
+backend:
+  name: github
+  repo: adamdjbrett/jcrt.org
+  branch: main
+  base_url: https://jcrt-auth.adam.workers.dev
+  auth_endpoint: auth
+```
+
+Cloudflare auth worker secrets:
+
+- `GITHUB_CLIENT_ID`
+- `GITHUB_CLIENT_SECRET`
+
+GitHub OAuth App callback:
+
+- `https://jcrt-auth.adam.workers.dev/callback`

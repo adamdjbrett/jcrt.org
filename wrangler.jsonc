@@ -1,8 +1,7 @@
 {
-  "name": "jcrt-auth",
+  "name": "jcrt-site",
   "compatibility_date": "2025-11-24",
   "assets": {
-    "directory": "./_site",
-    "include": ["*.html", "*.css", "*.js", "*.jpg", "*.jpeg", "*.png", "*.gif", "*.svg"]
+    "directory": "./_site"
   }
 }

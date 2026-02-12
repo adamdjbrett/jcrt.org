@@ -501,7 +501,6 @@ export default async function (eleventyConfig) {
 				url: item?.url,
 				date: item?.date,
 				data: { ...(item?.data || {}), title: fallbackTitle },
-				templateContent: item?.templateContent,
 			};
 		};
 

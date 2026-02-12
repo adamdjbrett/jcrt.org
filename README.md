@@ -9,24 +9,36 @@ Develop by Adam Dj Brett
 
 ### Sveltia CMS Setup
 
-Create Oauth Apps https://github.com/settings/developers , New OAuth App.
+1. Create a GitHub OAuth App:
+   - Homepage URL: `https://jcrt.xmit.dev`
+   - Callback URL: `https://jcrt-auth.adamdjbrett.workers.dev/callback`
+2. Deploy the CMS auth worker:
+   - Worker code: `cms-auth-worker.js`
+   - Wrangler config: `wrangler.auth.jsonc`
+3. Set worker secrets:
+   - `GITHUB_CLIENT_ID`
+   - `GITHUB_CLIENT_SECRET`
+4. Keep `public/admin/config.yml` configured with:
+   - `backend.base_url: https://jcrt-auth.adamdjbrett.workers.dev`
+   - `backend.auth_endpoint: auth`
+5. Deploy the site worker separately using `wrangler.jsonc`.
 
-Next you ned to create personal access token - token clasic
-https://github.com/settings/tokens
+### Cloudflare Deploy Commands
 
-### ENV
+```bash
+# Build site
+npm ci
+npm run build
 
-Now you can insert Env configuration on your host.
+# Deploy static site worker
+npx wrangler deploy --config wrangler.jsonc
 
-### Server
+# Set auth worker secrets (one time / when rotated)
+npx wrangler secret put GITHUB_CLIENT_ID --config wrangler.auth.jsonc
+npx wrangler secret put GITHUB_CLIENT_SECRET --config wrangler.auth.jsonc
 
-Now you need to update your `wrangler.toml` on your server repo and add your `workers` 
-
-Example:
-```
-name = 'authsveltia'
-main = "src/index.js"
-compatibility_date = "2025-11-23"
+# Deploy auth worker
+npx wrangler deploy --config wrangler.auth.jsonc
 ```
 
 ## Version additions
@@ -132,5 +144,4 @@ The following issue has resulted from a conference in the fall of 2024.  The con
 - archives 16.3 16.2  done
 - TODO archives 16.1, original lists "Review of Judith Butler’s Senses of the Subject Matt Waggoner", no files in original or new site exist, would be last item on page sort id 10
 - archives 16.1 15.2  done 
-
 
