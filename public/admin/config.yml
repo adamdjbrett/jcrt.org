@@ -6,7 +6,7 @@ backend:
   branch: main
   base_url: https://jcrt-auth.adam.workers.dev
   auth_endpoint: auth
-#  local_backend: true
+  local_backend: true
 
 media_folder: "public/img"
 public_folder: "/img"
@@ -136,9 +136,17 @@ collections:
     label: "Archives"
     folder: "content/archives"
     create: true
-    path: "{{volume}}.{{issue}}/{{slug}}" 
     extension: "md"
     format: "frontmatter"
+    nested: { depth: 5 }
+    summary: "{{fields.volume}}.{{fields.issue}} | {{fields.title}}"
+    path: "{{fields.volume}}.{{fields.issue}}/{{slug}}"
+    view_groups:
+      - label: "Volume"
+        field: "volume"
+      - label: "Issue"
+        field: "issue"
+    sortable_fields: ["volume", "issue", "article_number"]
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "archives.njk"}
       - {label: "Article Number", name: "article_number", widget: "string", hint: "Use 01, 02,"}
