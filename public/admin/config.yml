@@ -185,8 +185,7 @@ collections:
           widget: "object"
           fields:
             - {label: "Title", name: "title", widget: "string"}
-            - {label: "Image", name: "image", widget: "image"}
-#            - {label: "Sub Title", name: "sub_title", widget: "string"}
+            - {label: "Sub Title", name: "sub_title", widget: "string"}
             - label: "Social Links"
               name: "social"
               widget: "list"

@@ -17,10 +17,8 @@ metasocial:
   - twitter: https://x.com/user
 
 navbar: 
- # title: JCRT
- # sub_title: "The Journal for Cultural and Religious Theory"
- title: Whitestone Foundation
- image: /img/logos/whitestonelogo.webp
+ title: JCRT
+ sub_title: "The Journal for Cultural and Religious Theory"
  social: 
    - title: Follow my Twitter
      icon: fab fa-twitter
