@@ -2,10 +2,11 @@
 
 backend:
   name: github
-  repo: adamdjbrett/jcrt.org
+  repo: mesinkasir/jcrt.org
   branch: main
-  base_url: https://jcrt-auth.adam.workers.dev
+  base_url: https://jcrt.hockeycorpmarketing.workers.dev
   auth_endpoint: auth
+  local_backend: true
 
 media_folder: "public/img"
 public_folder: "/img"
