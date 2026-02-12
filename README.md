@@ -11,7 +11,7 @@ Develop by Adam Dj Brett
 
 1. Create a GitHub OAuth App:
    - Homepage URL: `https://jcrt.xmit.dev`
-   - Callback URL: `https://jcrt-auth.adamdjbrett.workers.dev/callback`
+   - Callback URL: `https://jcrt-auth.adam.workers.dev/callback`
 2. Deploy the CMS auth worker:
    - Worker code: `cms-auth-worker.js`
    - Wrangler config: `wrangler.auth.jsonc`
@@ -19,7 +19,7 @@ Develop by Adam Dj Brett
    - `GITHUB_CLIENT_ID`
    - `GITHUB_CLIENT_SECRET`
 4. Keep `public/admin/config.yml` configured with:
-   - `backend.base_url: https://jcrt-auth.adamdjbrett.workers.dev`
+   - `backend.base_url: https://jcrt-auth.adam.workers.dev`
    - `backend.auth_endpoint: auth`
 5. Deploy the site worker separately using `wrangler.jsonc`.
 
@@ -144,4 +144,3 @@ The following issue has resulted from a conference in the fall of 2024.  The con
 - archives 16.3 16.2  done
 - TODO archives 16.1, original lists "Review of Judith Butler’s Senses of the Subject Matt Waggoner", no files in original or new site exist, would be last item on page sort id 10
 - archives 16.1 15.2  done 
-
