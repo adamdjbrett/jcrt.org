@@ -12,9 +12,9 @@ homepage_archive:
   max_items: 3
 
 metasocial:
-  - facebook: https://www.facebook.com/user
-  - twitteruser: "@user"
-  - twitter: https://x.com/user
+  facebook: https://www.facebook.com/user
+  twitteruser: "@user"
+  twitter: https://x.com/user
 
 navbar: 
  title: JCRT
