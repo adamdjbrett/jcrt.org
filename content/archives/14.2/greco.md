@@ -15,7 +15,7 @@ keywords:
   - disposition-philosophy
   - habit
 pdf: greco.pdf
-sort_id:
+sort_id: 15
 volume: 14
 issue: 2
 season: spring

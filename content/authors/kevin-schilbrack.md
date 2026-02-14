@@ -1,6 +1,6 @@
 ---
 name: Kevin Schilbrack
-affiliation:
+affiliation: "APPALACHIAN STATE UNIVERSITY"
 bio:
 social:
   - title: "website"

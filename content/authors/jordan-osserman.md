@@ -1,7 +1,7 @@
 ---
 name: Jordan Osserman
-affiliation:
-bio:
+affiliation: "University College London"
+bio: 
 social:
   - title: "website"
     url: ""

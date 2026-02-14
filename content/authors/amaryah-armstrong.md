@@ -1,6 +1,6 @@
 ---
 name: Amaryah Armstrong
-affiliation:
+affiliation: "Vanderbilt Graduate Department of Religion"
 bio:
 social:
   - title: "website"

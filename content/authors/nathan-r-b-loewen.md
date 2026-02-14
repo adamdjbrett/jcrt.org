@@ -1,6 +1,6 @@
 ---
 name: Nathan R. B. Loewen
-affiliation:
+affiliation: "UNIVERSITY OF ALABAMA"
 bio:
 social:
   - title: "website"

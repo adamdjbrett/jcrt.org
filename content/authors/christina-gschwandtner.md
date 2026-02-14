@@ -1,6 +1,6 @@
 ---
 name: Christina Gschwandtner
-affiliation:
+affiliation: "FORDHAM UNIVERSITY"
 bio:
 social:
   - title: "website"

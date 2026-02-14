@@ -1,6 +1,6 @@
 ---
 name: Timothy D. Knepper
-affiliation:
+affiliation: "DRAKE UNIVERSITY"
 bio:
 social:
   - title: "website"

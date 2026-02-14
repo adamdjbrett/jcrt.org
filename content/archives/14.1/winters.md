@@ -1,6 +1,6 @@
 ---
 title: "THEODOR ADORNO AND THE UNHOPELESS WORK OF THE NEGATIVE."
-author: "JOSEPH WINTERS"
+author: "JOSEPH springS"
 affilation:
 abstract: "The article offers the author's insights on the thoughts of philosopher Theodor Adorno on hope and the claims that his thought leads to negativism."
 keywords:
@@ -9,10 +9,10 @@ keywords:
   - adorno
   - negativism
   - theodor-w
-pdf: winters.pdf
+pdf: springs.pdf
 sort_id:
 volume: 14
 issue: 1
-season: winter
+season: spring
 pages: 171-200
 ---

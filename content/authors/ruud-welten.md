@@ -1,6 +1,6 @@
 ---
 name: Ruud Welten
-affiliation:
+affiliation: "Erasmus University and Tilburg University"
 bio:
 social:
   - title: "website"

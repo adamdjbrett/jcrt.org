@@ -10,9 +10,9 @@ keywords:
   - jan
   - patoc-ka
 pdf: schuback.pdf
-sort_id:
+sort_id: 06
 volume: 15
 issue: 1
-season: winter
+season: fall
 pages: 39-50
 ---

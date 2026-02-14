@@ -1,6 +1,6 @@
 ---
 name: John Greco
-affiliation:
+affiliation: "SAINT LOUIS UNIVERSITY"
 bio:
 social:
   - title: "website"

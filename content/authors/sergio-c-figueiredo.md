@@ -1,6 +1,6 @@
 ---
 name: Sergio C. Figueiredo
-affiliation:
+affiliation: "Kennesaw State University"
 bio:
 social:
   - title: "website"

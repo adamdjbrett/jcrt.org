@@ -1,6 +1,6 @@
 ---
 name: Christy Flanagan-Feddon
-affiliation:
+affiliation: "UNIVERSITY OF CENTRAL FLORIDA"
 bio:
 social:
   - title: "website"

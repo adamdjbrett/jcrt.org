@@ -1,6 +1,6 @@
 ---
 name: King-Ho Leung
-affiliation:
+affiliation: "University of Nottingham"
 bio:
 social:
   - title: "website"

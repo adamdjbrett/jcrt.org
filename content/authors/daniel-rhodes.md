@@ -1,6 +1,6 @@
 ---
 name: Daniel Rhodes
-affiliation:
+affiliation: "Loyola University of Chicago"
 bio:
 social:
   - title: "website"

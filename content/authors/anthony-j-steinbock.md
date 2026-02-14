@@ -1,6 +1,6 @@
 ---
 name: Anthony J. Steinbock
-affiliation:
+affiliation: "Southern Illinois University Carbondale"
 bio:
 social:
   - title: "website"

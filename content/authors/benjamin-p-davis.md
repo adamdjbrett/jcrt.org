@@ -1,6 +1,6 @@
 ---
 name: Benjamin P. Davis
-affiliation:
+affiliation: "Emory University"
 bio:
 social:
   - title: "website"

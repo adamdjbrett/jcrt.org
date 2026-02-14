@@ -1,6 +1,6 @@
 ---
 name: Ann M. Fox
-affiliation:
+affiliation: "Davidson College"
 bio:
 social:
   - title: "website"

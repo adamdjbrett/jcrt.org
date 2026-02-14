@@ -1,6 +1,6 @@
 ---
 name: S. Andrew Stowe
-affiliation:
+affiliation: "Anderson University"
 bio:
 social:
   - title: "website"

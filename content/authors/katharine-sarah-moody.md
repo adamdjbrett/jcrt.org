@@ -1,6 +1,6 @@
 ---
 name: Katharine Sarah Moody
-affiliation:
+affiliation: "Independent Scholar"
 bio:
 social:
   - title: "website"

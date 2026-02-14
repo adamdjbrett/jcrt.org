@@ -1,6 +1,6 @@
 ---
 name: Joshua Lawrence
-affiliation:
+affiliation: "Friedens United Church of Christ"
 bio:
 social:
   - title: "website"

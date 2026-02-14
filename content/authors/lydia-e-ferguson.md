@@ -1,6 +1,6 @@
 ---
 name: Lydia E. Ferguson
-affiliation:
+affiliation: "Auburn University"
 bio:
 social:
   - title: "website"

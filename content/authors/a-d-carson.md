@@ -1,6 +1,6 @@
 ---
 name: A. D. Carson
-affiliation:
+affiliation: "Clemson University"
 bio:
 social:
   - title: "website"

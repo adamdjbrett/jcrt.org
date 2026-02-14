@@ -1,6 +1,6 @@
 ---
 name: Ryne Beddard
-affiliation:
+affiliation: "University of North Carolina Chapel Hill, University of Denver"
 bio:
 social:
   - title: "website"

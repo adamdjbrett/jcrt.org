@@ -1,6 +1,6 @@
 ---
 name: Padraic Fitzgerald
-affiliation:
+affiliation: "University of Denver"
 bio:
 social:
   - title: "website"

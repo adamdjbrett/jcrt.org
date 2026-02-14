@@ -1,6 +1,6 @@
 ---
 name: Barbara Muraca
-affiliation:
+affiliation: "Oregon State University"
 bio:
 social:
   - title: "website"

@@ -8,7 +8,7 @@ keywords:
   - philosophy-religion
   - mashups-musical-form
 pdf: simmons-intro.pdf
-sort_id:
+sort_id: 02
 volume: 14
 issue: 2
 season: spring

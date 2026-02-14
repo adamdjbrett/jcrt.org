@@ -15,7 +15,7 @@ keywords:
   - critical-thinking
   - scholarly-periodicals
 pdf: loewen.pdf
-sort_id:
+sort_id: 06
 volume: 14
 issue: 2
 season: spring

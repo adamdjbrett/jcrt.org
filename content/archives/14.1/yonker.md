@@ -12,6 +12,6 @@ pdf: yonker.pdf
 sort_id:
 volume: 14
 issue: 1
-season: winter
+season: spring
 pages: 165-170
 ---

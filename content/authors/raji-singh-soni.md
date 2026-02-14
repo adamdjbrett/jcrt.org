@@ -1,6 +1,6 @@
 ---
 name: Raji Singh Soni
-affiliation:
+affiliation: "University of Toronto"
 bio:
 social:
   - title: "website"

@@ -1,6 +1,6 @@
 ---
 name: Ludger Hagedorn
-affiliation:
+affiliation: "IWM, Institute for Human Sciences, Vienna"
 bio:
 social:
   - title: "website"

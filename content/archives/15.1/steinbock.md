@@ -10,9 +10,9 @@ keywords:
   - martin
   - spiritual-gifts
 pdf: steinbock.pdf
-sort_id:
+sort_id: 08
 volume: 15
 issue: 1
-season: winter
+season: fall
 pages: 72-89
 ---

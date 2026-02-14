@@ -1,6 +1,6 @@
 ---
 name: Beatrice Marovich
-affiliation:
+affiliation: "Hanover College"
 bio:
 social:
   - title: "website"

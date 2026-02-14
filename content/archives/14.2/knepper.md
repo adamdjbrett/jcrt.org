@@ -10,7 +10,7 @@ keywords:
   - mashups-musical-form
   - critical-thinking
 pdf: knepper.pdf
-sort_id:
+sort_id: 07
 volume: 14
 issue: 2
 season: spring

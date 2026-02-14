@@ -1,6 +1,6 @@
 ---
 name: Joseph Cohen
-affiliation:
+affiliation: "University of Dublin"
 bio:
 social:
   - title: "website"

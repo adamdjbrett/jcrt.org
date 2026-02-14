@@ -1,6 +1,6 @@
 ---
 name: Mason Davis
-affiliation:
+affiliation: "Academic Impressions"
 bio:
 social:
   - title: "website"

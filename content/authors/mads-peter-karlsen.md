@@ -1,6 +1,6 @@
 ---
 name: Mads Peter Karlsen
-affiliation:
+affiliation: "Copenhagen Business School"
 bio:
 social:
   - title: "website"

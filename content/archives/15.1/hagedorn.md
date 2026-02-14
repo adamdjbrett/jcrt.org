@@ -10,9 +10,9 @@ keywords:
   - rene
   - violence-the-sacred-book
 pdf: hagedorn.pdf
-sort_id:
+sort_id: 09
 volume: 15
 issue: 1
-season: winter
+season: fall
 pages: 105-118
 ---

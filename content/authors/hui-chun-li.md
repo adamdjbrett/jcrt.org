@@ -1,6 +1,6 @@
 ---
 name: Hui-Chun Li
-affiliation:
+affiliation: "National Sun-Yat Sen University (Taiwan)"
 bio:
 social:
   - title: "website"

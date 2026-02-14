@@ -14,7 +14,7 @@ keywords:
   - c-s
   - lewis
 pdf: holdier.pdf
-sort_id:
+sort_id: 10
 volume: 14
 issue: 2
 season: spring

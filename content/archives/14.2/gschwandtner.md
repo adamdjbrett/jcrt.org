@@ -11,7 +11,7 @@ keywords:
   - philosophical-analysis
   - saints
 pdf: gschwandtner.pdf
-sort_id:
+sort_id: 9
 volume: 14
 issue: 2
 season: spring

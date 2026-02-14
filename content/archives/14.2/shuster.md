@@ -18,7 +18,7 @@ keywords:
   - skepticism
   - stanley
 pdf: shuster.pdf
-sort_id:
+sort_id: 05
 volume: 14
 issue: 2
 season: spring

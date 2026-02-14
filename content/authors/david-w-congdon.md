@@ -1,6 +1,6 @@
 ---
 name: David W. Congdon
-affiliation:
+affiliation: "University Press of Kansas"
 bio:
 social:
   - title: "website"

@@ -1,6 +1,6 @@
 ---
 name: Joseph M. M. Aldinger
-affiliation:
+affiliation: "Lynchburg College"
 bio:
 social:
   - title: "website"

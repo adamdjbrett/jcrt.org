@@ -5,9 +5,9 @@ affilation:
 abstract:
 keywords: []
 pdf: intro.pdf
-sort_id:
+sort_id: 01
 volume: 15
 issue: 1
-season: winter
+season: fall
 pages:
 ---

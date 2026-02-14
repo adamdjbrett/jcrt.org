@@ -1,6 +1,6 @@
 ---
 name: Marika Rose
-affiliation:
+affiliation: "Winchester University"
 bio:
 social:
   - title: "website"

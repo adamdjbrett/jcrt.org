@@ -12,7 +12,7 @@ keywords:
   - paul-k
   - scott-f
 pdf: schilbrack.pdf
-sort_id:
+sort_id: 18
 volume: 14
 issue: 2
 season: spring

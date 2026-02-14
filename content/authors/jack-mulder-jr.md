@@ -1,6 +1,6 @@
 ---
 name: Jack Mulder Jr.
-affiliation:
+affiliation: "HOPE COLLEGE"
 bio:
 social:
   - title: "website"

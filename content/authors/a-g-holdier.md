@@ -1,6 +1,6 @@
 ---
 name: A. G. Holdier
-affiliation: "University of Arkansas"
+affiliation: "University of Arkansas, COLORADO TECHNICAL UNIVERSITY"
 bio:
 social:
   - title: "website"

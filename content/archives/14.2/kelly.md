@@ -14,7 +14,7 @@ keywords:
   - imitative-behavior
   - vices
 pdf: kelly.pdf
-sort_id:
+sort_id: 14
 volume: 14
 issue: 2
 season: spring

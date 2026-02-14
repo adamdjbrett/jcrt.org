@@ -14,7 +14,7 @@ keywords:
   - robert-glenn
   - virtual-communications
 pdf: weidler.pdf
-sort_id:
+sort_id: 12
 volume: 14
 issue: 2
 season: spring
