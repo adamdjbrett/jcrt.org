@@ -8,9 +8,9 @@ keywords:
   - light-darkness-in-the-bible
   - paradox
 pdf: alvis.pdf
-sort_id:
+sort_id: 07
 volume: 15
 issue: 1
-season: winter
+season: fall
 pages: 51-71
 ---

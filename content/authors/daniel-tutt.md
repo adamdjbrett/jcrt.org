@@ -1,6 +1,6 @@
 ---
 name: Daniel Tutt
-affiliation:
+affiliation: "George Washington University"
 bio:
 social:
   - title: "website"

@@ -1,6 +1,6 @@
 ---
 name: Darshan Datar
-affiliation:
+affiliation: "European University Institute"
 bio:
 social:
   - title: "website"

@@ -15,7 +15,7 @@ keywords:
   - on-religion-speeches-to-its-cultured-despisers-book
   - schleiermacher
 pdf: feddon.pdf
-sort_id:
+sort_id: 11
 volume: 14
 issue: 2
 season: spring

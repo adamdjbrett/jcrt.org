@@ -1,6 +1,6 @@
 ---
 name: Martin Kavka
-affiliation:
+affiliation: "FLORIDA STATE UNIVERSITY"
 bio:
 social:
   - title: "website"

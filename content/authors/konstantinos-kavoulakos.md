@@ -1,6 +1,6 @@
 ---
 name: Konstantinos Kavoulakos
-affiliation:
+affiliation: "University of Crete"
 bio:
 social:
   - title: "website"

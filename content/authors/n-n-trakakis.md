@@ -1,6 +1,6 @@
 ---
 name: N. N. Trakakis
-affiliation:
+affiliation: "AUSTRALIAN CATHOLIC UNIVERSITY"
 bio:
 social:
   - title: "website"

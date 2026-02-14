@@ -1,6 +1,6 @@
 ---
 name: J. L. Schellenberg
-affiliation:
+affiliation: "MOUNT SAINT VINCENT UNIVERSITY"
 bio:
 social:
   - title: "website"

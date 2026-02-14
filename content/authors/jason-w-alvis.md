@@ -1,6 +1,6 @@
 ---
 name: Jason W. Alvis
-affiliation:
+affiliation: "Stanford University, University of Vienna"
 bio:
 social:
   - title: "website"

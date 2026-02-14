@@ -1,6 +1,6 @@
 ---
 name: Colbey Emmerson-Reid
-affiliation:
+affiliation: "North Carolina State University"
 bio:
 social:
   - title: "website"

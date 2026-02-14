@@ -1,6 +1,6 @@
 ---
 name: Michael Staudigl
-affiliation:
+affiliation: "University of Vienna"
 bio:
 social:
   - title: "website"

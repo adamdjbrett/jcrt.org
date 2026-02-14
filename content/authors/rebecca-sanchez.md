@@ -1,6 +1,6 @@
 ---
 name: Rebecca Sanchez
-affiliation:
+affiliation: "Fordham University"
 bio:
 social:
   - title: "website"

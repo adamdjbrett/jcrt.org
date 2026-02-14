@@ -1,6 +1,6 @@
 ---
 name: April O'brien
-affiliation:
+affiliation: "Clemson University"
 bio:
 social:
   - title: "website"

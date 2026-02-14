@@ -10,7 +10,7 @@ keywords:
   - personality
   - virtue-epistemology
 pdf: moser.pdf
-sort_id:
+sort_id: 17
 volume: 14
 issue: 2
 season: spring

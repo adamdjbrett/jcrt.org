@@ -1,6 +1,6 @@
 ---
 name: J Aaron Simmons
-affiliation:
+affiliation: "FURMAN UNIVERSITY"
 bio:
 social:
   - title: "website"

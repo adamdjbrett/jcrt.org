@@ -10,9 +10,9 @@ keywords:
   - philosophy-religion
   - spiritual-gifts
 pdf: staudigl.pdf
-sort_id:
+sort_id: 02
 volume: 15
 issue: 1
-season: winter
+season: fall
 pages: 90-104
 ---

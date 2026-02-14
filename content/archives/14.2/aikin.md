@@ -11,7 +11,7 @@ keywords:
   - paul
   - moser
 pdf: aikin.pdf
-sort_id:
+sort_id: 16
 volume: 14
 issue: 2
 season: spring

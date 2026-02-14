@@ -1,6 +1,6 @@
 ---
 name: Joseph Valente
-affiliation:
+affiliation: "SUNY University at Buffalo"
 bio:
 social:
   - title: "website"

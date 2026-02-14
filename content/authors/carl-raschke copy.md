@@ -1,7 +1,7 @@
 ---
-name: Maria Almanza
-affiliation: "Randolph College"
-bio:
+name: Carl Raschke
+affiliation: "content/authors/carl-a-raschke.md"
+bio: 
 social:
   - title: "website"
     url: ""

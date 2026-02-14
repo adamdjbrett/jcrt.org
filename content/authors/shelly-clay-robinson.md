@@ -1,6 +1,6 @@
 ---
 name: Shelly Clay-Robinson
-affiliation:
+affiliation: "York College of Pennsylvania"
 bio:
 social:
   - title: "website"

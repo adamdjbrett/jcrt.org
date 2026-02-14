@@ -10,9 +10,9 @@ keywords:
   - sartre
   - spiritual-gifts
 pdf: welten.pdf
-sort_id:
+sort_id: 03
 volume: 15
 issue: 1
-season: winter
+season: fall
 pages: 3-15
 ---

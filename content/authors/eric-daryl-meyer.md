@@ -1,6 +1,6 @@
 ---
 name: Eric Daryl Meyer
-affiliation:
+affiliation: "Loyola Marymount University"
 bio:
 social:
   - title: "website"

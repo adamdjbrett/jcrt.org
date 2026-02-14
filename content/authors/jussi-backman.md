@@ -1,6 +1,6 @@
 ---
 name: Jussi Backman
-affiliation:
+affiliation: "University of Jyväskylä"
 bio:
 social:
   - title: "website"

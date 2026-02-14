@@ -1,6 +1,6 @@
 ---
 name: Marcia Sá Cavalcante Schuback
-affiliation:
+affiliation: "Södertörn University"
 bio:
 social:
   - title: "website"

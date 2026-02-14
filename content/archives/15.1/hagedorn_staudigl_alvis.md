@@ -12,6 +12,6 @@ pdf:
 sort_id:
 volume: 15
 issue: 1
-season: winter
+season: fall
 pages: 1-2
 ---

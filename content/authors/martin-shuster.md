@@ -1,6 +1,6 @@
 ---
 name: Martin Shuster
-affiliation:
+affiliation: "AVILA UNIVERSITY"
 bio:
 social:
   - title: "website"

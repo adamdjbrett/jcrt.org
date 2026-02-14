@@ -11,7 +11,7 @@ keywords:
   - humility
   - pessimism
 pdf: schellenberg.pdf
-sort_id:
+sort_id: 03
 volume: 14
 issue: 2
 season: spring

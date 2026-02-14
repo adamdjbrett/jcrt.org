@@ -1,6 +1,6 @@
 ---
 name: Madeline Yonker
-affiliation:
+affiliation: "York College"
 bio:
 social:
   - title: "website"

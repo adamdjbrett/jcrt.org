@@ -11,7 +11,7 @@ keywords:
   - religious-humanism
   - theory-of-knowledge-religion
 pdf: kavka.pdf
-sort_id:
+sort_id: 04
 volume: 14
 issue: 2
 season: spring

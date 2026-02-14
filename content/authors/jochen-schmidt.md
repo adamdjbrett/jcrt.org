@@ -1,6 +1,6 @@
 ---
 name: Jochen Schmidt
-affiliation:
+affiliation: "University of Paderborn"
 bio:
 social:
   - title: "website"

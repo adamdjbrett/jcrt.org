@@ -1,6 +1,6 @@
 ---
 name: Taylor Weaver
-affiliation:
+affiliation: "University of Kent"
 bio:
 social:
   - title: "website"

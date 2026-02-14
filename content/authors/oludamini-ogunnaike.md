@@ -1,6 +1,6 @@
 ---
 name: Oludamini Ogunnaike
-affiliation:
+affiliation: "Stanford University"
 bio:
 social:
   - title: "website"

@@ -1,6 +1,6 @@
 ---
 name: Scott F. Aikin
-affiliation:
+affiliation: "VANDERBILT UNIVERSITY"
 bio:
 social:
   - title: "website"

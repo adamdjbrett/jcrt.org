@@ -1,6 +1,6 @@
 ---
 name: Michael R. Kelly
-affiliation:
+affiliation: "UNIVERSITY OF SAN DIEGO"
 bio:
 social:
   - title: "website"

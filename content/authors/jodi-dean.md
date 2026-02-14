@@ -1,6 +1,6 @@
 ---
 name: Jodi Dean
-affiliation:
+affiliation: "Hobart and William Smith Colleges"
 bio:
 social:
   - title: "website"

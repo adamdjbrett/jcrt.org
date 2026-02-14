@@ -1,6 +1,6 @@
 ---
 name: Markus Weidler
-affiliation:
+affiliation: "COLUMBUS STATE UNIVERSITY"
 bio:
 social:
   - title: "website"
