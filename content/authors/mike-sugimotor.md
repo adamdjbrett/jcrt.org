@@ -1,7 +1,7 @@
 ---
-name: "Mike Sugimoto
+name: "Mike Sugimoto"
 affiliation: "University of Puget Sound"
-bio:
+bio: ""
 social:
   - title: "website"
     url: ""
