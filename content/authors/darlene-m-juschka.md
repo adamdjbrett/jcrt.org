@@ -1,6 +1,6 @@
 ---
 name: Darlene M Juschka
-affiliation:
+affiliation: "University of Regina"
 bio:
 social:
   - title: "website"

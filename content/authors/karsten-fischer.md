@@ -1,6 +1,6 @@
 ---
 name: Karsten Fischer
-affiliation:
+affiliation: "Humboldt-University, Berlin "
 bio:
 social:
   - title: "website"

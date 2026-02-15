@@ -5,9 +5,9 @@ affilation:
 abstract:
 keywords: []
 pdf: smith.pdf
-sort_id:
+sort_id: 17
 volume: 6
 issue: 3
-season: summer
+season: fall
 pages:
 ---

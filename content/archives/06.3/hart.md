@@ -10,9 +10,9 @@ keywords:
   - doctrinal-methodology
   - encyclopedias-and-dictionaries
 pdf: hart.pdf
-sort_id:
+sort_id: 09
 volume: 6
 issue: 3
-season: summer
+season: fall
 pages:
 ---

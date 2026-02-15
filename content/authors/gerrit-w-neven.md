@@ -1,6 +1,6 @@
 ---
 name: Gerrit W Neven
-affiliation:
+affiliation: "Theological University Kampen"
 bio:
 social:
   - title: "website"

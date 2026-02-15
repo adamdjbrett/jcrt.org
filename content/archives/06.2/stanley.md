@@ -19,7 +19,7 @@ keywords:
   - mediation
   - pierre
 pdf: stanley.pdf
-sort_id:
+sort_id: 03
 volume: 6
 issue: 2
 season: spring

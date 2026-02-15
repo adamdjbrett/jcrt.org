@@ -20,9 +20,9 @@ keywords:
   - kuitert
   - theology-terminology
 pdf: neven.pdf
-sort_id:
+sort_id: 08
 volume: 6
 issue: 3
-season: summer
+season: fall
 pages:
 ---

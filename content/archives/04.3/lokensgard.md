@@ -5,7 +5,7 @@ affilation:
 abstract:
 keywords: []
 pdf: lokensgard.pdf
-sort_id:
+sort_id: 10
 volume: 4
 issue: 3
 season: summer

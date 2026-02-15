@@ -1,6 +1,6 @@
 ---
 name: Viola Kolarov
-affiliation:
+affiliation: "University of California, Santa Barbara "
 bio:
 social:
   - title: "website"

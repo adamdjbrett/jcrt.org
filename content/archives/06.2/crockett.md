@@ -21,7 +21,7 @@ keywords:
   - events-philosophy
   - congresses-and-conventions
 pdf: crockett.pdf
-sort_id:
+sort_id: 07
 volume: 6
 issue: 2
 season: spring

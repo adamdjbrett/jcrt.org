@@ -20,7 +20,7 @@ keywords:
   - piero
   - renaissance
 pdf: lupton.pdf
-sort_id:
+sort_id: 04
 volume: 7
 issue: 2
 season: spring

@@ -1,6 +1,6 @@
 ---
 name: B C Knowlton
-affiliation:
+affiliation: "Assumption College "
 bio:
 social:
   - title: "website"

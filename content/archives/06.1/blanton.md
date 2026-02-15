@@ -22,7 +22,7 @@ keywords:
   - overbeck
   - theological-anthropology-christianity-history-of-doctrines
 pdf: blanton.pdf
-sort_id:
+sort_id: 03
 volume: 6
 issue: 1
 season: winter

@@ -13,7 +13,7 @@ keywords:
   - communication-theory
   - 1935-2003-bibliography
 pdf: meeks.pdf
-sort_id:
+sort_id: 07
 volume: 5
 issue: 1
 season: winter

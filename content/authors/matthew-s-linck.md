@@ -1,6 +1,6 @@
 ---
 name: Matthew S Linck
-affiliation:
+affiliation: "Purchase College "
 bio:
 social:
   - title: "website"

@@ -5,7 +5,7 @@ affilation:
 abstract:
 keywords: []
 pdf: rennie.pdf
-sort_id:
+sort_id: 12
 volume: 4
 issue: 3
 season: summer

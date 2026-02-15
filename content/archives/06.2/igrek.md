@@ -5,7 +5,7 @@ affilation:
 abstract:
 keywords: []
 pdf: igrek.pdf
-sort_id:
+sort_id: 06
 volume: 6
 issue: 2
 season: spring

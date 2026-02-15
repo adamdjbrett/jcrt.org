@@ -1,6 +1,6 @@
 ---
 name: Eric Bain-Selbo
-affiliation: "Western Kentucky University"
+affiliation: "Western Kentucky University, Lebanon Valley College"
 bio:
 social:
   - title: "website"

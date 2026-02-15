@@ -23,7 +23,7 @@ keywords:
   - mauss
   - aphorisms
 pdf: raschke.pdf
-sort_id:
+sort_id: 01
 volume: 5
 issue: 1
 season: winter

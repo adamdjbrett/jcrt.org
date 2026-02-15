@@ -1,6 +1,6 @@
 ---
 name: Nina P Azari
-affiliation:
+affiliation: "Heyendaal Institute University of Nijmegen The Netherlands"
 bio:
 social:
   - title: "website"

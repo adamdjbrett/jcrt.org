@@ -5,7 +5,7 @@ affilation:
 abstract:
 keywords: []
 pdf: bain-selbo.pdf
-sort_id:
+sort_id: 08
 volume: 5
 issue: 1
 season: winter

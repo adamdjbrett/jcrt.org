@@ -13,7 +13,7 @@ keywords:
   - people-with-disabilities-and-the-arts
   - scott
 pdf: siebers.pdf
-sort_id:
+sort_id: 06
 volume: 7
 issue: 2
 season: spring

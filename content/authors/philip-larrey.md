@@ -1,6 +1,6 @@
 ---
 name: Philip Larrey
-affiliation:
+affiliation: "Pontifical Lateran University "
 bio:
 social:
   - title: "website"

@@ -1,6 +1,6 @@
 ---
 name: Lars Iyer
-affiliation:
+affiliation: "University of Newcastle upon Tyne"
 bio:
 social:
   - title: "website"

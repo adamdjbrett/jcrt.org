@@ -5,7 +5,7 @@ affilation:
 abstract:
 keywords: []
 pdf: bell.pdf
-sort_id:
+sort_id: 06
 volume: 7
 issue: 1
 season: winter

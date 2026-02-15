@@ -1,6 +1,6 @@
 ---
 name: Aaron Urbanczyk
-affiliation:
+affiliation: "Ave Maria University"
 bio:
 social:
   - title: "website"

@@ -1,6 +1,6 @@
 ---
-name: Peter Heltzel
-affiliation:
+name: Steven A. Benko
+affiliation: "Meredith College "
 bio:
 social:
   - title: "website"

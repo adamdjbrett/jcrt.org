@@ -25,7 +25,7 @@ keywords:
   - jewish-1939-1945-in-literature
   - kofman
 pdf: iyer.pdf
-sort_id:
+sort_id: 04
 volume: 5
 issue: 1
 season: winter

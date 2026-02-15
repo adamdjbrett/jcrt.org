@@ -29,7 +29,7 @@ keywords:
   - bataille
   - marx
 pdf: jones.pdf
-sort_id:
+sort_id: 07
 volume: 6
 issue: 1
 season: winter

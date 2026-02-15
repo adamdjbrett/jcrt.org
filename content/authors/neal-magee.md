@@ -1,6 +1,6 @@
 ---
 name: Neal Magee
-affiliation:
+affiliation: "Le Moyne College "
 bio:
 social:
   - title: "website"

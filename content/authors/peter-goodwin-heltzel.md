@@ -1,6 +1,6 @@
 ---
-name: Stephen Benko
-affiliation:
+name: Peter Goodwin Heltzel
+affiliation: "New York Theological Seminary"
 bio:
 social:
   - title: "website"

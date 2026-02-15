@@ -6,7 +6,7 @@ abstract:
 keywords:
   - death
   - postmodernism
-  - fall-of-man
+  - winter-of-man
   - religious-aspects
   - pascal
   - secret-philosophy
@@ -17,7 +17,7 @@ keywords:
   - god-hiddenness
   - las-vegas-nev
 pdf: johnson.pdf
-sort_id:
+sort_id: 06
 volume: 6
 issue: 1
 season: winter

@@ -1,6 +1,6 @@
 ---
 name: Derek Michaud
-affiliation:
+affiliation: "Boston University"
 bio:
 social:
   - title: "website"

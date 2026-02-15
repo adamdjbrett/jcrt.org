@@ -1,6 +1,6 @@
 ---
 name: Apple Zefelius Igrek
-affiliation:
+affiliation: "Seattle University ,Vanderbilt University"
 bio:
 social:
   - title: "website"

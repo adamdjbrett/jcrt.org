@@ -16,7 +16,7 @@ keywords:
   - sigmund
   - theory
 pdf: taylor.pdf
-sort_id:
+sort_id: 03
 volume: 5
 issue: 2
 season: spring

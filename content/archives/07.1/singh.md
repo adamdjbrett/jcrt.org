@@ -25,7 +25,7 @@ keywords:
   - partha
   - wittgenstein
 pdf: singh.pdf
-sort_id:
+sort_id: 05
 volume: 7
 issue: 1
 season: winter

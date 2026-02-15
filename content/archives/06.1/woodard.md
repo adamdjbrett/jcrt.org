@@ -5,7 +5,7 @@ affilation:
 abstract:
 keywords: []
 pdf: woodard.pdf
-sort_id:
+sort_id: 13
 volume: 6
 issue: 1
 season: winter

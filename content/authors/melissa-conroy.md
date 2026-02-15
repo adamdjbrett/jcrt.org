@@ -1,6 +1,6 @@
 ---
 name: Melissa Conroy
-affiliation: "Muskingum University"
+affiliation: "Muskingum University, Syracuse University"
 bio:
 social:
   - title: "website"

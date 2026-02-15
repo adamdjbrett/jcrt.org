@@ -1,6 +1,6 @@
 ---
 name: Oz Lorentzen
-affiliation:
+affiliation: "Prairie College "
 bio:
 social:
   - title: "website"

@@ -1,6 +1,6 @@
 ---
 name: Luke Fodor
-affiliation:
+affiliation: "New York University"
 bio:
 social:
   - title: "website"

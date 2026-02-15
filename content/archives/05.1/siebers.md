@@ -23,7 +23,7 @@ keywords:
   - ritual-study-and-teaching
   - tiananmen-square-incident-china-1989
 pdf: siebers.pdf
-sort_id:
+sort_id: 02
 volume: 5
 issue: 1
 season: winter

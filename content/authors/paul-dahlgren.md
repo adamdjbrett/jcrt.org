@@ -1,6 +1,6 @@
 ---
 name: Paul Dahlgren
-affiliation:
+affiliation: "University of California, Irvine"
 bio:
 social:
   - title: "website"

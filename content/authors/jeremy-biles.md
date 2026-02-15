@@ -1,6 +1,6 @@
 ---
 name: Jeremy Biles
-affiliation:
+affiliation: "Chicago, Illinois"
 bio:
 social:
   - title: "website"

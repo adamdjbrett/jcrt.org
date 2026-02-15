@@ -1,6 +1,6 @@
 ---
 name: Darrell J Fasching
-affiliation:
+affiliation: "University of South Florida, Tampa"
 bio:
 social:
   - title: "website"

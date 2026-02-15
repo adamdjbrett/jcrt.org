@@ -1,6 +1,6 @@
 ---
 name: Eric Weislogel
-affiliation:
+affiliation: "Metanexus Institute"
 bio:
 social:
   - title: "website"

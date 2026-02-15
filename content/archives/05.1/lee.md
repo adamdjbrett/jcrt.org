@@ -20,7 +20,7 @@ keywords:
   - hal
   - warhol
 pdf: lee.pdf
-sort_id:
+sort_id: 06
 volume: 5
 issue: 1
 season: winter

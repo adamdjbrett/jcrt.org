@@ -1,6 +1,6 @@
 ---
 name: Ian McPherson
-affiliation:
+affiliation: "University of Dundee"
 bio:
 social:
   - title: "website"

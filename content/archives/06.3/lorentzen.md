@@ -5,9 +5,9 @@ affilation:
 abstract:
 keywords: []
 pdf: lorentzen.pdf
-sort_id:
+sort_id: 06
 volume: 6
 issue: 3
-season: summer
+season: fall
 pages:
 ---

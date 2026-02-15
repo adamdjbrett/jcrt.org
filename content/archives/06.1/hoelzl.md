@@ -20,7 +20,7 @@ keywords:
   - hauke
   - honneth
 pdf: hoelzl.pdf
-sort_id:
+sort_id: 05
 volume: 6
 issue: 1
 season: winter

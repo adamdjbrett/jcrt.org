@@ -18,7 +18,7 @@ keywords:
   - gregg
   - lambert
 pdf: caputo.pdf
-sort_id:
+sort_id: 06
 volume: 5
 issue: 2
 season: spring

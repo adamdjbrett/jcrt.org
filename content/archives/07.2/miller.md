@@ -19,7 +19,7 @@ keywords:
   - 1564-1616-characters
   - aristotle-ethics
 pdf: miller.pdf
-sort_id:
+sort_id: 05
 volume: 7
 issue: 2
 season: spring

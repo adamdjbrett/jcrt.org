@@ -1,6 +1,6 @@
 ---
 name: John L Meeks
-affiliation:
+affiliation: "Lutheran School of Theology at Chicago"
 bio:
 social:
   - title: "website"

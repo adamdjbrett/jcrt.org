@@ -1,6 +1,6 @@
 ---
 name: Bradley A Johnson
-affiliation:
+affiliation: "University of Glasgow"
 bio:
 social:
   - title: "website"

@@ -1,6 +1,6 @@
 ---
 name: David Hale
-affiliation:
+affiliation: "Yampa College"
 bio:
 social:
   - title: "website"

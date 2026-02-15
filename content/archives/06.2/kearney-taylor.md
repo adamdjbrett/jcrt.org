@@ -14,7 +14,7 @@ keywords:
   - derrida
   - philosophy-methodology
 pdf: kearney-taylor.pdf
-sort_id:
+sort_id: 05
 volume: 6
 issue: 2
 season: spring

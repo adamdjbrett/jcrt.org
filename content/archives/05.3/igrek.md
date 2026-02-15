@@ -5,7 +5,7 @@ affilation:
 abstract:
 keywords: []
 pdf: igrek.pdf
-sort_id:
+sort_id: 08
 volume: 5
 issue: 3
 season: summer

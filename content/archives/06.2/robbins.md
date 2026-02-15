@@ -16,7 +16,7 @@ keywords:
   - the-apostle
   - saint-theology
 pdf: robbins.pdf
-sort_id:
+sort_id: 08
 volume: 6
 issue: 2
 season: spring

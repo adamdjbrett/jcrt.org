@@ -5,7 +5,7 @@ affilation:
 abstract:
 keywords: []
 pdf: smith.pdf
-sort_id:
+sort_id: 12
 volume: 5
 issue: 3
 season: summer

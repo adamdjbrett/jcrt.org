@@ -10,7 +10,7 @@ keywords:
   - 1900
   - theology-methodology
 pdf: robbins.pdf
-sort_id:
+sort_id: 01
 volume: 5
 issue: 2
 season: spring

@@ -1,6 +1,6 @@
 ---
 name: Kenneth H Lokensgard
-affiliation:
+affiliation: "Gettysburg College "
 bio:
 social:
   - title: "website"

@@ -1,6 +1,6 @@
 ---
 name: Andrew Saldino
-affiliation:
+affiliation: "Clemson U niversity "
 bio:
 social:
   - title: "website"

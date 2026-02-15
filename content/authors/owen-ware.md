@@ -1,6 +1,6 @@
 ---
 name: Owen Ware
-affiliation:
+affiliation: "University of Victoria"
 bio:
 social:
   - title: "website"

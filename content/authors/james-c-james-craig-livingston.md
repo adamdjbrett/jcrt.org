@@ -1,7 +1,7 @@
 ---
 name: James C. (James Craig) Livingston
-affiliation:
-bio:
+affiliation: "College of William & Mary"
+bio: 
 social:
   - title: "website"
     url: ""

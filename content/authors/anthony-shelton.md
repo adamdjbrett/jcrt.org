@@ -1,6 +1,6 @@
 ---
 name: Anthony Shelton
-affiliation:
+affiliation: "Princeton Theological Seminary, John Carroll School "
 bio:
 social:
   - title: "website"
