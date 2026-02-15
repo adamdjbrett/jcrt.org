@@ -1,6 +1,6 @@
 ---
 name: Liyakatali Takim
-affiliation:
+affiliation: University of Denver"
 bio:
 social:
   - title: "website"

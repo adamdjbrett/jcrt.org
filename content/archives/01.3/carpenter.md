@@ -6,6 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 09
 ---
 Bennett-Carpenter - The Divine Simulacrum of Andy Warhol - JCRT 1.3 
 

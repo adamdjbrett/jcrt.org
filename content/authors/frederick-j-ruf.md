@@ -1,6 +1,6 @@
 ---
 name: Frederick J Ruf
-affiliation:
+affiliation: "Georgetown University"
 bio:
 social:
   - title: "website"

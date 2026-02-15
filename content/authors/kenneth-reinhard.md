@@ -1,6 +1,6 @@
 ---
 name: Kenneth Reinhard
-affiliation:
+affiliation: "University of California at Los Angeles, UCLA"
 bio:
 social:
   - title: "website"

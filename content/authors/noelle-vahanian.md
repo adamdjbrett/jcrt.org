@@ -1,6 +1,6 @@
 ---
 name: Noëlle Vahanian
-affiliation: "Lebanon Valley College "
+affiliation: "Lebanon Valley College, LeMoyne College "
 bio:
 social:
   - title: "website"

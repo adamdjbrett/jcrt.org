@@ -1,6 +1,6 @@
 ---
-name: Jonathan Scott Lee
-affiliation:
+name: Jonathan Lee
+affiliation: "Colorado College"
 bio:
 social:
   - title: "website"

@@ -1,6 +1,6 @@
 ---
 name: Mark C Taylor
-affiliation: "Columbia University"
+affiliation: "Columbia University, Williams College"
 bio:
 social:
   - title: "website"

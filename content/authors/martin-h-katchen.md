@@ -1,6 +1,6 @@
 ---
 name: Martin H Katchen
-affiliation:
+affiliation: "Los Angeles, California"
 bio:
 social:
   - title: "website"

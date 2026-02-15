@@ -1,6 +1,6 @@
 ---
 name: David A Adcock
-affiliation:
+affiliation: "Rice University"
 bio:
 social:
   - title: "website"

@@ -6,6 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 02
 ---
 Taylor - Desire and Mourning: Theology and the Literary Imagination - JCRT 3.2 
 

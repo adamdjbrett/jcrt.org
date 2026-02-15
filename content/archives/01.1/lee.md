@@ -6,6 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 09
 ---
 Lee - Deconstructing the Great Chain of Being - JCRT 1.1
 

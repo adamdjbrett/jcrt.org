@@ -6,6 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 07
 ---
 Dean - The Archaeology of American Thought - JCRT 3.1 
 

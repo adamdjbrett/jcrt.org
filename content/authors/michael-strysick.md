@@ -1,6 +1,6 @@
 ---
 name: Michael Strysick
-affiliation:
+affiliation: "Wake Forest University"
 bio:
 social:
   - title: "website"

@@ -1,6 +1,6 @@
 ---
 name: Dorina Miller Parmenter
-affiliation:
+affiliation: "Syracuse University"
 bio:
 social:
   - title: "website"

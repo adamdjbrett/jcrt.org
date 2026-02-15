@@ -6,6 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 10
 ---
 Weiss - Posthuman Pleasures - JCRT 1.3
 

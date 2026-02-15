@@ -6,6 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 07
 ---
 Lee - Life after death, or death as life? Dead Man, postmodernism, and ontology - JCRT 3.2 
 

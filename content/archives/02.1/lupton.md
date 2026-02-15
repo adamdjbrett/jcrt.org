@@ -19,7 +19,7 @@ keywords:
   - revelation-on-sinai
   - redemption-comparative-studies
 pdf:
-sort_id:
+sort_id: 04
 volume: 2
 issue: 1
 season: winter

@@ -1,6 +1,6 @@
 ---
 name: Carol S Anderson
-affiliation:
+affiliation: "Kalamazoo College"
 bio:
 social:
   - title: "website"

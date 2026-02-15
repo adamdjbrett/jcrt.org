@@ -1,6 +1,6 @@
 ---
 name: Clayton Crockett
-affiliation: "University of Central Arkansas"
+affiliation: "University of Central Arkansas, Wesley College, College of William and Mary"
 bio:
 social:
   - title: "website"

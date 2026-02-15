@@ -6,6 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 08
 ---
 Strysick - Culture Wars, Religion, and the Postmodern Sacred - JCRT 1.3 
 

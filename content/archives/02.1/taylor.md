@@ -6,6 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 06
 ---
 Taylor - Art Exhibit - JCRT 2.1 
 

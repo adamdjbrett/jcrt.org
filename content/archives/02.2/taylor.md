@@ -6,6 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 01
 ---
 Taylor - The Metaphysics of Indeterminacy - JCRT 2.2 
 

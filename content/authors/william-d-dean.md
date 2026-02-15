@@ -1,6 +1,6 @@
 ---
 name: William D Dean
-affiliation:
+affiliation: "Iliff School of Theology"
 bio:
 social:
   - title: "website"

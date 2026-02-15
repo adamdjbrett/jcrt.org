@@ -6,6 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 06
 ---
 Weiss - Mecha Love: A Review of Steven Spielberg's A.I. - JCRT 2.3 
 

@@ -1,6 +1,6 @@
 ---
 name: Edith Wyschogrod
-affiliation:
+affiliation: "Rice University"
 bio:
 social:
   - title: "website"

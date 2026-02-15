@@ -1,6 +1,6 @@
 ---
 name: Paul Lakeland
-affiliation:
+affiliation: "Fairfield University"
 bio:
 social:
   - title: "website"

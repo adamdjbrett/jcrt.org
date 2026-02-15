@@ -1,6 +1,6 @@
 ---
 name: William W Young
-affiliation:
+affiliation: "University of Virginia"
 bio:
 social:
   - title: "website"

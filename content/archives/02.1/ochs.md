@@ -6,6 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 08
 ---
 Ochs - Rosenzweig as Postcritical Jewish Philosopher - JCRT 2.1 
 

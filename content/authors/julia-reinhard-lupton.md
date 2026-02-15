@@ -1,6 +1,6 @@
 ---
 name: Julia Reinhard Lupton
-affiliation: "University of California, Irvine"
+affiliation: "University of California, Irvine, UC Irvine"
 bio:
 social:
   - title: "website"

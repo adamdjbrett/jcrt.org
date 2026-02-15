@@ -1,6 +1,6 @@
 ---
 name: Jeffrey F Keuss
-affiliation:
+affiliation: "University of Glasgow"
 bio:
 social:
   - title: "website"

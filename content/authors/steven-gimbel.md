@@ -1,6 +1,6 @@
 ---
 name: Steven Gimbel
-affiliation: "Gettysburg College"
+affiliation: "Gettysburg College, Millsaps College"
 bio:
 social:
   - title: "website"

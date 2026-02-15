@@ -6,6 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 01
 ---
 Crockett - Economies of Studying Religion - JCRT 1.3 
 

@@ -1,6 +1,6 @@
 ---
 name: Richard Halpern
-affiliation:
+affiliation: "University of California at Berkeley"
 bio:
 social:
   - title: "website"

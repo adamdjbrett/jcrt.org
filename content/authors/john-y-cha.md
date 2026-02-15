@@ -1,6 +1,6 @@
 ---
 name: John Y Cha
-affiliation:
+affiliation: "Gustavus Adolphus College"
 bio:
 social:
   - title: "website"

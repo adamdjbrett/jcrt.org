@@ -6,6 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 05
 ---
 Crockett - Review of Heidegger's Contributions to Philosophy - JCRT 2.3 
 

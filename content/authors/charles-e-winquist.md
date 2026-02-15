@@ -1,6 +1,6 @@
 ---
 name: Charles E Winquist
-affiliation:
+affiliation: "Syracuse University"
 bio:
 social:
   - title: "website"

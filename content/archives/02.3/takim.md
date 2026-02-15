@@ -6,6 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 10
 ---
 Takim - Book Profile: Islamic Ethics of Life - JCRT 2.3 
 

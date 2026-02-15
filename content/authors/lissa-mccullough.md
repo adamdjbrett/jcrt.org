@@ -1,6 +1,6 @@
 ---
 name: Lissa McCullough
-affiliation: "California State University at Dominguez Hills, Los Angeles"
+affiliation: "California State University at Dominguez Hills, Los Angeles, Hanover College"
 bio:
 social: 
   - title: "website"

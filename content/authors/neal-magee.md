@@ -1,6 +1,6 @@
 ---
 name: Neal Magee
-affiliation: "Le Moyne College "
+affiliation: "Le Moyne College, Syracuse University "
 bio:
 social:
   - title: "website"

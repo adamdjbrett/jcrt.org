@@ -14,7 +14,7 @@ keywords:
   - alfred-north
   - whitehead
 pdf:
-sort_id:
+sort_id: 06
 volume: 1
 issue: 2
 season: spring
