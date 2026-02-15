@@ -1,6 +1,6 @@
 ---
 name: Martin Hägglund
-affiliation:
+affiliation: "Harvard Society of Fellows"
 bio:
 social:
   - title: "website"

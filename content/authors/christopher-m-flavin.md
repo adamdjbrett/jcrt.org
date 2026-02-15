@@ -1,6 +1,6 @@
 ---
 name: Christopher M. Flavin
-affiliation:
+affiliation: "Northeastern State University"
 bio:
 social:
   - title: "website"

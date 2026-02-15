@@ -1,6 +1,6 @@
 ---
 name: T Wilson Dickinson
-affiliation:
+affiliation: "Transylvania University"
 bio:
 social:
   - title: "website"

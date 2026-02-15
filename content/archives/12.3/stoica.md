@@ -10,9 +10,9 @@ keywords:
   - spivak
   - subaltern
 pdf: stoica.pdf
-sort_id:
+sort_id: 08
 volume: 12
 issue: 3
-season: summer
+season: spring
 pages: 140-148
 ---

@@ -20,7 +20,7 @@ keywords:
   - dietrich
   - religion-essence
 pdf: metcalf.pdf
-sort_id:
+sort_id: 11
 volume: 10
 issue: 3
 season: summer

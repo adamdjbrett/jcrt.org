@@ -1,6 +1,6 @@
 ---
 name: Laura E. Alexander
-affiliation:
+affiliation: "University of Virginia"
 bio:
 social:
   - title: "website"

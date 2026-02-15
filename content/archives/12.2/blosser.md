@@ -23,9 +23,9 @@ keywords:
   - ricoeur
   - student-service
 pdf: blosser.pdf
-sort_id:
+sort_id: 14
 volume: 12
 issue: 2
-season: spring
+season: fall
 pages: 196-214
 ---

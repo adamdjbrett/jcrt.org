@@ -12,9 +12,9 @@ keywords:
   - kantian-ethics
   - marion
 pdf: alvis.pdf
-sort_id:
+sort_id: 03
 volume: 14
 issue: 1
-season: spring
+season: fall
 pages: 25-37
 ---

@@ -1,6 +1,6 @@
 ---
 name: Jeffrey Kosky
-affiliation:
+affiliation: "Washington and Lee University"
 bio:
 social:
   - title: "website"

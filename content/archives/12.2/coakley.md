@@ -22,9 +22,9 @@ keywords:
   - theory-of-religion
   - education-philosophy
 pdf: coakley.pdf
-sort_id:
+sort_id: 04
 volume: 12
 issue: 2
-season: spring
+season: fall
 pages:
 ---

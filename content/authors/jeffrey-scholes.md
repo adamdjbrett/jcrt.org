@@ -1,6 +1,6 @@
 ---
 name: Jeffrey Scholes
-affiliation:
+affiliation: "University of Colorado, Colorado Springs"
 bio:
 social:
   - title: "website"

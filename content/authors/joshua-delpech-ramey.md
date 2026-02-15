@@ -1,6 +1,6 @@
 ---
 name: Joshua Delpech-Ramey
-affiliation:
+affiliation: "Rowan University"
 bio:
 social:
   - title: "website"

@@ -12,9 +12,9 @@ keywords:
   - carlson
   - indiscrete-image-infinitude-creation-of-the-human
 pdf: alvis.pdf
-sort_id:
+sort_id: 12
 volume: 12
 issue: 3
-season: summer
+season: spring
 pages: 165-167
 ---

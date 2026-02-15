@@ -43,9 +43,9 @@ keywords:
   - human-body-in-culture
   - organizational-sociology
 pdf: caputo.pdf
-sort_id:
+sort_id: 03
 volume: 12
 issue: 2
-season: spring
+season: fall
 pages:
 ---

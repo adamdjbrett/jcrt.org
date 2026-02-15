@@ -1,6 +1,6 @@
 ---
 name: Gary A. Mullen
-affiliation:
+affiliation: "Gettysburg College"
 bio:
 social:
   - title: "website"

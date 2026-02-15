@@ -29,7 +29,7 @@ keywords:
   - milbank
   - saint-theology-law-and-gospel
 pdf: ojakangas.pdf
-sort_id:
+sort_id: 06
 volume: 11
 issue: 1
 season: winter

@@ -7,7 +7,7 @@ keywords:
   - conversion-religion
   - logic
 pdf: barber.pdf
-sort_id:
+sort_id: 08
 volume: 13
 issue: 1
 season: winter

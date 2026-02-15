@@ -12,10 +12,23 @@ keywords:
   - experiential-learning
   - freire
   - paulo
+  - liberation-theology
+  - culture-and-education
+  - social-change
+  - social-justice
+  - moral-education
+  - knowledge
+  - theory-of
+  - 1921-1997
+  - freire
+  - paulo
+  - education-philosophy
+  - education-experimental-methods
+  - educational-sociology
 pdf: peters.pdf
-sort_id:
+sort_id: 15
 volume: 12
 issue: 2
-season: spring
+season: fall
 pages: 215-227
 ---

@@ -24,7 +24,7 @@ keywords:
   - prisons-and-prisoners
   - subject-philosophy
 pdf: glowacki.pdf
-sort_id:
+sort_id: 05
 volume: 11
 issue: 1
 season: winter

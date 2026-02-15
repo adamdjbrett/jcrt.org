@@ -19,7 +19,7 @@ keywords:
   - queer-theory
   - sin-christianity
 pdf: jaarsma.pdf
-sort_id:
+sort_id: 05
 volume: 10
 issue: 3
 season: summer

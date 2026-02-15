@@ -26,6 +26,6 @@ pdf: goodchild.pdf
 sort_id:
 volume: 12
 issue: 2
-season: spring
+season: fall
 pages: 52-68
 ---

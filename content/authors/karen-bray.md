@@ -1,6 +1,6 @@
 ---
 name: Karen Bray
-affiliation: Wesleyan College"
+affiliation: "Wesleyan College, Drew University"
 bio:
 social:
   - title: "website"

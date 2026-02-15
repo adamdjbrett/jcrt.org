@@ -27,7 +27,7 @@ keywords:
   - lorenzo
   - love-in-religion
 pdf: crockett.pdf
-sort_id:
+sort_id: 04
 volume: 11
 issue: 2
 season: spring

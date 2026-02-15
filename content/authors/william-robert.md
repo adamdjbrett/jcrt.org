@@ -1,6 +1,6 @@
 ---
 name: William Robert
-affiliation:
+affiliation: "Syracuse University"
 bio:
 social:
   - title: "website"

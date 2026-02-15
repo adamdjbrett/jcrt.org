@@ -28,7 +28,7 @@ keywords:
   - jesus-christ-humanity
   - michelangelo-buonarroti
 pdf: taylor.pdf
-sort_id:
+sort_id: 01
 volume: 11
 issue: 2
 season: spring

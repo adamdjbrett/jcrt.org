@@ -9,9 +9,9 @@ keywords:
   - global-financial-crisis
   - marxian-economics
 pdf: bedford.pdf
-sort_id:
+sort_id: 04
 volume: 12
 issue: 3
-season: summer
+season: spring
 pages: 55-83
 ---

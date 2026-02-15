@@ -1,6 +1,6 @@
 ---
 name: Geoffrey Holsclaw
-affiliation:
+affiliation: "Marquette University"
 bio:
 social:
   - title: "website"

@@ -5,7 +5,7 @@ affilation:
 abstract:
 keywords: []
 pdf: barber.pdf
-sort_id:
+sort_id: 18
 volume: 10
 issue: 3
 season: summer

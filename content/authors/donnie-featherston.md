@@ -1,6 +1,6 @@
 ---
 name: Donnie Featherston
-affiliation:
+affiliation: "University of Denver"
 bio:
 social:
   - title: "website"

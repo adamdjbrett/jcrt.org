@@ -25,7 +25,7 @@ keywords:
   - secular
   - theology-historiography
 pdf: robbins.pdf
-sort_id:
+sort_id: 03
 volume: 11
 issue: 2
 season: spring

@@ -1,6 +1,6 @@
 ---
 name: Ada S Jaarsma
-affiliation:
+affiliation: "Mount Royal University"
 bio:
 social:
   - title: "website"

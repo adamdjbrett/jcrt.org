@@ -10,9 +10,9 @@ keywords:
   - philosophy-of-culture
   - vico
 pdf: renger.pdf
-sort_id:
+sort_id: 04
 volume: 14
 issue: 1
-season: spring
+season: fall
 pages: 38-52
 ---

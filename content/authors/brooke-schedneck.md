@@ -1,6 +1,6 @@
 ---
 name: Brooke Schedneck
-affiliation:
+affiliation: "Chiangmai University, Thailand"
 bio:
 social:
   - title: "website"

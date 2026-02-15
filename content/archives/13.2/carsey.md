@@ -13,6 +13,6 @@ pdf:
 sort_id:
 volume: 13
 issue: 2
-season: spring
+season: summer
 pages: 132-137
 ---

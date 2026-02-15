@@ -1,6 +1,6 @@
 ---
 name: Dennis M Weiss
-affiliation:
+affiliation: "York College of Pennsylvania"
 bio:
 social:
   - title: "website"

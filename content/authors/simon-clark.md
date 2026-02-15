@@ -1,6 +1,6 @@
 ---
 name: Simon Clark
-affiliation:
+affiliation: "Goldsmiths, University of London"
 bio:
 social:
   - title: "website"

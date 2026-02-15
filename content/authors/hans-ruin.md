@@ -1,6 +1,6 @@
 ---
 name: Hans Ruin
-affiliation:
+affiliation: "Sodertorn University College, Stockholm"
 bio:
 social:
   - title: "website"

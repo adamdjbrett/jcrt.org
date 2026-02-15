@@ -1,6 +1,6 @@
 ---
 name: Mary B Campbell
-affiliation:
+affiliation: "Brandeis University"
 bio:
 social:
   - title: "website"

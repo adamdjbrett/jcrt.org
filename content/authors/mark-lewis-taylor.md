@@ -1,6 +1,6 @@
 ---
 name: Mark Lewis Taylor
-affiliation:
+affiliation: "Princeton Theological Seminary"
 bio:
 social:
   - title: "website"

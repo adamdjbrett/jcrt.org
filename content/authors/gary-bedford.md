@@ -1,6 +1,6 @@
 ---
 name: Gary Bedford
-affiliation:
+affiliation: "University of Denver"
 bio:
 social:
   - title: "website"

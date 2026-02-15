@@ -1,6 +1,6 @@
 ---
 name: Adam Kotsko
-affiliation:
+affiliation: "Shimer College"
 bio:
 social:
   - title: "website"

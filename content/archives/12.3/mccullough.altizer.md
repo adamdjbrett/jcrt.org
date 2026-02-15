@@ -10,9 +10,9 @@ keywords:
   - thomas-j-j
   - apocalyptic-literature-christian-literature
 pdf: mccullough.altizer.pdf
-sort_id:
+sort_id: 10
 volume: 12
 issue: 3
-season: summer
+season: spring
 pages:
 ---

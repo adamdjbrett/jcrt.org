@@ -9,9 +9,9 @@ keywords:
   - the-tv-program
   - walking-dead
 pdf: nuckolls.pdf
-sort_id:
+sort_id: 09
 volume: 13
 issue: 2
-season: spring
+season: summer
 pages: 102-110
 ---

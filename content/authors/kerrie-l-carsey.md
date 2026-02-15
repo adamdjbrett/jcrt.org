@@ -1,6 +1,6 @@
 ---
 name: Kerrie L. Carsey
-affiliation:
+affiliation: "York College of Pensylvania"
 bio:
 social:
   - title: "website"

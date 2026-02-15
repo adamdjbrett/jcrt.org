@@ -14,9 +14,9 @@ keywords:
   - animals-philosophy
   - vision
 pdf: mccullough.pdf
-sort_id:
+sort_id: 07
 volume: 11
 issue: 3
-season: summer
+season: fall
 pages:
 ---

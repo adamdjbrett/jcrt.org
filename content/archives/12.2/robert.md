@@ -29,9 +29,9 @@ keywords:
   - catherine-m
   - religion-and-drama
 pdf: robert.pdf
-sort_id:
+sort_id: 06
 volume: 12
 issue: 2
-season: spring
+season: fall
 pages: 69-84
 ---

@@ -23,9 +23,9 @@ keywords:
   - immanence-philosophy
   - meaning-philosophy
 pdf: goodchild.pdf
-sort_id:
+sort_id: 05
 volume: 12
 issue: 2
-season: spring
+season: fall
 pages: 52-68
 ---

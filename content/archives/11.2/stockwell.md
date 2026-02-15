@@ -20,7 +20,7 @@ keywords:
   - secret-philosophy
   - theory-of-religion
 pdf: stockwell.pdf
-sort_id:
+sort_id: 06
 volume: 11
 issue: 2
 season: spring

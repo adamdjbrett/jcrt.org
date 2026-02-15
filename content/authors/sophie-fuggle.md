@@ -1,6 +1,6 @@
 ---
 name: Sophie Fuggle
-affiliation:
+affiliation: "King's College, London"
 bio:
 social:
   - title: "website"

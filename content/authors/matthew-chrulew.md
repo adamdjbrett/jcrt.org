@@ -1,6 +1,6 @@
 ---
 name: Matthew Chrulew
-affiliation:
+affiliation: "Macquarie University"
 bio:
 social:
   - title: "website"

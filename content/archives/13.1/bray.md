@@ -10,7 +10,7 @@ keywords:
   - patricia-a
   - schechter
 pdf: bray.pdf
-sort_id:
+sort_id: 10 
 volume: 13
 issue: 1
 season: winter

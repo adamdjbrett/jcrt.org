@@ -1,6 +1,6 @@
 ---
 name: Zachary Thomas Settle
-affiliation:
+affiliation: "University of Denver"
 bio:
 social:
   - title: "website"

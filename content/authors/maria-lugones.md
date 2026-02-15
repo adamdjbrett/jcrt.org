@@ -1,6 +1,6 @@
 ---
 name: Maria Lugones
-affiliation:
+affiliation: "Binghamton University"
 bio:
 social:
   - title: "website"

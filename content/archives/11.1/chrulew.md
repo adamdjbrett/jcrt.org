@@ -34,7 +34,7 @@ keywords:
   - the-apostle
   - saint-theology
 pdf: chrulew.pdf
-sort_id:
+sort_id: 01
 volume: 11
 issue: 1
 season: winter

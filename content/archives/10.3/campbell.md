@@ -5,7 +5,7 @@ affilation:
 abstract:
 keywords: []
 pdf: campbell.pdf
-sort_id:
+sort_id: 15
 volume: 10
 issue: 3
 season: summer

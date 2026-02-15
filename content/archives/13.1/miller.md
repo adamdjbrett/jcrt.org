@@ -12,7 +12,7 @@ keywords:
   - mignolo
   - walter-d
 pdf: miller.pdf
-sort_id:
+sort_id: 12
 volume: 13
 issue: 1
 season: winter

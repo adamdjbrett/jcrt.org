@@ -1,6 +1,6 @@
 ---
 name: Bo Eberle
-affiliation:
+affiliation: "Union Theology Seminary in New York"
 bio:
 social:
   - title: "website"

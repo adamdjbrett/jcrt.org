@@ -1,6 +1,6 @@
 ---
 name: Leslie C. Miller
-affiliation:
+affiliation: "Colorado Mesa University"
 bio:
 social:
   - title: "website"

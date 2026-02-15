@@ -1,6 +1,6 @@
 ---
 name: Michael J Ardoline
-affiliation:
+affiliation: "West Chester University"
 bio:
 social:
   - title: "website"

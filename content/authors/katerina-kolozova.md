@@ -1,6 +1,6 @@
 ---
 name: Katerina Kolozova
-affiliation:
+affiliation: "University American College, Skopje"
 bio:
 social:
   - title: "website"

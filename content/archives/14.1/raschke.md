@@ -9,9 +9,9 @@ keywords:
   - postmodernism-the-revolution-in-religious-theory-toward-a-semiotics-of-the-event-book
   - raschke
 pdf: raschke.pdf
-sort_id:
+sort_id: 01
 volume: 14
 issue: 1
-season: spring
+season: fall
 pages:
 ---

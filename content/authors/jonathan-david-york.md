@@ -1,6 +1,6 @@
 ---
 name: Jonathan David York
-affiliation:
+affiliation: " South Dakota State University"
 bio:
 social:
   - title: "website"

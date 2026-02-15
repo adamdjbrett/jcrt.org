@@ -1,6 +1,6 @@
 ---
 name: Michael Fagenblat
-affiliation:
+affiliation: "Shalem College"
 bio:
 social:
   - title: "website"

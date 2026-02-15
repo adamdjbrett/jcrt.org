@@ -1,6 +1,6 @@
 ---
 name: Cory Stockwell
-affiliation:
+affiliation: "University of King's College"
 bio:
 social:
   - title: "website"

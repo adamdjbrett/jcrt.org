@@ -1,6 +1,6 @@
 ---
 name: Santiago Zabala
-affiliation:
+affiliation: "ICREA Research Professor at the University of Barcelona"
 bio:
 social:
   - title: "website"

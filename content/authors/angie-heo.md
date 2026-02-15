@@ -1,6 +1,6 @@
 ---
 name: Angie Heo
-affiliation:
+affiliation: "Max Planck Institute for the Study of Religious and Ethnic Diversity"
 bio:
 social:
   - title: "website"

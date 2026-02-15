@@ -1,6 +1,6 @@
 ---
 name: Martin Woessner
-affiliation:
+affiliation: "The City College of New York"
 bio:
 social:
   - title: "website"

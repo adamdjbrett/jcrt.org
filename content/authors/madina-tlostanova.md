@@ -1,6 +1,6 @@
 ---
 name: Madina Tlostanova
-affiliation:
+affiliation: "Russian Presidential Academy of National Economy and Public Administration (Moscow)"
 bio:
 social:
   - title: "website"

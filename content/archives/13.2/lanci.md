@@ -10,9 +10,9 @@ keywords:
   - 28-days-later-film
   - zombies
 pdf: lanci.pdf
-sort_id:
+sort_id: 04
 volume: 13
 issue: 2
-season: spring
+season: summer
 pages:
 ---

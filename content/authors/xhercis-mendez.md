@@ -1,6 +1,6 @@
 ---
 name: Xhercis Méndez
-affiliation:
+affiliation: "SUNY, Oneonta"
 bio:
 social:
   - title: "website"

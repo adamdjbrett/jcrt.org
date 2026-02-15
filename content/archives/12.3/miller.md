@@ -16,9 +16,9 @@ keywords:
   - gordon
   - peter-e
 pdf: miller.pdf
-sort_id:
+sort_id: 13
 volume: 12
 issue: 3
-season: summer
+season: spring
 pages: 169-172
 ---

@@ -1,6 +1,6 @@
 ---
 name: Philip Goodchild
-affiliation:
+affiliation: "University of Nottingham"
 bio:
 social:
   - title: "website"

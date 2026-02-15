@@ -1,6 +1,6 @@
 ---
 name: Sanna Melin Schyllert
-affiliation:
+affiliation: "University of Westminster"
 bio:
 social:
   - title: "website"

@@ -1,6 +1,6 @@
 ---
 name: Stephen J Stern
-affiliation:
+affiliation: "Gettysburg College"
 bio:
 social:
   - title: "website"

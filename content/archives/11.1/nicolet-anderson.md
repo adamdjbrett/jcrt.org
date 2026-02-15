@@ -28,7 +28,7 @@ keywords:
   - obedience
   - saint-psychology
 pdf: nicolet-anderson.pdf
-sort_id:
+sort_id: 08
 volume: 11
 issue: 1
 season: winter

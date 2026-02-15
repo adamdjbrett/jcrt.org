@@ -1,6 +1,6 @@
 ---
 name: Almut-Barbara Renger
-affiliation:
+affiliation: "Freie Universität Berlin"
 bio:
 social:
   - title: "website"

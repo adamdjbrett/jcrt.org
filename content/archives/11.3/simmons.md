@@ -25,9 +25,9 @@ keywords:
   - desire
   - drew-m
 pdf: simmons.pdf
-sort_id:
+sort_id: 05
 volume: 11
 issue: 3
-season: summer
+season: fall
 pages:
 ---

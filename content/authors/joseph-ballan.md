@@ -1,6 +1,6 @@
 ---
 name: Joseph Ballan
-affiliation:
+affiliation: "University of Copenhagen"
 bio:
 social:
   - title: "website"

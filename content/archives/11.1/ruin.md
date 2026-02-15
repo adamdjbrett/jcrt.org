@@ -30,8 +30,8 @@ keywords:
   - bible-new-testament-criticism
   - grace-theology-history-of-doctrines
   - interpretation-history
-pdf: ruin.pdf
-sort_id:
+pdf: ruin.pdf 
+sort_id: 02
 volume: 11
 issue: 1
 season: winter

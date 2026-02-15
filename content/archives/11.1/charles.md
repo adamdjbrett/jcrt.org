@@ -23,7 +23,7 @@ keywords:
   - saint-ethics
   - social-status-and-religion
 pdf: charles.pdf
-sort_id:
+sort_id: 09
 volume: 11
 issue: 1
 season: winter

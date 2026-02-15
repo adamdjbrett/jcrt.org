@@ -27,7 +27,7 @@ keywords:
   - simplicity-philosophy
   - thomas-j-j
 pdf: raschke.pdf
-sort_id:
+sort_id: 02
 volume: 11
 issue: 2
 season: spring

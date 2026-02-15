@@ -1,6 +1,6 @@
 ---
 name: Daniel M Finer
-affiliation:
+affiliation: "Syracuse University"
 bio:
 social:
   - title: "website"

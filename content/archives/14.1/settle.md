@@ -9,9 +9,9 @@ keywords:
   - alain
   - badiou
 pdf: settle.pdf
-sort_id:
+sort_id: 07
 volume: 14
 issue: 1
-season: spring
+season: fall
 pages:
 ---

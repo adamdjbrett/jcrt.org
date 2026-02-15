@@ -12,9 +12,9 @@ keywords:
   - christianity-contemporary-politics-the-conditions-possibilities-of-faithful-witness-book
   - luke
 pdf: alexander.pdf
-sort_id:
+sort_id: 11
 volume: 12
 issue: 3
-season: summer
+season: spring
 pages: 161-164
 ---

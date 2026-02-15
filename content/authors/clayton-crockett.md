@@ -1,6 +1,6 @@
 ---
 name: Clayton Crockett
-affiliation:
+affiliation: "University of Central Arkansas"
 bio:
 social:
   - title: "website"

@@ -1,6 +1,6 @@
 ---
 name: Jordan E. Miller
-affiliation:
+affiliation: "Salve Regina University"
 bio:
 social:
   - title: "website"

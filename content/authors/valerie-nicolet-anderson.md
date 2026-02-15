@@ -1,6 +1,6 @@
 ---
 name: Valérie Nicolet Anderson
-affiliation:
+affiliation: "Emory University"
 bio:
 social:
   - title: "website"

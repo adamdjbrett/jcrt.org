@@ -1,6 +1,6 @@
 ---
 name: David R Glowacki
-affiliation:
+affiliation: "University of Bristol"
 bio:
 social:
   - title: "website"

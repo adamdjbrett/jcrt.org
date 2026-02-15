@@ -5,7 +5,7 @@ affilation:
 abstract:
 keywords: []
 pdf: zabala.pdf
-sort_id:
+sort_id: 10
 volume: 11
 issue: 2
 season: spring

@@ -12,9 +12,9 @@ keywords:
   - erri
   - new-testament
 pdf: hurlin.pdf
-sort_id:
+sort_id: 16
 volume: 12
 issue: 2
-season: spring
+season: fall
 pages: 228-239
 ---

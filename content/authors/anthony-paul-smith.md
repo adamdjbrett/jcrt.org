@@ -1,6 +1,6 @@
 ---
 name: Anthony Paul Smith
-affiliation:
+affiliation: "University of Nottingham"
 bio:
 social:
   - title: "website"

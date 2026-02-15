@@ -1,6 +1,6 @@
 ---
 name: Joe Blosser
-affiliation:
+affiliation: "High Point University"
 bio:
 social:
   - title: "website"

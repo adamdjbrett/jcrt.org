@@ -1,6 +1,6 @@
 ---
 name: Thomas Nail
-affiliation:
+affiliation: "University of Denver"
 bio:
 social:
   - title: "website"

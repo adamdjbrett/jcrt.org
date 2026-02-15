@@ -10,9 +10,9 @@ keywords:
   - messianic-era-judaism
   - south-asian-literature
 pdf: almond.pdf
-sort_id:
+sort_id: 06
 volume: 12
 issue: 3
-season: summer
+season: spring
 pages: 111-124
 ---

@@ -1,6 +1,6 @@
 ---
 name: Mika Ojakangas
-affiliation:
+affiliation: "University of Jyvaskyla"
 bio:
 social:
   - title: "website"

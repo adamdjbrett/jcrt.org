@@ -15,9 +15,9 @@ keywords:
   - laruelle
   - strangers
 pdf: kolozova.pdf
-sort_id:
+sort_id: 08
 volume: 11
 issue: 3
-season: summer
+season: fall
 pages:
 ---

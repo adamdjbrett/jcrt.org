@@ -1,6 +1,6 @@
 ---
 name: Kris Sealey
-affiliation:
+affiliation: "Fairfield University"
 bio:
 social:
   - title: "website"

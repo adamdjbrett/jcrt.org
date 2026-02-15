@@ -27,9 +27,9 @@ keywords:
   - education-methods
   - education-philosophy
 pdf: crockett.pdf
-sort_id:
+sort_id: 11
 volume: 12
 issue: 2
-season: spring
+season: fall
 pages: 163-173
 ---

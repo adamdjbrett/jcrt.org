@@ -11,9 +11,9 @@ keywords:
   - problem-with-grace-reconfiguring-political-theology
   - vincent-w
 pdf: scholes.pdf
-sort_id:
+sort_id: 11
 volume: 13
 issue: 2
-season: spring
+season: summer
 pages: 123-125
 ---

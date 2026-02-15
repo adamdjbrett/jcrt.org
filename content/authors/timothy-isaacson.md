@@ -1,6 +1,6 @@
 ---
 name: Timothy Isaacson
-affiliation:
+affiliation: "University of Denver"
 bio:
 social:
   - title: "website"

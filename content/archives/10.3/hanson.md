@@ -1,7 +1,7 @@
 ---
 title: "A TALE OF TWO DOUBLETS: DERRIDA AND KIERKEGAARD"
 author: "Jeffrey Hanson"
-affilation:
+affilation: 
 abstract:
 keywords:
   - theology
@@ -23,7 +23,7 @@ keywords:
   - theology-methodology
   - john-d
 pdf: hanson.pdf
-sort_id:
+sort_id: 04
 volume: 10
 issue: 3
 season: summer

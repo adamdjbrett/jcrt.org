@@ -1,6 +1,6 @@
 ---
 name: Ian Almond
-affiliation:
+affiliation: " Georgetown University in Qatar"
 bio:
 social:
   - title: "website"

@@ -1,6 +1,6 @@
 ---
 name: Sarah Coakley
-affiliation:
+affiliation: "Univeristy of Cambridge"
 bio:
 social:
   - title: "website"

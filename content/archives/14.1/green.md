@@ -8,9 +8,9 @@ keywords:
   - gans
   - silent-hill-film
 pdf: green.pdf
-sort_id:
+sort_id: 10
 volume: 14
 issue: 1
-season: spring
+season: fall
 pages: 143-164
 ---
