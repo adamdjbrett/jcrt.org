@@ -1,6 +1,6 @@
 ---
 name: Gerald Majer
-affiliation:
+affiliation: "Villa Julie College"
 bio:
 social:
   - title: "website"

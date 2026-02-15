@@ -1,6 +1,6 @@
 ---
 name: Lora Stone
-affiliation:
+affiliation: "University of New Mexico"
 bio:
 social:
   - title: "website"

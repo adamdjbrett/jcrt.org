@@ -6,6 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 05
 ---
 MacCammon - Justice and Fundamental Anthropology - JCRT 3.1 
 

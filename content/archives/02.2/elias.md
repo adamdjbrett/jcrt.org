@@ -5,7 +5,8 @@ author: "Camelia Elias"
 affilation:
 abstract:
 keywords: []
-pdf:
+pdf: 
+sort_id: 04
 ---
 Elias - Ekphrastic Plastic Fragments - JCRT 2.2 
 

@@ -1,6 +1,6 @@
 ---
-name: Thomas J J Altizer
-affiliation: "SUNY Stony Brook, Emeritus"
+name: "Michael Grimshaw"
+affiliation: "University of Canterbury"
 bio:
 social:
   - title: "website"

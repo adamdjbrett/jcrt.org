@@ -6,6 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 06
 ---
 Altizer - Absolute Nothingness and Taylor's Imagology - JCRT 2.2 
 

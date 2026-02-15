@@ -1,6 +1,6 @@
 ---
 name: Linda M MacCammon
-affiliation:
+affiliation: "Carroll College"
 bio:
 social:
   - title: "website"

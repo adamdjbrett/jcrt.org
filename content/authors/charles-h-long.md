@@ -1,6 +1,6 @@
 ---
 name: Charles H Long
-affiliation:
+affiliation: "University of North Carolina"
 bio:
 social:
   - title: "website"

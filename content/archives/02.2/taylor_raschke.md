@@ -6,6 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 02
 ---
 Taylor & Raschke - About About Religion - JCRT 2.2 
 

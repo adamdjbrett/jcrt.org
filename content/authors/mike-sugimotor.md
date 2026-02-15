@@ -1,6 +1,6 @@
 ---
-name: Thomas J J Altizer
-affiliation: "SUNY Stony Brook, Emeritus"
+name: "Mike Sugimoto
+affiliation: "University of Puget Sound"
 bio:
 social:
   - title: "website"

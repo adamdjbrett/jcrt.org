@@ -6,6 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 03
 ---
 Long - Mircea Eliade and the Imagination of Matter - JCRT 1.2
 

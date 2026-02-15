@@ -6,6 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 09
 ---
 Lorentzen - Re-Constructing Theological Thought with Deleuze - JCRT 1.2
 

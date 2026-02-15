@@ -1,6 +1,6 @@
 ---
 name: Todd A Gooch
-affiliation:
+affiliation: "Eastern Kentucky University"
 bio:
 social:
   - title: "website"

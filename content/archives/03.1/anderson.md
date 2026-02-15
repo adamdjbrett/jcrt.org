@@ -6,6 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 06
 ---
 Anderson - Book Profile: Exploring the Anthropology of Religion - JCRT 3.1 
 

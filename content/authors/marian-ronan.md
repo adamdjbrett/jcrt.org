@@ -1,6 +1,6 @@
 ---
 name: Marian Ronan
-affiliation:
+affiliation: "American Baptist Seminary of the West"
 bio:
 social:
   - title: "website"

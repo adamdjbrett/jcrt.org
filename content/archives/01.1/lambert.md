@@ -6,6 +6,7 @@ affilation: 03
 abstract:
 keywords: []
 pdf:
+sort_id: 03
 ---
 Lambert - The Work of Art - JCRT 1.1 
 

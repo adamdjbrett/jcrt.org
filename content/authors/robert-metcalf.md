@@ -1,6 +1,6 @@
 ---
 name: Robert Metcalf
-affiliation:
+affiliation: "University of Colorado at Denver"
 bio:
 social:
   - title: "website"

@@ -6,6 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 10
 ---
 Parmenter - Book Profile: Writing the Medieval Self - JCRT 3.2 
 

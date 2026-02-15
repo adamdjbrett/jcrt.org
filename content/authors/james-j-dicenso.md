@@ -1,6 +1,6 @@
 ---
 name: James J DiCenso
-affiliation:
+affiliation: "University of Toronto"
 bio:
 social:
   - title: "website"

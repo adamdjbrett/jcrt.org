@@ -6,6 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 02
 ---
 Cha - Language, Conceptualization and Awakening - JCRT 2.3 
 

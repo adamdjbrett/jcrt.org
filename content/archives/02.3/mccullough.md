@@ -6,6 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 04
 ---
 McCullough - Jean Baudrillard and the Death of God - JCRT 2.3 
 

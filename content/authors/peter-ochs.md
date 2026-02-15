@@ -1,6 +1,6 @@
 ---
 name: Peter Ochs
-affiliation:
+affiliation: "University of Virginia"
 bio:
 social:
   - title: "website"

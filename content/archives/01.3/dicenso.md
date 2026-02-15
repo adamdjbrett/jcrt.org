@@ -6,6 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 05
 ---
 DiCenso - Splitting Religion - JCRT 1.3 
 

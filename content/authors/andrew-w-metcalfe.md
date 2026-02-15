@@ -1,6 +1,6 @@
 ---
 name: Andrew W Metcalfe
-affiliation:
+affiliation: "University of New South Wales"
 bio:
 social:
   - title: "website"

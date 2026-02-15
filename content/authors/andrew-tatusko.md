@@ -1,6 +1,6 @@
 ---
 name: Andrew Tatusko
-affiliation:
+affiliation: "Seton Hall University"
 bio:
 social:
   - title: "website"

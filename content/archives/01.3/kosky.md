@@ -6,6 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 03
 ---
 Kosky - Contemporary Encounters with Apophatic Theology - JCRT 1.3 
 

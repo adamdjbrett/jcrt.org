@@ -6,6 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 01
 ---
 Taylor - The Division of Religion - JCRT 1.2_
 

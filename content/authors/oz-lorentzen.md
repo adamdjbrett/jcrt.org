@@ -1,6 +1,6 @@
 ---
 name: Oz Lorentzen
-affiliation: "Prairie College "
+affiliation: "Prairie College, St. John Fisher College "
 bio:
 social:
   - title: "website"

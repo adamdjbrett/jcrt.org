@@ -1,6 +1,6 @@
 ---
 name: Adam Katz
-affiliation:
+affiliation: "Quinnipiac University"
 bio:
 social:
   - title: "website"

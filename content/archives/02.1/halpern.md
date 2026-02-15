@@ -6,6 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 03
 ---
 Halpern - Creation: Lacan in Kansas - JCRT 2.1 
 

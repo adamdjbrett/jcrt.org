@@ -6,6 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 01
 ---
 In Memoriam: Dr. Charles E. Winquist - JCRT 3.2  
 

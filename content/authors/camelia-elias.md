@@ -1,6 +1,6 @@
 ---
 name: Camelia Elias
-affiliation:
+affiliation: "University of Southern Denmark—Odense"
 bio:
 social:
   - title: "website"
