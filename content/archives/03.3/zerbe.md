@@ -6,6 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 11
 ---
 Zerbe - Book Profile: Anaximander and the Architects - JCRT 3.3 
 

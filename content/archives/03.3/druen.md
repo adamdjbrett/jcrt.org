@@ -6,6 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 07
 ---
 Druen - Book Profile: Sacred Pain - JCRT 3.3 
 

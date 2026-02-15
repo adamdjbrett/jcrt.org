@@ -1,6 +1,6 @@
 ---
 name: William Egginton
-affiliation:
+affiliation: "University at Buffalo"
 bio:
 social:
   - title: "website"

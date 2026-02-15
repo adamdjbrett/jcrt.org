@@ -1,6 +1,6 @@
 ---
-name: M Gail Hamner
-affiliation: "Syracuse University"
+name: Mark Manolopoulos
+affiliation: "Monash University"
 bio:
 social:
   - title: "website"

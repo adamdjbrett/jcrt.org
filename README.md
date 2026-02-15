@@ -147,4 +147,5 @@ The following issue has resulted from a conference in the fall of 2024.  The con
 - retrofixed 24 - 15.2 author associations
 - archives 15.1 14.2 done
 - archives 14.1 13.2 13.1 12.3 12.2 11.3 11.2 11.1 10.3 10.2 9.3 9.1 8.3 8.2 8.1 7.2 7.1 done
-- archives 6.3 6.2 6.1 5.3 5.2 5.1 4.3 done
+- archives 6.3 6.2 6.1 5.3 5.2 5.1 4.3 4.2 4.1 3.3 done
+- TODO archives 3.3 "The City and the Stars: Politics and Alterity in Heidegger, Levinas and Blanchot. By Lars Iyer, University of Newcastle upon Tyne." original article missing entirely would be sort_id: 02

@@ -6,6 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 02
 ---
 Raschke - From Religion to Faith - JCRT 4.1 
 

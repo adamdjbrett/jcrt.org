@@ -1,6 +1,6 @@
 ---
 name: Sean J McGrath
-affiliation:
+affiliation: "University of Toronto"
 bio:
 social:
   - title: "website"

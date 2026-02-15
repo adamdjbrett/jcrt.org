@@ -1,6 +1,6 @@
 ---
 name: Boyd Blundell
-affiliation:
+affiliation: "Boston College"
 bio:
 social:
   - title: "website"

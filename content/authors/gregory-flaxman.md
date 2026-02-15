@@ -1,6 +1,6 @@
 ---
 name: Gregory Flaxman
-affiliation:
+affiliation: "University of North Carolina, Chapel Hill."
 bio:
 social:
   - title: "website"

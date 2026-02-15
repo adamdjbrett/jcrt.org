@@ -1,6 +1,6 @@
 ---
 name: Noel Dane Scott
-affiliation:
+affiliation: "Western Carolina University"
 bio:
 social:
   - title: "website"
