@@ -121,7 +121,7 @@ Inwood, Michael. *A Heidegger Dictionary*. Oxford: Blackwell, 1999.
 
 Iyer, Lars. "The Birth of Philosophy in Poetry. Blanchot, Char, Heraclitus," *Janus Head*, *Journal of Interdisciplinary Studies in* *Continental Philosophy, Literature, Phenomenological Psychology and the Arts*, vol.4, no.2, pp. 358-383.
 
-_____. "The Sphinx's Gaze. Art, Friendship and Philosophical in Blanchot and Levinas," *The* *Southern Journal of Philosophy*, Summer 2001, vol. 39, no. 2, pp. 189-206.
+_____. "The Sphinx's Gaze. Art, Friendship and Philosophical in Blanchot and Levinas," *The* *Southern Journal of Philosophy*, fall 2001, vol. 39, no. 2, pp. 189-206.
 
 _____. "Cave Paintings and Wall Writings. Blanchot's Signature," *Angelaki*, *Journal of the Theoretical Humanities* 6.3, Dec 2001.
 

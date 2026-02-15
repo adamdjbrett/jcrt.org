@@ -1,6 +1,6 @@
 ---
 name: Kevin Hart
-affiliation:
+affiliation: "The University of Notre Dame "
 bio:
 social:
   - title: "website"

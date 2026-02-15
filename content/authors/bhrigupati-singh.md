@@ -1,6 +1,6 @@
 ---
 name: Bhrigupati Singh
-affiliation:
+affiliation: "Johns Hopkins University "
 bio:
 social:
   - title: "website"

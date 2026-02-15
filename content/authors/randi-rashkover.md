@@ -1,6 +1,6 @@
 ---
 name: Randi Rashkover
-affiliation:
+affiliation: "York College of Pennsylvania"
 bio:
 social:
   - title: "website"

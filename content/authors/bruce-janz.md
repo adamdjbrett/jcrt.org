@@ -1,6 +1,6 @@
 ---
 name: Bruce Janz
-affiliation:
+affiliation: "University of Central Florida "
 bio:
 social:
   - title: "website"

@@ -1,6 +1,6 @@
 ---
 name: C Jason Lee
-affiliation:
+affiliation: "St Martin’s College, Lancaster UK"
 bio:
 social:
   - title: "website"

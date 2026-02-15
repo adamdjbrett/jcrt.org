@@ -23,7 +23,7 @@ keywords:
   - theodor-w
   - good
 pdf: waggoner.pdf
-sort_id:
+sort_id: 13
 volume: 6
 issue: 2
 season: spring

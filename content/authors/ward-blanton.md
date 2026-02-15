@@ -1,6 +1,6 @@
 ---
 name: Ward Blanton
-affiliation: "University of Glasgow"
+affiliation: "University of Glasgow, Luther College"
 bio:
 social:
   - title: "website"

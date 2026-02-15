@@ -16,7 +16,7 @@ keywords:
   - events-philosophy
   - promise-theology
 pdf: ware.pdf
-sort_id:
+sort_id: 08
 volume: 5
 issue: 2
 season: spring

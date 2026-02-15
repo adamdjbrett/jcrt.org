@@ -14,7 +14,7 @@ keywords:
   - theology-of-religions
   - wilfred-cantwell
 pdf: livingston.pdf
-sort_id:
+sort_id: 05
 volume: 4
 issue: 3
 season: summer

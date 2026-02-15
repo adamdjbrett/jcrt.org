@@ -1,6 +1,6 @@
 ---
 name: Jason Flato
-affiliation:
+affiliation: "University of Denver"
 bio:
 social:
   - title: "website"

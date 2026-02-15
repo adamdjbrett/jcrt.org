@@ -1,6 +1,6 @@
 ---
 name: Jared Woodard
-affiliation:
+affiliation: "Fordham University, University of Edinburgh"
 bio:
 social:
   - title: "website"

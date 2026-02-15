@@ -18,7 +18,7 @@ keywords:
   - meaninglessness-philosophy
   - philosophy-historiography
 pdf: mcpherson.pdf
-sort_id:
+sort_id: 03
 volume: 5
 issue: 3
 season: summer

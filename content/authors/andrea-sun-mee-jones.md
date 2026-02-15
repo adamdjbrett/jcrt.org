@@ -1,6 +1,6 @@
 ---
 name: Andrea Sun-Mee Jones
-affiliation:
+affiliation: "Princeton University, Syracuse Univer sity"
 bio:
 social:
   - title: "website"

@@ -1,6 +1,6 @@
 ---
 name: Lisa R Holliday
-affiliation:
+affiliation: " The University of Kentucky "
 bio:
 social:
   - title: "website"

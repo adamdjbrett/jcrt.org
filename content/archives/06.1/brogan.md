@@ -16,7 +16,7 @@ keywords:
   - judaism-and-philosophy
   - religious-ethics
 pdf: brogan.pdf
-sort_id:
+sort_id: 04
 volume: 6
 issue: 1
 season: winter

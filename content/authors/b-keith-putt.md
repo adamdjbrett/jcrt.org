@@ -1,6 +1,6 @@
 ---
 name: B Keith Putt
-affiliation:
+affiliation: "Samford University"
 bio:
 social:
   - title: "website"

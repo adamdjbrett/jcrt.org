@@ -1,6 +1,6 @@
 ---
 name: Michael Purcell
-affiliation:
+affiliation: "University of Edinburgh"
 bio:
 social:
   - title: "website"

@@ -1,6 +1,6 @@
 ---
 name: Stephen G Nichols
-affiliation:
+affiliation: "Villanova University"
 bio:
 social:
   - title: "website"

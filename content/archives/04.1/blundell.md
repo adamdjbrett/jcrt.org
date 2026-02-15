@@ -6,6 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 10
 ---
 Blundell - Book Profile: The New Ricoeur Scholarship - JCRT 4.1 
 

@@ -13,7 +13,7 @@ keywords:
   - good
   - eschatology-christianity-history-of-doctrines
 pdf: goodchild.pdf
-sort_id:
+sort_id: 07
 volume: 5
 issue: 2
 season: spring

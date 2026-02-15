@@ -1,6 +1,6 @@
 ---
 name: Gabriel Vahanian
-affiliation:
+affiliation: "Marc Bloch University"
 bio:
 social:
   - title: "website"

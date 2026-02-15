@@ -5,7 +5,7 @@ affilation:
 abstract:
 keywords: []
 pdf: whiting.pdf
-sort_id:
+sort_id: 10
 volume: 6
 issue: 1
 season: winter

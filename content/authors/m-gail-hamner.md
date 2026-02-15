@@ -1,6 +1,6 @@
 ---
 name: M Gail Hamner
-affiliation:
+affiliation: "Syracuse University"
 bio:
 social:
   - title: "website"

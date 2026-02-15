@@ -1,6 +1,6 @@
 ---
 name: Michael J Zerbe
-affiliation:
+affiliation: "York College of Pennsylvania"
 bio:
 social:
   - title: "website"

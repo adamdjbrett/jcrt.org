@@ -5,7 +5,7 @@ affilation:
 abstract:
 keywords: []
 pdf: fodor.pdf
-sort_id:
+sort_id: 06
 volume: 5
 issue: 3
 season: summer

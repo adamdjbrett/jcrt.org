@@ -1,6 +1,6 @@
 ---
 name: Brian Buchanan
-affiliation:
+affiliation: "DePaul University "
 bio:
 social:
   - title: "website"

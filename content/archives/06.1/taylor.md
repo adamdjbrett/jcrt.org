@@ -11,7 +11,7 @@ keywords:
   - 1930-2004
   - derrida
 pdf: taylor.pdf
-sort_id:
+sort_id: 01
 volume: 6
 issue: 1
 season: winter

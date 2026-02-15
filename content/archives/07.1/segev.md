@@ -17,7 +17,7 @@ keywords:
   - immanuel
   - kant
 pdf: segev.pdf
-sort_id:
+sort_id: 04
 volume: 7
 issue: 1
 season: winter

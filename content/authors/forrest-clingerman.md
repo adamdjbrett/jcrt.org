@@ -1,6 +1,6 @@
 ---
 name: Forrest Clingerman
-affiliation:
+affiliation: "University of Iowa"
 bio:
 social:
   - title: "website"

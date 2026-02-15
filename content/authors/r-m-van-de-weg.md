@@ -1,6 +1,6 @@
 ---
 name: R M Van de Weg
-affiliation:
+affiliation: "University of Edinburgh"
 bio:
 social:
   - title: "website"

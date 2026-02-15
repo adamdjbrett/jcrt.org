@@ -1,6 +1,6 @@
 ---
 name: Geoffrey Galt Harpham
-affiliation:
+affiliation: "National Humanities Center "
 bio:
 social:
   - title: "website"

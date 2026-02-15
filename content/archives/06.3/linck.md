@@ -5,9 +5,9 @@ affilation:
 abstract:
 keywords: []
 pdf: linck.pdf
-sort_id:
+sort_id: 14
 volume: 6
 issue: 3
-season: summer
+season: fall
 pages:
 ---

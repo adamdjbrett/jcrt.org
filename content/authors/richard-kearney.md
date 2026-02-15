@@ -1,6 +1,6 @@
 ---
 name: Richard Kearney
-affiliation:
+affiliation: "Boston University "
 bio:
 social:
   - title: "website"

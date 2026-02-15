@@ -1,6 +1,6 @@
 ---
 name: Alon Segev
-affiliation:
+affiliation: "Philosophisches Seminar Ruprechts-Karl Universität, Heidelberg "
 bio:
 social:
   - title: "website"

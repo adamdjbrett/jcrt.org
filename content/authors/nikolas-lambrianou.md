@@ -1,6 +1,6 @@
 ---
 name: Nikolas Lambrianou
-affiliation:
+affiliation: "Birkbeck, University of London"
 bio:
 social:
   - title: "website"

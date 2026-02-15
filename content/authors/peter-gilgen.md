@@ -1,6 +1,6 @@
 ---
 name: Peter Gilgen
-affiliation:
+affiliation: "Cornell University "
 bio:
 social:
   - title: "website"

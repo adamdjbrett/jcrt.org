@@ -1,6 +1,6 @@
 ---
 name: Jenifer Whiting
-affiliation:
+affiliation: "Drew University"
 bio:
 social:
   - title: "website"

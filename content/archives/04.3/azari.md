@@ -14,7 +14,7 @@ keywords:
   - 1897-1962
   - bataille
 pdf: azari.pdf
-sort_id:
+sort_id: 03
 volume: 4
 issue: 3
 season: summer

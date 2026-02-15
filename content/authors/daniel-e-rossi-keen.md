@@ -1,6 +1,6 @@
 ---
 name: Daniel E Rossi Keen
-affiliation:
+affiliation: "Ohio University"
 bio:
 social:
   - title: "website"

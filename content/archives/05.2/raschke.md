@@ -17,7 +17,7 @@ keywords:
   - september-11-terrorist-attacks
   - culture-conflict
 pdf: raschke.pdf
-sort_id:
+sort_id: 04
 volume: 5
 issue: 2
 season: spring

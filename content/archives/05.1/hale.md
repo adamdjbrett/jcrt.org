@@ -32,7 +32,7 @@ keywords:
   - christianity-essence
   - religion-definition
 pdf: hale.pdf
-sort_id:
+sort_id: 03
 volume: 5
 issue: 1
 season: winter

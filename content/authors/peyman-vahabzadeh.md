@@ -1,6 +1,6 @@
 ---
 name: Peyman Vahabzadeh
-affiliation: "University of Victoria"
+affiliation: "University of Victoria, Brock University"
 bio:
 social:
   - title: "website"

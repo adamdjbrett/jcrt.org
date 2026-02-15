@@ -1,6 +1,6 @@
 ---
 name: John D Caputo
-affiliation: "Syracuse University"
+affiliation: "Syracuse University, Villanova Unive rsity"
 bio:
 social:
   - title: "website"

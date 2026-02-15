@@ -29,7 +29,7 @@ keywords:
   - mothers-in-literature
   - walter-w
 pdf: kolarov.pdf
-sort_id:
+sort_id: 03
 volume: 7
 issue: 2
 season: spring

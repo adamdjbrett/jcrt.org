@@ -1,6 +1,6 @@
 ---
 name: James K A Smith
-affiliation:
+affiliation: "Calvin College "
 bio:
 social:
   - title: "website"

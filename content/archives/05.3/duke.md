@@ -5,7 +5,7 @@ affilation:
 abstract:
 keywords: []
 pdf: duke.pdf
-sort_id:
+sort_id: 14
 volume: 5
 issue: 3
 season: summer

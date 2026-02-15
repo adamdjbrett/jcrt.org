@@ -18,7 +18,7 @@ keywords:
   - 354-430-biblical-interpretation
   - concepts
 pdf: miller.pdf
-sort_id:
+sort_id: 03
 volume: 7
 issue: 1
 season: winter

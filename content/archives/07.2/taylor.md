@@ -12,8 +12,8 @@ keywords:
   - derrida
   - phenomenology
   - catholic
-pdf: marion-taylor-intro.pdf
-sort_id:
+pdf: taylor.pdf
+sort_id: 08
 volume: 7
 issue: 2
 season: spring

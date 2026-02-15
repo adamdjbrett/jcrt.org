@@ -1,6 +1,6 @@
 ---
 name: Jean-Michel Rabaté
-affiliation:
+affiliation: "University of Pennsylvania"
 bio:
 social:
   - title: "website"

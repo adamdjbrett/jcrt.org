@@ -1,6 +1,6 @@
 ---
 name: Jacky Bowring
-affiliation:
+affiliation: "Lincoln University"
 bio:
 social:
   - title: "website"

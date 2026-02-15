@@ -1,6 +1,6 @@
 ---
 name: Daniel L Tate
-affiliation:
+affiliation: "St. Bonaventure University"
 bio:
 social:
   - title: "website"

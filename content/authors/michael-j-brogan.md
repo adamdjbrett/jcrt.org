@@ -1,6 +1,6 @@
 ---
 name: Michael J Brogan
-affiliation:
+affiliation: "Villanova University"
 bio:
 social:
   - title: "website"

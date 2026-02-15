@@ -1,6 +1,6 @@
 ---
 name: Timothy (Timothy W) Stanley
-affiliation:
+affiliation: "University of Manchester "
 bio:
 social:
   - title: "website"

@@ -1,6 +1,6 @@
 ---
-name: John L Meeks
-affiliation: "Lutheran School of Theology at Chicago"
+name: Steven A. Benko
+affiliation: "Meredith College "
 bio:
 social:
   - title: "website"

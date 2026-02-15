@@ -10,7 +10,7 @@ keywords:
   - critical-thinking
   - baccalaureate-addresses
 pdf: robbins.pdf
-sort_id:
+sort_id: 09
 volume: 7
 issue: 2
 season: spring

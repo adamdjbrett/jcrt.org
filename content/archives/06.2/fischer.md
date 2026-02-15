@@ -12,7 +12,7 @@ keywords:
   - adorno
   - theodor-w
 pdf: fischer.pdf
-sort_id:
+sort_id: 02
 volume: 6
 issue: 2
 season: spring

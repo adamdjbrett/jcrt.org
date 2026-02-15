@@ -1,6 +1,6 @@
 ---
 name: Todd Ream
-affiliation:
+affiliation: "Baylor University"
 bio:
 social:
   - title: "website"

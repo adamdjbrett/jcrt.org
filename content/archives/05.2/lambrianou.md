@@ -28,7 +28,7 @@ keywords:
   - hermann
   - inflation
 pdf: lambrianou.pdf
-sort_id:
+sort_id: 09
 volume: 5
 issue: 2
 season: spring

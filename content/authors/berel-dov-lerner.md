@@ -1,6 +1,6 @@
 ---
 name: Berel Dov Lerner
-affiliation:
+affiliation: "Western Galilee College "
 bio:
 social:
   - title: "website"

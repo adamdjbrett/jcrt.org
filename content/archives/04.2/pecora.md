@@ -6,6 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 06
 ---
 Pecora - Religion and Modernity in Current Debate - JCRT 4.2 
 

@@ -1,6 +1,6 @@
 ---
 name: Robert Geroux
-affiliation:
+affiliation: "Marian College "
 bio:
 social:
   - title: "website"

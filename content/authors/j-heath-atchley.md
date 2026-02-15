@@ -1,6 +1,6 @@
 ---
 name: J Heath Atchley
-affiliation:
+affiliation: "Alfred University"
 bio:
 social:
   - title: "website"

@@ -6,6 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 05
 ---
 Taylor - Encircling Kafka: A Review of the City of K. - JCRT 3.3 
 

@@ -1,6 +1,6 @@
 ---
 name: David Reinhart
-affiliation:
+affiliation: "DePaul University, Saint Xavier University"
 bio:
 social:
   - title: "website"

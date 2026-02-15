@@ -1,6 +1,6 @@
 ---
 name: Jeffrey J Williams
-affiliation:
+affiliation: "University of Missouri-Columbia"
 bio:
 social:
   - title: "website"

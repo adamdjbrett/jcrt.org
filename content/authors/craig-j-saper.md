@@ -1,6 +1,6 @@
 ---
 name: Craig J Saper
-affiliation:
+affiliation: "University of Central Florida"
 bio:
 social:
   - title: "website"

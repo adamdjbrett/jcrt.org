@@ -1,6 +1,6 @@
 ---
 name: Bryan S Rennie
-affiliation:
+affiliation: "Wes tminster College"
 bio:
 social:
   - title: "website"

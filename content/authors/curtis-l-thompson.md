@@ -1,6 +1,6 @@
 ---
 name: Curtis L Thompson
-affiliation:
+affiliation: "Thi el College"
 bio:
 social:
   - title: "website"

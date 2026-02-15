@@ -16,7 +16,7 @@ keywords:
   - russell-t
   - religionsgeschichtliche-schule
 pdf: crockett.pdf
-sort_id:
+sort_id: 02
 volume: 5
 issue: 2
 season: spring

@@ -1,6 +1,6 @@
 ---
 name: Vincent P Pecora
-affiliation:
+affiliation: "University of California, Los Angeles"
 bio:
 social:
   - title: "website"

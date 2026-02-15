@@ -1,6 +1,6 @@
 ---
 name: James O Duke
-affiliation:
+affiliation: "Texas Christian University"
 bio:
 social:
   - title: "website"

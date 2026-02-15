@@ -21,7 +21,7 @@ keywords:
   - september-11-terrorist-attacks
   - promise-theology
 pdf: caputo.pdf
-sort_id:
+sort_id: 02
 volume: 4
 issue: 3
 season: summer

@@ -1,6 +1,6 @@
 ---
 name: Michael Hoelzl
-affiliation:
+affiliation: "University of Manchester"
 bio:
 social:
   - title: "website"

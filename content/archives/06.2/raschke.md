@@ -18,7 +18,7 @@ keywords:
   - derrida
   - poststructuralism
 pdf: raschke.pdf
-sort_id:
+sort_id: 01
 volume: 6
 issue: 2
 season: spring

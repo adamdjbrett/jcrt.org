@@ -20,7 +20,7 @@ keywords:
   - 1897-1962
   - bataille
 pdf: york.pdf
-sort_id:
+sort_id: 04
 volume: 4
 issue: 3
 season: summer

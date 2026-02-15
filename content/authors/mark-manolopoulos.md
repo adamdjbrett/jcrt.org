@@ -1,6 +1,6 @@
 ---
-name: Peter Heltzel
-affiliation:
+name: Mark Manolopoulos
+affiliation: "Monash University"
 bio:
 social:
   - title: "website"

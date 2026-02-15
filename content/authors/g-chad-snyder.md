@@ -1,6 +1,6 @@
 ---
 name: G Chad Snyder
-affiliation:
+affiliation: "Elon University"
 bio:
 social:
   - title: "website"

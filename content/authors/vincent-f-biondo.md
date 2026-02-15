@@ -1,6 +1,6 @@
 ---
 name: Vincent F Biondo
-affiliation:
+affiliation: "University of California, Santa Barbara"
 bio:
 social:
   - title: "website"

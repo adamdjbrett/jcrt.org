@@ -1,6 +1,6 @@
 ---
 name: Mark Cauchi
-affiliation:
+affiliation: "York University "
 bio:
 social:
   - title: "website"

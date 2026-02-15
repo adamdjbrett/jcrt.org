@@ -6,6 +6,7 @@ affilation:
 abstract:
 keywords: []
 pdf:
+sort_id: 04
 ---
 Rashkover - The Semiotics of Embodiment - JCRT 3.3 
 

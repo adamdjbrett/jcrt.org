@@ -20,7 +20,7 @@ keywords:
   - goodchild
   - power-philosophy
 pdf: crockett.pdf
-sort_id:
+sort_id: 01
 volume: 4
 issue: 3
 season: summer
