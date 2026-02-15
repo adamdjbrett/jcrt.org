@@ -8,9 +8,9 @@ keywords:
   - anti-globalization-movement
   - occupy-protest-movement
 pdf: nail.pdf
-sort_id:
+sort_id: 02
 volume: 12
 issue: 3
-season: summer
+season: spring
 pages: 20-38
 ---

@@ -25,9 +25,9 @@ keywords:
   - pragmatism
   - socialism
 pdf: de-vries.pdf
-sort_id:
+sort_id: 01
 volume: 11
 issue: 3
-season: summer
+season: fall
 pages:
 ---

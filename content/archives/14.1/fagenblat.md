@@ -12,9 +12,9 @@ keywords:
   - political-attitudes
   - zionism
 pdf: fagenblat.pdf
-sort_id:
+sort_id: 02
 volume: 14
 issue: 1
-season: spring
+season: fall
 pages: 8-24
 ---

@@ -1,6 +1,6 @@
 ---
 name: Craig (Craig Edward) Martin
-affiliation:
+affiliation: "St. Thomas Aquinas College"
 bio:
 social:
   - title: "website"

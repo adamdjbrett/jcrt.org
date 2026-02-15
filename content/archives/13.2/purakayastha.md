@@ -13,9 +13,9 @@ keywords:
   - politics-the-earth-the-new-materialism-book
   - robbins
 pdf: purakayastha.pdf
-sort_id:
+sort_id: 14
 volume: 13
 issue: 2
-season: spring
+season: summer
 pages: 138-142
 ---

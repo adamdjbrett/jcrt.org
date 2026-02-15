@@ -29,9 +29,9 @@ keywords:
   - time-philosophy
   - time-in-religion
 pdf: britt.pdf
-sort_id:
+sort_id: 09
 volume: 12
 issue: 2
-season: spring
+season: fall
 pages: 122-147
 ---

@@ -1,6 +1,6 @@
 ---
 name: Manuel Jesús Mejido
-affiliation:
+affiliation: "University of Geneva"
 bio:
 social:
   - title: "website"

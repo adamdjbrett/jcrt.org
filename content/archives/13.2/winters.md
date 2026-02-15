@@ -11,9 +11,9 @@ keywords:
   - monica
   - religion-hip-hop-book
 pdf: winters.pdf
-sort_id:
+sort_id: 12
 volume: 13
 issue: 2
-season: spring
+season: summer
 pages: 126-128
 ---

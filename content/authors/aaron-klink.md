@@ -1,6 +1,6 @@
 ---
 name: Aaron Klink
-affiliation:
+affiliation: "Duke University Divinity School"
 bio:
 social:
   - title: "website"

@@ -1,6 +1,6 @@
 ---
 name: Tamas Nagypal
-affiliation:
+affiliation: "York University, Toronto"
 bio:
 social:
   - title: "website"

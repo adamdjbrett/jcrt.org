@@ -9,9 +9,9 @@ keywords:
   - carl-a
   - postmodernism-literature
 pdf: taylor.raschke.pdf
-sort_id:
+sort_id: 09
 volume: 12
 issue: 3
-season: summer
+season: spring
 pages:
 ---

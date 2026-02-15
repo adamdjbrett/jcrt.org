@@ -32,7 +32,7 @@ keywords:
   - universities-and-colleges-curricula
   - vahanian
 pdf: grimshaw.pdf
-sort_id:
+sort_id: 19
 volume: 10
 issue: 3
 season: summer

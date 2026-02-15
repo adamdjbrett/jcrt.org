@@ -17,7 +17,7 @@ keywords:
   - exhibitions
   - monuments
 pdf: simon.pdf
-sort_id:
+sort_id: 03
 volume: 10
 issue: 2
 season: spring

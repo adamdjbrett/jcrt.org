@@ -1,6 +1,6 @@
 ---
 name: Gavin Hyman
-affiliation: "University of Lancaster"
+affiliation: "University of Lancaster, UK"
 bio:
 social:
   - title: "website"

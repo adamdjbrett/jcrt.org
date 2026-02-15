@@ -24,7 +24,7 @@ keywords:
   - 1976
   - ha-gglund
 pdf: finer.pdf
-sort_id:
+sort_id: 09
 volume: 11
 issue: 2
 season: spring

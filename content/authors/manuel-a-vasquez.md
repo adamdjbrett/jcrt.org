@@ -1,6 +1,6 @@
 ---
 name: Manuel A. Vásquez
-affiliation:
+affiliation: "University of Florida"
 bio:
 social:
   - title: "website"

@@ -1,6 +1,6 @@
 ---
 name: Xavier Aldana Reyes
-affiliation:
+affiliation: "Manchester Metropolitan University"
 bio:
 social:
   - title: "website"

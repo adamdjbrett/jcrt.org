@@ -1,6 +1,6 @@
 ---
 name: Mario D'Amato
-affiliation:
+affiliation: "Rollins College"
 bio:
 social:
   - title: "website"

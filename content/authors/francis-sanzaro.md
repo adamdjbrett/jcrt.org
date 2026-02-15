@@ -1,6 +1,6 @@
 ---
 name: Francis Sanzaro
-affiliation:
+affiliation: "Syracuse University"
 bio:
 social:
   - title: "website"

@@ -1,6 +1,6 @@
 ---
 name: A Davis Lewis
-affiliation:
+affiliation: "Boston University"
 bio:
 social:
   - title: "website"

@@ -1,6 +1,6 @@
 ---
 name: Matthew Abrahams
-affiliation:
+affiliation: "DePaul University"
 bio:
 social:
   - title: "website"

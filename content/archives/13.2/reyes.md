@@ -8,9 +8,9 @@ keywords:
   - homosexuality-in-motion-pictures
   - zombie-films
 pdf: reyes.pdf
-sort_id:
+sort_id: 02
 volume: 13
 issue: 2
-season: spring
+season: summer
 pages: 1-12
 ---

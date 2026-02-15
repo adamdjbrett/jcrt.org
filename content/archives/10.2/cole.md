@@ -16,7 +16,7 @@ keywords:
   - sigmund
   - visions
 pdf: cole.pdf
-sort_id:
+sort_id: 07
 volume: 10
 issue: 2
 season: spring

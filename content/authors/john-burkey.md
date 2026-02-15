@@ -1,6 +1,6 @@
 ---
 name: John Burkey
-affiliation:
+affiliation: "Siena College"
 bio:
 social:
   - title: "website"

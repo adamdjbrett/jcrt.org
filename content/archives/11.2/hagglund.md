@@ -27,7 +27,7 @@ keywords:
   - john-d
   - possibility
 pdf: hagglund.pdf
-sort_id:
+sort_id: 05
 volume: 11
 issue: 2
 season: spring

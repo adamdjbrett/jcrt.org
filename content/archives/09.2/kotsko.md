@@ -30,9 +30,9 @@ keywords:
   - saint-theology-law-and-gospel
   - love-in-religion
 pdf: kotsko.pdf
-sort_id:
+sort_id: 03
 volume: 9
 issue: 2
-season: spring
+season: summer
 pages:
 ---

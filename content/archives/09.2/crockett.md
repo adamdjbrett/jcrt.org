@@ -18,9 +18,9 @@ keywords:
   - radical-orthodoxy-movement
   - sublime
 pdf: crockett.pdf
-sort_id:
+sort_id: 04
 volume: 9
 issue: 2
-season: spring
+season: summer
 pages:
 ---

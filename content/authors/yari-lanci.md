@@ -1,6 +1,6 @@
 ---
 name: Yari Lanci
-affiliation:
+affiliation: "Goldsmiths, University of London"
 bio:
 social:
   - title: "website"

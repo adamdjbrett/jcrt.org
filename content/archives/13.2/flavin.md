@@ -8,9 +8,9 @@ keywords:
   - zombies
   - zombies-in-literature
 pdf: flavin.pdf
-sort_id:
+sort_id: 08
 volume: 13
 issue: 2
-season: spring
+season: summer
 pages: 82-95
 ---

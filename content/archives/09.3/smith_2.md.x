@@ -8,6 +8,6 @@ pdf: smith.pdf
 sort_id:
 volume: 9
 issue: 3
-season: summer
+season: fall
 pages:
 ---

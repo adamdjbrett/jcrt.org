@@ -31,9 +31,9 @@ keywords:
   - reflection-philosophy
   - scho-n
 pdf: cochrane.pdf
-sort_id:
+sort_id: 10
 volume: 12
 issue: 2
-season: spring
+season: fall
 pages: 148-162
 ---

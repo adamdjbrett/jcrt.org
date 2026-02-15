@@ -1,6 +1,6 @@
 ---
 name: Ford Turrell
-affiliation:
+affiliation: "Nashville State Community College "
 bio:
 social:
   - title: "website"

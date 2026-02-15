@@ -10,9 +10,9 @@ keywords:
   - drone-aircraft
   - war-on-terrorism
 pdf: smith.pdf
-sort_id:
+sort_id: 05
 volume: 12
 issue: 3
-season: summer
+season: spring
 pages: 84-119
 ---

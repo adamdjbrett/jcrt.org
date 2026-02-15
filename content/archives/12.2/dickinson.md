@@ -1,21 +1,38 @@
 ---
-title: "INTRODUCTION."
-author: "T. WILSON DICKINSON"
+title: "TEACHING WITH FEAR AND TREMBLING: THE TRIAL OF ABRAHAM, THE READER, AND THE PROFESSOR"
+author: "T Wilson Dickinson"
 affilation:
-abstract: "The author introduces articles featured in this issue including the work of scholars which examines the philosophical frameworks undergirding the pedagogical practices used in the religious studies classroom and how these practices may be transformed so that they can help students apply what they have learned as they negotiate complex ethical situations outside the academe."
+abstract: 
 keywords:
-  - religion
   - students
-  - ethics
-  - scholars
   - education
+  - 1813-1855
+  - kierkegaard
+  - s-ren
   - administration-of-education-programs
   - all-other-miscellaneous-schools-and-instruction
   - educational-support-services
+  - college-teachers
+  - fear-trembling-book-kierkegaard
+  - paraenesis
+  - reading
+  - consumption-economics
+  - knowledge
+  - theory-of
+  - 1724-1804
+  - immanuel
+  - kant
+  - education-methods
+  - education-philosophy
+  - biblical-patriarch
+  - abraham
+  - categories-philosophy
+  - lectures-and-lecturing
+  - thought-and-thinking
 pdf: dickinson.pdf
-sort_id:
+sort_id: 07
 volume: 12
 issue: 2
-season: spring
-pages: 1-4
+season: fall
+pages: 85-105
 ---

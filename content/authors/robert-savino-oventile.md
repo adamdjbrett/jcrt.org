@@ -1,6 +1,6 @@
 ---
 name: Robert Savino Oventile
-affiliation:
+affiliation: "Pasadena City College"
 bio:
 social:
   - title: "website"

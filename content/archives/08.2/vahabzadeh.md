@@ -15,7 +15,7 @@ keywords:
   - fundamentalism-islam
   - social-conflict
 pdf: vahabzadeh.pdf
-sort_id:
+sort_id: 02
 volume: 8
 issue: 2
 season: spring

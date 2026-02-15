@@ -11,9 +11,9 @@ keywords:
   - walking-dead
   - the-apostle
 pdf: shillock.pdf
-sort_id:
+sort_id: 10
 volume: 13
 issue: 2
-season: spring
+season: summer
 pages:
 ---

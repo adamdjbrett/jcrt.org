@@ -1,7 +1,7 @@
 ---
 name: Christopher Demuth Rodkey
-affiliation:
-bio:
+affiliation: "Lebanon Valley College, Drew University "
+bio: 
 social:
   - title: "website"
     url: ""

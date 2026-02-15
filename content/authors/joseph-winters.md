@@ -1,6 +1,6 @@
 ---
 name: Joseph Winters
-affiliation:
+affiliation: "University of North Carolina, Charlotte"
 bio:
 social:
   - title: "website"

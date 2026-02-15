@@ -1,6 +1,6 @@
 ---
 name: Steven Gimbel
-affiliation:
+affiliation: "Gettysburg College"
 bio:
 social:
   - title: "website"

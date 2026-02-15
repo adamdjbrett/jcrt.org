@@ -1,6 +1,6 @@
 ---
 name: Ronald Charles
-affiliation:
+affiliation: "University of Toronto"
 bio:
 social:
   - title: "website"

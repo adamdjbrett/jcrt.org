@@ -27,8 +27,7 @@ keywords:
   - pier-paolo
   - sex-and-society
 pdf: blanton.pdf
-sort_id:
-volume: 11
+sort_id: 04
 issue: 1
 season: winter
 pages:

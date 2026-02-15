@@ -18,9 +18,9 @@ keywords:
   - michael
   - negri
 pdf: fox.pdf
-sort_id:
+sort_id: 02
 volume: 9
 issue: 2
-season: spring
+season: summer
 pages:
 ---

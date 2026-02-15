@@ -1,6 +1,6 @@
 ---
 name: Rebecca Todd Peters
-affiliation:
+affiliation: "Elon University"
 bio:
 social:
   - title: "website"

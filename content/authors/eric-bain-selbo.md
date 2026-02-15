@@ -1,6 +1,6 @@
 ---
 name: Eric Bain-Selbo
-affiliation:
+affiliation: "Western Kentucky University"
 bio:
 social:
   - title: "website"

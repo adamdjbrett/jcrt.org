@@ -1,6 +1,6 @@
 ---
 name: Jason Alvis
-affiliation:
+affiliation: "University of Vienna, Univeristy of Denver"
 bio:
 social:
   - title: "website"

@@ -31,9 +31,9 @@ keywords:
   - educational-technology
   - universities-and-colleges-evaluation
 pdf: taylor-kosky.pdf
-sort_id:
+sort_id: 02
 volume: 12
 issue: 2
-season: spring
+season: fall
 pages:
 ---

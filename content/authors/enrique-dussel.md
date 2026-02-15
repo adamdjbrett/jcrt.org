@@ -1,6 +1,6 @@
 ---
 name: Enrique Dussel
-affiliation:
+affiliation: "Department of Philosophy (UAM-Iztapalapa, Mexico)"
 bio:
 social:
   - title: "website"

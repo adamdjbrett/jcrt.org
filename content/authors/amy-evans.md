@@ -1,6 +1,6 @@
 ---
 name: Amy Evans
-affiliation:
+affiliation: " Kings College, London"
 bio:
 social:
   - title: "website"

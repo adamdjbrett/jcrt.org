@@ -20,7 +20,7 @@ keywords:
   - visions-in-literature
   - war-and-psychology
 pdf: borsuk.pdf
-sort_id:
+sort_id: 06
 volume: 10
 issue: 2
 season: spring

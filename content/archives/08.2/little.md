@@ -20,7 +20,7 @@ keywords:
   - schiavo
   - terri
 pdf: little.pdf
-sort_id:
+sort_id: 07
 volume: 8
 issue: 2
 season: spring

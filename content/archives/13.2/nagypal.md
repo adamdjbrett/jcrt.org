@@ -8,9 +8,9 @@ keywords:
   - dawn-of-the-dead-film
   - 28-days-later-film
 pdf: nagypal.pdf
-sort_id:
+sort_id: 03
 volume: 13
 issue: 2
-season: spring
+season: summer
 pages: 13-24
 ---

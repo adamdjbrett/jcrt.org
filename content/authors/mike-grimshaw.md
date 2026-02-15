@@ -1,6 +1,6 @@
 ---
 name: Mike Grimshaw
-affiliation:
+affiliation: "University of Canterbury, New Zealand"
 bio:
 social:
   - title: "website"

@@ -1,6 +1,6 @@
 ---
 name: Gianni Vattimo
-affiliation:
+affiliation: "The University of Turin"
 bio:
 social:
   - title: "website"

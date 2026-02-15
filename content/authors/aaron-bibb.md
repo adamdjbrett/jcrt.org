@@ -1,6 +1,6 @@
 ---
 name: Aaron Bibb
-affiliation:
+affiliation: "University of Wisconsin-Madison"
 bio:
 social:
   - title: "website"

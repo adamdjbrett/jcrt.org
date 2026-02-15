@@ -1,6 +1,6 @@
 ---
 name: Amy M. Green
-affiliation:
+affiliation: "University of Nevada, Las Vegas"
 bio:
 social:
   - title: "website"

@@ -1,7 +1,7 @@
 ---
 name: Tamsin Jones
-affiliation: "Trinity College"
-bio:
+affiliation: "Trinity College, University of Victoria"
+bio: 
 social:
   - title: "website"
     url: ""

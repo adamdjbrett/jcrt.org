@@ -1,6 +1,6 @@
 ---
 name: Adam Kotsko
-affiliation:
+affiliation: "Shimer College, Chicago Theological Seminary "
 bio:
 social:
   - title: "website"

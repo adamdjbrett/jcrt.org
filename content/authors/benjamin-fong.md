@@ -1,6 +1,6 @@
 ---
 name: Benjamin Fong
-affiliation:
+affiliation: "Columbia University"
 bio:
 social:
   - title: "website"

@@ -1,6 +1,6 @@
 ---
 name: J Aaron Simmons
-affiliation: "FURMAN UNIVERSITY"
+affiliation: "FURMAN UNIVERSITY, Hendrix College, Vanderbilt University"
 bio:
 social:
   - title: "website"

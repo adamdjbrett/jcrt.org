@@ -1,6 +1,6 @@
 ---
 name: Wilson Dickinson
-affiliation:
+affiliation: "Syracuse University"
 bio:
 social:
   - title: "website"

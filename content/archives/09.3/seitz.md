@@ -5,9 +5,9 @@ affilation:
 abstract:
 keywords: []
 pdf: seitz.pdf
-sort_id:
+sort_id: 08
 volume: 9
 issue: 3
-season: summer
+season: fall
 pages:
 ---

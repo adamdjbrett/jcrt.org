@@ -1,6 +1,6 @@
 ---
 name: Joshua Nichols
-affiliation:
+affiliation: ":The University of Toronto"
 bio:
 social:
   - title: "website"

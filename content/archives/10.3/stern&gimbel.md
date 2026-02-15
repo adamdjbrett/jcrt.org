@@ -14,7 +14,7 @@ keywords:
   - jews-identity
   - judaism-history
 pdf: stern&gimbel.pdf
-sort_id:
+sort_id: 03
 volume: 10
 issue: 3
 season: summer

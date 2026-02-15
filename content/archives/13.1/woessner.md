@@ -10,7 +10,7 @@ keywords:
   - rafael
   - woman-killing-in-jua-rez-theodicy-at-the-border-book
 pdf: woessner.pdf
-sort_id:
+sort_id: 09
 volume: 13
 issue: 1
 season: winter

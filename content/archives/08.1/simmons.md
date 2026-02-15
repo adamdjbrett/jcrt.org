@@ -16,7 +16,7 @@ keywords:
   - david-f
   - jesus-christ-history-of-doctrines
 pdf: simmons.pdf
-sort_id:
+sort_id: 08
 volume: 8
 issue: 1
 season: winter

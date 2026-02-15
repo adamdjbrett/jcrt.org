@@ -1,6 +1,6 @@
 ---
 name: Lauri Siisiäinen
-affiliation:
+affiliation: "University of Jyväskylä"
 bio:
 social:
   - title: "website"

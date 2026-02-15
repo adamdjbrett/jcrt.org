@@ -13,9 +13,9 @@ keywords:
   - classroom-environment
   - teaching-methods
 pdf: mackendrick.pdf
-sort_id:
+sort_id: 08
 volume: 12
 issue: 2
-season: spring
+season: fall
 pages: 106-121
 ---

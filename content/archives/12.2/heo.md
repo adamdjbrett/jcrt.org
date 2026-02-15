@@ -14,9 +14,9 @@ keywords:
   - geertz
   - michel-de
 pdf: heo.pdf
-sort_id:
+sort_id: 13
 volume: 12
 issue: 2
-season: spring
+season: fall
 pages: 187-195
 ---

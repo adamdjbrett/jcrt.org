@@ -9,9 +9,9 @@ keywords:
   - sloterdijk
   - translations
 pdf: raschke.pdf
-sort_id:
+sort_id: 01
 volume: 12
 issue: 3
-season: summer
+season: spring
 pages: 1-19
 ---

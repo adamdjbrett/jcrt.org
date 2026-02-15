@@ -1,6 +1,6 @@
 ---
 name: Drew M Dalton
-affiliation:
+affiliation: "Florida Southern College"
 bio:
 social:
   - title: "website"

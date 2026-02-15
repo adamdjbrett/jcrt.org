@@ -1,6 +1,6 @@
 ---
 name: Amaranth Borsuk
-affiliation:
+affiliation: "University of Southern California"
 bio:
 social:
   - title: "website"

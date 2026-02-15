@@ -1,6 +1,6 @@
 ---
-name: Ben Stahlberg
-affiliation:
+name: Benjamin Stahlberg
+affiliation: "Syracuse University"
 bio:
 social:
   - title: "website"

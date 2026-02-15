@@ -1,6 +1,6 @@
 ---
 name: Daniel J McClain
-affiliation:
+affiliation: "The Catholic University of America"
 bio:
 social:
   - title: "website"

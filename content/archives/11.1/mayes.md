@@ -37,7 +37,7 @@ keywords:
   - shepherds-religious-aspects-judaism
   - violence-and-religion
 pdf: mayes.pdf
-sort_id:
+sort_id: 07
 volume: 11
 issue: 1
 season: winter

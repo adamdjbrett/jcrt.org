@@ -18,6 +18,6 @@ pdf: boer.pdf
 sort_id:
 volume: 9
 issue: 2
-season: spring
+season: summer
 pages:
 ---

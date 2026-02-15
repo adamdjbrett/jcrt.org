@@ -1,6 +1,6 @@
 ---
 name: Mario Costa
-affiliation:
+affiliation: "Drew University"
 bio:
 social:
   - title: "website"

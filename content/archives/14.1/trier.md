@@ -8,9 +8,9 @@ keywords:
   - republic
   - the-book-plato
 pdf: trier.pdf
-sort_id:
+sort_id: 08
 volume: 14
 issue: 1
-season: spring
+season: fall
 pages:
 ---

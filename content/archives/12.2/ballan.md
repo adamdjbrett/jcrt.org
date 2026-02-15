@@ -28,9 +28,9 @@ keywords:
   - guy
   - spectacular
 pdf: ballan.pdf
-sort_id:
+sort_id: 12
 volume: 12
 issue: 2
-season: spring
+season: fall
 pages: 174-186
 ---

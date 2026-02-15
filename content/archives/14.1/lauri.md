@@ -15,9 +15,9 @@ keywords:
   - giorgio
   - governmentality
 pdf: lauri.pdf
-sort_id:
+sort_id: 05 
 volume: 14
 issue: 1
-season: spring
+season: fall
 pages: 53-69
 ---

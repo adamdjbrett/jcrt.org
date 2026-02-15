@@ -1,6 +1,6 @@
 ---
 name: Zdravko Planinc
-affiliation:
+affiliation: "McMaster University"
 bio:
 social:
   - title: "website"

@@ -10,9 +10,9 @@ keywords:
   - philosophers
   - less-than-nothing-hegel-the-shadow-of-dialectical-materialism-book
 pdf: kotsko.pdf
-sort_id:
+sort_id: 15
 volume: 13
 issue: 2
-season: spring
+season: summer
 pages: 96-101
 ---

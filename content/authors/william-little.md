@@ -1,6 +1,6 @@
 ---
 name: William Little
-affiliation:
+affiliation: "University of Victoria"
 bio:
 social:
   - title: "website"

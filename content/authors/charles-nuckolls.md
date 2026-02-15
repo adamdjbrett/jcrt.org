@@ -1,6 +1,6 @@
 ---
 name: Charles Nuckolls
-affiliation:
+affiliation: "Brigham Young University"
 bio:
 social:
   - title: "website"

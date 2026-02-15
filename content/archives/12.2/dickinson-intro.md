@@ -30,9 +30,9 @@ keywords:
   - lectures-and-lecturing
   - thought-and-thinking
 pdf: dickinson-intro.pdf
-sort_id:
+sort_id: 01
 volume: 12
 issue: 2
-season: spring
+season: fall
 pages: 85-105
 ---

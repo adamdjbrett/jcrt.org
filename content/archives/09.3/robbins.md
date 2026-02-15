@@ -4,10 +4,9 @@ author: "Jeffrey W Robbins"
 affilation:
 abstract:
 keywords: []
-pdf: robbins.pdf
-sort_id:
+pdf: robbins. 12
 volume: 9
 issue: 3
-season: summer
+season: fall
 pages:
 ---

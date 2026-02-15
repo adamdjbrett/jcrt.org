@@ -7,9 +7,9 @@ keywords:
   - demographic-transition
   - total-fertility-rate-humans
 pdf: ramos.pdf
-sort_id:
+sort_id: 07
 volume: 12
 issue: 3
-season: summer
+season: spring
 pages: 125-139
 ---

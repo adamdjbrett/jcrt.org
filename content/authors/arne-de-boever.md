@@ -1,6 +1,6 @@
 ---
 name: Arne De Boever
-affiliation:
+affiliation: "California Institute of the Arts"
 bio:
 social:
   - title: "website"

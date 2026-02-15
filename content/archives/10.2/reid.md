@@ -18,7 +18,7 @@ keywords:
   - spiritualism
   - science-and-civilization
 pdf: reid.pdf
-sort_id:
+sort_id: 01
 volume: 10
 issue: 2
 season: spring

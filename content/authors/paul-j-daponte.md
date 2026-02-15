@@ -1,6 +1,6 @@
 ---
 name: Paul J DaPonte
-affiliation:
+affiliation: "Boston College"
 bio:
 social:
   - title: "website"

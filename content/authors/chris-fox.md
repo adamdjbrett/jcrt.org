@@ -1,6 +1,6 @@
 ---
 name: Chris Fox
-affiliation:
+affiliation: "Newman University, Wichita, KS"
 bio:
 social:
   - title: "website"

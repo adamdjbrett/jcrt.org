@@ -1,6 +1,6 @@
 ---
 name: Aaron V Burton
-affiliation:
+affiliation: "Bowling Green State University"
 bio:
 social:
   - title: "website"

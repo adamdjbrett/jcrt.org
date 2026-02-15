@@ -1,6 +1,6 @@
 ---
 name: Peyman Vahabzadeh
-affiliation:
+affiliation: "University of Victoria"
 bio:
 social:
   - title: "website"

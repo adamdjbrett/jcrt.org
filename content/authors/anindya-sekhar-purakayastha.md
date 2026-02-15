@@ -1,6 +1,6 @@
 ---
 name: Anindya Sekhar Purakayastha
-affiliation:
+affiliation: "SKB University, India"
 bio:
 social:
   - title: "website"

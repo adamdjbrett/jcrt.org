@@ -1,6 +1,6 @@
 ---
 name: Stephen P Shoemaker
-affiliation:
+affiliation: "Harvard University"
 bio:
 social:
   - title: "website"

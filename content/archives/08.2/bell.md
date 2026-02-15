@@ -22,7 +22,7 @@ keywords:
   - civil-society
   - jesus-christ-resurrection
 pdf: bell.pdf
-sort_id:
+sort_id: 05
 volume: 8
 issue: 2
 season: spring

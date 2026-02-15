@@ -1,6 +1,6 @@
 ---
 name: Jeffrey Hanson
-affiliation:
+affiliation: "Boston College"
 bio:
 social:
   - title: "website"

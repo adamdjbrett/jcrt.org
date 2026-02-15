@@ -10,9 +10,9 @@ keywords:
   - romero
   - night-of-the-living-dead-film-1968
 pdf: cisney.pdf
-sort_id:
+sort_id: 07
 volume: 13
 issue: 2
-season: spring
+season: summer
 pages: 58-81
 ---

@@ -8,9 +8,9 @@ keywords:
   - mark
   - terrorism
 pdf: featherstone.pdf
-sort_id:
+sort_id: 06
 volume: 14
 issue: 1
-season: spring
+season: fall
 pages: 70-83
 ---

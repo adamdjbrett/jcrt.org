@@ -1,6 +1,6 @@
 ---
 name: Hermen Kroesbergen
-affiliation:
+affiliation: "Theological Academic Institute of the Protestant Church in the Netherlands"
 bio:
 social:
   - title: "website"

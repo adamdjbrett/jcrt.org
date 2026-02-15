@@ -8,7 +8,7 @@ keywords:
   - agonism-political-science
   - mass-incarceration
 pdf: taylor.pdf
-sort_id:
+sort_id: 07
 volume: 13
 issue: 1
 season: winter

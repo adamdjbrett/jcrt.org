@@ -1,6 +1,6 @@
 ---
 name: Larry T. Shillock
-affiliation:
+affiliation: "Wilson College"
 bio:
 social:
   - title: "website"

@@ -1,6 +1,6 @@
 ---
 name: Hent de Vries
-affiliation:
+affiliation: "Johns Hopkins University"
 bio:
 social:
   - title: "website"

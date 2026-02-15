@@ -1,6 +1,6 @@
 ---
 name: Shannon McRae
-affiliation:
+affiliation: "SUNY, Fredonia"
 bio:
 social:
   - title: "website"

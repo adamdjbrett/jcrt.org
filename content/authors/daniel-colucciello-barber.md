@@ -1,6 +1,6 @@
 ---
 name: Daniel Colucciello Barber
-affiliation:
+affiliation: "ICI Berlin for Cultural Inquiry, Marymont Manhattan College"
 bio:
 social:
   - title: "website"

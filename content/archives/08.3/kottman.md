@@ -17,9 +17,9 @@ keywords:
   - tragedy
   - jews-civil-rights
 pdf: Kottman.pdf
-sort_id:
+sort_id: 05
 volume: 8
 issue: 3
-season: summer
+season: fall
 pages:
 ---

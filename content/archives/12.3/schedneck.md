@@ -9,9 +9,9 @@ keywords:
   - globalization
   - rites-ceremonies
 pdf: schedneck.pdf
-sort_id:
+sort_id: 03
 volume: 12
 issue: 3
-season: summer
+season: spring
 pages: 36-54
 ---

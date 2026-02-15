@@ -1,6 +1,6 @@
 ---
 name: Gary Grieve-Carlson
-affiliation:
+affiliation: "Lebanon Valley College"
 bio:
 social:
   - title: "website"

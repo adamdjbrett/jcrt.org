@@ -1,6 +1,6 @@
 ---
 name: Sharon L. Coggan
-affiliation:
+affiliation: "University of Colorado Denve"
 bio:
 social:
   - title: "website"

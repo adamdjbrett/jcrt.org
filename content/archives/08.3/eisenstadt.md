@@ -20,9 +20,9 @@ keywords:
   - 1564-1616-characters-shylock
   - 1564-1616-characters
 pdf: Eisenstadt.pdf
-sort_id:
+sort_id: 01
 volume: 8
 issue: 3
-season: summer
+season: fall
 pages:
 ---

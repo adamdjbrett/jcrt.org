@@ -26,7 +26,7 @@ keywords:
   - henri
   - malcolm
 pdf: barber&smith.pdf
-sort_id:
+sort_id: 01
 volume: 10
 issue: 3
 season: summer

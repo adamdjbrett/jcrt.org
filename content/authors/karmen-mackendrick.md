@@ -1,6 +1,6 @@
 ---
 name: Karmen MacKendrick
-affiliation:
+affiliation: "Le Moyne College"
 bio:
 social:
   - title: "website"

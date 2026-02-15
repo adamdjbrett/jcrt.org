@@ -16,7 +16,7 @@ keywords:
   - saint-theology-church
   - truth-religion
 pdf: fuggle.pdf
-sort_id:
+sort_id: 10
 volume: 11
 issue: 1
 season: winter

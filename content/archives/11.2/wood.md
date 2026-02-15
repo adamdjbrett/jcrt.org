@@ -33,7 +33,7 @@ keywords:
   - theocracy
   - tradition-islam
 pdf: wood.pdf
-sort_id:
+sort_id: 07
 volume: 11
 issue: 2
 season: spring

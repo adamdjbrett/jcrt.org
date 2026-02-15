@@ -22,7 +22,7 @@ keywords:
   - occultism
   - trance
 pdf: mcnellis.pdf
-sort_id:
+sort_id: 05
 volume: 10
 issue: 2
 season: spring

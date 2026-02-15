@@ -1,6 +1,6 @@
 ---
 name: Simon A Wood
-affiliation:
+affiliation: "Univeristy of Nebraska-Lincoln"
 bio:
 social:
   - title: "website"

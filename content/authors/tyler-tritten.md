@@ -1,6 +1,6 @@
 ---
 name: Tyler Tritten
-affiliation:
+affiliation: "Alberts-Ludwigs-Universität Freiburg"
 bio:
 social:
   - title: "website"

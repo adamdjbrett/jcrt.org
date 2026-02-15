@@ -14,7 +14,7 @@ keywords:
   - music-and-technology
   - virtual-reality
 pdf: delpech-ramey&miller.pdf
-sort_id:
+sort_id: 12
 volume: 10
 issue: 3
 season: summer

@@ -11,9 +11,9 @@ keywords:
   - new-england-literature-history-criticism
   - zachary-mcleod
 pdf: schyllert.pdf
-sort_id:
+sort_id: 13
 volume: 14
 issue: 1
-season: spring
+season: fall
 pages: 200-203
 ---

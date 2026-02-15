@@ -1,6 +1,6 @@
 ---
 name: Diane E Johnson
-affiliation:
+affiliation: "Lebanon Valley College"
 bio:
 social:
   - title: "website"

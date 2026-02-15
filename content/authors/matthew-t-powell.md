@@ -1,6 +1,6 @@
 ---
 name: Matthew T Powell
-affiliation:
+affiliation: "Walsh University"
 bio:
 social:
   - title: "website"

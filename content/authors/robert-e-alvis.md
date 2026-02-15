@@ -1,6 +1,6 @@
 ---
 name: Robert E Alvis
-affiliation:
+affiliation: ":Saint Meinrad School of Theology"
 bio:
 social:
   - title: "website"

@@ -5,7 +5,7 @@ affilation:
 abstract:
 keywords: []
 pdf: nayar.pdf
-sort_id:
+sort_id: 06
 volume: 8
 issue: 1
 season: winter

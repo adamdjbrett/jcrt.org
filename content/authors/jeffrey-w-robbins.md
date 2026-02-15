@@ -1,6 +1,6 @@
 ---
 name: Jeffrey W Robbins
-affiliation:
+affiliation: "Lebanon Valley College"
 bio:
 social:
   - title: "website"
