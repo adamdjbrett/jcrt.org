@@ -1,6 +1,6 @@
 ---
 name: Adam S Miller
-affiliation:
+affiliation: "Collin College, McKinney, TX"
 bio:
 social:
   - title: "website"

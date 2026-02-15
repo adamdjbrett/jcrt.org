@@ -1,6 +1,6 @@
 ---
 name: Jonathan A Seitz
-affiliation:
+affiliation: "Centenary College"
 bio:
 social:
   - title: "website"

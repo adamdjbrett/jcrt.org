@@ -16,9 +16,9 @@ keywords:
   - democracy-and-religion
   - west
 pdf: Keller.pdf
-sort_id:
+sort_id: 09
 volume: 8
 issue: 3
-season: summer
+season: fall
 pages:
 ---

@@ -23,9 +23,9 @@ keywords:
   - jews-legal-status
   - schmitt
 pdf: Lupton.pdf
-sort_id:
+sort_id: 04
 volume: 8
 issue: 3
-season: summer
+season: fall
 pages:
 ---

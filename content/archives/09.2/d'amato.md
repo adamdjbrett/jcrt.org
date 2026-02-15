@@ -18,9 +18,9 @@ keywords:
   - religions-comparative-studies
   - tipit-aka
 pdf: d'amato.pdf
-sort_id:
+sort_id: 01
 volume: 9
 issue: 2
-season: spring
+season: summer
 pages:
 ---

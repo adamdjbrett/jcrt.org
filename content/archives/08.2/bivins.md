@@ -17,7 +17,7 @@ keywords:
   - jack-t
   - propaganda
 pdf: bivins.pdf
-sort_id:
+sort_id: 06
 volume: 8
 issue: 2
 season: spring

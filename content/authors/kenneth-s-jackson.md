@@ -1,6 +1,6 @@
 ---
 name: Kenneth S Jackson
-affiliation:
+affiliation: "Wayne State University"
 bio:
 social:
   - title: "website"

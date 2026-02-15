@@ -1,6 +1,6 @@
 ---
 name: Jeff Ritchie
-affiliation:
+affiliation: "Lebanon Valley College "
 bio:
 social:
   - title: "website"

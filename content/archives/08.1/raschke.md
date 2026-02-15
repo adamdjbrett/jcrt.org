@@ -20,7 +20,7 @@ keywords:
   - theology-terminology
   - saint-theology-god
 pdf: raschke.pdf
-sort_id:
+sort_id: 03
 volume: 8
 issue: 1
 season: winter

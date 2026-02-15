@@ -1,6 +1,6 @@
 ---
 name: David B Dillard-Wright
-affiliation:
+affiliation: "Drew University"
 bio:
 social:
   - title: "website"

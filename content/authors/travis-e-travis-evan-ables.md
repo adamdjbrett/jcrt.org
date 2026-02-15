@@ -1,6 +1,6 @@
 ---
 name: Travis E (Travis Evan) Ables
-affiliation:
+affiliation: "Vanderbilt University"
 bio:
 social:
   - title: "website"

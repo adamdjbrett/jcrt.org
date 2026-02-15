@@ -1,6 +1,6 @@
 ---
 name: Paul A Kottman
-affiliation:
+affiliation: "New School University"
 bio:
 social:
   - title: "website"

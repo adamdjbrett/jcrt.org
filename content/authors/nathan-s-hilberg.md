@@ -1,6 +1,6 @@
 ---
 name: Nathan S Hilberg
-affiliation:
+affiliation: "University of Pittsburgh"
 bio:
 social:
   - title: "website"

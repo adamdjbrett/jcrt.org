@@ -5,9 +5,9 @@ affilation:
 abstract:
 keywords: []
 pdf: rodkey.pdf
-sort_id:
+sort_id: 07
 volume: 9
 issue: 2
-season: spring
+season: summer
 pages:
 ---

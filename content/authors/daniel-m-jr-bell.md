@@ -1,6 +1,6 @@
 ---
 name: Daniel M Jr Bell
-affiliation:
+affiliation: "Lutheran Theological Southern Seminary"
 bio:
 social:
   - title: "website"

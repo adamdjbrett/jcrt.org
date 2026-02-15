@@ -5,9 +5,9 @@ affilation:
 abstract:
 keywords: []
 pdf: mccullough.pdf
-sort_id:
+sort_id: 13
 volume: 9
 issue: 3
-season: summer
+season: fall
 pages:
 ---

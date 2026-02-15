@@ -1,6 +1,6 @@
 ---
 name: Matt Waggoner
-affiliation:
+affiliation: "Albertus Magnus College"
 bio:
 social:
   - title: "website"

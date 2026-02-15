@@ -21,7 +21,7 @@ keywords:
   - psychoanalysis-and-literature
   - self-in-literature
 pdf: mcrae.pdf
-sort_id:
+sort_id: 04
 volume: 10
 issue: 2
 season: spring

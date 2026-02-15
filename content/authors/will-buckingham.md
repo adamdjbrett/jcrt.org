@@ -1,6 +1,6 @@
 ---
 name: Will Buckingham
-affiliation:
+affiliation: "Staffordshire University"
 bio:
 social:
   - title: "website"

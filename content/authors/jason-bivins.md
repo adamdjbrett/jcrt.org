@@ -1,6 +1,6 @@
 ---
 name: Jason Bivins
-affiliation:
+affiliation: "North Carolina State University"
 bio:
 social:
   - title: "website"

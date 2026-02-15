@@ -20,9 +20,9 @@ keywords:
   - horror
   - tragedy
 pdf: Planinc.pdf
-sort_id:
+sort_id: 03
 volume: 8
 issue: 3
-season: summer
+season: fall
 pages:
 ---

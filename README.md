@@ -146,4 +146,4 @@ The following issue has resulted from a conference in the fall of 2024.  The con
 - archives 16.1 15.2  done 
 - retrofixed 24 - 15.2 author associations
 - archives 15.1 14.2 done
-- archives 14.1 13.2 13.1 12.3 12.2 11.3 11.2 11.1 10.3 done
+- archives 14.1 13.2 13.1 12.3 12.2 11.3 11.2 11.1 10.3 10.2 9.3 9.1 8.3 8.2 8.1 done

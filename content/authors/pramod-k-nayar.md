@@ -1,6 +1,6 @@
 ---
 name: Pramod K Nayar
-affiliation:
+affiliation: "University of Hyderabad, India"
 bio:
 social:
   - title: "website"

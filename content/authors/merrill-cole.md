@@ -1,6 +1,6 @@
 ---
 name: Merrill Cole
-affiliation:
+affiliation: "Western Illinois University"
 bio:
 social:
   - title: "website"

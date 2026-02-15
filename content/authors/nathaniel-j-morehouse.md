@@ -1,6 +1,6 @@
 ---
 name: Nathaniel J Morehouse
-affiliation:
+affiliation: "University of Manitoba"
 bio:
 social:
   - title: "website"

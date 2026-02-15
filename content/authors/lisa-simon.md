@@ -1,6 +1,6 @@
 ---
 name: Lisa Simon
-affiliation:
+affiliation: " University of Missoula, Montana"
 bio:
 social:
   - title: "website"

@@ -1,6 +1,6 @@
 ---
 name: Russ Leo
-affiliation:
+affiliation: "Duke University"
 bio:
 social:
   - title: "website"

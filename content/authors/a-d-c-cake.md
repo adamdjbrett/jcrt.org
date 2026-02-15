@@ -1,6 +1,6 @@
 ---
 name: A D C Cake
-affiliation:
+affiliation: "Katholieke Universiteit Leuven, Belgium"
 bio:
 social:
   - title: "website"

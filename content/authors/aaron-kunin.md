@@ -1,6 +1,6 @@
 ---
 name: Aaron Kunin
-affiliation:
+affiliation: "Pomona College"
 bio:
 social:
   - title: "website"

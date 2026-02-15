@@ -1,6 +1,6 @@
 ---
 name: Arthur Horowitz
-affiliation:
+affiliation: "Pomona College"
 bio:
 social:
   - title: "website"

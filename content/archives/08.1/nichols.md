@@ -18,7 +18,7 @@ keywords:
   - dead-in-religion
   - spirits
 pdf: nichols.pdf
-sort_id:
+sort_id: 02
 volume: 8
 issue: 1
 season: winter

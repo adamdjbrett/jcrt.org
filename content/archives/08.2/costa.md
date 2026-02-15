@@ -19,7 +19,7 @@ keywords:
   - love-in-religion
   - power-philosophy
 pdf: costa.pdf
-sort_id:
+sort_id: 04
 volume: 8
 issue: 2
 season: spring

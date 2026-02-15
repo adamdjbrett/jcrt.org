@@ -18,7 +18,7 @@ keywords:
   - fredric
   - jameson
 pdf: davis-hardt.pdf
-sort_id:
+sort_id: 09
 volume: 8
 issue: 2
 season: spring

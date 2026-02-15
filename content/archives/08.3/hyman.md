@@ -5,9 +5,9 @@ affilation:
 abstract:
 keywords: []
 pdf: Hyman.pdf
-sort_id:
+sort_id: 11
 volume: 8
 issue: 3
-season: summer
+season: fall
 pages:
 ---

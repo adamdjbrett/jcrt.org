@@ -1,6 +1,6 @@
 ---
 name: Donna Bowman
-affiliation:
+affiliation: "University of Central Arkansas"
 bio:
 social:
   - title: "website"

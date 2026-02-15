@@ -9,7 +9,7 @@ keywords:
   - 1886-1961-bibliography
   - literature-and-society
 pdf: duncan-transcription.pdf
-sort_id:
+sort_id: 02
 volume: 10
 issue: 2
 season: spring

@@ -1,6 +1,6 @@
 ---
 name: Mark Kjellman
-affiliation:
+affiliation: "Roxbury Community College "
 bio:
 social:
   - title: "website"

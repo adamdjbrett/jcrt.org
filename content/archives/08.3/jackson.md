@@ -22,9 +22,9 @@ keywords:
   - 1564-1616-characters-shylock
   - converts-from-judaism
 pdf: Jackson.pdf
-sort_id:
+sort_id: 06
 volume: 8
 issue: 3
-season: summer
+season: fall
 pages:
 ---

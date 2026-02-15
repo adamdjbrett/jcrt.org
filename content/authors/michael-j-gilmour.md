@@ -1,6 +1,6 @@
 ---
 name: Michael J Gilmour
-affiliation:
+affiliation: "Providence College (Otterburne, Manitoba, Canada)"
 bio:
 social:
   - title: "website"

@@ -19,7 +19,7 @@ keywords:
   - spiritualism
   - world-war
 pdf: bibb.pdf
-sort_id:
+sort_id: 08
 volume: 10
 issue: 2
 season: spring

@@ -20,9 +20,9 @@ keywords:
   - sublime
   - 1969
 pdf: bielik-robson.pdf
-sort_id:
+sort_id: 05
 volume: 9
 issue: 2
-season: spring
+season: summer
 pages:
 ---
