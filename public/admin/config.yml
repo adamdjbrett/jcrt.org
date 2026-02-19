@@ -99,14 +99,9 @@ collections:
     identifier_field: "key"
     slug: "{{key}}"
     fields:
-      - {label: "Title", name: "title", widget: "string", hint: "Full name of the author."}
       - {label: "Name", name: "name", widget: "string", hint: "Author Name."}
-      - {label: "Description", name: "description", widget: "string", hint: "Description of authors example University of Denver."}
       - {label: "Affiliation", name: "affiliation", widget: "string", hint: "Affiliation."}
-      - {label: "Biography", name: "bio", widget: "string", hint: "Bio."}
-      - {label: "Orcid", name: "orcid", widget: "string", hint: "Orcid."}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Profile Image", name: "image", widget: "image"}
+      - {label: "Biography", name: "bio", widget: "text", hint: "Bio."}
       - label: "Social Links"
         name: "social"
         widget: "list"
@@ -115,13 +110,6 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Icon (Font Awesome)", name: "icon", widget: "string", hint: "e.g., fa-solid fa-envelope"}
           - {label: "URL", name: "url", widget: "string"}
-      - label: "Call-to-Action Button"
-        name: "button"
-        widget: "object"
-        fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "URL", name: "url", widget: "string"}
-      - {label: "Biography", name: "body", widget: "markdown", hint: "The main content/bio of the author."}
   - name: "pages"
     label: "Static Pages"
     folder: "content/pages"
@@ -155,7 +143,7 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Author Name", name: "author", widget: "string", hint: "Authors"}
       - {label: "Affiliation", name: "affiliation", widget: "string", required: false, hint: "Affiliation"}
-      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Abstract", name: "abstract", widget: "text"}
       - {label: "PDF File", name: "pdf", widget: "file", required: false, hint: "PDF file"}
       - {label: "Body", name: "body", widget: "markdown", required: false}
   - name: "metadata"
