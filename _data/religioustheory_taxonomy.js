@@ -53,38 +53,5 @@ function computePostTagsFromArchive(post) {
 }
 
 export default function () {
-	const dataPath = path.join(process.cwd(), "_data/theory_archive.json");
-	if (!fs.existsSync(dataPath)) {
-		return { tags: [], tagCounts: {}, authors: [] };
-	}
-
-	let data;
-	try {
-		data = JSON.parse(fs.readFileSync(dataPath, "utf8"));
-	} catch {
-		return { tags: [], tagCounts: {}, authors: [] };
-	}
-
-	const posts = Array.isArray(data?.posts) ? data.posts : [];
-
-	const tagCounts = new Map();
-	const authorsSet = new Set();
-
-	for (const post of posts) {
-		for (const tag of computePostTagsFromArchive(post)) {
-			if (!tag) continue;
-			tagCounts.set(tag, (tagCounts.get(tag) || 0) + 1);
-		}
-
-		const authorName = String(post?.authorData?.name || post?.author || "Editors").trim();
-		if (authorName) authorsSet.add(authorName);
-	}
-
-	const tags = [...tagCounts.keys()].sort((a, b) => {
-		const ca = tagCounts.get(a) || 0;
-		const cb = tagCounts.get(b) || 0;
-		return cb - ca || a.localeCompare(b);
-	});
-	const authors = [...authorsSet].sort((a, b) => a.localeCompare(b));
-	return { tags, tagCounts: Object.fromEntries(tagCounts), authors };
+	return { tags: [], tagCounts: {}, authors: [] };
 }

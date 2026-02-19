@@ -1,4 +1,5 @@
 import { DateTime } from "luxon";
+import { authorSlug, splitAuthors } from "./authorSlug.js";
 
 export default function(eleventyConfig) {
     // --- Date Filters ---
@@ -29,14 +30,22 @@ export default function(eleventyConfig) {
         return (tags || []).filter(tag => ["all", "posts", "authors",
              "nav"].indexOf(tag) === -1);
     });
-eleventyConfig.addCollection("theoryAuthors", function(collectionApi) {
-    const posts = collectionApi.getFilteredByTag("theoryPosts");
-    const authors = new Set();
-    posts.forEach(item => {
-        authors.add(item.data.author || "Editors");
-    });
-    return Array.from(authors).sort();
-});
+	eleventyConfig.addCollection("theoryAuthors", function (collectionApi) {
+		const posts = collectionApi.getFilteredByTag("theoryPosts");
+		const bySlug = new Map();
+
+		for (const item of posts) {
+			const authors = splitAuthors(item?.data?.author || "Editors");
+			for (const authorName of authors) {
+				const key = authorSlug(authorName) || authorName.toLowerCase();
+				if (!bySlug.has(key)) bySlug.set(key, authorName);
+			}
+		}
+
+		return [...bySlug.values()].sort((a, b) =>
+			String(a).toLowerCase().localeCompare(String(b).toLowerCase())
+		);
+	});
     eleventyConfig.addFilter("sortAlphabetically", (strings) =>
         [...(strings || [])].sort((a, b) =>
             String(a ?? "").localeCompare(String(b ?? ""))

@@ -59,7 +59,6 @@ Optimized `deploy-xmit.yml` for ultra-fast builds targeting ~7 seconds:
 
 | Optimization | Time Saved | Description |
 |--------------|------------|-------------|
-| **Cached theory data** | ~12s | `USE_CACHED_THEORY=1` skips GitHub ZIP download, uses committed `theory_archive.json` |
 | **Skip compression** | ~3s | Removed gzip/brotli step - XMIT handles compression |
 | **Force language** | ~2s | `--force-language en` skips Pagefind language detection |
 | **npm cache** | ~5s | Node.js `cache: 'npm'` reuses dependencies between runs |
@@ -69,22 +68,19 @@ Optimized `deploy-xmit.yml` for ultra-fast builds targeting ~7 seconds:
 | Variable | Purpose |
 |----------|---------|
 | `SKIP_PAGEFIND=1` | Skip Pagefind in eleventy.config.js (run directly in workflow) |
-| `USE_CACHED_THEORY=1` | Use committed theory_archive.json instead of downloading ZIP |
+
 | `ELEVENTY_RUN_MODE=build` | Triggers production build behavior |
 | `FAST_BUILD=1` | Reserved for future HTML transform optimizations |
 
 ### Build Time Breakdown (Before → After)
 ```
 npm install:    7s → 1s (cached)
-theory.js:     12s → 0s (cached JSON)
 Eleventy:      18s → 6s (optimized)
 Pagefind:       8s → 3s (force-language)
 Compression:    3s → 0s (removed)
 ─────────────────────────────
-Total:         48s → ~10s
+Total:         36s → ~10s
 ```
-
-> **Note:** Ensure `_data/theory_archive.json` is committed to the repo for CI caching to work.
 
 ## Editorial Theme nicely coded examples
 - [ghost](https://editorial.ghost.io/)

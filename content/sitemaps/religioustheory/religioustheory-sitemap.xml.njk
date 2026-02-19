@@ -6,12 +6,10 @@ eleventyExcludeFromCollections: true
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="/sitemaps/sitemap.xsl"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	{% set baseUrl = sitemapBaseUrl or metadata.url or (site and site.url) or "" %}
-	{% set seen = [] %}
-	{% set defaultLastmod = theory.lastUpdated or (page.inputPath | lastModifiedDate) %}
-	{% set posts = theory.posts or [] %}
-	{% set pages = theory.pages or [] %}
+	<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+		{% set baseUrl = sitemapBaseUrl or metadata.url or (site and site.url) or "" %}
+		{% set seen = [] %}
+		{% set defaultLastmod = page.inputPath | lastModifiedDate %}
 
 	{# Template-driven RT pages #}
 	{% for entry in collections.all -%}
@@ -30,11 +28,11 @@ eleventyExcludeFromCollections: true
 		{% endif -%}
 	{% endfor -%}
 
-	{# Canonical section index pages #}
-	{% for path in [
-		"/religioustheory/",
-		"/religioustheory/archive/",
-		"/religioustheory/blog/",
+		{# Canonical section index pages (ensure these exist even if excluded from collections) #}
+		{% for path in [
+			"/religioustheory/",
+			"/religioustheory/archive/",
+			"/religioustheory/blog/",
 		"/religioustheory/authors/",
 		"/religioustheory/categories/",
 		"/religioustheory/pages/",
@@ -51,100 +49,7 @@ eleventyExcludeFromCollections: true
 				{% if defaultLastmod %}<lastmod>{{ defaultLastmod | htmlDateString }}</lastmod>{% endif %}
 			</url>
 		{%- endif -%}
-	{% endfor -%}
-
-	{# Dynamic post detail pages #}
-	{% for post in posts -%}
-		{%- if post.slug -%}
-			{% set path = ("/religioustheory/posts/" ~ (post.slug | slugify) ~ "/") | url %}
-			{%- if path not in seen -%}
-				{% set seen = (seen.push(path), seen) %}
-				<url>
-					<loc>{{ (baseUrl ~ path) | xmlEscape | safe }}</loc>
-					{% set lastmodSource = post.dateUpdated or post.date or defaultLastmod %}
-					{% if lastmodSource %}<lastmod>{{ lastmodSource | htmlDateString }}</lastmod>{% endif %}
-				</url>
-			{%- endif -%}
-		{% endif -%}
-	{% endfor -%}
-
-	{# Dynamic post pagination pages #}
-	{% set totalPages = (posts.length / 10) | round(0, "ceil") %}
-	{% if totalPages < 1 %}{% set totalPages = 1 %}{% endif %}
-	{% for pageNumber in range(0, totalPages) -%}
-		{% if pageNumber == 0 %}
-			{% set path = "/religioustheory/posts/" %}
-		{% else %}
-			{% set path = "/religioustheory/posts/page-" ~ pageNumber ~ "/" %}
-		{% endif %}
-		{%- if path not in seen -%}
-			{% set seen = (seen.push(path), seen) %}
-			<url>
-				<loc>{{ (baseUrl ~ path) | xmlEscape | safe }}</loc>
-				{% if defaultLastmod %}<lastmod>{{ defaultLastmod | htmlDateString }}</lastmod>{% endif %}
-			</url>
-		{%- endif -%}
-	{% endfor -%}
-
-	{# Dynamic pages from theory data #}
-	{% for pg in pages -%}
-		{%- if pg.slug -%}
-			{% set path = ("/religioustheory/" ~ (pg.slug | slugify) ~ "/") | url %}
-			{%- if path not in seen -%}
-				{% set seen = (seen.push(path), seen) %}
-				<url>
-					<loc>{{ (baseUrl ~ path) | xmlEscape | safe }}</loc>
-					{% set lastmodSource = pg.dateUpdated or pg.date or defaultLastmod %}
-					{% if lastmodSource %}<lastmod>{{ lastmodSource | htmlDateString }}</lastmod>{% endif %}
-				</url>
-			{%- endif -%}
-		{% endif -%}
-	{% endfor -%}
-
-	{# Author pages #}
-	{% for authorName in (religioustheory_taxonomy.authors or []) -%}
-		{% set path = ("/religioustheory/authors/" ~ (authorName | slugify) ~ "/") | url %}
-		{%- if path not in seen -%}
-			{% set seen = (seen.push(path), seen) %}
-			<url>
-				<loc>{{ (baseUrl ~ path) | xmlEscape | safe }}</loc>
-				{% if defaultLastmod %}<lastmod>{{ defaultLastmod | htmlDateString }}</lastmod>{% endif %}
-			</url>
-		{%- endif -%}
-	{% endfor -%}
-
-	{# Tag pages #}
-	{% for tag in (religioustheory_taxonomy.tags or []) -%}
-		{% set path = ("/religioustheory/tags/" ~ (tag | slugify) ~ "/") | url %}
-		{%- if path not in seen -%}
-			{% set seen = (seen.push(path), seen) %}
-			<url>
-				<loc>{{ (baseUrl ~ path) | xmlEscape | safe }}</loc>
-				{% if defaultLastmod %}<lastmod>{{ defaultLastmod | htmlDateString }}</lastmod>{% endif %}
-			</url>
-		{%- endif -%}
-	{% endfor -%}
-
-	{# Category pages #}
-	{% set categorySlugs = [] %}
-	{% for post in posts -%}
-		{% for cat in (post.categories or []) -%}
-			{% set catSlug = cat | slugify %}
-			{% if catSlug and (catSlug not in categorySlugs) %}
-				{% set categorySlugs = (categorySlugs.push(catSlug), categorySlugs) %}
-			{% endif %}
 		{% endfor -%}
-	{% endfor -%}
-	{% for catSlug in categorySlugs | sort -%}
-		{% set path = ("/religioustheory/categories/" ~ catSlug ~ "/") | url %}
-		{%- if path not in seen -%}
-			{% set seen = (seen.push(path), seen) %}
-			<url>
-				<loc>{{ (baseUrl ~ path) | xmlEscape | safe }}</loc>
-				{% if defaultLastmod %}<lastmod>{{ defaultLastmod | htmlDateString }}</lastmod>{% endif %}
-			</url>
-		{%- endif -%}
-	{% endfor -%}
 
 	{# RT image URLs #}
 	{% for img in (assets.images or []) -%}
@@ -159,19 +64,5 @@ eleventyExcludeFromCollections: true
 				</url>
 			{%- endif -%}
 		{% endif -%}
-	{% endfor -%}
-
-	{# RT images referenced directly in theory data #}
-	{% for post in posts -%}
-		{%- if post.image and post.image.startsWith("/religioustheory/") -%}
-			{% set path = post.image | url %}
-			{%- if path not in seen -%}
-				{% set seen = (seen.push(path), seen) %}
-				<url>
-					<loc>{{ (baseUrl ~ path) | xmlEscape | safe }}</loc>
-					{% if defaultLastmod %}<lastmod>{{ defaultLastmod | htmlDateString }}</lastmod>{% endif %}
-				</url>
-			{%- endif -%}
-		{% endif -%}
-	{% endfor -%}
-</urlset>
+		{% endfor -%}
+	</urlset>

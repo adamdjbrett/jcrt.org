@@ -11,6 +11,5 @@ testdata:
   - item2
   - item3
   - item4
-permalink: /blog/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1
-  }}/{% endif %}index.html
+permalink: "/blog/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
 ---

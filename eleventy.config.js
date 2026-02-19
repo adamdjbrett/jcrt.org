@@ -1,46 +1,21 @@
-// Single-file Eleventy config that works on both older and newer Node runtimes.
-// Some transitive deps expect `globalThis.File` to exist; Node <20 may not provide it.
-if (typeof globalThis.File === "undefined") globalThis.File = class File {};
+import "./_config/polyfills.js";
 
-const [
-    { IdAttributePlugin, InputPathToUrlTransformPlugin, HtmlBasePlugin },
-    { feedPlugin },
-    { default: pluginSyntaxHighlight },
-    { default: pluginNavigation },
-    { default: yaml },
-    { default: theorySync },
-    { default: markdownIt },
-    { default: markdownItAnchor },
-    { default: markdownItFootnote },
-    { default: markdownItAttrs },
-    { default: markdownItTableOfContents },
-    { default: pluginTOC },
-    { default: pluginFilters },
-    authorSlugMod,
-    fs,
-    path,
-    os,
-] = await Promise.all([
-    import("@11ty/eleventy"),                         // 1
-    import("@11ty/eleventy-plugin-rss"),              // 2
-    import("@11ty/eleventy-plugin-syntaxhighlight"),  // 3
-    import("@11ty/eleventy-navigation"),               // 4
-    import("js-yaml"),                               // 5
-    import("./_data/theory.js"),                     // 6 -> theorySync
-    import("markdown-it"),                           // 7
-    import("markdown-it-anchor"),                    // 8
-    import("markdown-it-footnote"),                  // 9
-    import("markdown-it-attrs"),                     // 10
-    import("markdown-it-table-of-contents"),          // 11
-    import("eleventy-plugin-toc"),                   // 12 -> pluginTOC
-    import("./_config/filters.js"),                  // 13 -> pluginFilters
-    import("./_config/authorSlug.js"),               // 14
-    import("node:fs"),                               // 15
-    import("node:path"),                             // 16
-    import("node:os"),                               // 17
-]);
-
-const { authorSlug, splitAuthors } = authorSlugMod;
+import { feedPlugin } from "@11ty/eleventy-plugin-rss";
+import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
+import pluginNavigation from "@11ty/eleventy-navigation";
+import yaml from "js-yaml";
+import theorySync from "./_data/theory.js";
+import markdownIt from "markdown-it";
+import markdownItAnchor from "markdown-it-anchor";
+import markdownItFootnote from "markdown-it-footnote";
+import markdownItAttrs from "markdown-it-attrs";
+import markdownItTableOfContents from "markdown-it-table-of-contents";
+import pluginTOC from "eleventy-plugin-toc";
+import pluginFilters from "./_config/filters.js";
+import { authorSlug, splitAuthors } from "./_config/authorSlug.js";
+import fs from "node:fs";
+import path from "node:path";
+import os from "node:os";
 
 function archiveIssueSortKey(inputPath, url) {
 	// Prefer the directory segment under `content/archives/`.
@@ -111,12 +86,11 @@ async function ensureFavicons() {
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function (eleventyConfig) {
 	eleventyConfig.addPlugin(pluginFilters);
-	await theorySync(); 
-	const filePath = path.resolve("_data/theory_archive.json");
 	const isFastBuild = Boolean(process.env.FAST_BUILD);
 	eleventyConfig.addGlobalData("isFastBuild", isFastBuild);
 
 	eleventyConfig.on("eleventy.before", async () => {
+		await theorySync();
 		await ensureFavicons();
 	});
 
@@ -180,10 +154,11 @@ export default async function (eleventyConfig) {
 	});
 	eleventyConfig.addPlugin(pluginNavigation);
 	// HTML transforms are expensive; CI sets `FAST_BUILD=1` to skip these.
-	if (!isFastBuild) {
-		eleventyConfig.addPlugin(HtmlBasePlugin);
-		eleventyConfig.addPlugin(InputPathToUrlTransformPlugin);
-	}
+	// NOTE: HtmlBasePlugin and InputPathToUrlTransformPlugin are Eleventy 3.x features
+	// if (!isFastBuild) {
+	// 	eleventyConfig.addPlugin(HtmlBasePlugin);
+	// 	eleventyConfig.addPlugin(InputPathToUrlTransformPlugin);
+	// }
 	const md = new markdownIt({
 		html: true,
 		breaks: true,
@@ -229,14 +204,15 @@ export default async function (eleventyConfig) {
 		wrapper: "div",
 	});
 
-	if (!isFastBuild) {
-		eleventyConfig.addPlugin(IdAttributePlugin, {
-			slugify: (text) => {
-				const slug = eleventyConfig.getFilter("slugify")(text);
-				return `print-${slug}`;
-			},
-		});
-	}
+	// NOTE: IdAttributePlugin is an Eleventy 3.x feature
+	// if (!isFastBuild) {
+	// 	eleventyConfig.addPlugin(IdAttributePlugin, {
+	// 		slugify: (text) => {
+	// 			const slug = eleventyConfig.getFilter("slugify")(text);
+	// 			return `print-${slug}`;
+	// 		},
+	// 	});
+	// }
 
 	eleventyConfig.addFilter("authorSlug", authorSlug);
 	eleventyConfig.addFilter("splitAuthors", splitAuthors);
@@ -411,22 +387,22 @@ export default async function (eleventyConfig) {
 			});
 	});
 	eleventyConfig.addCollection("theoryPosts", function(collectionApi) {
-  return collectionApi.getFilteredByGlob("content/religioustheory/**/*")
-    .filter(item => {
-      const isRootIndex = item.inputPath.endsWith("religioustheory/index.html") || 
-                          item.inputPath.endsWith("religioustheory/index.njk") ||
-                          item.inputPath.endsWith("religioustheory/index.md");     
-      const validExtensions = [".md", ".njk", ".html"];
-      const isFile = validExtensions.some(ext => item.inputPath.endsWith(ext));
-      const hasTag = item.data.tags && item.data.tags.includes("theoryPosts");
-      return !isRootIndex && isFile && hasTag;
-    });
-});
-	eleventyConfig.addPassthroughCopy({ "public/js": "js" });
-	// Archives contain PDFs/scans that need to be copied, but the markdown is built into HTML.
-	// CI can pre-copy these via scripts/pre-copy-assets.sh (hardlinks), so allow skipping passthrough copy.
-	if (!process.env.PRECOPY_ARCHIVES) {
-		eleventyConfig.addPassthroughCopy("content/archives/**/*.pdf");
+	  return collectionApi.getFilteredByGlob("content/religioustheory/**/*")
+	    .filter(item => {
+	      const isRootIndex = item.inputPath.endsWith("religioustheory/index.html") || 
+	                          item.inputPath.endsWith("religioustheory/index.njk") ||
+	                          item.inputPath.endsWith("religioustheory/index.md");     
+	      const validExtensions = [".md", ".njk", ".html"];
+	      const isFile = validExtensions.some(ext => item.inputPath.endsWith(ext));
+	      const hasTag = item.data.tags && item.data.tags.includes("theoryPosts");
+	      return !isRootIndex && isFile && hasTag;
+	    });
+	});
+		eleventyConfig.addPassthroughCopy({ "public/js": "js" });
+		// Archives contain PDFs/scans that need to be copied, but the markdown is built into HTML.
+		// CI can pre-copy these via scripts/pre-copy-assets.sh (hardlinks), so allow skipping passthrough copy.
+		if (!process.env.PRECOPY_ARCHIVES) {
+			eleventyConfig.addPassthroughCopy("content/archives/**/*.pdf");
 		eleventyConfig.addPassthroughCopy("content/archives/**/*.jpg");
 		eleventyConfig.addPassthroughCopy("content/archives/**/*.jpeg");
 		eleventyConfig.addPassthroughCopy("content/archives/**/*.tif");
@@ -504,31 +480,8 @@ export default async function (eleventyConfig) {
 			};
 		};
 
-		// Religious Theory: build feed items directly from theory_archive.json
-		// (faster + avoids relying on paginated template pages being present in collections).
+		// Religious Theory feed removed (theory_archive.json no longer used)
 		let religioustheory = [];
-		try {
-			const theoryPath = path.join(process.cwd(), "_data/theory_archive.json");
-			const raw = JSON.parse(fs.readFileSync(theoryPath, "utf-8"));
-			const posts = Array.isArray(raw?.posts) ? raw.posts : [];
-			const mdForFeed = markdownIt({ html: true, breaks: true, linkify: true });
-			religioustheory = posts.slice(0, 25).map((post) => {
-				const slug = String(post?.slug || "").trim();
-				const title = String(post?.title || "").trim() || slug || "Religious Theory";
-				const url = `/religioustheory/posts/${encodeURIComponent(slug)}/`;
-				const date = post?.date ? new Date(post.date) : new Date();
-				const bodyHtml = mdForFeed.render(String(post?.content || ""));
-				const contentHtml = `<h1>${title}</h1>\n${bodyHtml}`;
-				return {
-					url,
-					date,
-					data: { title },
-					templateContent: contentHtml,
-				};
-			});
-		} catch {
-			religioustheory = [];
-		}
 
 		// Priority order in the feed:
 		// 1) /archives/ (25)
@@ -606,28 +559,6 @@ export default async function (eleventyConfig) {
 			},
 		},
 	});
-/*
-	eleventyConfig.addFilter("getKeywordsFromJSON", (pageTitle, theoryArchive) => {
-		if (!theoryArchive || !pageTitle) return "";
-
-		const posts = theoryArchive.posts || [];
-
-		const entry = posts.find(
-			(item) =>
-				item.title &&
-				item.title.toLowerCase().trim() === pageTitle.toLowerCase().trim()
-		);
-
-		if (entry) {
-			const keywords = entry.categories || entry.keywords;
-			if (keywords) {
-				return Array.isArray(keywords) ? keywords.join(", ") : keywords;
-			}
-		}
-		return "";
-	});
-	eleventyConfig.watchIgnores.add("_data/theory_archive.json");
-	*/
 	eleventyConfig.watchIgnores.add("errors.txt");
 	eleventyConfig.ignores.add("_drafts/**");
 	eleventyConfig.ignores.add("submissions/**");

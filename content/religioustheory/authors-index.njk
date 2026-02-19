@@ -1,0 +1,47 @@
+---
+layout: theory.njk
+title: Authors
+permalink: /religioustheory/authors/index.html
+---
+<article class="container-fluid mt-5">
+  {% include "partials/nav_desktop.njk" %}
+
+  <header class="mb-5">
+    <h1>
+      <strong>
+        <span class="border-bottom border-4 border-primary pb-2">Authors</span>
+      </strong>
+    </h1>
+  </header>
+
+  <div class="row g-4 mb-5">
+    {% for authorName in collections.theoryAuthors %}
+      {% set postsByAuthor = collections.theoryPosts | getPostsByAuthor(authorName) %}
+      <div class="col-md-4 col-6">
+        <a href="/religioustheory/authors/{{ authorName | slugify }}/" class="text-decoration-none">
+          <div class="card h-100 shadow-sm border-0 bg-light transition-all hover-shadow">
+            <div class="card-body p-4 d-flex justify-content-between align-items-center">
+              <div>
+                <h3 class="h5 fw-bold mb-0 text-dark">{{ authorName }}</h3>
+                <span class="text-muted small">({{ postsByAuthor.length }} Articles)</span>
+              </div>
+              <span class="text-primary fw-bold">&rarr;</span>
+            </div>
+          </div>
+        </a>
+      </div>
+    {% else %}
+      <div class="col-12 text-center py-5">
+        <p class="text-muted">No authors found.</p>
+      </div>
+    {% endfor %}
+  </div>
+</article>
+
+<style>
+  .hover-shadow:hover { 
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1) !important;
+    transition: all 0.3s ease;
+  }
+</style>
