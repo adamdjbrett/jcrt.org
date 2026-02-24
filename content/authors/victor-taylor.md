@@ -1,6 +1,6 @@
 ---
 name: Victor Taylor
-affiliation: "South Dakota State University , York College of Pennsylvania"
+affiliation: "Independent Scholar"
 bio:
 social:
   - title: "website"
