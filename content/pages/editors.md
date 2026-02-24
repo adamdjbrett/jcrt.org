@@ -14,16 +14,7 @@ permalink: /editors/
 - [**Kevin Grane**](mailto:kev.grane@du.edu), University of Denver \| [Articlces by Grane](/authors/kevin-grane/)
 - [**J.C. Smith**](mailto:mailto:jc.smith@du.edu), University of Denver
 
-## **Consulting Editors**
-
-- [**Kurt Appel**](/authors/kurt-appel/), University of Vienna
-- [**Clayton Crockett**(/authors/clayton-crockett/)], University of Central Arkansas
-- [**James J. DiCenso**](/authors/james-j-dicenso/), University of Toronto
-- [**Philip Goodchild**](/authors/philip-goodchild/), University of Nottingham
-- [**Gregg Lambert**](/authors/gregg-lambert), Syracuse University
-- [**Julia Lupton**](/authors/julia-lupton/), University of California, Irvine
-- [**Kenneth Reinhard**](/authors/kenneth-reinhard/), UCLA
-- [**Hent de Vries**](/authors/hent-vries), The Johns Hopkins University
+## 
 
 ## In Memoriam
 
