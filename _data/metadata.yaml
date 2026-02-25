@@ -4,8 +4,9 @@ image: "/img/logos/favicon.svg"
 language: "en"
 locale: en_US
 favicon: "/img/logos/favicon.svg"
-#url: http://localhost:8080
-url: https://jcrt.org
+#url: http://localhost:8080 #localhost
+url: https://jcrt-dev.netlify.app #development
+#url: https://jcrt.org #live
 homepage_archive: 
   active_tag: 24.1
   section_title: From the Archive

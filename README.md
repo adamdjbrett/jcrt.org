@@ -3,6 +3,11 @@
 ## demo url [jcrt.xmit.dev](https://jcrt.xmit.dev)
 Develop by Adam Dj Brett
 
+## Needs
+1. netlify integration
+2. after the domain name is activated impliement a DAM for pdfs and citations
+
+
 ### Need Help or Have Project ?? Contact Me
 + adamdjbrett.com
 + info@adamdjbrett.com
