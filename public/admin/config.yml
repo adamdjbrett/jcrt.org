@@ -99,31 +99,18 @@ collections:
     identifier_field: "key"
     slug: "{{key}}"
     fields:
-      - {label: "Title", name: "title", widget: "string", required: false, hint: "Dr./Prof. etc."}
-      - {label: "Name", name: "name", widget: "string", required: true, hint: "Author Name."}
-      - {label: "Description", name: "description", widget: "string", required: false, hint: "Professor, Professor Emeritus, Independent Scholar, etc."}
-      - {label: "Affiliation", name: "affiliation", widget: "string", required: false, hint: "Affiliation."}
-      - {label: "Biography", name: "bio", widget: "string", required: false, hint: "Bio."}
-      - {label: "Orcid", name: "orcid", widget: "string", required: false, hint: "Orcid."}
-      - {label: "Publish Date", name: "date", widget: "datetime", required: false}
-      - {label: "Profile Image", name: "image", widget: "image", required: false}
+      - {label: "Name", name: "name", widget: "string", hint: "Author Name."}
+      - {label: "Affiliation", name: "affiliation", widget: "string", hint: "Affiliation."}
+      - {label: "Biography", name: "bio", widget: "text", hint: "Bio." ,required: false}
       - label: "Social Links"
         name: "social"
         widget: "list"
         required: false
         collapsed: true
         fields:
-          - {label: "Title", name: "title", widget: "string", required: false}
-          - {label: "Icon (Font Awesome)", name: "icon", widget: "string", required: false, hint: "e.g., fa-solid fa-envelope"}
-          - {label: "URL", name: "url", widget: "string", required: false}
-      - label: "Call-to-Action Button"
-        name: "button"
-        widget: "object"
-        required: false
-        fields:
-          - {label: "Title", name: "title", widget: "string", required: false}
-          - {label: "URL", name: "url", widget: "string", required: false}
-      - {label: "Biography", name: "body", widget: "markdown", required: false, hint: "The main content/bio of the author."}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Icon (Font Awesome)", name: "icon", widget: "string", hint: "e.g., fa-solid fa-envelope"}
+          - {label: "URL", name: "url", widget: "string",required: false}
   - name: "pages"
     label: "Static Pages"
     folder: "content/pages"
@@ -157,7 +144,7 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Author Name", name: "author", widget: "string", hint: "Authors"}
       - {label: "Affiliation", name: "affiliation", widget: "string", required: false, hint: "Affiliation"}
-      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Abstract", name: "abstract", widget: "text"}
       - {label: "PDF File", name: "pdf", widget: "file", required: false, hint: "PDF file"}
       - {label: "Body", name: "body", widget: "markdown", required: false}
   - name: "metadata"
