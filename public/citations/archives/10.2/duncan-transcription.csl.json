@@ -1,0 +1,31 @@
+[
+  {
+    "id": "archives-10.2-duncan-transcription",
+    "type": "article-journal",
+    "title": "ACCURATE MYSTERY: ROBERT DUNCAN’S H. D. BIBLIOGRAPHY CRITICALLY ANNOTATED",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/10.2/duncan-transcription.pdf",
+    "author": [
+      {
+        "family": "Duncan",
+        "given": "Robert"
+      },
+      {
+        "family": "Evans",
+        "given": "Amy"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "volume": "10",
+    "issue": "2"
+  }
+]

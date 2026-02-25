@@ -1,0 +1,28 @@
+[
+  {
+    "id": "archives-16.1-carson",
+    "type": "article-journal",
+    "title": "OWNING MY MASTERS: AN ARTIST’S INTRODUCTION.",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/16.1/Carson.pdf",
+    "author": [
+      {
+        "family": "CARSON",
+        "given": "A. D."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "volume": "16",
+    "issue": "1",
+    "page": "56-57"
+  }
+]

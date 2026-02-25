@@ -1,0 +1,27 @@
+[
+  {
+    "id": "archives-01.3-richard",
+    "type": "article-journal",
+    "title": "ARISTOTLE AND RELIGIOUS THEORY",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/01.3/richard/",
+    "author": [
+      {
+        "family": "Richard",
+        "given": "Alan J"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "volume": "1",
+    "issue": "3"
+  }
+]

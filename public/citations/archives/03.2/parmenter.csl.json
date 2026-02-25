@@ -1,0 +1,27 @@
+[
+  {
+    "id": "archives-03.2-parmenter",
+    "type": "article-journal",
+    "title": "THE BOOK OF THE HEART",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/03.2/parmenter/",
+    "author": [
+      {
+        "family": "Parmenter",
+        "given": "Dorina Miller"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "volume": "3",
+    "issue": "2"
+  }
+]

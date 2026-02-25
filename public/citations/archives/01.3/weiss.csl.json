@@ -1,0 +1,27 @@
+[
+  {
+    "id": "archives-01.3-weiss",
+    "type": "article-journal",
+    "title": "HOW WE BECAME POSTHUMAN: VIRTUAL BODIES IN CYBERNETICS, LITERATURE, AND INFORMATICS",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/01.3/weiss/",
+    "author": [
+      {
+        "family": "Weiss",
+        "given": "Dennis M"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "volume": "1",
+    "issue": "3"
+  }
+]

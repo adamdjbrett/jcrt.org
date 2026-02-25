@@ -4,7 +4,6 @@ import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
 import pluginNavigation from "@11ty/eleventy-navigation";
 import yaml from "js-yaml";
-import theorySync from "./_data/theory.js";
 import markdownIt from "markdown-it";
 import markdownItAnchor from "markdown-it-anchor";
 import markdownItFootnote from "markdown-it-footnote";
@@ -13,6 +12,7 @@ import markdownItTableOfContents from "markdown-it-table-of-contents";
 import pluginTOC from "eleventy-plugin-toc";
 import pluginFilters from "./_config/filters.js";
 import { authorSlug, splitAuthors } from "./_config/authorSlug.js";
+import generateArchiveCitations from "./_config/generate-archive-citations.js";
 import fs from "node:fs";
 import path from "node:path";
 import os from "node:os";
@@ -99,7 +99,7 @@ export default async function (eleventyConfig) {
 	eleventyConfig.addGlobalData("isFastBuild", isFastBuild);
 
 	eleventyConfig.on("eleventy.before", async () => {
-		await theorySync();
+		await generateArchiveCitations(process.env.SITE_URL || "https://jcrt.org");
 		await ensureFavicons();
 	});
 
@@ -449,40 +449,24 @@ export default async function (eleventyConfig) {
 	});
 
 	eleventyConfig.addCollection("feed", function (collectionApi) {
-		const byMtimeDesc = (items) => {
-			const withMtime = items.map((item) => {
-				const inputPath = String(item?.inputPath || "");
-				const rel = inputPath.startsWith("./") ? inputPath.slice(2) : inputPath;
-				let mtimeMs = 0;
-				try {
-					mtimeMs = fs.statSync(path.join(process.cwd(), rel)).mtimeMs;
-				} catch {
-					mtimeMs = 0;
-				}
-				return { item, mtimeMs };
-			});
-			withMtime.sort((a, b) => b.mtimeMs - a.mtimeMs);
-			return withMtime.map((x) => x.item);
+		const getMtimeMs = (item) => {
+			const inputPath = String(item?.inputPath || "");
+			const rel = inputPath.startsWith("./") ? inputPath.slice(2) : inputPath;
+			try {
+				return fs.statSync(path.join(process.cwd(), rel)).mtimeMs;
+			} catch {
+				return 0;
+			}
 		};
 
-		const byDateDesc = (items) => {
-			const toTime = (d) => (d instanceof Date ? d.getTime() : 0);
-			return [...items].sort((a, b) => toTime(b.date) - toTime(a.date));
+		const getSortTime = (item) => {
+			const d = item?.date;
+			if (d instanceof Date) {
+				const ms = d.getTime();
+				if (Number.isFinite(ms) && ms > 0) return ms;
+			}
+			return getMtimeMs(item);
 		};
-
-		const archives = byMtimeDesc(
-			collectionApi
-				.getFilteredByGlob("content/archives/**/*.md")
-				.filter((p) => isPublishedItem(p?.data))
-				.filter((p) => p?.url && p.url.startsWith("/archives/"))
-		).slice(0, 25);
-
-		const blog = byDateDesc(
-			collectionApi
-				.getFilteredByGlob("content/blog/*.md")
-				.filter((p) => isPublishedItem(p?.data))
-				.filter((p) => p?.url && p.url.startsWith("/blog/"))
-		).slice(0, 25);
 
 		const ensureTitle = (item, fallbackTitle) => {
 			const title = item?.data?.title ? String(item.data.title) : "";
@@ -495,23 +479,30 @@ export default async function (eleventyConfig) {
 			};
 		};
 
-		// Religious Theory feed removed (theory_archive.json no longer used)
-		let religioustheory = [];
+		const archives = collectionApi
+			.getFilteredByGlob("content/archives/**/*.md")
+			.filter((p) => isPublishedItem(p?.data))
+			.filter((p) => p?.url && p.url.startsWith("/archives/"));
 
-		// Priority order in the feed:
-		// 1) /archives/ (25)
-		// 2) /blog/ (25)
-		// 3) /religioustheory/ posts (25)
+		const blog = collectionApi
+			.getFilteredByGlob("content/blog/*.md")
+			.filter((p) => isPublishedItem(p?.data))
+			.filter((p) => p?.url && p.url.startsWith("/blog/"));
+
+		const byKey = new Map();
+		for (const item of [...archives, ...blog]) {
+			const key = item?.url || item?.inputPath;
+			if (!key || byKey.has(key)) continue;
+			byKey.set(key, item);
+		}
+
+		const newestFirst = [...byKey.values()]
+			.sort((a, b) => getSortTime(b) - getSortTime(a))
+			.slice(0, 50)
+			.map((item) => ensureTitle(item, item?.fileSlug || item?.url || "Untitled"));
+
 		// Feed plugin template reverses the collection before rendering entries.
-		// Return items in the inverse order so the final output order is:
-		//   archives (newest→oldest), then blog (newest→oldest), then religioustheory (newest→oldest).
-		const safeArchivesNewestFirst = archives.map((a) =>
-			ensureTitle(a, a?.fileSlug || a?.url || "Archive")
-		);
-		const archivesOldestFirst = [...safeArchivesNewestFirst].reverse();
-		const blogOldestFirst = [...blog].reverse();
-		const religioustheoryOldestFirst = [...religioustheory].reverse();
-		return [...religioustheoryOldestFirst, ...blogOldestFirst, ...archivesOldestFirst];
+		return [...newestFirst].reverse();
 	});
 	const mdLib = markdownIt({
 		html: true,
@@ -538,7 +529,7 @@ export default async function (eleventyConfig) {
 		},
 		collection: {
 			name: "feed",
-			limit: 75,
+			limit: 50,
 		},
 		metadata: {
 			language: "en",
@@ -562,7 +553,7 @@ export default async function (eleventyConfig) {
 		},
 		collection: {
 			name: "feed",
-			limit: 75,
+			limit: 50,
 		},
 		metadata: {
 			language: "en",

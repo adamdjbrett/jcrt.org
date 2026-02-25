@@ -1,0 +1,27 @@
+[
+  {
+    "id": "archives-10.1-robert",
+    "type": "article-journal",
+    "title": "HUMAN, LIFE, AND OTHER SACRED STUFF",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/10.1/Robert.pdf",
+    "author": [
+      {
+        "family": "Robert",
+        "given": "William"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "volume": "10",
+    "issue": "1"
+  }
+]

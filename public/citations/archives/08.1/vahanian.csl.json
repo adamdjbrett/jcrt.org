@@ -1,0 +1,27 @@
+[
+  {
+    "id": "archives-08.1-vahanian",
+    "type": "article-journal",
+    "title": "THÉORIE-RÉBELLION: UN ULTIMATUM",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/08.1/vahanian.pdf",
+    "author": [
+      {
+        "family": "Vahanian",
+        "given": "Nöelle"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "volume": "8",
+    "issue": "1"
+  }
+]

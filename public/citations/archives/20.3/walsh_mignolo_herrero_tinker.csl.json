@@ -1,0 +1,40 @@
+[
+  {
+    "id": "archives-20.3-walsh_mignolo_herrero_tinker",
+    "type": "article-journal",
+    "title": "WHAT DO WE MEAN BY",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/20.3/walsh_mignolo_herrero_tinker/",
+    "author": [
+      {
+        "family": "WALSH",
+        "given": "CATHERINE"
+      },
+      {
+        "family": "MIGNOLO",
+        "given": "WALTER"
+      },
+      {
+        "family": "HERRERO",
+        "given": "FERNANDO"
+      },
+      {
+        "family": "TINKER",
+        "given": "TINK"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "volume": "20",
+    "issue": "3",
+    "page": "341-360"
+  }
+]

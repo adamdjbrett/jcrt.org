@@ -1,0 +1,27 @@
+[
+  {
+    "id": "archives-11.3-mccullough",
+    "type": "article-journal",
+    "title": "STRANGE ANIMAL",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/11.3/mccullough.pdf",
+    "author": [
+      {
+        "family": "McCullough",
+        "given": "Lissa"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "volume": "11",
+    "issue": "3"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "archives-01.1-vahanian",
+    "type": "article-journal",
+    "title": "THE OTHERNESS OF TIME: SECULARISATION AS WORLDING OF THE WORD AND THE HALLOWING OF TIME",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/01.1/vahanian/",
+    "author": [
+      {
+        "family": "Vahanian",
+        "given": "Gabriel"
+      },
+      {
+        "family": "Clarnette",
+        "given": "Warren"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "volume": "1",
+    "issue": "1"
+  }
+]

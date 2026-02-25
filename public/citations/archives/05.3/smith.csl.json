@@ -1,0 +1,27 @@
+[
+  {
+    "id": "archives-05.3-smith",
+    "type": "article-journal",
+    "title": "THE CAMBRIDGE COMPANION TO POSTMODERN THEOLOGY",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/05.3/smith.pdf",
+    "author": [
+      {
+        "family": "Smith",
+        "given": "James K A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "volume": "5",
+    "issue": "3"
+  }
+]

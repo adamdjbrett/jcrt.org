@@ -1,0 +1,27 @@
+[
+  {
+    "id": "archives-01.2-smith",
+    "type": "article-journal",
+    "title": "AN ETHICS OF REMEMBERING: HISTORY, HETEROLOGY, AND THE NAMELESS OTHERS",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/01.2/smith/",
+    "author": [
+      {
+        "family": "Smith",
+        "given": "Steven G"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "volume": "1",
+    "issue": "2"
+  }
+]

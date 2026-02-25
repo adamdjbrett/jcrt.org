@@ -1,0 +1,27 @@
+[
+  {
+    "id": "archives-02.3-crockett",
+    "type": "article-journal",
+    "title": "CONTRIBUTIONS TO PHILOSOPHY (FROM ENOWNING)",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/02.3/crockett/",
+    "author": [
+      {
+        "family": "Crockett",
+        "given": "Clayton"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "volume": "2",
+    "issue": "3"
+  }
+]

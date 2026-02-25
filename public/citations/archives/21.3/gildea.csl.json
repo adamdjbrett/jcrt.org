@@ -1,0 +1,28 @@
+[
+  {
+    "id": "archives-21.3-gildea",
+    "type": "article-journal",
+    "title": "PARENTHESIS",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/21.3/gildea/",
+    "author": [
+      {
+        "family": "Gildea",
+        "given": "Niall"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "volume": "21",
+    "issue": "3",
+    "page": "418-421"
+  }
+]

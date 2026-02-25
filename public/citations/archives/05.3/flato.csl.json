@@ -1,0 +1,27 @@
+[
+  {
+    "id": "archives-05.3-flato",
+    "type": "article-journal",
+    "title": "ON TRANSLATION",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/05.3/flato.pdf",
+    "author": [
+      {
+        "family": "Flato",
+        "given": "Jason"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "volume": "5",
+    "issue": "3"
+  }
+]

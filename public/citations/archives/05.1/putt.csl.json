@@ -1,0 +1,27 @@
+[
+  {
+    "id": "archives-05.1-putt",
+    "type": "article-journal",
+    "title": "CITIES OF GOD",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/05.1/putt.pdf",
+    "author": [
+      {
+        "family": "Putt",
+        "given": "B Keith"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "volume": "5",
+    "issue": "1"
+  }
+]

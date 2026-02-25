@@ -1,0 +1,27 @@
+[
+  {
+    "id": "archives-01.2-lorentzen",
+    "type": "article-journal",
+    "title": "DIFFERENCE AND REPETITION",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/01.2/lorentzen/",
+    "author": [
+      {
+        "family": "Lorentzen",
+        "given": "Oz"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "volume": "1",
+    "issue": "2"
+  }
+]

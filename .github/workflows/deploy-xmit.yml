@@ -21,7 +21,6 @@ env:
   ELEVENTY_RUN_MODE: build
   NODE_OPTIONS: "--max-old-space-size=8192"
   SITE_URL: ${{ vars.SITE_URL || 'https://jcrt.org' }}
-  USE_CACHED_THEORY: "1"
   XMIT_SITE: jcrt.xmit.dev@268
 
 jobs:
@@ -55,8 +54,7 @@ jobs:
           echo "🚀 Starting Build..."
           start_time=$(date +%s%3N)          
           # Eleventy BUild
-          npm run build          
-          npx pagefind --site _site
+          npm run build
           end_time=$(date +%s%3N)
           echo "⚡ Total process completed in $((end_time - start_time))ms"
           echo "📦 Stats: $(find _site -type f | wc -l) files, $(du -sh _site | cut -f1)"

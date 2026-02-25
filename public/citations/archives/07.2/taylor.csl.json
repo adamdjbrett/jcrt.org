@@ -1,0 +1,31 @@
+[
+  {
+    "id": "archives-07.2-taylor",
+    "type": "article-journal",
+    "title": "A CONVERSATION WITH JEAN-LUC MARION",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/07.2/taylor.pdf",
+    "author": [
+      {
+        "family": "Taylor",
+        "given": "Victor"
+      },
+      {
+        "family": "Marion",
+        "given": "Jean-Luc"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "volume": "7",
+    "issue": "2"
+  }
+]

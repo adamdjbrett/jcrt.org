@@ -1,0 +1,28 @@
+[
+  {
+    "id": "archives-21.3-nedoh",
+    "type": "article-journal",
+    "title": "UNDEAD",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/21.3/nedoh/",
+    "author": [
+      {
+        "family": "Nedoh",
+        "given": "Boštjan"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "volume": "21",
+    "issue": "3",
+    "page": "440-447"
+  }
+]

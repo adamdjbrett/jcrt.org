@@ -1,0 +1,27 @@
+[
+  {
+    "id": "archives-02.3-hale",
+    "type": "article-journal",
+    "title": "THE CRITIQUE OF THEOLOGICAL REASON",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/02.3/hale/",
+    "author": [
+      {
+        "family": "Hale",
+        "given": "David"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "volume": "2",
+    "issue": "3"
+  }
+]

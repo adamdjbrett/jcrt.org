@@ -1,0 +1,32 @@
+[
+  {
+    "id": "archives-16.1-stowe_sousanis",
+    "type": "article-journal",
+    "title": "AN INTERVIEW WITH NICK SOUSANIS",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/16.1/stowe_sousanis/",
+    "author": [
+      {
+        "family": "STOWE",
+        "given": "S. ANDREW"
+      },
+      {
+        "family": "SOUSANIS",
+        "given": "NICK"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "volume": "16",
+    "issue": "1",
+    "page": "74-83"
+  }
+]

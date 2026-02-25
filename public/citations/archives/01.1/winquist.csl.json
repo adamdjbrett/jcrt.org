@@ -1,0 +1,27 @@
+[
+  {
+    "id": "archives-01.1-winquist",
+    "type": "article-journal",
+    "title": "THE AMBIGUOUS GIFT OF DESIRE",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/01.1/winquist/",
+    "author": [
+      {
+        "family": "Winquist",
+        "given": "Charles E"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "volume": "1",
+    "issue": "1"
+  }
+]

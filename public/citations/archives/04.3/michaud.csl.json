@@ -1,0 +1,27 @@
+[
+  {
+    "id": "archives-04.3-michaud",
+    "type": "article-journal",
+    "title": "THE FACE OF THE DEEP: A THEOLOGY OF BECOMING",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/04.3/michaud.pdf",
+    "author": [
+      {
+        "family": "Michaud",
+        "given": "Derek"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "volume": "4",
+    "issue": "3"
+  }
+]

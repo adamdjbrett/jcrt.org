@@ -1,0 +1,27 @@
+[
+  {
+    "id": "archives-07.1-lerner",
+    "type": "article-journal",
+    "title": "ON BULLSHIT",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/07.1/lerner.pdf",
+    "author": [
+      {
+        "family": "Lerner",
+        "given": "Berel Dov"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "volume": "7",
+    "issue": "1"
+  }
+]

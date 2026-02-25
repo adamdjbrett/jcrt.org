@@ -1,0 +1,28 @@
+[
+  {
+    "id": "archives-22.1-patry",
+    "type": "article-journal",
+    "title": "THINKING – LIFE - ORGANIC.",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/22.1/patry/",
+    "author": [
+      {
+        "family": "PATRY",
+        "given": "TOBIAS"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "volume": "22",
+    "issue": "1",
+    "page": "113-134"
+  }
+]

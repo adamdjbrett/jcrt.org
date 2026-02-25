@@ -1,0 +1,27 @@
+[
+  {
+    "id": "archives-01.3-carpenter",
+    "type": "article-journal",
+    "title": "THE RELIGIOUS ART OF ANDY WARHOL",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/01.3/carpenter/",
+    "author": [
+      {
+        "family": "Bennett-Carpenter",
+        "given": "Benjamin"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "volume": "1",
+    "issue": "3"
+  }
+]

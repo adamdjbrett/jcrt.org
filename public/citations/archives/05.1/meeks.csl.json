@@ -1,0 +1,27 @@
+[
+  {
+    "id": "archives-05.1-meeks",
+    "type": "article-journal",
+    "title": "IN THE WAKE OF EDWARD SAID",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/05.1/meeks.pdf",
+    "author": [
+      {
+        "family": "Meeks",
+        "given": "John L"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "volume": "5",
+    "issue": "1"
+  }
+]
