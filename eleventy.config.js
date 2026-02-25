@@ -13,6 +13,7 @@ import pluginTOC from "eleventy-plugin-toc";
 import pluginFilters from "./_config/filters.js";
 import { authorSlug, splitAuthors } from "./_config/authorSlug.js";
 import generateArchiveCitations from "./_config/generate-archive-citations.js";
+import generateReligiousTheoryCitations from "./_config/generate-religioustheory-citations.js";
 import fs from "node:fs";
 import path from "node:path";
 import os from "node:os";
@@ -100,6 +101,7 @@ export default async function (eleventyConfig) {
 
 	eleventyConfig.on("eleventy.before", async () => {
 		await generateArchiveCitations(process.env.SITE_URL || "https://jcrt.org");
+		await generateReligiousTheoryCitations(process.env.SITE_URL || "https://jcrt.org");
 		await ensureFavicons();
 	});
 

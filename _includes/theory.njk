@@ -126,6 +126,18 @@
     {% include "partials/nav_mobile.njk" %}
     <main data-pagefind-body>
       {{ content | safe }}
+      {% if risCitationUrl or jsonCitationUrl %}
+        <section class="my-4 pt-3 border-top">
+          <div class="d-flex flex-wrap gap-2">
+            {% if risCitationUrl %}
+              <a href="{{ risCitationUrl }}" title="Download citation as RIS" class="btn btn-outline-primary" download>Download RIS</a>
+            {% endif %}
+            {% if jsonCitationUrl %}
+              <a href="{{ jsonCitationUrl }}" title="Download citation as JSON" class="btn btn-outline-secondary" download>Download JSON</a>
+            {% endif %}
+          </div>
+        </section>
+      {% endif %}
     </main>
   </div>
   <script src="/js/bs.js"></script>

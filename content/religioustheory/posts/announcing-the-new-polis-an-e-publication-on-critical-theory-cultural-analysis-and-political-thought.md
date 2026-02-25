@@ -41,9 +41,9 @@ Initial editorial staff for *The New Polis* are as follows:
 *   *Consulting Editor* – [Victor Taylor](taylorve@gmail.com), York College of Pennsylvania
 *   *Production Editor* – [Kara Roberts](kara.roberts@du.edu), University of Denver
 *   *Associate Editor* **–** [Jeff Appel](jsappel@gmail.com), University of Denver
-*   *Assistant Editor –* [Joshua Ramos](http://thenewpolis.com/editors/trinidad.ramos@gmail.com), University of Denver
-*   *Contributing Editor* **–** [Rebekah Gordon](http://thenewpolis.com/editors/rebekahgordon93@gmail.com), University of Denver
-*   *Contributing Editor* **–** [Jonathan Cole](http://thenewpolis.com/editors/jonathancole331@gmail.com), Charles Sturt University
+*   *Assistant Editor –* [Joshua Ramos](trinidad.ramos@gmail.com), University of Denver
+*   *Contributing Editor* **–** [Rebekah Gordon](rebekahgordon93@gmail.com), University of Denver
+*   *Contributing Editor* **–** [Jonathan Cole](jonathancole331@gmail.com), Charles Sturt University
 
 *The New Polis* welcomes submissions both of a scholarly and popular nature that fit within its broad range of topic areas within the arts and humanities.  All submissions are carefully vetted by its editorial staff.  Occasional articles – e.g., reviews, essays, interviews, reflections, editorials, opinion pieces – are reviewed by the senior editors for the [weblog](http://www.thenewpolis.com/) and may be selected for publication in the [academic journal](http://www.thenewpolis.com/journal) within two years following initial appearance.
 
