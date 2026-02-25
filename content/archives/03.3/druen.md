@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 07
+year: 2002
 ---
 Druen - Book Profile: Sacred Pain - JCRT 3.3 
 

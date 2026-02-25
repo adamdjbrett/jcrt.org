@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 01
+year: 2003
 ---
 Taylor & Lambert - The Future of Theory - JCRT 4.2 
 

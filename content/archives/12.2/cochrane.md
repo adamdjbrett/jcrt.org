@@ -35,5 +35,6 @@ sort_id: 10
 volume: 12
 issue: 2
 season: fall
+year: 2012
 pages: 148-162
 ---

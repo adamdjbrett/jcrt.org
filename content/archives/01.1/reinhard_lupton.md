@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 06
+year: 1999
 ---
 Reinhard/Lupton - Jewish Studies and the Secular University - JCRT 1.1
 

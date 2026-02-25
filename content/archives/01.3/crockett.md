@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 01
+year: 2000
 ---
 Crockett - Economies of Studying Religion - JCRT 1.3 
 

@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 05
+year: 2001
 ---
 MacCammon - Justice and Fundamental Anthropology - JCRT 3.1 
 

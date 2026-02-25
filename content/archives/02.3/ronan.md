@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 03
+year: 2001
 ---
 Ronan - Blessed Are They Who Mourn - JCRT 2.3 
 

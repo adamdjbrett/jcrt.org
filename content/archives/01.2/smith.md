@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 08
+year: 2000
 ---
 Smith - Difficult History - JCRT 1.2 
 

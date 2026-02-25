@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 07
+year: 2001
 ---
 Robbins - De-Nominating Religion and Postmodernism - JCRT 2.2 
 

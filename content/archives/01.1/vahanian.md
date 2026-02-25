@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 04
+year: 1999
 ---
 Vahanian - The Otherness of Time - JCRT 1.1
 

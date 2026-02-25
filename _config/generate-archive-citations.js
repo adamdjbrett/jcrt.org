@@ -51,6 +51,12 @@ function parseYear(data) {
 	return "";
 }
 
+function parseSeason(data) {
+	const raw = String(data?.season || "").trim();
+	if (!raw) return "";
+	return raw.toLowerCase();
+}
+
 function normalizeNumericString(value) {
 	const raw = String(value || "").trim();
 	if (!raw) return "";
@@ -139,10 +145,16 @@ function makeRIS(entry) {
 		lines.push("AU  - ");
 	}
 	lines.push(`T2  - ${JOURNAL_TITLE}`);
-	lines.push(`DA  - ${entry.da || (entry.year ? `${entry.year}///` : "")}`);
+	const risDate =
+		entry.da ||
+		(entry.py
+			? (entry.season ? `${entry.py}/${entry.season}//` : `${entry.py}///`)
+			: "");
+	lines.push(`DA  - ${risDate}`);
 	lines.push(`PY  - ${entry.py || entry.year}`);
 	lines.push(`VL  - ${escapeRIS(entry.volume)}`);
 	lines.push(`IS  - ${escapeRIS(entry.issue)}`);
+	lines.push(`C6  - ${escapeRIS(entry.season)}`);
 	lines.push(`SP  - ${escapeRIS(entry.startPage)}`);
 	lines.push(`EP  - ${escapeRIS(entry.endPage)}`);
 	lines.push(`J2  - ${JOURNAL_ABBR}`);
@@ -170,6 +182,7 @@ function makeCSL(entry, id) {
 		.filter(Boolean);
 	if (authorList.length > 0) obj.author = authorList;
 	if (entry.py) obj.issued = { "date-parts": [[Number(entry.py)]] };
+	if (entry.season) obj.season = String(entry.season);
 	if (entry.volume) obj.volume = String(entry.volume);
 	if (entry.issue) obj.issue = String(entry.issue);
 	if (entry.startPage && entry.endPage) obj.page = `${entry.startPage}-${entry.endPage}`;
@@ -198,6 +211,22 @@ export default async function generateArchiveCitations(baseUrl) {
 
 	const files = walk(archivesRoot);
 	const legacyLookup = loadLegacyDateLookup();
+	const issueMetaCache = new Map();
+
+	function getIssueMeta(issueSlug) {
+		if (issueMetaCache.has(issueSlug)) return issueMetaCache.get(issueSlug);
+		const indexPath = path.join(archivesRoot, issueSlug, "index.njk");
+		let meta = {};
+		try {
+			const raw = fs.readFileSync(indexPath, "utf8");
+			meta = parseFrontMatter(raw) || {};
+		} catch {
+			meta = {};
+		}
+		issueMetaCache.set(issueSlug, meta);
+		return meta;
+	}
+
 	let count = 0;
 
 	for (const filePath of files) {
@@ -210,7 +239,9 @@ export default async function generateArchiveCitations(baseUrl) {
 		if (fileSlug.toLowerCase() === "index") continue;
 
 		const content = fs.readFileSync(filePath, "utf8");
+		if (!content.startsWith("---")) continue;
 		const data = parseFrontMatter(content);
+		const issueMeta = getIssueMeta(issueSlug);
 
 		const pagePath = `/archives/${issueSlug}/${fileSlug}/`;
 		const pageUrl = toAbsoluteUrl(baseUrl, pagePath);
@@ -219,9 +250,10 @@ export default async function generateArchiveCitations(baseUrl) {
 		const url = pdfUrl || pageUrl;
 
 		const { startPage, endPage } = parsePages(data.pages);
-		const year = parseYear(data);
-		const volume = normalizeNumericString(data.volume || issueSlug.split(".")[0] || "");
-		const issue = normalizeNumericString(data.issue || issueSlug.split(".")[1] || "");
+		const year = parseYear(data) || parseYear(issueMeta);
+		const season = parseSeason(data) || parseSeason(issueMeta);
+		const volume = normalizeNumericString(data.volume || issueMeta.volume || issueSlug.split(".")[0] || "");
+		const issue = normalizeNumericString(data.issue || issueMeta.issue || issueSlug.split(".")[1] || "");
 		const title = String(data.title || fileSlug).trim();
 		const authors = splitAuthors(data.author);
 
@@ -231,13 +263,15 @@ export default async function generateArchiveCitations(baseUrl) {
 			year,
 			volume,
 			issue,
+			season,
 			startPage,
 			endPage,
 			url,
 		};
 		const legacyDate = resolveLegacyDate(entry, legacyLookup);
-		entry.py = year || legacyDate.py || "";
-		entry.da = legacyDate.da || (entry.py ? `${entry.py}///` : "");
+		entry.season = entry.season || "unknown";
+		entry.py = year || legacyDate.py || String(new Date().getUTCFullYear());
+		entry.da = entry.py ? `${entry.py}/${entry.season}//` : "";
 
 		const issueOutDir = path.join(outRoot, issueSlug);
 		fs.mkdirSync(issueOutDir, { recursive: true });

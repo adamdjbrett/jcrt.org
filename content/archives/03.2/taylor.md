@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 02
+year: 2002
 ---
 Taylor - Desire and Mourning: Theology and the Literary Imagination - JCRT 3.2 
 

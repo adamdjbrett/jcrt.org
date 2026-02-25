@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 06
+year: 2001
 ---
 Tatusko - The Theological Challenge of Cyberspace and the Logic of Simulation - JCRT 2.2 
 

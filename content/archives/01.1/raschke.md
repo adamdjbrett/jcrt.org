@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 01
+year: 1999
 ---
 Raschke - Theorizing Religion at the Turn of the Millennium - JCRT 1.1
 

@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 01
+year: 2001
 ---
 Magee - Heidegger, Religion, and the Transience of Digital Memory - JCRT 2.3 
 

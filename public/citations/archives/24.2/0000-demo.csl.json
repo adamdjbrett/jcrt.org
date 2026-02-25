@@ -1,0 +1,27 @@
+[
+  {
+    "id": "archives-24.2-0000-demo",
+    "type": "article-journal",
+    "title": "Tester again",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/24.2/0000-demo/",
+    "author": [
+      {
+        "literal": "tesert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "season": "winter",
+    "volume": "28",
+    "issue": "2"
+  }
+]

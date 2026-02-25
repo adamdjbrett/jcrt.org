@@ -25,5 +25,6 @@ sort_id:
 volume: 12
 issue: 1
 season: winter
+year: 2012
 pages:
 ---

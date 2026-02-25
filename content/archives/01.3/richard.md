@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 04
+year: 2000
 ---
 Richard - Aristotle and Religious Theory - JCRT 1.3 
 

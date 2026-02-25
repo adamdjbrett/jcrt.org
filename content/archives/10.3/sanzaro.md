@@ -9,5 +9,6 @@ sort_id: 13
 volume: 10
 issue: 3
 season: summer
+year: 2010
 pages:
 ---

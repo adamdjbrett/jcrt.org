@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf: 09
 sort_id: 02
+year: 2003
 ---
 Rabaté & Lambert - Conversation on The Future of Theory - JCRT 4.2 
 

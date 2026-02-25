@@ -9,5 +9,6 @@ sort_id: 02
 volume: 23
 issue: 2
 season: winter
+year: 2025
 pages: 132-139
 ---

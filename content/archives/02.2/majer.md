@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 05
+year: 2001
 ---
 Majer - On Contagions - JCRT 2.2 
 

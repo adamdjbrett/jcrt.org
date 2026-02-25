@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 01
+year: 2000
 ---
 Taylor - The Division of Religion - JCRT 1.2_
 

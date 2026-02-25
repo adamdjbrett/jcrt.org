@@ -12,5 +12,6 @@ sort_id: 04
 volume: 18
 issue: 3
 season: fall
+year: 2019
 pages: 415-428
 ---

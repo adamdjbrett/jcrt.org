@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 05
+year: 2002
 ---
 Kosky - Iconic Revisions of the Modern World Picture - JCRT 4.1 
 

@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 04
+year: 2003
 ---
 Caputo - After Jacques Derrida Comes the Future - JCRT 4.2 
 

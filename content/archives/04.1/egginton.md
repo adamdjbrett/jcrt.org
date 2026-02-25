@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 04
+year: 2002
 ---
 Egginton - The Christianization of Deconstruction - JCRT 4.1 
 

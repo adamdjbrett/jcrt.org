@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 07
+year: 2000
 ---
 Ruf - Ride of Passage - JCRT 1.2
 

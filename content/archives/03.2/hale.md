@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 09
+year: 2002
 ---
 Hale - Book Profile: Terror and the Sacred - JCRT 3.2 
 

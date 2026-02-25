@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 10
+year: 2002
 ---
 Blundell - Book Profile: The New Ricoeur Scholarship - JCRT 4.1 
 

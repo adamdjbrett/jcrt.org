@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 10
+year: 2002
 ---
 Scott - Brain Science Supports Contemporary Religious Trends - JCRT 3.3 
 

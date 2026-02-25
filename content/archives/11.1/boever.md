@@ -23,5 +23,6 @@ sort_id: 03
 volume: 11
 issue: 1
 season: winter
+year: 2010
 pages:
 ---

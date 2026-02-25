@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 08
+year: 1999
 ---
 Young - God and Derrida's Politics - JCRT 1.1
 

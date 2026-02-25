@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 08
+year: 2000
 ---
 Strysick - Culture Wars, Religion, and the Postmodern Sacred - JCRT 1.3 
 

@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 02
+year: 2001
 ---
 Gooch - The Epistemic Status of Value-Cognition - JCRT 3.1 
 

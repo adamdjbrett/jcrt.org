@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 07
+year: 2002
 ---
 Manolopolous - When Marion's Theology Seeks Certainty - JCRT 4.1 
 

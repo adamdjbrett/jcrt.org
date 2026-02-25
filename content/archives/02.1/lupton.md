@@ -23,6 +23,7 @@ sort_id: 04
 volume: 2
 issue: 1
 season: winter
+year: 2000
 pages:
 ---
 Religion and Psychoanalysis: Three Fundamental Concepts

@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 11
+year: 2002
 ---
 Zerbe - Book Profile: Anaximander and the Architects - JCRT 3.3 
 

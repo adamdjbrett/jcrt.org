@@ -13,6 +13,8 @@ const IMAGE_EXTS = new Set([
 ]);
 
 const PDF_EXTS = new Set([".pdf"]);
+const RIS_EXTS = new Set([".ris"]);
+const CSL_JSON_EXTS = new Set([".json"]);
 
 let serveCache = null;
 
@@ -65,6 +67,8 @@ export default async function () {
 
 	let images = [];
 	let pdfs = [];
+	let ris = [];
+	let csljson = [];
 
 	for (const root of roots) {
 		const dirAbs = path.join(process.cwd(), root.baseDir);
@@ -74,6 +78,12 @@ export default async function () {
 
 			images.push(...items.filter((i) => IMAGE_EXTS.has(i.ext)));
 			pdfs.push(...items.filter((i) => PDF_EXTS.has(i.ext)));
+			ris.push(...items.filter((i) => RIS_EXTS.has(i.ext) && i.url.includes("/citations/")));
+			csljson.push(
+				...items.filter(
+					(i) => CSL_JSON_EXTS.has(i.ext) && i.url.includes("/citations/") && i.url.endsWith(".csl.json")
+				)
+			);
 		} catch {
 			// ignore missing directories
 		}
@@ -91,8 +101,10 @@ export default async function () {
 
 	images = dedupeByUrl(images).sort((a, b) => a.url.localeCompare(b.url));
 	pdfs = dedupeByUrl(pdfs).sort((a, b) => a.url.localeCompare(b.url));
+	ris = dedupeByUrl(ris).sort((a, b) => a.url.localeCompare(b.url));
+	csljson = dedupeByUrl(csljson).sort((a, b) => a.url.localeCompare(b.url));
 
-	const result = { images, pdfs };
+	const result = { images, pdfs, ris, csljson };
 	if (isServeLike) {
 		serveCache = result;
 	}

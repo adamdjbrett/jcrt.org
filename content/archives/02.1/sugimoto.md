@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 07
+year: 2000
 ---
 Sugimoto - Nation as University - JCRT 2.1 
 

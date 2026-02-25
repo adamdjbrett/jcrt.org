@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 06
+year: 2002
 ---
 Weiss - Review of In Our Image - JCRT 3.3 
 

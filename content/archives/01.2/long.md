@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 03
+year: 2000
 ---
 Long - Mircea Eliade and the Imagination of Matter - JCRT 1.2
 

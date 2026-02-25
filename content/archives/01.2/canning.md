@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 04
+year: 2000
 ---
 Canning - Jesus Christ Holocaust - JCRT 1.2
 
