@@ -1,48 +1,25 @@
-html body .container.svelte-7ua6x9 .inner::before {
-    content: "";
-    display: block;
-    width: 80px;
-    height: 80px;
-    background: url("whitestone-logo.png") no-repeat center;
-    background-size: contain;
-    margin-bottom: 10px;
+[class*="IconWrapper-DecapLogoIcon"] svg,
+[class*="AppHeaderLogo"] svg,
+[class*="SidebarLogo"] svg,
+.nc-app-logo svg {
+  display: none !important;
 }
 
-html body .container.svelte-7ua6x9 h1 {
-    font-size: 0 !important; 
+[class*="IconWrapper-DecapLogoIcon"] {
+  display: block !important;
+  background: url('whitestone-logo.png') no-repeat center !important;
+  background-size: contain !important;
+  width: 300px !important;
+  height: 80px !important;
+  margin: 0 auto 20px auto !important;
 }
 
-html body .container.svelte-7ua6x9 h1::after {
-    content: "WHITESTONE FOUNDATION";
-    font-size: 1.5rem;
-    font-weight: 800;
-    letter-spacing: 1px;
-    display: block;
-}
-
-html[data-theme] aside nav::before {
-    content: "";
-    display: block;
-    width: 40px;
-    height: 40px;
-    background: url("whitestone-logo.png") no-repeat center;
-    background-size: contain;
-    margin: 20px auto 10px;
-}
-
-html[data-theme] aside nav::after {
-    content: "WHITESTONE";
-    display: block;
-    text-align: center;
-    font-size: 10px;
-    font-weight: bold;
-    color: var(--sui-secondary-foreground-color);
-    margin-bottom: 20px;
-    border-bottom: 1px solid var(--sui-border-color-2-hsl);
-    padding-bottom: 10px;
-}
-
-.logo.svelte-7ua6x9, 
-.container.svelte-7ua6x9 svg {
-    display: none !important;
+[class*="AppHeaderLogo"],
+[class*="SidebarLogo"],
+.nc-app-logo {
+  display: block !important;
+  background: url('whitestone-logo.png') no-repeat left center !important;
+  background-size: contain !important;
+  width: 150px !important;
+  height: 35px !important;
 }
