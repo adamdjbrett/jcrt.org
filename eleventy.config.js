@@ -83,6 +83,15 @@ async function ensureFavicons() {
 	});
 }
 
+function isPublishedItem(data = {}, runMode = process.env.ELEVENTY_RUN_MODE) {
+	// Explicit publish flag has highest priority.
+	if (data.published === false) return false;
+	if (data.published === true) return true;
+	// Keep existing draft behavior for build mode.
+	if (data.draft === true && runMode === "build") return false;
+	return true;
+}
+
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function (eleventyConfig) {
 	eleventyConfig.addPlugin(pluginFilters);
@@ -95,10 +104,8 @@ export default async function (eleventyConfig) {
 	});
 
 	// Removed manual authors.json loading. Eleventy will auto-load _data/authors.yaml and _data/authors.json as global data.
-	eleventyConfig.addPreprocessor("drafts", "*", (data, content) => {
-		if (data.draft && process.env.ELEVENTY_RUN_MODE === "build") {
-			return false;
-		}
+	eleventyConfig.addPreprocessor("drafts", "*", (data) => {
+		if (!isPublishedItem(data)) return false;
 	});
 	
 	// dev mode
@@ -316,6 +323,7 @@ export default async function (eleventyConfig) {
 		const normalizedSlug = authorSlug(rawKey);
 
 		const postsByAuthor = allPosts.filter((post) => {
+			if (!isPublishedItem(post?.data)) return false;
 			const authorField = post?.data?.author;
 			if (!authorField) return false;
 
@@ -380,6 +388,7 @@ export default async function (eleventyConfig) {
 	eleventyConfig.addCollection("authors", function (collectionApi) {
 		return collectionApi
 			.getFilteredByGlob("content/authors/*.md")
+			.filter((item) => isPublishedItem(item?.data))
 			.sort((a, b) => {
 				const nameA = (a.data.name || a.data.title || "").toLowerCase();
 				const nameB = (b.data.name || b.data.title || "").toLowerCase();
@@ -389,6 +398,7 @@ export default async function (eleventyConfig) {
 	eleventyConfig.addCollection("theoryPosts", function(collectionApi) {
 	  return collectionApi.getFilteredByGlob("content/religioustheory/**/*")
 	    .filter(item => {
+	      if (!isPublishedItem(item?.data)) return false;
 	      const isRootIndex = item.inputPath.endsWith("religioustheory/index.html") || 
 	                          item.inputPath.endsWith("religioustheory/index.njk") ||
 	                          item.inputPath.endsWith("religioustheory/index.md");     
@@ -411,13 +421,16 @@ export default async function (eleventyConfig) {
 		eleventyConfig.addPassthroughCopy("content/archives/**/*.tiff");
 	}
 	eleventyConfig.addCollection("archives", function (collectionApi) {
-		return collectionApi.getFilteredByGlob("content/archives/**/*.md");
+		return collectionApi
+			.getFilteredByGlob("content/archives/**/*.md")
+			.filter((item) => isPublishedItem(item?.data));
 	});
 
 	eleventyConfig.addCollection("archivesToc", function (collectionApi) {
 		const items = collectionApi
 			.getAll()
 			.filter((p) => {
+				if (!isPublishedItem(p?.data)) return false;
 				const ip = String(p?.inputPath || "");
 				return /^\.\/content\/archives\/[^/]+\/index\.njk$/.test(ip) && p?.url;
 			})
@@ -460,12 +473,14 @@ export default async function (eleventyConfig) {
 		const archives = byMtimeDesc(
 			collectionApi
 				.getFilteredByGlob("content/archives/**/*.md")
+				.filter((p) => isPublishedItem(p?.data))
 				.filter((p) => p?.url && p.url.startsWith("/archives/"))
 		).slice(0, 25);
 
 		const blog = byDateDesc(
 			collectionApi
 				.getFilteredByGlob("content/blog/*.md")
+				.filter((p) => isPublishedItem(p?.data))
 				.filter((p) => p?.url && p.url.startsWith("/blog/"))
 		).slice(0, 25);
 

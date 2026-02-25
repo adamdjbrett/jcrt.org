@@ -1,6 +1,6 @@
 ---
 title: "DIVISIBLE DERRIDAS"
-author: "Victor E Taylor"
+author: "Victor Taylor"
 affilation:
 abstract:
 keywords:

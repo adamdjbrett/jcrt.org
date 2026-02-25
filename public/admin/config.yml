@@ -99,29 +99,31 @@ collections:
     identifier_field: "key"
     slug: "{{key}}"
     fields:
-      - {label: "Title", name: "title", widget: "string", hint: "Full name of the author."}
-      - {label: "Name", name: "name", widget: "string", hint: "Author Name."}
-      - {label: "Description", name: "description", widget: "string", hint: "Description of authors example University of Denver."}
-      - {label: "Affiliation", name: "affiliation", widget: "string", hint: "Affiliation."}
-      - {label: "Biography", name: "bio", widget: "string", hint: "Bio."}
-      - {label: "Orcid", name: "orcid", widget: "string", hint: "Orcid."}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Profile Image", name: "image", widget: "image"}
+      - {label: "Title", name: "title", widget: "string", required: false, hint: "Dr./Prof. etc."}
+      - {label: "Name", name: "name", widget: "string", required: true, hint: "Author Name."}
+      - {label: "Description", name: "description", widget: "string", required: false, hint: "Professor, Professor Emeritus, Independent Scholar, etc."}
+      - {label: "Affiliation", name: "affiliation", widget: "string", required: false, hint: "Affiliation."}
+      - {label: "Biography", name: "bio", widget: "string", required: false, hint: "Bio."}
+      - {label: "Orcid", name: "orcid", widget: "string", required: false, hint: "Orcid."}
+      - {label: "Publish Date", name: "date", widget: "datetime", required: false}
+      - {label: "Profile Image", name: "image", widget: "image", required: false}
       - label: "Social Links"
         name: "social"
         widget: "list"
+        required: false
         collapsed: true
         fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Icon (Font Awesome)", name: "icon", widget: "string", hint: "e.g., fa-solid fa-envelope"}
-          - {label: "URL", name: "url", widget: "string"}
+          - {label: "Title", name: "title", widget: "string", required: false}
+          - {label: "Icon (Font Awesome)", name: "icon", widget: "string", required: false, hint: "e.g., fa-solid fa-envelope"}
+          - {label: "URL", name: "url", widget: "string", required: false}
       - label: "Call-to-Action Button"
         name: "button"
         widget: "object"
+        required: false
         fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "URL", name: "url", widget: "string"}
-      - {label: "Biography", name: "body", widget: "markdown", hint: "The main content/bio of the author."}
+          - {label: "Title", name: "title", widget: "string", required: false}
+          - {label: "URL", name: "url", widget: "string", required: false}
+      - {label: "Biography", name: "body", widget: "markdown", required: false, hint: "The main content/bio of the author."}
   - name: "pages"
     label: "Static Pages"
     folder: "content/pages"

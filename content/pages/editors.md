@@ -6,8 +6,8 @@ permalink: /editors/
 
 ## Editors
 
-- \*Senior Editor:\* [**Carl Raschke**](mailto:carlraschke@gmail.com), University of Denver \| [articles by Raschke](/authors/carl-a-raschke/)
-- \*Executive Editor:\* [**Victor Taylor**](mailto:vetaylor@ycp.edu), South Dakota State University \|[articles by Taylor](/authors/victor-taylor/)
+- *Senior Editor:* [**Carl Raschke**](mailto:carlraschke@gmail.com), University of Denver \| [articles by Raschke](/authors/carl-a-raschke/)
+- *Executive Editor:* [**Victor Taylor**](mailto:Victor.Taylor@sdstate.edu), Independent Scholar \|[articles by Taylor](/authors/victor-taylor/)
 
 ## Assistant Editors
 

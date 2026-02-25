@@ -1,6 +1,6 @@
 ---
 title: "Altizer and Derrida: Apocalyptic Spectralities"
-author: "Victor E. Taylor"
+author: "Victor Taylor"
 affilation:
 abstract:
 keywords: []

@@ -1,6 +1,6 @@
 ---
 title: "A CONVERSATION WITH RICHARD KEARNEY"
-author: "Victor E Taylor; Richard Kearney"
+author: "Victor Taylor; Richard Kearney"
 affilation:
 abstract:
 keywords:

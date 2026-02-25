@@ -1810,7 +1810,7 @@ level1ID = theMenu.addEntry (-1, "TOC", "Table of Contents", "home.html", "View 
 
 theMenu.entry\[level1ID\].target = "text";
 
-level1ID = theMenu.addEntry (level1ID, "Document", "The Division of Religion With Signs Following", "taylor.shtml", "Victor E. Taylor");
+level1ID = theMenu.addEntry (level1ID, "Document", "The Division of Religion With Signs Following", "taylor.shtml", "Victor Taylor");
 
 theMenu.entry\[level1ID\].target = "text";
 

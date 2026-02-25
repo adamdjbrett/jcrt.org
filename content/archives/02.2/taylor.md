@@ -1,7 +1,7 @@
 ---
 title: "THE METAPHYSICS OF INDETERMINACY: POSTMODERN RELIGIOUS THEORY AND THE RUIN OF REFERENTIALITY"
 article_number:
-author: "Victor E Taylor"
+author: "Victor Taylor"
 affilation:
 abstract:
 keywords: []
@@ -12,7 +12,7 @@ Taylor - The Metaphysics of Indeterminacy - JCRT 2.2
 
 # The Metaphysics of Indeterminacy: Postmodern Religious Theory and The Ruin of Referentiality
 
-Victor E. Taylor  
+Victor Taylor  
 York College of Pennsylvania
 
 * * *
@@ -76,7 +76,7 @@ Paul Klee. _Heads_, 1913
 
 * * *
 
-> **Victor E. Taylor**, teaches in the department of English and Humanities at York College of Pennsylvania. He is the author of _Para/Inquiry: Postmodern Religion and Culture_ (London: Routledge, 2000), Editor (with Charles E. Winquist) of _The Routledge Encyclopedia of Postmodnerism_ (London: Routledge, 2000), and Editor of the _Journal for Cultural and Religious Theory_.
+> **Victor Taylor**, teaches in the department of English and Humanities at York College of Pennsylvania. He is the author of _Para/Inquiry: Postmodern Religion and Culture_ (London: Routledge, 2000), Editor (with Charles E. Winquist) of _The Routledge Encyclopedia of Postmodnerism_ (London: Routledge, 2000), and Editor of the _Journal for Cultural and Religious Theory_.
 
 * * *
 
@@ -84,7 +84,7 @@ Paul Klee. _Heads_, 1913
 
 * * *
 
- ['](https://jcrt.org/copyright.shtml) 2001 Victor E. Taylor All rights reserved.  
+ ['](https://jcrt.org/copyright.shtml) 2001 Victor Taylor All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/02.2/taylor.shtml
 

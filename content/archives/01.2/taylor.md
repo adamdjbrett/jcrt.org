@@ -1,7 +1,7 @@
 ---
 title: "THE DIVISION OF RELIGION WITH SIGNS FOLLOWING"
 article_number:
-author: "Victor E Taylor"
+author: "Victor Taylor"
 affilation:
 abstract:
 keywords: []
@@ -16,7 +16,7 @@ _
 
 # The Division of Religion With Signs Following
 
-Victor E. Taylor  
+Victor Taylor  
 York College of Pennsylvania.
 
 * * *
@@ -43,11 +43,11 @@ The systematic dismantling of the founding concepts of the Western philosophical
 
 * * *
 
-> **Victor E. Taylor** teaches in the department of English and Humanities at York College of Pennsylvania. He is the author of _Para/Inquiry: Postmodern Religion and Culture_ (London: Routledge, 2000), Editor (with Charles E. Winquist) of _The Routledge Encyclopedia of Postmodnerism_ (London: Routledge, 2000), and Editor of the _Journal for Cultural and Religious Theory_.
+> **Victor Taylor** teaches in the department of English and Humanities at York College of Pennsylvania. He is the author of _Para/Inquiry: Postmodern Religion and Culture_ (London: Routledge, 2000), Editor (with Charles E. Winquist) of _The Routledge Encyclopedia of Postmodnerism_ (London: Routledge, 2000), and Editor of the _Journal for Cultural and Religious Theory_.
 
 * * *
 
-© 2000 Victor E. Taylor. All rights reserved.  
+© 2000 Victor Taylor. All rights reserved.  
 Updated 03|31|00.
 
 ---
@@ -82,4 +82,4 @@ Updated 03|31|00.
 
 [^9]: See Peggy Kamuf's _The Division of Literature Or the University in Deconstruction_. Chicago: The University of Chicago Press, 1997.
 
-[^10]: See Victor E. Taylor _Para/Inquiry: Postmodern Religion and Culture_. London: Routledge, 2000.
+[^10]: See Victor Taylor _Para/Inquiry: Postmodern Religion and Culture_. London: Routledge, 2000.

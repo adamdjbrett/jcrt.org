@@ -1,6 +1,6 @@
 ---
 title: "THEORIZING RELIGION II"
-author: "Victor E Taylor"
+author: "Victor Taylor"
 affilation:
 abstract:
 keywords:

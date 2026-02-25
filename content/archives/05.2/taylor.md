@@ -1,6 +1,6 @@
 ---
 title: "THEORY FEVER: ARCHIVALISM AND THE FUTURE OF RELIGIOUS STUDIES"
-author: "Victor E Taylor"
+author: "Victor Taylor"
 affilation:
 abstract:
 keywords:

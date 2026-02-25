@@ -1,6 +1,6 @@
 ---
 title: "A CONVERSATION WITH SLAVOJ ŽIŽEK"
-author: "Victor E Taylor; Slavoj Žižek"
+author: "Victor Taylor; Slavoj Žižek"
 affilation:
 abstract: 
 keywords:

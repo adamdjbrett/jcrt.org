@@ -61,11 +61,6 @@ sidebar:
           - image: "/img/tnpj.png"
             text: "The New Polis Journal is a peer-reviewed academic journal publishing cutting-edge work in political philosophy, social theory, and related fields."
             url: "https://journal.thenewpolis.com/"
-      - title: Esthesis
-        list: 
-          - image: "/img/esthesis.png"
-            text: "Esthesis is an electronic magazine (“e-mag”) that publishes thoughtful, innovative, sometimes provocative, and even quirky articles on the arts and contemporary ideas and culture.  Esthesis draws on a variety of contributors, including artists and academics as well as community, business, and thought leaders.  Esthesis also explores certain unexplored dimensions of consumer trends and the world of fashion and advertising."
-            url: "https://esthesis.org/"
     button: 
         text: Whitestone Foundation
         url: https://thewhitestonefoundation.org
@@ -89,7 +84,7 @@ sidebar:
 site: 
   title: RELIGIOUS THEORY
   description: A Review, Commentary, and Conversations Feature of JCRT
-  url: http://localhost:8080
+  url: https://jcrt.org/religioustheory
   author: editors_religioustheory
   alert: |
        **Archived Content** This Section is part of Religious Theory Archive and is no longer being updated.
