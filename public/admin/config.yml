@@ -14,7 +14,8 @@ public_folder: "/img"
 collections:
   - name: "home"
     label: "Home"
-    preview: true
+    editor:
+      preview: false
     files:
       - file: "content/index.md"
         label: "Homepage Content"
@@ -22,24 +23,27 @@ collections:
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "home.njk"}
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Description", name: "description", widget: "text"}
-          - {label: "Image", name: "image", widget: "image"}
-          - {label: "Hero Text", name: "text", widget: "text", hint: "The main text under the hero image."}
+          - {label: "Description", name: "description", widget: "text" ,required: false}
+          - {label: "Image", name: "image", widget: "image",required: false}
+          - {label: "Hero Text", name: "text", widget: "text", hint: "The main text under the hero image.",required: false}
           - label: "Hero Button"
             name: "button"
             widget: "object"
+            required: false
             fields:
               - {label: "Text", name: "text", widget: "string"}
               - {label: "URL", name: "url", widget: "string"}
           - label: "Featured Section"
             name: "section"
             widget: "object"
+            required: false
             fields:
               - {label: "Section Title", name: "title", widget: "string"}
               - {label: "Mode", name: "mode", widget: "string"}
           - label: "Blog Section"
             name: "blog"
             widget: "object"
+            required: false
             fields:
               - {label: "Title", name: "title", widget: "string"}
               - label: "Button"
@@ -51,7 +55,8 @@ collections:
 
   - name: "blogIndex"
     label: "Blog Index"
-    preview: true
+    editor:
+      preview: false
     files:
       - file: "content/blog.md"
         label: "Blog Listing Page"
@@ -59,48 +64,27 @@ collections:
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "blog.njk"}
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Description", name: "description", widget: "text"}
+          - {label: "Description", name: "description", widget: "text" , required: false  }
           - label: "Pagination Settings"
             name: "pagination"
             widget: "object"
             collapsed: true
             fields:
-              - {label: "Data Source", name: "data", widget: "hidden", default: "collections.posts"}
               - {label: "Page Size", name: "size", widget: "number", value_type: "int", default: 6}
               - {label: "Reverse Order", name: "reverse", widget: "boolean", default: true}
-          - label: "Test Data (Example)"
-            name: "testdata"
-            widget: "list"
-            collapsed: true
-            fields:
-              - {label: "Item", name: "item", widget: "string"}
-          - {label: "Permalink", name: "permalink", widget: "hidden", default: "/blog/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}index.html"}
           - {label: "Body Content (Optional)", name: "body", widget: "markdown", required: false}
-  - name: "posts"
-    label: "Blog Posts"
-    folder: "content/blog"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Description", name: "description", widget: "text", hint: "A short summary of the post."}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Tags", name: "tags", widget: "list", field: {label: "Tag", name: "tag", widget: "string"}}
-      - label: "Author Key"
-        name: "author"
-        widget: "string"
-        hint: "Authors"
-      - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "authors_profile"
     label: "Author Profiles"
     folder: "content/authors"
     create: true
-    identifier_field: "key"
-    slug: "{{key}}"
+    identifier_field: "name"
+    editor:
+      preview: false
+    slug: "{{name}}"
     fields:
       - {label: "Name", name: "name", widget: "string", hint: "Author Name."}
-      - {label: "Affiliation", name: "affiliation", widget: "string", hint: "Affiliation."}
+      - {label: "Affiliation", name: "affiliation", widget: "string", hint: "Affiliation.",required: false}
       - {label: "Biography", name: "bio", widget: "text", hint: "Bio." ,required: false}
       - label: "Social Links"
         name: "social"
@@ -111,20 +95,41 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Icon (Font Awesome)", name: "icon", widget: "string", hint: "e.g., fa-solid fa-envelope"}
           - {label: "URL", name: "url", widget: "string",required: false}
+
+  - name: "posts"
+    label: "Blog Posts"
+    folder: "content/blog"
+    create: true
+    editor:
+      preview: false
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "text", hint: "A short summary of the post.", required: false}
+      - {label: "Publish Date", name: "date", widget: "datetime",required: false}
+      - {label: "Tags", name: "tags", widget: "list", field: {label: "Tag", name: "tag", widget: "string"} , required: false}
+      - {label: "Author", name: "author", widget: "string", required: false}
+      - {label: "Body", name: "body", widget: "markdown",required: false}
+
+
   - name: "pages"
     label: "Static Pages"
     folder: "content/pages"
     create: true
+    editor:
+      preview: false
     slug: "{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Description", name: "description", widget: "text"}
-      - {label: "Permalink", name: "permalink", widget: "string", hint: "Example: /about/"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Description", name: "description", widget: "text",required: false}
+      - {label: "Permalink", name: "permalink", widget: "string", hint: "Example: /about/",required: false}
+      - {label: "Body", name: "body", widget: "markdown",required: false}
   - name: "archives"
     label: "Archives"
     folder: "content/archives"
     create: true
+    editor:
+      preview: false
     extension: "md"
     format: "frontmatter"
     nested: { depth: 5 }
@@ -142,19 +147,20 @@ collections:
       - {label: "Volume", name: "volume", widget: "string", hint: "Eg: 24"}
       - {label: "Issue", name: "issue", widget: "string", hint: "Eg: 1"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Author Name", name: "author", widget: "string", hint: "Authors"}
-      - {label: "Affiliation", name: "affiliation", widget: "string", required: false, hint: "Affiliation"}
-      - {label: "Abstract", name: "abstract", widget: "text"}
-      - {label: "PDF File", name: "pdf", widget: "file", required: false, hint: "PDF file"}
+      - {label: "Author", name: "author", widget: "string", required: false}
+      - {label: "Affiliation", name: "affiliation", widget: "string", hint: "Affiliation" ,required: false}
+      - {label: "Abstract", name: "abstract", widget: "text", required: false}
+      - {label: "PDF File", name: "pdf", widget: "file", hint: "PDF file",required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
   - name: "metadata"
     label: "Metadata"
-    preview: false
+    editor:
+      preview: false
     files:
-    - file: "_data/metadata.yaml"
-      label: "Site Metadata"
-      name: "site_metadata"
-      fields:
+      - file: "_data/metadata.yaml"
+        label: "Site Metadata"
+        name: "site_metadata"
+        fields:
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Description", name: "description", widget: "text"}
         - {label: "Image", name: "image", widget: "image"}
