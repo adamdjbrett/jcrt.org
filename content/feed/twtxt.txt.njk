@@ -1,0 +1,12 @@
+---
+permalink: /feed/twtxt.txt
+layout: false
+eleventyExcludeFromCollections: true
+---
+# twtxt is an open, distributed microblogging format: https://twtxt.readthedocs.io/
+# Source: {{ metadata.url }}
+# Feed: {{ metadata.url }}/feed/twtxt.txt
+{% set items = collections.feed | reverse -%}
+{% for item in items -%}
+{{ item.date | dateToRfc3339 }}	{{ metadata.url }}{{ item.url }}	{{ (item.data.title or item.fileSlug or item.url or "Untitled") | striptags | trim }}
+{% endfor -%}
