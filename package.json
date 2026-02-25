@@ -8,7 +8,7 @@
 		"start": "eleventy --serve",
 		"dev": "cross-env QUICK_DEV=1 NODE_OPTIONS=--max-old-space-size=8192 eleventy --serve --incremental --port=4000",
 		"build:local": "eleventy",
-		"build": "rm -rf _site && cross-env ELEVENTY_RUN_MODE=build eleventy && node _config/generate-redirects.js && pagefind --site _site",
+		"build": "rm -rf _site && cross-env NODE_OPTIONS=--max-old-space-size=4096 ELEVENTY_RUN_MODE=build eleventy && node _config/generate-redirects.js && pagefind --site _site",
 		"clear": "rm -rf _site .cache",
 		"build-nocolor": "cross-env NODE_DISABLE_COLORS=1 eleventy",
 		"build-ghpages": "rm -rf _site && eleventy --pathprefix=/jcrt.org/ && node _config/generate-redirects.js",
