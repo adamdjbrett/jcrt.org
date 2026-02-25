@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: adamdjbrett/jcrt.org
   branch: main
 #  base_url: https://jcrt-auth.adam.workers.dev
