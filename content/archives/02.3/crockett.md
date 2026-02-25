@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 05
+year: 2001
 ---
 Crockett - Review of Heidegger's Contributions to Philosophy - JCRT 2.3 
 

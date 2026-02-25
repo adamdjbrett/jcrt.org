@@ -14,5 +14,6 @@ sort_id: 06
 volume: 12
 issue: 3
 season: spring
+year: 2013
 pages: 111-124
 ---

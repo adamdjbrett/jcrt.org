@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 06
+year: 2001
 ---
 Altizer - Absolute Nothingness and Taylor's Imagology - JCRT 2.2 
 

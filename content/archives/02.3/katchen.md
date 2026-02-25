@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 08
+year: 2001
 ---
 Katchen - Book Profile: Psychiatric Abuse and the Intelligence Community - JCRT 2.3 
 

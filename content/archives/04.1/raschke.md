@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 02
+year: 2002
 ---
 Raschke - From Religion to Faith - JCRT 4.1 
 

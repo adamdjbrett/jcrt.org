@@ -65,6 +65,8 @@ eleventyExcludeFromCollections: true
 	{% for path in [
 		"/feed/feed.xml",
 		"/feed/feed.rss",
+		"/feed/feed.json",
+		"/feed/twtxt.txt",
 		"/feed/religioustheory/feed.xml"
 	] -%}
 		{%- if path not in seen -%}

@@ -13,5 +13,6 @@ sort_id:
 volume: 18
 issue: 3
 season: fall
+year: 2019
 pages: 536-550
 ---

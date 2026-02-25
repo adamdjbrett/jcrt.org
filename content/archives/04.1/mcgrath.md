@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 08
+year: 2002
 ---
 McGrath - Young Heidegger's Problematic Reading of Augustine - JCRT 4.1 
 

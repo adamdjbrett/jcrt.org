@@ -9,6 +9,20 @@ export default {
       const folder = data.page.filePathStem.substring(0, data.page.filePathStem.lastIndexOf('/'));
       return `${folder}/${fileName}`;
     },
+    risCitationUrl: (data) => {
+      const slug = data.page.fileSlug;
+      if (!slug || slug === "index") return null;
+      const issue = (data.page.filePathStem || "").split("/").slice(-2, -1)[0];
+      if (!issue) return null;
+      return `/citations/archives/${issue}/${slug}.ris`;
+    },
+    jsonCitationUrl: (data) => {
+      const slug = data.page.fileSlug;
+      if (!slug || slug === "index") return null;
+      const issue = (data.page.filePathStem || "").split("/").slice(-2, -1)[0];
+      if (!issue) return null;
+      return `/citations/archives/${issue}/${slug}.csl.json`;
+    },
     articleNumber: (data) => parseInt(data.article_number, 10) || 999,
     tags: (data) => {
       const manualTags = Array.isArray(data.tags) ? data.tags : [];

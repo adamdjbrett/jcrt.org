@@ -1,0 +1,40 @@
+[
+  {
+    "id": "archives-08.2-davis-hardt",
+    "type": "article-journal",
+    "title": "A CONVERSATION WITH MICHAEL HARDT",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/08.2/davis-hardt.pdf",
+    "author": [
+      {
+        "family": "Hardt",
+        "given": "Michael"
+      },
+      {
+        "family": "Davis",
+        "given": "Creston"
+      },
+      {
+        "family": "Haley",
+        "given": "Christopher W"
+      },
+      {
+        "family": "Craig",
+        "given": "Jason"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "season": "spring",
+    "volume": "8",
+    "issue": "2"
+  }
+]

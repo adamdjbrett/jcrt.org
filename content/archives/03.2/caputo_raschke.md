@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 03
+year: 2002
 ---
 Caputo & Raschke - Loosening Philosophy's Tongue - JCRT 3.2 
 

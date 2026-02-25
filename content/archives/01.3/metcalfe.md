@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 06
+year: 2000
 ---
 Metcalfe - Wonder, Creativity and Knowledge - JCRT 1.3 
 

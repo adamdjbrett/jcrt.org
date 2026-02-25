@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 08
+year: 2002
 ---
 Grimshaw - Preacher, or the Death of God in Pictures - JCRT 3.2 
 

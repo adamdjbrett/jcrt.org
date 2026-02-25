@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 01
+year: 2002
 ---
 Journal for Cultural and Religious Theory - Issue 4.2 - April 2003   
 

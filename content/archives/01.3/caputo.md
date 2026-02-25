@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 02
+year: 2000
 ---
 Caputo - For Love of Things Themselves - JCRT 1.3 
 

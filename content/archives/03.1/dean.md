@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 07
+year: 2001
 ---
 Dean - The Archaeology of American Thought - JCRT 3.1 
 

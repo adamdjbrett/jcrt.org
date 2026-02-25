@@ -19,5 +19,6 @@ sort_id:
 volume: 19
 issue: 3
 season: fall
+year: 2020
 pages: 428-435
 ---

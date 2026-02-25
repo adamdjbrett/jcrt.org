@@ -1,0 +1,36 @@
+[
+  {
+    "id": "archives-09.1-malabou",
+    "type": "article-journal",
+    "title": "A CONVERSATION WITH CATHERINE MALABOU",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/09.1/Malabou.pdf",
+    "author": [
+      {
+        "family": "Vahanian",
+        "given": "Nöelle"
+      },
+      {
+        "family": "Malabou",
+        "given": "Catherine"
+      },
+      {
+        "family": "Devine",
+        "given": "Carissa"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "season": "winter",
+    "volume": "9",
+    "issue": "1"
+  }
+]

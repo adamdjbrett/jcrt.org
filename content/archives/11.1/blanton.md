@@ -30,5 +30,6 @@ pdf: blanton.pdf
 sort_id: 04
 issue: 1
 season: winter
+year: 2010
 pages:
 ---

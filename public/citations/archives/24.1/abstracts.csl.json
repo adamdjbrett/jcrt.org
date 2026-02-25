@@ -1,0 +1,28 @@
+[
+  {
+    "id": "archives-24.1-abstracts",
+    "type": "article-journal",
+    "title": "Abstracts",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/24.1/abstracts.pdf",
+    "author": [
+      {
+        "literal": "editors"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "season": "summer",
+    "volume": "24",
+    "issue": "1",
+    "page": "abstracts.pdf"
+  }
+]

@@ -40,8 +40,18 @@ layout: base.njk
           {% endif %}
           
           {% if pdfUrl %}
-            <a href="{{ pdfUrl }}" class="btn  btn-primary px-3 shadow-sm" target="_blank">
-              <i class="bi bi-file-earmark-pdf"></i> Download PDF
+            <a href="{{ pdfUrl }}" title="Download Article as a PDF" class="btn  btn-primary px-3 shadow-sm" target="_blank">
+              <i class="bi bi-file-earmark-pdf"></i> Download Article
+            </a>
+          {% endif %}
+          {% if risCitationUrl %}
+            <a href="{{ risCitationUrl }}" title="Download citation as RIS" class="btn btn-outline-primary px-3 shadow-sm" download>
+              <i class="bi bi-journal-text"></i> Download Citation (RIS)
+            </a>
+          {% endif %}
+          {% if jsonCitationUrl %}
+            <a href="{{ jsonCitationUrl }}" title="Download citation as CSL JSON" class="btn btn-outline-secondary px-3 shadow-sm" download>
+              <i class="bi bi-braces"></i> Download Citation (JSON)
             </a>
           {% endif %}
         </div>

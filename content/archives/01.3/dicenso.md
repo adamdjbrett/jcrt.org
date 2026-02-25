@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 05
+year: 2000
 ---
 DiCenso - Splitting Religion - JCRT 1.3 
 

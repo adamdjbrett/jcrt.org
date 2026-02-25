@@ -1,0 +1,28 @@
+[
+  {
+    "id": "archives-01.2-taylor",
+    "type": "article-journal",
+    "title": "THE DIVISION OF RELIGION WITH SIGNS FOLLOWING",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/01.2/taylor/",
+    "author": [
+      {
+        "family": "Taylor",
+        "given": "Victor"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "season": "spring",
+    "volume": "1",
+    "issue": "2"
+  }
+]

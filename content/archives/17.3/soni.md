@@ -13,5 +13,6 @@ sort_id: 09
 volume: 17
 issue: 3
 season: summer
+year: 2018
 pages: 566-587
 ---

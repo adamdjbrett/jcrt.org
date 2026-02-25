@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 04
+year: 2002
 ---
 Rashkover - The Semiotics of Embodiment - JCRT 3.3 
 

@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf: 
 sort_id: 04
+year: 2001
 ---
 Elias - Ekphrastic Plastic Fragments - JCRT 2.2 
 

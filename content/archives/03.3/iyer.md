@@ -6,6 +6,7 @@ affilation:
 abstract: 
 keywords: []
 pdf:
+year: 2002
 ---
 The City and the Stars: Politics and Alterity in Heidegger, Levinas and Blanchot
 ================================================================================

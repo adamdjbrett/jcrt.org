@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 07
+year: 1999
 ---
 Kavka - Rationality of Derrida's Religion - JCRT 1.1 
 

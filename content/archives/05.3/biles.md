@@ -23,5 +23,6 @@ sort_id: 02
 volume: 5
 issue: 3
 season: summer
+year: 2004
 pages:
 ---

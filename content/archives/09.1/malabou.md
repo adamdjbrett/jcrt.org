@@ -17,5 +17,6 @@ sort_id:
 volume: 9
 issue: 1
 season: winter
+year: 2008
 pages:
 ---

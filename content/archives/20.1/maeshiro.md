@@ -12,5 +12,6 @@ sort_id: 06
 volume: 20
 issue: 1
 season: winter
+year: 2024
 pages: 50-92
 ---

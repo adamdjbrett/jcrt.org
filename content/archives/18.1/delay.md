@@ -12,5 +12,6 @@ sort_id: 03
 volume: 18
 issue: 1
 season: winter
+year: 2018
 pages: 6-7
 ---

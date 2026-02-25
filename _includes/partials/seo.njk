@@ -49,10 +49,17 @@
   title="{{ metadata.title }}"
   href="{{ metadata.url }}/feed/feed.rss"
 />
+<link
+  rel="sitemap"
+  type="application/xml"
+  title="{{ metadata.title }} Sitemap"
+  href="{{ metadata.url }}/sitemap.xml"
+/>
 <meta name="language" content="{{ metadata.language }}" />
 <meta name="locale" content="{{ metadata.locale }}" />
 <meta property="og:locale" content="{{ metadata.locale }}" />
 <meta name="generator" content="{{ eleventy.generator }}" />
+<meta name="site-generator" content="{{ eleventy.generator }}" />
 <style>{% include "css/bs.css" %}</style>
 <style>{% getBundle "css" %}</style>
 <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600,600i" rel="stylesheet">

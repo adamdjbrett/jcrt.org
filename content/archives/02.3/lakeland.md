@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 09
+year: 2001
 ---
 Lakeland - Book Profile: Beyond Foundationalism - JCRT 2.3 
 

@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 03
+year: 1999
 ---
 Lambert - The Work of Art - JCRT 1.1 
 

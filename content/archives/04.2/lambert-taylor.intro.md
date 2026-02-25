@@ -1,18 +1,19 @@
 ---
 title: "THE FUTURE OF THEORY"
 article_number:
-author: "Victor E Taylor; Gregg Lambert"
+author: "Victor Taylor; Gregg Lambert"
 affilation:
 abstract:
 keywords: []
 pdf:
 sort_id: 01
+year: 2003
 ---
 Taylor & Lambert - The Future of Theory - JCRT 4.2 
 
 # The Future of Theory
 
-Victor E. Taylor  
+Victor Taylor  
 York College of Pennsylvania
 
 Gregg Lambert  
@@ -42,7 +43,7 @@ The future of theory, similar to its past, will be Promethean. The legendary, he
 
     > Let nobody suppose that one could possibly avoid such crippling by some artifice of education. On this earth one pays dearly for every kind of _mastery_ . . . For having a specialty one pays by also being the victim of this specialty. But you would have it otherwise--cheaper and fairer and above all more comfortable--isn't that right, my dear contemporaries. Well then, but in that case you also immediately get something else: instead of the craftsman and master, the "man of letters," the dexterous, "polydexterous" man of letters who, to be sure, lacks the hunched back--not counting the posture he assumes before you, being the salesman of the spirit and the "carrier" of culture--the man of letters who really _is_ nothing but "represents" almost everything, playing and "substituting" for the expert, and taking it upon himself in all modesty to get himself paid, honored, and celebrated in place of the expert.[^2]
 
-> 'Victor E. Taylor and Gregg Lambert
+> 'Victor Taylor and Gregg Lambert
 
 ### Acknowledgements:
 
@@ -59,7 +60,7 @@ The future of theory, similar to its past, will be Promethean. The legendary, he
 ### Notes
 * * *
 
-> **Victor E. Taylor** teaches in comparative literature and humanities at York College of Pennsylvania. His books include _Para/Inquiry: Postmodern Religion and Culture_ (Routledge 2000), _The Encyclopedia of Postmodernism_ (Routledge 2001), _Postmodernism: Critical Concepts_ (Routledge 1998), and _The Religious Pray, The Profane Swear_ (Pen Mark Press, 2002). He is executive editor of the _JCRT_ and currently completing work on two volumes, _Intimacy and Mourning: Myth and the Postmodern Imagination_ and _Cultural/Rhetorical Theory_.
+> **Victor Taylor** teaches in comparative literature and humanities at York College of Pennsylvania. His books include _Para/Inquiry: Postmodern Religion and Culture_ (Routledge 2000), _The Encyclopedia of Postmodernism_ (Routledge 2001), _Postmodernism: Critical Concepts_ (Routledge 1998), and _The Religious Pray, The Profane Swear_ (Pen Mark Press, 2002). He is executive editor of the _JCRT_ and currently completing work on two volumes, _Intimacy and Mourning: Myth and the Postmodern Imagination_ and _Cultural/Rhetorical Theory_.
 
 > **Gregg Lambert** is Associate Professor and Director of Graduate Studies of English and Textual Studies at Syracuse University. He is the author of _The Non-Philosophy of Gilles Deleuze_ (Continuum, 2002), _Report to the Academy_ (Davies, 2001), _The Return of the Baroque: Art, Culture, and Theory in the Modern Age_ (Continuum, forthcoming), and co-editor (with Ian Buchanan) of _Deleuze and Space_ (Edinburgh UP, forthcoming). His essays on theory and continental philosophy have appeared in many international journals and collected editions, including essays on aliens in contemporary art and on psychoanalysis and religion in earlier issues of _The Journal of Cultural and Religious Theory_ (see archive).
 
@@ -69,7 +70,7 @@ The future of theory, similar to its past, will be Promethean. The legendary, he
 
 * * *
 
- ['](https://jcrt.org/copyright.shtml) 2003 Victor E. Taylor & Gregg Lambert. All rights reserved.  
+ ['](https://jcrt.org/copyright.shtml) 2003 Victor Taylor & Gregg Lambert. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/04.2/lambert-taylor.intro.shtml
 

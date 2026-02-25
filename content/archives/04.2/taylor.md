@@ -1,18 +1,19 @@
 ---
 title: "REFUSING THEORY: AVITAL RONELL AND THE STRUCTURE OF STUPIDITY"
 article_number:
-author: "Victor E Taylor"
+author: "Victor Taylor"
 affilation:
 abstract:
 keywords: []
 pdf:
 sort_id: 10
+year: 2003
 ---
 Taylor - Refusing Theory - JCRT 4.2 
 
 # Refusing Theory: Avital Ronell and the Structure of Stupidity
 
-Victor E. Taylor  
+Victor Taylor  
 York College of Pennsylvania
 
 * * *
@@ -31,7 +32,7 @@ York College of Pennsylvania
 > > 
 > > > Date: Tue, 01 April 2003 5:67:08'0700
 > > > From: Avital Ronell ar3@nyu.edu
-> > > To:'' "Victor E. Taylor"vetaylor@ycp.edu
+> > > To:'' "Victor Taylor" taylorve@gmail.com
 > > > Subject: Essay
 > > > 
 > > > MIME-CONTENT: text/html 8.01 KB
@@ -63,7 +64,7 @@ Refusal, especially of theory and thinking, takes on many forms, visceral, fanta
      > 
      > Date: Mon, 3 2003 09:35:06-0500
      > From:''' Avital Ronell ar3@nyu.edu
-     > To:''''' "Victor E. Taylor" >
+     > To:''''' "Victor Taylor" >
      > >
      > >
      >  '
@@ -117,7 +118,7 @@ Why does Avital Ronell answer Deleuze? Here, one must be a "disloyal reader" of 
 > The contestatory structure, yielding no more than a poor score, paradoxically depends upon failure for its strength and empowerment. In this regard it resembles the ironic consciousness and the experience of permanent parabasis, the 'parabases of the ironic consciousness which has to recover its energy after each failure by reinscribing the failure into the ongoing process of a dialectic. But a dialectic, segmented by repeated negations, can never dance'. We might say, reinvoking the improbable _pas de deux_ of Nietzsche and Hegel, that a dance, as contestatory match, can never be a dialectic but, being engaged in a fundamental (mis)match, must, in a more Beckettian sense, go on and on, seeking referent and refuge. It is not so much that it casts about for the "right referent," as Paul de Man puts it, but that language as contest posits such a thing in order to fall short of it, to keep itself going.[^25]
 
 > From:    Avital Ronell ar3@nyu.edu
-> To:      "Victor E. Taylor" Subject: Re
+> To:      "Victor Taylor" Subject: Re
 > 
 > MIME-CONTENT text/html 8.01 KB
 > 
@@ -173,7 +174,7 @@ Why does Avital Ronell answer Deleuze? Here, one must be a "disloyal reader" of 
 > finitude. They need me to be there.  The others have advocates and cheerleaders 
 > and shelters. Or that's what I tell myself.
 > 
-> Quoting "Victor E. Taylor" < vetaylor@ycp.edu>
+> Quoting "Victor Taylor" < taylorve@gmail.com>
 > 
 > >
 
@@ -204,7 +205,7 @@ What food do you like that the "hunger artist" may have enjoyed?
 (Give three (3) examples)
 * * *
 
-> **Victor E. Taylor** teaches in comparative literature and humanities at York College of Pennsylvania. His books include _Para/Inquiry: Postmodern Religion and Culture_ (Routledge 2000), _The Encyclopedia of Postmodernism_ (Routledge 2001), _Postmodernism: Critical Concepts_ (Routledge 1998), and _The Religious Pray, The Profane Swear_ (Pen Mark Press, 2002). He is executive editor of the _JCRT_ and currently completing work on two volumes, _Intimacy and Mourning: Myth and the Postmodern Imagination_ and _Cultural/Rhetorical Theory_.
+> **Victor Taylor** teaches in comparative literature and humanities at York College of Pennsylvania. His books include _Para/Inquiry: Postmodern Religion and Culture_ (Routledge 2000), _The Encyclopedia of Postmodernism_ (Routledge 2001), _Postmodernism: Critical Concepts_ (Routledge 1998), and _The Religious Pray, The Profane Swear_ (Pen Mark Press, 2002). He is executive editor of the _JCRT_ and currently completing work on two volumes, _Intimacy and Mourning: Myth and the Postmodern Imagination_ and _Cultural/Rhetorical Theory_.
 
 * * *
 
@@ -212,7 +213,7 @@ What food do you like that the "hunger artist" may have enjoyed?
 
 * * *
 
-© 2003 Victor E. Taylor. All rights reserved.  
+© 2003 Victor Taylor. All rights reserved.  
 Updated 07/28/21.
 
 ---

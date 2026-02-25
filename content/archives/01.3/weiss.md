@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 10
+year: 2000
 ---
 Weiss - Posthuman Pleasures - JCRT 1.3
 

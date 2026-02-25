@@ -1,0 +1,32 @@
+[
+  {
+    "id": "archives-10.2-transcription.notes",
+    "type": "article-journal",
+    "title": "Transcription Notes",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/10.2/transcription.notes.pdf",
+    "author": [
+      {
+        "family": "Duncan",
+        "given": "Robert"
+      },
+      {
+        "family": "Evans",
+        "given": "Amy"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "season": "spring",
+    "volume": "10",
+    "issue": "2"
+  }
+]

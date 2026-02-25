@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 05
+year: 2000
 ---
 Lambert - Redemption: Lacan avec Marx - JCRT 2.1 
 
@@ -33,7 +34,7 @@ The subject of my essay, on "redemption," concerns something that takes place at
 
 * * *
 
-> **Gregg Lambert** is Assistant Professor of English & Textual Studies at Syracuse University and has published extensively on various subjects, including religion and psychoanalysis. He is the author of _Report to the Academy (re: The New Conflict of the Faculties)_ (Critical Studies in the Humanities, ed. Victor E. Taylor, Davies Publishing Group), and is a contributor to the forthcoming _Postmodern Secular Theology_, (ed. Clayton Crockett, Routledge, UK).
+> **Gregg Lambert** is Assistant Professor of English & Textual Studies at Syracuse University and has published extensively on various subjects, including religion and psychoanalysis. He is the author of _Report to the Academy (re: The New Conflict of the Faculties)_ (Critical Studies in the Humanities, ed. Victor Taylor, Davies Publishing Group), and is a contributor to the forthcoming _Postmodern Secular Theology_, (ed. Clayton Crockett, Routledge, UK).
 
 * * *
 

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "archives-05.1-fasching",
+    "type": "article-journal",
+    "title": "ANONYMOUS GOD",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/05.1/fasching.pdf",
+    "author": [
+      {
+        "family": "Fasching",
+        "given": "Darrell J"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "season": "winter",
+    "volume": "5",
+    "issue": "1"
+  }
+]

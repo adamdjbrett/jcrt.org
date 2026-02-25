@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 09
+year: 2000
 ---
 Lorentzen - Re-Constructing Theological Thought with Deleuze - JCRT 1.2
 

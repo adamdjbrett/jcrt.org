@@ -33,5 +33,6 @@ sort_id:
 volume: 10
 issue: 1
 season: winter
+year: 2010
 pages:
 ---

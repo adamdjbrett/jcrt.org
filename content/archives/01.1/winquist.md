@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 02
+year: 1999
 ---
 Winquist - Ambiguous Gift of Desire - JCRT 1.1
 

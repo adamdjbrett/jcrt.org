@@ -1,0 +1,29 @@
+[
+  {
+    "id": "archives-23.1-mather",
+    "type": "article-journal",
+    "title": "GREENING AMERICA’S VIRTUES",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/23.1/Mather.pdf",
+    "author": [
+      {
+        "family": "Mather",
+        "given": "Nicholas"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "season": "spring",
+    "volume": "23",
+    "issue": "1",
+    "page": "74-86"
+  }
+]

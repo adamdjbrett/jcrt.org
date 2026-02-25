@@ -24,5 +24,6 @@ sort_id: 06
 volume: 11
 issue: 2
 season: spring
+year: 2011
 pages:
 ---

@@ -1,6 +1,6 @@
 ---
 title: "A CONVERSATION WITH RICHARD KEARNEY"
-author: "Victor E Taylor; Richard Kearney"
+author: "Victor Taylor; Richard Kearney"
 affilation:
 abstract:
 keywords:
@@ -18,5 +18,6 @@ sort_id: 05
 volume: 6
 issue: 2
 season: spring
+year: 2005
 pages:
 ---

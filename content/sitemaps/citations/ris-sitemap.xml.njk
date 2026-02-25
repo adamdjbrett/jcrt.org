@@ -1,0 +1,17 @@
+---
+permalink: /sitemaps/citations/ris-sitemap.xml
+layout: false
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemaps/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	{% set baseUrl = sitemapBaseUrl or metadata.url or (site and site.url) or "" %}
+	{% for item in (assets.ris or []) -%}
+		<url>
+			<loc>{{ (baseUrl ~ (item.url | url)) | xmlEscape | safe }}</loc>
+			{% set lm = item.path | lastModifiedDate %}
+			{% if lm %}<lastmod>{{ lm | htmlDateString }}</lastmod>{% endif %}
+		</url>
+	{% endfor -%}
+</urlset>

@@ -1,6 +1,6 @@
 ---
 title: "Altizer and Derrida: Apocalyptic Spectralities"
-author: "Victor E. Taylor"
+author: "Victor Taylor"
 affilation:
 abstract:
 keywords: []
@@ -9,5 +9,6 @@ sort_id: 05
 volume: 19
 issue: 1
 season: winter
+year: 2020
 pages:
 ---

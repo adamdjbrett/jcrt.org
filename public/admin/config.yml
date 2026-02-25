@@ -101,15 +101,16 @@ collections:
     fields:
       - {label: "Name", name: "name", widget: "string", hint: "Author Name."}
       - {label: "Affiliation", name: "affiliation", widget: "string", hint: "Affiliation."}
-      - {label: "Biography", name: "bio", widget: "text", hint: "Bio."}
+      - {label: "Biography", name: "bio", widget: "text", hint: "Bio." ,required: false}
       - label: "Social Links"
         name: "social"
         widget: "list"
+        required: false
         collapsed: true
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Icon (Font Awesome)", name: "icon", widget: "string", hint: "e.g., fa-solid fa-envelope"}
-          - {label: "URL", name: "url", widget: "string"}
+          - {label: "URL", name: "url", widget: "string",required: false}
   - name: "pages"
     label: "Static Pages"
     folder: "content/pages"

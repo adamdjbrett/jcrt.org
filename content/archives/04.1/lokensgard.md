@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 06
+year: 2002
 ---
 Lokensgard - The Matter of Responsibility - JCRT 4.1 
 

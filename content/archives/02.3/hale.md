@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 07
+year: 2001
 ---
 Hale - Book Profile: The Critique of Theological Reason - JCRT 2.3 
 

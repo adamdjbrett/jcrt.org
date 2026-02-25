@@ -4,7 +4,6 @@ import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
 import pluginNavigation from "@11ty/eleventy-navigation";
 import yaml from "js-yaml";
-import theorySync from "./_data/theory.js";
 import markdownIt from "markdown-it";
 import markdownItAnchor from "markdown-it-anchor";
 import markdownItFootnote from "markdown-it-footnote";
@@ -13,6 +12,8 @@ import markdownItTableOfContents from "markdown-it-table-of-contents";
 import pluginTOC from "eleventy-plugin-toc";
 import pluginFilters from "./_config/filters.js";
 import { authorSlug, splitAuthors } from "./_config/authorSlug.js";
+import generateArchiveCitations from "./_config/generate-archive-citations.js";
+import generateReligiousTheoryCitations from "./_config/generate-religioustheory-citations.js";
 import fs from "node:fs";
 import path from "node:path";
 import os from "node:os";
@@ -83,6 +84,15 @@ async function ensureFavicons() {
 	});
 }
 
+function isPublishedItem(data = {}, runMode = process.env.ELEVENTY_RUN_MODE) {
+	// Explicit publish flag has highest priority.
+	if (data.published === false) return false;
+	if (data.published === true) return true;
+	// Keep existing draft behavior for build mode.
+	if (data.draft === true && runMode === "build") return false;
+	return true;
+}
+
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function (eleventyConfig) {
 	eleventyConfig.addPlugin(pluginFilters);
@@ -90,15 +100,19 @@ export default async function (eleventyConfig) {
 	eleventyConfig.addGlobalData("isFastBuild", isFastBuild);
 
 	eleventyConfig.on("eleventy.before", async () => {
-		await theorySync();
-		await ensureFavicons();
+		const runMode = process.env.ELEVENTY_RUN_MODE;
+		// In serve mode, skip heavyweight pre-build generation to prevent
+		// repeated high-memory rebuild cycles.
+		if (runMode !== "serve") {
+			await generateArchiveCitations(process.env.SITE_URL || "https://jcrt.org");
+			await generateReligiousTheoryCitations(process.env.SITE_URL || "https://jcrt.org");
+			await ensureFavicons();
+		}
 	});
 
 	// Removed manual authors.json loading. Eleventy will auto-load _data/authors.yaml and _data/authors.json as global data.
-	eleventyConfig.addPreprocessor("drafts", "*", (data, content) => {
-		if (data.draft && process.env.ELEVENTY_RUN_MODE === "build") {
-			return false;
-		}
+	eleventyConfig.addPreprocessor("drafts", "*", (data) => {
+		if (!isPublishedItem(data)) return false;
 	});
 	
 	// dev mode
@@ -316,6 +330,7 @@ export default async function (eleventyConfig) {
 		const normalizedSlug = authorSlug(rawKey);
 
 		const postsByAuthor = allPosts.filter((post) => {
+			if (!isPublishedItem(post?.data)) return false;
 			const authorField = post?.data?.author;
 			if (!authorField) return false;
 
@@ -380,6 +395,7 @@ export default async function (eleventyConfig) {
 	eleventyConfig.addCollection("authors", function (collectionApi) {
 		return collectionApi
 			.getFilteredByGlob("content/authors/*.md")
+			.filter((item) => isPublishedItem(item?.data))
 			.sort((a, b) => {
 				const nameA = (a.data.name || a.data.title || "").toLowerCase();
 				const nameB = (b.data.name || b.data.title || "").toLowerCase();
@@ -389,6 +405,7 @@ export default async function (eleventyConfig) {
 	eleventyConfig.addCollection("theoryPosts", function(collectionApi) {
 	  return collectionApi.getFilteredByGlob("content/religioustheory/**/*")
 	    .filter(item => {
+	      if (!isPublishedItem(item?.data)) return false;
 	      const isRootIndex = item.inputPath.endsWith("religioustheory/index.html") || 
 	                          item.inputPath.endsWith("religioustheory/index.njk") ||
 	                          item.inputPath.endsWith("religioustheory/index.md");     
@@ -411,13 +428,16 @@ export default async function (eleventyConfig) {
 		eleventyConfig.addPassthroughCopy("content/archives/**/*.tiff");
 	}
 	eleventyConfig.addCollection("archives", function (collectionApi) {
-		return collectionApi.getFilteredByGlob("content/archives/**/*.md");
+		return collectionApi
+			.getFilteredByGlob("content/archives/**/*.md")
+			.filter((item) => isPublishedItem(item?.data));
 	});
 
 	eleventyConfig.addCollection("archivesToc", function (collectionApi) {
 		const items = collectionApi
 			.getAll()
 			.filter((p) => {
+				if (!isPublishedItem(p?.data)) return false;
 				const ip = String(p?.inputPath || "");
 				return /^\.\/content\/archives\/[^/]+\/index\.njk$/.test(ip) && p?.url;
 			})
@@ -436,38 +456,28 @@ export default async function (eleventyConfig) {
 	});
 
 	eleventyConfig.addCollection("feed", function (collectionApi) {
-		const byMtimeDesc = (items) => {
-			const withMtime = items.map((item) => {
-				const inputPath = String(item?.inputPath || "");
-				const rel = inputPath.startsWith("./") ? inputPath.slice(2) : inputPath;
-				let mtimeMs = 0;
-				try {
-					mtimeMs = fs.statSync(path.join(process.cwd(), rel)).mtimeMs;
-				} catch {
-					mtimeMs = 0;
-				}
-				return { item, mtimeMs };
-			});
-			withMtime.sort((a, b) => b.mtimeMs - a.mtimeMs);
-			return withMtime.map((x) => x.item);
+		const getDataDateMs = (item) => {
+			const raw = item?.data?.date;
+			if (!raw) return 0;
+			const d = raw instanceof Date ? raw : new Date(raw);
+			const ms = d.getTime();
+			return Number.isFinite(ms) ? ms : 0;
 		};
-
-		const byDateDesc = (items) => {
-			const toTime = (d) => (d instanceof Date ? d.getTime() : 0);
-			return [...items].sort((a, b) => toTime(b.date) - toTime(a.date));
+		const getSortTime = (item) => {
+			const url = String(item?.url || "");
+			const dataDateMs = getDataDateMs(item);
+			if (url.startsWith("/archives/")) {
+				if (dataDateMs > 0) return dataDateMs;
+				const year = Number.parseInt(item?.data?.year, 10);
+				if (Number.isFinite(year) && year > 0) return Date.UTC(year, 0, 1);
+				return 0;
+			}
+			if (dataDateMs > 0) return dataDateMs;
+			const d = item?.date;
+			if (!(d instanceof Date)) return 0;
+			const ms = d.getTime();
+			return Number.isFinite(ms) ? ms : 0;
 		};
-
-		const archives = byMtimeDesc(
-			collectionApi
-				.getFilteredByGlob("content/archives/**/*.md")
-				.filter((p) => p?.url && p.url.startsWith("/archives/"))
-		).slice(0, 25);
-
-		const blog = byDateDesc(
-			collectionApi
-				.getFilteredByGlob("content/blog/*.md")
-				.filter((p) => p?.url && p.url.startsWith("/blog/"))
-		).slice(0, 25);
 
 		const ensureTitle = (item, fallbackTitle) => {
 			const title = item?.data?.title ? String(item.data.title) : "";
@@ -480,23 +490,77 @@ export default async function (eleventyConfig) {
 			};
 		};
 
-		// Religious Theory feed removed (theory_archive.json no longer used)
-		let religioustheory = [];
+		const archives = collectionApi
+			.getFilteredByGlob("content/archives/**/*.md")
+			.filter((p) => isPublishedItem(p?.data))
+			.filter((p) => p?.url && p.url.startsWith("/archives/"));
 
-		// Priority order in the feed:
-		// 1) /archives/ (25)
-		// 2) /blog/ (25)
-		// 3) /religioustheory/ posts (25)
+		const blog = collectionApi
+			.getFilteredByGlob("content/blog/*.md")
+			.map((p) => {
+				if (p?.url) return p;
+				const slug =
+					p?.fileSlug || path.basename(String(p?.inputPath || ""), path.extname(String(p?.inputPath || "")));
+				return { ...p, url: `/blog/${slug}/` };
+			});
+
+		const religioustheory = collectionApi
+			.getFilteredByGlob("content/religioustheory/posts/*.md")
+			.filter((p) => isPublishedItem(p?.data))
+			.filter((p) => p?.url && p.url.startsWith("/religioustheory/"));
+
+		const byKey = new Map();
+		for (const item of [...archives, ...blog, ...religioustheory]) {
+			const key = item?.url || item?.inputPath;
+			if (!key || byKey.has(key)) continue;
+			byKey.set(key, item);
+		}
+
+		const sortDesc = (a, b) => getSortTime(b) - getSortTime(a);
+		const sortedArchives = [...archives].sort(sortDesc);
+		const sortedBlog = [...blog].sort(sortDesc);
+		const sortedTheory = [...religioustheory].sort(sortDesc);
+		const allSorted = [...byKey.values()].sort(sortDesc);
+		const archiveSeed = sortedArchives[0] || {
+			url: "/archives/",
+			date: new Date(0),
+			data: { title: "Archives" },
+		};
+		const blogSeed = sortedBlog[0] || {
+			url: "/blog/",
+			date: new Date(0),
+			data: { title: "Blog" },
+		};
+		const theorySeed = sortedTheory[0] || {
+			url: "/religioustheory/",
+			date: new Date(0),
+			data: { title: "Religious Theory" },
+		};
+
+		// Ensure section representation while still keeping a newest-first feed.
+		const selected = [];
+		const selectedKeys = new Set();
+		for (const candidate of [archiveSeed, blogSeed, theorySeed]) {
+			const key = candidate?.url || candidate?.inputPath;
+			if (!key || selectedKeys.has(key)) continue;
+			selected.push(candidate);
+			selectedKeys.add(key);
+		}
+		for (const item of allSorted) {
+			if (selected.length >= 50) break;
+			const key = item?.url || item?.inputPath;
+			if (!key || selectedKeys.has(key)) continue;
+			selected.push(item);
+			selectedKeys.add(key);
+		}
+
+		const newestFirst = selected
+			.sort(sortDesc)
+			.slice(0, 50)
+			.map((item) => ensureTitle(item, item?.fileSlug || item?.url || "Untitled"));
+
 		// Feed plugin template reverses the collection before rendering entries.
-		// Return items in the inverse order so the final output order is:
-		//   archives (newest→oldest), then blog (newest→oldest), then religioustheory (newest→oldest).
-		const safeArchivesNewestFirst = archives.map((a) =>
-			ensureTitle(a, a?.fileSlug || a?.url || "Archive")
-		);
-		const archivesOldestFirst = [...safeArchivesNewestFirst].reverse();
-		const blogOldestFirst = [...blog].reverse();
-		const religioustheoryOldestFirst = [...religioustheory].reverse();
-		return [...religioustheoryOldestFirst, ...blogOldestFirst, ...archivesOldestFirst];
+		return [...newestFirst].reverse();
 	});
 	const mdLib = markdownIt({
 		html: true,
@@ -523,7 +587,7 @@ export default async function (eleventyConfig) {
 		},
 		collection: {
 			name: "feed",
-			limit: 75,
+			limit: 50,
 		},
 		metadata: {
 			language: "en",
@@ -547,7 +611,7 @@ export default async function (eleventyConfig) {
 		},
 		collection: {
 			name: "feed",
-			limit: 75,
+			limit: 50,
 		},
 		metadata: {
 			language: "en",

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "archives-21.2-bios",
+    "type": "article-journal",
+    "title": "Author Bios",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/21.2/bios.pdf",
+    "author": [
+      {
+        "literal": "editors"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "season": "spring",
+    "volume": "21",
+    "issue": "2"
+  }
+]

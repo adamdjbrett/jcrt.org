@@ -22,5 +22,6 @@ sort_id: 02
 volume: 8
 issue: 3
 season: fall
+year: 2007
 pages:
 ---

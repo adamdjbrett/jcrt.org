@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 05
+year: 2000
 ---
 Adcock - Xena Warrior Princess - JCRT 1.2
 

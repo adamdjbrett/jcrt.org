@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 09
+year: 2002
 ---
 Reinhart - Why and how does humanity have a capacity for inhumanity? - JCRT 3.3 
 

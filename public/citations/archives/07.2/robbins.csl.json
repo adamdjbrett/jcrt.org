@@ -1,0 +1,28 @@
+[
+  {
+    "id": "archives-07.2-robbins",
+    "type": "article-journal",
+    "title": "BEGINNING TO THINK",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/07.2/robbins.pdf",
+    "author": [
+      {
+        "family": "Robbins",
+        "given": "Jeffrey W"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "season": "spring",
+    "volume": "7",
+    "issue": "2"
+  }
+]

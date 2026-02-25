@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 03
+year: 2001
 ---
 Arnold - Diversity in the History of Religions - JCRT 2.2 
 

@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 06
+year: 2000
 ---
 Taylor - Art Exhibit - JCRT 2.1 
 

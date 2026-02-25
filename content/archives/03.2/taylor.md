@@ -1,12 +1,13 @@
 ---
 title: "DESIRE AND MOURNING: THEOLOGY AND THE LITERARY IMAGINATION"
 article_number:
-author: "Victor E Taylor"
+author: "Victor Taylor"
 affilation:
 abstract:
 keywords: []
 pdf:
 sort_id: 02
+year: 2002
 ---
 Taylor - Desire and Mourning: Theology and the Literary Imagination - JCRT 3.2 
 
@@ -14,7 +15,7 @@ _The JCRT's introductory essays over the past two years have focused on the stat
 
 # Desire and Mourning: Theology and the Literary Imagination
 
-Victor E. Taylor  
+Victor Taylor  
 York College of Pennsylvania
 
 * * *
@@ -67,7 +68,7 @@ Desire and mourning are folds[^5] in theological and literary discourse, limits 
 
 * * *
 
-> **Victor E. Taylor**, teaches in the department of English and Humanities at York College of Pennsylvania. He is the author of _Para/Inquiry: Postmodern Religion and Culture_ (London: Routledge, 2000), Editor (with Charles E. Winquist) of _The Routledge Encyclopedia of Postmodnerism_ (London: Routledge, 2000), and Editor of the _Journal for Cultural and Religious Theory_. His book _The Religious Pray, The Profane Swear_ will be published this spring.
+> **Victor Taylor**, teaches in the department of English and Humanities at York College of Pennsylvania. He is the author of _Para/Inquiry: Postmodern Religion and Culture_ (London: Routledge, 2000), Editor (with Charles E. Winquist) of _The Routledge Encyclopedia of Postmodnerism_ (London: Routledge, 2000), and Editor of the _Journal for Cultural and Religious Theory_. His book _The Religious Pray, The Profane Swear_ will be published this spring.
 
 * * *
 
@@ -75,7 +76,7 @@ Desire and mourning are folds[^5] in theological and literary discourse, limits 
 
 * * *
 
- ['](https://jcrt.org/copyright.shtml) 2002 Victor E. Taylor. All rights reserved.  
+ ['](https://jcrt.org/copyright.shtml) 2002 Victor Taylor. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/03.2/taylor.shtml
 
@@ -155,7 +156,7 @@ http://jcrt.org/archives/03.2/taylor.shtml
 
 [^_ftnref14] Tolstoy, 23
 
-[^_ftnref15] See Victor E. Taylor (2000) _Para/Inquiry: Postmodern Religion and Culture_. London: Routledge.
+[^_ftnref15] See Victor Taylor (2000) _Para/Inquiry: Postmodern Religion and Culture_. London: Routledge.
 
 [^_ftnref16] Tolstoy, 16
 
@@ -183,4 +184,4 @@ http://jcrt.org/archives/03.2/taylor.shtml
 
 [^_ftnref28] Tolstoy, 215.
 
-[^_ftnref29] See Victor E. Taylor, 'Theography: Signs of God in a Postmodern Age,' in _Secular Theology: American Radical Theological Thought_ (2001), Clayton Crockett, ed. London: Routledge.
+[^_ftnref29] See Victor Taylor, 'Theography: Signs of God in a Postmodern Age,' in _Secular Theology: American Radical Theological Thought_ (2001), Clayton Crockett, ed. London: Routledge.

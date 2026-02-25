@@ -7,6 +7,7 @@ abstract:
 keywords: []
 pdf:
 sort_id: 02
+year: 2003
 ---
 Lambert - "Create, She Said.": Deleuze and Feminism - JCRT 4.2 
 

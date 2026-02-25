@@ -1,0 +1,28 @@
+[
+  {
+    "id": "archives-04.1-mcgrath",
+    "type": "article-journal",
+    "title": "PHÄNOMENOLOGIE DES RELIGIÖSEN LEBENS",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/04.1/mcgrath/",
+    "author": [
+      {
+        "family": "McGrath",
+        "given": "Sean J"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "season": "winter",
+    "volume": "4",
+    "issue": "1"
+  }
+]

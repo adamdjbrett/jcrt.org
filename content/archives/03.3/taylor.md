@@ -1,12 +1,13 @@
 ---
 title: "THE CITY OF K: FRANZ KAFKA AND PRAGUE"
 article_number:
-author: "Victor E Taylor"
+author: "Victor Taylor"
 affilation:
 abstract:
 keywords: []
 pdf:
 sort_id: 05
+year: 2002
 ---
 Taylor - Encircling Kafka: A Review of the City of K. - JCRT 3.3 
 
@@ -14,7 +15,7 @@ Taylor - Encircling Kafka: A Review of the City of K. - JCRT 3.3
 
 a review of "[The City of K.: Franz Kafka and Prague](http://www.jewishmuseum.org/Pages/Exhibitions/Special_Exhibits/kafka/kafka.html)," The Jewish Museum, New York, August 11, 2002 to January 5, 2003.
 
-Victor E. Taylor  
+Victor Taylor  
 York College of Pennsylvania
 
 * * *
@@ -67,7 +68,7 @@ _The Exhibition catalogue contains several historical, biographical, and theoret
 ### Notes
 * * *
 
-> **Victor E. Taylor** is author of _Para/Inquiry: Postmodern Religion and Culture_ (Routledge), _The Religious Pray, The Profane Swear: The Civil War Writings of Robert L. Drummond_ (Davies Group Publishers) and editor of _The Encyclopedia of Postmodernism_ (Routledge) and _Postmodernism: Critical Concepts_ (Routledge). He is an assistant professor of comparative literature and humanities at York College of Pennsylvania and executive editor of the _JCRT_.
+> **Victor Taylor** is author of _Para/Inquiry: Postmodern Religion and Culture_ (Routledge), _The Religious Pray, The Profane Swear: The Civil War Writings of Robert L. Drummond_ (Davies Group Publishers) and editor of _The Encyclopedia of Postmodernism_ (Routledge) and _Postmodernism: Critical Concepts_ (Routledge). He is an assistant professor of comparative literature and humanities at York College of Pennsylvania and executive editor of the _JCRT_.
 
 * * *
 
@@ -75,7 +76,7 @@ _The Exhibition catalogue contains several historical, biographical, and theoret
 
 * * *
 
- ['](https://jcrt.org/copyright.shtml) 2002 Victor E. Taylor. All rights reserved.  
+ ['](https://jcrt.org/copyright.shtml) 2002 Victor Taylor. All rights reserved.  
 Updated 07/28/21.   
 http://jcrt.org/archives/03.3/taylor.shtml
 
