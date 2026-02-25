@@ -6,3 +6,4 @@ _site/
 node_modules/
 RAW/
 _logs/
+public/citations/

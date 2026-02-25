@@ -122,28 +122,38 @@ The following issue has resulted from a conference in the fall of 2024.  The con
 - TODO ingest and fix `_data/errors.txt` (dev `--serve --incremental` heap OOM) - DONE
 - TODO ensure a successful production build with correct absolute URLs (no `localhost` in deployed sitemaps) - DONE
 - TODO optimize `.github/workflows/deploy-xmit.yml` (build + pagefind once, caching, speed) - DONE
- 
-## Crowcodes
-- ~~TODO error: archive 24.1 XIAOQIAN ZHANG does not have files anywhere~~ adjb
-- archives 24.1, 23.2, 23.1 done
-- archives 22.2 done
-- TODO archives 22.1 files dont look right at all, bios.md missing, none of the articles match the live site **live site is wrong someone overwrote the actual page and it wasnt us. adjb**
-- archives 21.3, 21.2, 21.1,20.3 done
-- ~~TODO archives 20.2 has four authors, none are given affiliations, none have cards in /authors~~ adjb
-- archives 20.1, 19.3, 19.2, 19.1, 18.3 complete
-- ~~TODO archives 18.2 "Speaking God’s Presence and Absence as Non-Contrastive Transcendent Distinction Joyce Ann Konigsburg" is listed but has no files, would be sort_id: 08~~ adjb
-- ~~TODO archvives 18.2 "Religious Studies and Comparative Theology: An Appraisal Joshua Samuel, Union Theological Seminary" is listed but has no files, would be sort_id: 12~~ adjb
-- archives 18.2, 18.1, 17.3 done
-- 20260206: ARCHIVES 28% COMPLETE
+
+## Questions for Carl and Vic 
+- TODO archives 22.1 files dont look right at all, bios.md missing, none of the articles match the live site
 - TODO archives17.2 Jean Leclerq How to do things with words (of God)? Michel Henry’s Phenomenology of Religion - original site lists it but has a dead link, new build has no files on it whatsoever, would be sort id 04
-- archives 17.2 17.1 done
-- archives 16.3 16.2  done
 - TODO archives 16.1, original lists "Review of Judith Butler’s Senses of the Subject Matt Waggoner", no files in original or new site exist, would be last item on page sort id 10
-- archives 16.1 15.2  done 
-- retrofixed 24 - 15.2 author associations
-- archives 15.1 14.2 done
-- archives 14.1 13.2 13.1 12.3 12.2 11.3 11.2 11.1 10.3 10.2 9.3 9.1 8.3 8.2 8.1 7.2 7.1 done
-- archives 6.3 6.2 6.1 5.3 5.2 5.1 4.3 4.2 4.1 done
 - TODO archives 3.3 "The City and the Stars: Politics and Alterity in Heidegger, Levinas and Blanchot. By Lars Iyer, University of Newcastle upon Tyne." original article missing entirely would be sort_id: 02
-- archives 3.3 3.2 3.1 2.3 2.2 2.1 1.3 1.2 1.1 done
-- CC ARCHIVES COMPLETE
+
+## Netlify Change Summary (2026-02-25)
+
+This session focused on reducing Netlify deploy friction and keeping citation outputs maintainable.
+
+### Decisions and outcomes
+
+1. Implemented incremental citation generation for both archives and religioustheory citation pipelines.
+   - Only new/changed citation files are regenerated.
+   - Unchanged items are skipped.
+   - Removed source items now clean up stale citation files.
+   - Manifests are stored in `.cache/` and keyed by content signatures.
+
+2. Kept citation URLs publicly accessible.
+   - `public/citations` is still generated into `_site/citations` during build.
+   - Users can continue to access citation files at `/citations/...` on the domain.
+
+3. Switched to partial secrets-scanning reduction (not full disable).
+   - Added `netlify.toml`.
+   - Configured path omission for generated citation paths:
+     - `SECRETS_SCAN_OMIT_PATHS = "public/citations/**,_site/citations/**"`
+
+4. Stopped tracking generated citation artifacts in git.
+   - Added `public/citations/` to `.gitignore`.
+   - Removed tracked `public/citations/**` files from git index (`--cached`) so they remain generated artifacts, not source-controlled content.
+
+5. Confirmed citation sitemaps still include generated citations.
+   - Sitemap generation continues to pick up citation outputs.
+   - Verified in build output that citation sitemap files are generated and populated.

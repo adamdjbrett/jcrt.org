@@ -1,6 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import yaml from "js-yaml";
+import crypto from "node:crypto";
 import { fileURLToPath } from "node:url";
 
 const JOURNAL_TITLE = "Journal for Cultural & Religious Theory";
@@ -9,6 +10,62 @@ const PUBLISHER = "Whitestone Foundation";
 const ISSN = "1530-5228";
 const MODULE_DIR = path.dirname(fileURLToPath(import.meta.url));
 const LEGACY_DATE_LOOKUP_PATH = path.resolve(MODULE_DIR, "..", "_data", "legacy-ris-dates.json");
+const CACHE_DIR = path.resolve(MODULE_DIR, "..", ".cache");
+const MANIFEST_PATH = path.join(CACHE_DIR, "archive-citations-manifest.json");
+
+function sha256(input) {
+	return crypto.createHash("sha256").update(String(input)).digest("hex");
+}
+
+function fileExists(filePath) {
+	try {
+		fs.accessSync(filePath, fs.constants.F_OK);
+		return true;
+	} catch {
+		return false;
+	}
+}
+
+function removeIfExists(filePath) {
+	try {
+		fs.rmSync(filePath, { force: true });
+		return true;
+	} catch {
+		return false;
+	}
+}
+
+function cleanupEmptyDirs(startDir, stopDir) {
+	let current = startDir;
+	while (current && current.startsWith(stopDir)) {
+		if (current === stopDir) break;
+		try {
+			if (fs.readdirSync(current).length > 0) break;
+			fs.rmdirSync(current);
+		} catch {
+			break;
+		}
+		current = path.dirname(current);
+	}
+}
+
+function loadManifest() {
+	try {
+		const raw = fs.readFileSync(MANIFEST_PATH, "utf8");
+		const parsed = JSON.parse(raw);
+		if (parsed && typeof parsed === "object" && parsed.items && typeof parsed.items === "object") {
+			return parsed;
+		}
+	} catch {
+		// ignore missing/invalid cache
+	}
+	return { version: 1, items: {} };
+}
+
+function saveManifest(manifest) {
+	fs.mkdirSync(CACHE_DIR, { recursive: true });
+	fs.writeFileSync(MANIFEST_PATH, `${JSON.stringify(manifest, null, 2)}\n`, "utf8");
+}
 
 function parseFrontMatter(content) {
 	if (!content.startsWith("---")) return {};
@@ -195,8 +252,6 @@ export default async function generateArchiveCitations(baseUrl) {
 	const repoRoot = process.cwd();
 	const archivesRoot = path.join(repoRoot, "content", "archives");
 	const outRoot = path.join(repoRoot, "public", "citations", "archives");
-
-	fs.rmSync(outRoot, { recursive: true, force: true });
 	fs.mkdirSync(outRoot, { recursive: true });
 
 	const walk = (dir) => {
@@ -211,7 +266,15 @@ export default async function generateArchiveCitations(baseUrl) {
 
 	const files = walk(archivesRoot);
 	const legacyLookup = loadLegacyDateLookup();
+	const legacyLookupRaw = fileExists(LEGACY_DATE_LOOKUP_PATH)
+		? fs.readFileSync(LEGACY_DATE_LOOKUP_PATH, "utf8")
+		: "";
 	const issueMetaCache = new Map();
+	const issueMetaRawCache = new Map();
+	const priorManifest = loadManifest();
+	const nextManifestItems = {};
+	const normalizedBaseUrl = normalizeBaseUrl(baseUrl);
+	const citationVersion = sha256(`v1|${normalizedBaseUrl}|${legacyLookupRaw}`);
 
 	function getIssueMeta(issueSlug) {
 		if (issueMetaCache.has(issueSlug)) return issueMetaCache.get(issueSlug);
@@ -227,7 +290,22 @@ export default async function generateArchiveCitations(baseUrl) {
 		return meta;
 	}
 
-	let count = 0;
+	function getIssueMetaRaw(issueSlug) {
+		if (issueMetaRawCache.has(issueSlug)) return issueMetaRawCache.get(issueSlug);
+		const indexPath = path.join(archivesRoot, issueSlug, "index.njk");
+		let raw = "";
+		try {
+			raw = fs.readFileSync(indexPath, "utf8");
+		} catch {
+			raw = "";
+		}
+		issueMetaRawCache.set(issueSlug, raw);
+		return raw;
+	}
+
+	let generated = 0;
+	let skipped = 0;
+	let deleted = 0;
 
 	for (const filePath of files) {
 		const rel = path.relative(archivesRoot, filePath);
@@ -240,6 +318,23 @@ export default async function generateArchiveCitations(baseUrl) {
 
 		const content = fs.readFileSync(filePath, "utf8");
 		if (!content.startsWith("---")) continue;
+		const signature = sha256(
+			`${citationVersion}|${issueSlug}|${fileSlug}|${getIssueMetaRaw(issueSlug)}|${content}`
+		);
+		const manifestKey = `${issueSlug}/${fileSlug}`;
+		nextManifestItems[manifestKey] = signature;
+		const issueOutDir = path.join(outRoot, issueSlug);
+		const risOutPath = path.join(issueOutDir, `${fileSlug}.ris`);
+		const cslOutPath = path.join(issueOutDir, `${fileSlug}.csl.json`);
+		const upToDate =
+			priorManifest.items?.[manifestKey] === signature &&
+			fileExists(risOutPath) &&
+			fileExists(cslOutPath);
+		if (upToDate) {
+			skipped += 1;
+			continue;
+		}
+
 		const data = parseFrontMatter(content);
 		const issueMeta = getIssueMeta(issueSlug);
 
@@ -273,13 +368,30 @@ export default async function generateArchiveCitations(baseUrl) {
 		entry.py = year || legacyDate.py || String(new Date().getUTCFullYear());
 		entry.da = entry.py ? `${entry.py}/${entry.season}//` : "";
 
-		const issueOutDir = path.join(outRoot, issueSlug);
 		fs.mkdirSync(issueOutDir, { recursive: true });
 		const citationId = `archives-${issueSlug}-${fileSlug}`.replace(/[^a-zA-Z0-9_.-]/g, "-");
-		fs.writeFileSync(path.join(issueOutDir, `${fileSlug}.ris`), makeRIS(entry), "utf8");
-		fs.writeFileSync(path.join(issueOutDir, `${fileSlug}.csl.json`), makeCSL(entry, citationId), "utf8");
-		count += 1;
+		fs.writeFileSync(risOutPath, makeRIS(entry), "utf8");
+		fs.writeFileSync(cslOutPath, makeCSL(entry, citationId), "utf8");
+		generated += 1;
 	}
 
-	console.log(`[Citations] Generated ${count} archive RIS/CSL files in public/citations/archives`);
+	for (const key of Object.keys(priorManifest.items || {})) {
+		if (key in nextManifestItems) continue;
+		const [issueSlug, fileSlug] = key.split("/");
+		if (!issueSlug || !fileSlug) continue;
+		const issueOutDir = path.join(outRoot, issueSlug);
+		const removedRis = removeIfExists(path.join(issueOutDir, `${fileSlug}.ris`));
+		const removedCsl = removeIfExists(path.join(issueOutDir, `${fileSlug}.csl.json`));
+		const removed = removedRis || removedCsl;
+		if (removed) {
+			deleted += 1;
+			cleanupEmptyDirs(issueOutDir, outRoot);
+		}
+	}
+
+	saveManifest({ version: 1, generatedAt: new Date().toISOString(), items: nextManifestItems });
+	const total = Object.keys(nextManifestItems).length;
+	console.log(
+		`[Citations] Archive RIS/CSL: total=${total}, generated=${generated}, skipped=${skipped}, deleted=${deleted}`
+	);
 }

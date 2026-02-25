@@ -1,0 +1,6 @@
+[build]
+command = "npm run build"
+publish = "_site"
+
+[build.environment]
+SECRETS_SCAN_OMIT_PATHS = "public/citations/**,_site/citations/**"

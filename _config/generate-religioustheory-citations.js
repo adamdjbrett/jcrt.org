@@ -1,8 +1,51 @@
 import fs from "node:fs";
 import path from "node:path";
 import yaml from "js-yaml";
+import crypto from "node:crypto";
 
 const PUBLICATION_TITLE = "Religious theory by JCRT";
+const CACHE_DIR = path.join(process.cwd(), ".cache");
+const MANIFEST_PATH = path.join(CACHE_DIR, "religioustheory-citations-manifest.json");
+
+function sha256(input) {
+	return crypto.createHash("sha256").update(String(input)).digest("hex");
+}
+
+function fileExists(filePath) {
+	try {
+		fs.accessSync(filePath, fs.constants.F_OK);
+		return true;
+	} catch {
+		return false;
+	}
+}
+
+function removeIfExists(filePath) {
+	try {
+		fs.rmSync(filePath, { force: true });
+		return true;
+	} catch {
+		return false;
+	}
+}
+
+function loadManifest() {
+	try {
+		const raw = fs.readFileSync(MANIFEST_PATH, "utf8");
+		const parsed = JSON.parse(raw);
+		if (parsed && typeof parsed === "object" && parsed.items && typeof parsed.items === "object") {
+			return parsed;
+		}
+	} catch {
+		// ignore missing/invalid cache
+	}
+	return { version: 1, items: {} };
+}
+
+function saveManifest(manifest) {
+	fs.mkdirSync(CACHE_DIR, { recursive: true });
+	fs.writeFileSync(MANIFEST_PATH, `${JSON.stringify(manifest, null, 2)}\n`, "utf8");
+}
 
 function parseFrontMatter(content) {
 	if (!content.startsWith("---")) return {};
@@ -115,18 +158,36 @@ export default async function generateReligiousTheoryCitations(baseUrl) {
 	const postsRoot = path.join(repoRoot, "content", "religioustheory", "posts");
 	const outRoot = path.join(repoRoot, "public", "citations", "religioustheory");
 
-	fs.rmSync(outRoot, { recursive: true, force: true });
 	fs.mkdirSync(outRoot, { recursive: true });
+	const priorManifest = loadManifest();
+	const nextManifestItems = {};
+	const normalizedBaseUrl = normalizeBaseUrl(baseUrl);
+	const citationVersion = sha256(`v1|${normalizedBaseUrl}`);
 
 	const files = fs
 		.readdirSync(postsRoot, { withFileTypes: true })
 		.filter((entry) => entry.isFile() && entry.name.endsWith(".md"))
 		.map((entry) => path.join(postsRoot, entry.name));
 
-	let count = 0;
+	let generated = 0;
+	let skipped = 0;
+	let deleted = 0;
 	for (const filePath of files) {
 		const fileSlug = path.basename(filePath, ".md");
 		const content = fs.readFileSync(filePath, "utf8");
+		const signature = sha256(`${citationVersion}|${fileSlug}|${content}`);
+		nextManifestItems[fileSlug] = signature;
+		const risOutPath = path.join(outRoot, `${fileSlug}.ris`);
+		const jsonOutPath = path.join(outRoot, `${fileSlug}.json`);
+		const upToDate =
+			priorManifest.items?.[fileSlug] === signature &&
+			fileExists(risOutPath) &&
+			fileExists(jsonOutPath);
+		if (upToDate) {
+			skipped += 1;
+			continue;
+		}
+
 		const data = parseFrontMatter(content);
 
 		const pagePath = `/religioustheory/posts/${fileSlug}/`;
@@ -138,10 +199,22 @@ export default async function generateReligiousTheoryCitations(baseUrl) {
 		};
 
 		const citationId = `religioustheory-${fileSlug}`.replace(/[^a-zA-Z0-9_.-]/g, "-");
-		fs.writeFileSync(path.join(outRoot, `${fileSlug}.ris`), makeRIS(entry), "utf8");
-		fs.writeFileSync(path.join(outRoot, `${fileSlug}.json`), makeJSON(entry, citationId), "utf8");
-		count += 1;
+		fs.writeFileSync(risOutPath, makeRIS(entry), "utf8");
+		fs.writeFileSync(jsonOutPath, makeJSON(entry, citationId), "utf8");
+		generated += 1;
 	}
 
-	console.log(`[Citations] Generated ${count} religioustheory RIS/JSON files in public/citations/religioustheory`);
+	for (const key of Object.keys(priorManifest.items || {})) {
+		if (key in nextManifestItems) continue;
+		const removedRis = removeIfExists(path.join(outRoot, `${key}.ris`));
+		const removedJson = removeIfExists(path.join(outRoot, `${key}.json`));
+		const removed = removedRis || removedJson;
+		if (removed) deleted += 1;
+	}
+
+	saveManifest({ version: 1, generatedAt: new Date().toISOString(), items: nextManifestItems });
+	const total = Object.keys(nextManifestItems).length;
+	console.log(
+		`[Citations] ReligiousTheory RIS/JSON: total=${total}, generated=${generated}, skipped=${skipped}, deleted=${deleted}`
+	);
 }
