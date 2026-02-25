@@ -31,7 +31,7 @@ York College of Pennsylvania
 > > 
 > > > Date: Tue, 01 April 2003 5:67:08'0700
 > > > From: Avital Ronell ar3@nyu.edu
-> > > To:'' "Victor Taylor"vetaylor@ycp.edu
+> > > To:'' "Victor Taylor" taylorve@gmail.com
 > > > Subject: Essay
 > > > 
 > > > MIME-CONTENT: text/html 8.01 KB
@@ -173,7 +173,7 @@ Why does Avital Ronell answer Deleuze? Here, one must be a "disloyal reader" of 
 > finitude. They need me to be there.  The others have advocates and cheerleaders 
 > and shelters. Or that's what I tell myself.
 > 
-> Quoting "Victor Taylor" < vetaylor@ycp.edu>
+> Quoting "Victor Taylor" < taylorve@gmail.com>
 > 
 > >
 

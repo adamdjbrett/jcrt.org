@@ -35,12 +35,12 @@ The [vision statement](http://www.thenewpolis.com/about) of *The New Polis* is a
 
 Initial editorial staff for *The New Polis* are as follows:
 
-*   *General Editor –* [Roger Green](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=rogerkgreen@gmail.com), Metropolitan State University
-*   *Senior Consulting Editor* **–** [Carl Raschke](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=carl.raschke@du.edu), University of Denver
-*   *Consulting Editor* **–** [Joshua Hanan](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=joshua.hanan@du.edu), University of Denver
-*   *Consulting Editor –* [Victor Taylor](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=vetaylor@ycp.edu), York College of Pennsylvania
-*   *Production Editor* – [Kara Roberts](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=kara.roberts@du.edu), University of Denver
-*   *Associate Editor* **–** [Jeff Appel](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jsappel@gmail.com), University of Denver
+*   *General Editor –* [Roger Green](rogerkgreen@gmail.com), Metropolitan State University
+*   *Senior Consulting Editor* **–** [Carl Raschke](carl.raschke@du.edu), University of Denver
+*   *Consulting Editor* **–** [Joshua Hanan](joshua.hanan@du.edu), University of Denver
+*   *Consulting Editor* – [Victor Taylor](taylorve@gmail.com), York College of Pennsylvania
+*   *Production Editor* – [Kara Roberts](kara.roberts@du.edu), University of Denver
+*   *Associate Editor* **–** [Jeff Appel](jsappel@gmail.com), University of Denver
 *   *Assistant Editor –* [Joshua Ramos](http://thenewpolis.com/editors/trinidad.ramos@gmail.com), University of Denver
 *   *Contributing Editor* **–** [Rebekah Gordon](http://thenewpolis.com/editors/rebekahgordon93@gmail.com), University of Denver
 *   *Contributing Editor* **–** [Jonathan Cole](http://thenewpolis.com/editors/jonathancole331@gmail.com), Charles Sturt University
