@@ -1,12 +1,10 @@
-# yaml-language-server: $schema=https://unpkg.com/@sveltia/cms/schema/sveltia-cms.json
-
 backend:
-  name: github
+  name: git-gateway
   repo: adamdjbrett/jcrt.org
   branch: main
-  base_url: https://jcrt-auth.adam.workers.dev
-  auth_endpoint: auth
-  local_backend: true
+#  base_url: https://jcrt-auth.adam.workers.dev
+#  auth_endpoint: auth
+#  local_backend: true
 
 media_folder: "public/img"
 public_folder: "/img"
