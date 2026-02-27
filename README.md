@@ -278,3 +278,30 @@ head -n 3 content/archives/24.2/alencar.pdf
 xxd -l 8 content/archives/24.2/alencar.pdf
 # Real PDF starts with: 25504446 (%PDF)
 ```
+
+### Emergency recovery: cloned repo but only 131-byte pointer files
+
+```bash
+# 1) Confirm pointer symptom
+head -n 3 content/archives/24.2/alencar.pdf
+
+# 2) Ensure Git LFS is installed and initialized
+git lfs version
+git lfs install
+
+# 3) Pull all LFS objects for current branch
+git lfs pull
+
+# 4) If still missing, force-fetch everything and checkout
+git lfs fetch --all
+git lfs checkout
+
+# 5) Verify file is now real PDF bytes
+xxd -l 8 content/archives/24.2/alencar.pdf
+```
+
+If step 4 still leaves pointer files, check your network/auth and run:
+
+```bash
+GIT_TRACE=1 GIT_CURL_VERBOSE=1 git lfs pull
+```
