@@ -162,3 +162,70 @@ This session focused on reducing Netlify deploy friction and keeping citation ou
 5. Confirmed citation sitemaps still include generated citations.
    - Sitemap generation continues to pick up citation outputs.
    - Verified in build output that citation sitemap files are generated and populated.
+
+## Git LFS and normal git file conversion
+
+Use this when GitHub shows tiny pointer files (for example ~131 bytes) instead of real PDFs.
+
+### A) Convert from Git LFS pointers to normal git-tracked files
+
+```bash
+# 1) Start clean
+git status
+
+# 2) Stop tracking PDFs in LFS (edit as needed for your patterns)
+git lfs untrack "*.pdf"
+
+# 3) Ensure .gitattributes no longer contains LFS rule(s) for those files
+# Remove lines like:
+# *.pdf filter=lfs diff=lfs merge=lfs -text
+
+# 4) Re-add files so Git stores full binary content in normal git objects
+git add .gitattributes
+git add "**/*.pdf"
+
+# If citations are tracked and should be normal git files too:
+git add public/citations
+
+# 5) Commit and push
+git commit -m "Store PDFs/citations as normal git files (remove LFS pointers)"
+git push origin main
+```
+
+### B) Convert from normal git-tracked files to Git LFS
+
+```bash
+# 1) Start clean
+git status
+
+# 2) Enable LFS tracking pattern(s)
+git lfs track "*.pdf"
+
+# 3) Re-add so matching files are rewritten as LFS pointers in git
+git add .gitattributes
+git add "**/*.pdf"
+
+# 4) Commit and push
+git commit -m "Track PDFs with Git LFS"
+git push origin main
+```
+
+### Verify what Git is storing
+
+```bash
+# Shows LFS-tracked files
+git lfs ls-files
+
+# Inspect one file in git object form (pointer starts with: version https://git-lfs.github.com/spec/v1)
+git show HEAD:path/to/file.pdf | head
+
+# Local file should be real PDF bytes if fully present
+xxd -l 8 path/to/file.pdf
+# expected: 25504446...  (%PDF)
+```
+
+### Notes
+
+- `.gitattributes` controls whether files become LFS pointers or normal git blobs.
+- If a file was committed while LFS tracking was active, GitHub will display a pointer in the repository view.
+- To make GitHub show the actual binary in that path/version, remove the LFS rule and recommit the file as a normal git-tracked file.
