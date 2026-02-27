@@ -229,3 +229,52 @@ xxd -l 8 path/to/file.pdf
 - `.gitattributes` controls whether files become LFS pointers or normal git blobs.
 - If a file was committed while LFS tracking was active, GitHub will display a pointer in the repository view.
 - To make GitHub show the actual binary in that path/version, remove the LFS rule and recommit the file as a normal git-tracked file.
+
+## New Linux machine: enable Git LFS and download all files
+
+Use this on a fresh Linux machine where Git LFS is not installed yet.
+
+### 1) Install Git LFS
+
+```bash
+# Ubuntu / Debian
+sudo apt update
+sudo apt install -y git-lfs
+
+# Fedora
+sudo dnf install -y git-lfs
+
+# Arch
+sudo pacman -S --noconfirm git-lfs
+```
+
+### 2) Enable Git LFS for your user
+
+```bash
+git lfs install
+git lfs version
+```
+
+### 3) Clone and pull all LFS objects
+
+```bash
+git clone https://github.com/adamdjbrett/jcrt.org.git
+cd jcrt.org
+
+# Fetch and checkout all LFS files referenced by current branch
+git lfs fetch --all
+git lfs checkout
+
+# Alternative one-liner (current branch only):
+git lfs pull
+```
+
+### 4) Verify you have real files (not pointer text)
+
+```bash
+head -n 3 content/archives/24.2/alencar.pdf
+# If this prints "version https://git-lfs.github.com/spec/v1", it is still a pointer.
+
+xxd -l 8 content/archives/24.2/alencar.pdf
+# Real PDF starts with: 25504446 (%PDF)
+```
