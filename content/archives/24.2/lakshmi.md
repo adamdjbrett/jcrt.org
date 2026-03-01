@@ -1,13 +1,13 @@
 ---
 layout: archives.njk
-article_number: '00'
+article_number: '13'
 volume: '24'
 issue: '2'
-title: Lakshmi
-author: ''
+title: 'Other Forms of Dwelling: A Dalit – Feminist Perspective'
+author: 'Shrutika Lakshmi'
 affiliation: ''
 description: ''
 pdf: 'lakshmi.pdf'
 ---
 
-Test Content
+

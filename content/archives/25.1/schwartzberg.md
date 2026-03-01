@@ -3,11 +3,11 @@ layout: archives.njk
 article_number: '00'
 volume: '24'
 issue: '2'
-title: Miller
+title: Schwartzberg
 author: ''
 affiliation: ''
 description: ''
-pdf: 'miller.pdf'
+pdf: 'schwartzberg.pdf'
 ---
 
-Test Content
+ 

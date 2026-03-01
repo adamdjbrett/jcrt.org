@@ -1,13 +1,12 @@
 ---
 layout: archives.njk
-article_number: '00'
+article_number: '08'
 volume: '24'
 issue: '2'
-title: Felese
-author: ''
+title: 'The Chosen People at Grouse Mountain'
+author: 'Wendy Felese'
 affiliation: ''
 description: ''
 pdf: 'felese.pdf'
 ---
 
-Test Content
