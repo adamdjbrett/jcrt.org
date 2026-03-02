@@ -6,8 +6,8 @@ layout: base.njk
   <div class="row">
     <div class="col-md-12 p-3 p-md-5">
       <div class="mb-5 col-md-8 mx-auto">
-	        {% if date %}<p class="text-secondary">{{ date | readableDate("dd LLLL yyyy") }}</p>{% endif %}
-	        <h1 class="hero-post-title"><strong>{{ title }}</strong></h1>
+	        {% if date %}<p class="text-secondary dt-published">{{ date | readableDate("dd LLLL yyyy") }}</p>{% endif %}
+	        <h1 class="hero-post-title p-name"><strong>{{ title }}</strong></h1>
 	        {% if description %}<h2 class="lead text-secondary">{{ description }}</h2>{% endif %}
 	        {% if page.url and page.url.startsWith('/archives/') and author %}<p class="text-secondary">{% set authorNames = author.split(';') %}{% for aName in authorNames %}{% set trimmedName = aName | trim %}{% if trimmedName %}{% set aSlug = trimmedName | authorSlug %}{% set authorObj = collections.authors | getAuthorObj(aSlug) %}{% if authorObj %}<a href="{{ authorObj.url }}">{{ trimmedName }}</a>{% else %}{{ trimmedName }}{% endif %}{% if not loop.last %}; {% endif %}{% endif %}{% endfor %}{% if affilation %}&nbsp;|&nbsp;{{ affilation }}{% endif %}</p>{% endif %}
 	        {% if page.url and page.url.startsWith('/archives/') and abstract %}<p class="text-secondary">{{ abstract }}</p>{% endif %}
@@ -42,7 +42,7 @@ layout: base.njk
         {% endif %}
       {% endif %}
 
-	      <article class="col-md-8 mx-auto"{% if isFastBuild and page.url and page.url.startsWith('/archives/') %} data-pagefind-ignore{% endif %}>
+	      <article class="col-md-8 mx-auto e-content"{% if isFastBuild and page.url and page.url.startsWith('/archives/') %} data-pagefind-ignore{% endif %}>
 	        {{ content | toc | safe }}
 	        {{ content | safe }}
 

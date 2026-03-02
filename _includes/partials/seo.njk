@@ -5,18 +5,9 @@
 <meta content="{{title or metadata.title}}" name="title" />
 <meta content="{{title or metadata.title}}" property="og:site_name" />
 <meta content="{{description or metadata.description}}" name="description" />
-<meta
-	content="{{description or metadata.description}}"
-	property="facebook:description"
-/>
-<meta
-	content="{{description or metadata.description}}"
-	property="og:description"
-/>
-<meta
-	content="{{description or metadata.description}}"
-	name="twitter:description"
-/>
+<meta content="{{description or metadata.description}}" property="facebook:description" />
+<meta content="{{description or metadata.description}}" property="og:description" />
+<meta content="{{description or metadata.description}}" name="twitter:description" />
 <meta property="twitter:card" content="summary_large_image" />
 <meta content="{{image or metadata.image}}" name="twitter:image" />
 <meta content="{{image or metadata.image}}" name="facebook:image" />
@@ -28,33 +19,15 @@
 <meta name="apple-mobile-web-app-title" content="{{ metadata.title }}" />
 <link rel="manifest" href="/img/logos/site.webmanifest" />
 <meta content="{{ metadata.metasocial.facebook }}" property="facebook:author" />
-<meta
-	content="{{ metadata.metasocial.twitteruser }}"
-	property="twitter:author"
-/>
+<meta content="{{ metadata.metasocial.twitteruser }}" property="twitter:author" />
 <meta property="dc:creator" content="{{ metadata.author.name }}" />
 <meta content="{{ metadata.metasocial.twitter }}" name="twitter:site" />
 <meta property="og:type" content="website" />
 <meta content="index, follow" name="robots">
 <link rel="canonical" href="{{ metadata.url }}{{ page.url }}" />
-<link
-  rel="alternate"
-  type="application/atom+xml"
-  title="{{ metadata.title }}"
-  href="{{ metadata.url }}/feed/feed.xml"
-/>
-<link
-  rel="alternate"
-  type="application/rss+xml"
-  title="{{ metadata.title }}"
-  href="{{ metadata.url }}/feed/feed.rss"
-/>
-<link
-  rel="sitemap"
-  type="application/xml"
-  title="{{ metadata.title }} Sitemap"
-  href="{{ metadata.url }}/sitemap.xml"
-/>
+<link rel="alternate" type="application/atom+xml" title="{{ metadata.title }}" href="{{ metadata.url }}/feed/feed.xml" />
+<link rel="alternate" type="application/rss+xml" title="{{ metadata.title }}" href="{{ metadata.url }}/feed/feed.rss" />
+<link rel="sitemap" type="application/xml" title="{{ metadata.title }} Sitemap" href="{{ metadata.url }}/sitemap.xml" />
 <meta name="language" content="{{ metadata.language }}" />
 <meta name="locale" content="{{ metadata.locale }}" />
 <meta property="og:locale" content="{{ metadata.locale }}" />
@@ -65,13 +38,45 @@
 <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600,600i" rel="stylesheet">
 <link href="/css/index.css" rel="stylesheet"/>
 <link href="/css/font.css" rel="stylesheet"/>
+
 {% set pageTitle = title or metadata.title %}
 {% set pageDesc = description or excerpt or metadata.description %}
 {% set pageImage = image or metadata.image %}
+
+<script type="application/ld+json">
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "NGO",
+    "@id": "https://thewhitestonefoundation.org",
+    "name": "The Whitestone Foundation",
+    "url": "https://thewhitestonefoundation.org",
+    "logo": "{{ metadata.url }}{{ metadata.favicon }}",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Boulder",
+      "addressRegion": "CO",
+      "addressCountry": "US"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "{{ metadata.url }}",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "{{ metadata.url }}/search/?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+]
+</script>
+
+{% set isAcademic = "/archives/" in page.url %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "BlogPosting",
+  "@type": "{{ 'ScholarlyArticle' if isAcademic else 'BlogPosting' }}",
   "headline": "{{ pageTitle }}",
   "description": "{{ pageDesc | truncate(160) }}",
   "image": "{{ pageImage }}",
@@ -83,7 +88,7 @@
   },
   "publisher": {
     "@type": "Organization",
-    "name": "{{ metadata.title }}",
+    "name": "The Whitestone Foundation",
     "logo": {
       "@type": "ImageObject",
       "url": "{{ metadata.url }}{{ metadata.favicon }}"
