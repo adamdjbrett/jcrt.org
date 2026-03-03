@@ -1,0 +1,24 @@
+---
+permalink: /metadata/search.json
+eleventyExcludeFromCollections: true
+layout: false
+---
+{
+  "site": "JCRT",
+  "generated_at": "{{ page.date }}",
+  "items": [
+    {%- set siteUrl = metadata.url -%}
+    {%- for entry in collections.all -%}
+    {%- if entry.url and entry.data.title and not entry.data.eleventyExcludeFromCollections and not entry.url.startsWith("/metadata/") -%}
+    {
+      "title": {{ entry.data.title | dump | safe }},
+      "url": "{{ siteUrl }}{{ entry.url }}",
+      "author": {{ (entry.data.author or "") | dump | safe }},
+      "priority": {% if "/archives/" in entry.url %}10{% elif "/blog/" in entry.url %}5{% else %}1{% endif %},
+      "excerpt": {{ entry.content | dump | safe }},
+      "categories": {{ (entry.data.categories or []) | dump | safe }}
+    }{% if not loop.last %},{% endif %}
+    {%- endif -%}
+    {%- endfor -%}
+  ]
+}

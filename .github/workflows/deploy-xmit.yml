@@ -70,3 +70,17 @@ jobs:
 
       - name: Summary
         run: echo "✅ Successfully deployed to ${{ github.event_name == 'workflow_dispatch' && inputs.site || env.XMIT_SITE }}"
+
+      - name: Notify Central Search Aggregator
+        continue-on-error: true
+        env:
+          G_TOKEN: ${{ secrets.G_ACTION_TOKEN }}
+        run: |
+          if [ -z "$G_TOKEN" ]; then 
+            echo "⚠️ G_ACTION_TOKEN not set, skipping notification."
+          else
+            curl -X POST https://api.github.com/repos/adamdjbrett/thewhitestonefoundation/dispatches \
+            -H "Accept: application/vnd.github.v3+json" \
+            -H "Authorization: bearer $G_TOKEN" \
+            -d '{"event_type": "update_search_data"}'
+          fi

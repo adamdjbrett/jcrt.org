@@ -11,18 +11,19 @@ layout: base.njk
           <div class="text-primary fw-bold small text-uppercase mb-2">Article No. {{ article_number }}</div>
         {% endif %}
 
-        <h1 class="serif fw-bold display-4">{{ jsonEntry.title or title }}</h1>
+        <h1 class="serif fw-bold display-4 p-name">{{ jsonEntry.title or title }}</h1>
         
         <div class="text-muted mb-3">
           <i class="bi bi-person-fill"></i>
           {% set authorRaw = jsonEntry.author or author %}
           {% if authorRaw %}
             {% set authorNames = authorRaw | splitAuthors %}
-            <span class="fw-bold text-dark">
+            <span class="fw-bold text-dark" p-author h-card>
               {%- for aName in authorNames -%}
                 {% set authorObj = collections.authors | getAuthorObj(aName) %}
                 {%- if authorObj -%}
-                  <a href="{{ authorObj.url }}" class="text-decoration-underline text-dark hover-primary">{{ aName }}</a>
+                  <a href="{{ authorObj.url }}" class="text-decoration-underline
+                   text-dark hover-primary p-name u-url">{{ aName }}</a>
                 {%- else -%}
                   {{ aName }}
                 {%- endif -%}
@@ -36,7 +37,7 @@ layout: base.njk
         <div class="d-flex flex-wrap gap-3 align-items-center small">
           {% set displayDate = jsonEntry.date or date %}
           {% if displayDate %}
-            <span><i class="bi bi-calendar3"></i> {{ displayDate | postDate }}</span>
+            <span class="dt-published"><i class="bi bi-calendar3"></i> {{ displayDate | postDate }}</span>
           {% endif %}
           
           {% if pdfUrl %}
@@ -71,7 +72,7 @@ layout: base.njk
         <ul id="toc-list" class="list-unstyled mb-0" style="font-size: 0.95rem;"></ul>
     </div>
 
-    <div id="article-content">
+    <div id="article-content" class="e-content">
         {{ finalHTML | safe }}
     </div>
 </div>

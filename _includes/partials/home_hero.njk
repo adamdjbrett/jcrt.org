@@ -3,7 +3,7 @@
 {% if image %}
 <div class="col-md-6 p-3 p-md-5">
 <div class="col-md-10">
-<h1 class="hero-title"><strong>{{title or metadata.title}}</strong></h1>
+<h1 class="hero-title p-name"><strong>{{title or metadata.title}}</strong></h1>
 <h2 class="mt-3 mb-4">{{description or metadata.description}}</h2>
 <p>{{text}}</p>
 <p><a href="{{button.url}}" class="btn btn-primary text-uppercase">{{button.text}}</a></p>
@@ -17,7 +17,7 @@
 {% else %}
 <div class="col-md-12 p-3 p-md-5">
 <div class="col-md-8">
-<h1 class="hero-title"><strong>{{title or metadata.title}}</strong></h1>
+<h1 class="hero-title p-name"><strong>{{title or metadata.title}}</strong></h1>
 <h2 class="mt-3 mb-4">{{description or metadata.description}}</h2>
 <p>{{text}}</p>
 <p><a href="{{button.url}}" class="btn btn-primary text-uppercase">{{button.text}}</a></p>

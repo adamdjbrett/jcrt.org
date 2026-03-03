@@ -26,7 +26,7 @@
 </script>
 </div>
 
-<div class="p-3 bg-light"> 
+<main class="p-3 bg-light h-entry"> 
 		
 <h5 class="mb-4"><span class="bgb-primary p-1">{{metadata.sidebar.menu.title}}</span></h5>
 <ul class="nav flex-column mb-5">
@@ -58,7 +58,7 @@ Developed by <a href="https://adamdjbrett.com" target="_blank">Adamdjbrett</a>
 </p>
 </div>
 
-</div>
+</main>
 </div>
 </section>
 
@@ -99,15 +99,16 @@ Developed by <a href="https://adamdjbrett.com" target="_blank">Adamdjbrett</a>
     <div class="container-fluid pt-5 pb-5">
         <article class="px-md-5">
             <header class="mb-5 text-center">
-                <h1 class="display-3"><strong>{{ title }}</strong></h1>
+                <h1 class="display-3 p-name"><strong>{{ title }}</strong></h1>
                 {% if authors %}
-                    <p class="text-primary fs-5">By {{ authors }}</p>
+                    <p class="text-primary fs-5 p-author-card">By {{ authors }}</p>
                 {% endif %}
-                <div class="mx-auto border-bottom border-2 border-primary" style="width: 60px;"></div>
+                <div class="mx-auto border-bottom border-2 border-primary" 
+                style="width: 60px;"></div>
             </header>
 
             <div class="content-body wp-legacy-content" data-pagefind-body>
-                 <div class="p-3 bg-light">
+                 <div class="p-3 bg-light e-content" data-pagefind-ignore>
         {{ content | toc | safe }}
        </div>    
                 {{ content | safe }}

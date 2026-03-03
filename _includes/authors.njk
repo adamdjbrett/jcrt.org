@@ -14,7 +14,7 @@ layout: base.njk
           <div class="text-center text-secondary mb-5">
             <img class="img-thumb rounded-circle mb-3" alt="{{ title }}" width="150" height="150" 
                  style="object-fit:cover;" src="{{ image or '/img/default-author.jpg' }}"/>
-            <h1><strong><span class="none text-dark">{{ title }}</span></strong></h1>
+            <h1 class="p-name"><strong><span class="none text-dark">{{ title }}</span></strong></h1>
             <h2 class="lead text-uppercase mb-3">{{ description }}</h2>
             {% if affiliation %}
             <h2 class="h5 text-primary text-uppercase mb-1">{{ affiliation }}</h2>
