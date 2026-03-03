@@ -3,11 +3,11 @@ layout: archives.njk
 article_number: '00'
 volume: '24'
 issue: '2'
-title: Newcomb
+title: Brett And Hill
 author: ''
 affiliation: ''
 description: ''
-pdf: 'newcomb.pdf'
+pdf: 'brett-and-hill.pdf'
 ---
 
-Test Content
+ 

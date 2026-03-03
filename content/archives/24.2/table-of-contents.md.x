@@ -3,11 +3,11 @@ layout: archives.njk
 article_number: '00'
 volume: '24'
 issue: '2'
-title: Schwartzberg
+title: Table Of Contents
 author: ''
 affiliation: ''
 description: ''
-pdf: 'schwartzberg.pdf'
+pdf: 'table-of-contents.pdf'
 ---
 
-Test Content
+ 

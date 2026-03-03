@@ -1,13 +1,13 @@
 ---
 layout: archives.njk
-article_number: '00'
+article_number: '19'
 volume: '24'
 issue: '2'
-title: Berlin
-author: ''
+title: 'Unselling the Classroom: Confronting History and Ourselves'
+author: 'Elaina Berlin'
 affiliation: ''
 description: ''
 pdf: 'berlin.pdf'
 ---
 
-Test Content
+ 

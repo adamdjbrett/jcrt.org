@@ -3,11 +3,11 @@ layout: archives.njk
 article_number: '00'
 volume: '24'
 issue: '2'
-title: Goudy
+title: Conclusion
 author: ''
 affiliation: ''
 description: ''
-pdf: 'goudy.pdf'
+pdf: 'conclusion.pdf'
 ---
 
-Test Content
+ 

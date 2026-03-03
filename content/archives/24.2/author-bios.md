@@ -1,6 +1,6 @@
 ---
 layout: archives.njk
-article_number: '00'
+article_number: '01'
 volume: '24'
 issue: '2'
 title: Author Bios
@@ -10,4 +10,3 @@ description: ''
 pdf: 'author-bios.pdf'
 ---
 
-Test Content

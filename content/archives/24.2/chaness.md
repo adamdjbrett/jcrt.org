@@ -1,13 +1,13 @@
 ---
 layout: archives.njk
-article_number: '00'
+article_number: '15'
 volume: '24'
 issue: '2'
-title: Chaness
-author: ''
+title: 'Expecting Excellence in Education: When Content Conditions Class Consciousness'
+author: 'Michael E. Chaness'
 affiliation: ''
 description: ''
 pdf: 'chaness.pdf'
 ---
 
-Test Content
+ 

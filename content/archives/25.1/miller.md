@@ -3,11 +3,11 @@ layout: archives.njk
 article_number: '00'
 volume: '24'
 issue: '2'
-title: Brett And Hill
+title: Miller
 author: ''
 affiliation: ''
 description: ''
-pdf: 'brett-and-hill.pdf'
+pdf: 'miller.pdf'
 ---
 
-Test Content
+ 
