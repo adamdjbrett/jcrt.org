@@ -5,11 +5,18 @@
   {% if entry.inputPath and entry.inputPath.startsWith(current_dir) %}
     {% set relative_path = entry.inputPath | replace(current_dir, '') %}
     {% if relative_path.endsWith('.md') and relative_path != 'index.md' and '/' not in relative_path %}
+      {% set volume_num = (entry.data.volume or "").toString().trim() %}
+      {% set issue_num = (entry.data.issue or "").toString().trim() %}
+      {% set article_num = (entry.data.article_number or "").toString().trim() %}
+      {% set vol_key = volume_num and volume_num.padStart(2, "0") or "99" %}
+      {% set issue_key = issue_num and issue_num.padStart(2, "0") or "99" %}
+      {% set article_key = article_num and article_num.padStart(2, "0") or "99" %}
       {% set sort_id = entry.data.sort_id %}
       {% set pages = entry.data.pages %}
       {% set pages_first = (pages or "").toString().split("-")[0].trim() %}
       {% set pages_num = pages_first.replace("S", "").replace("s", "").replace("P", "").replace("p", "").trim() %}
-      {% set sort_key = (sort_id or pages_num or "999999").toString().padStart(6, "0") %}
+      {% set fallback_key = (sort_id or pages_num or "999999").toString().padStart(6, "0") %}
+      {% set sort_key = vol_key + issue_key + article_key + fallback_key %}
       {% set issue_items = issue_items.concat([{ entry: entry, sort_key: sort_key }]) %}
     {% endif %}
   {% endif %}

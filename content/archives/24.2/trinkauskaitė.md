@@ -7,7 +7,7 @@ title: 'Baltic Religion: The Sacred Things'
 author: 'Eglutė Trinkauskaitė and Ellen B. Cutler'
 affiliation: ''
 description: ''
-pdf: 'trinkauskaitė.pdf'
+pdf: 'trinkauskaitė.pdf'
 ---
 
  
