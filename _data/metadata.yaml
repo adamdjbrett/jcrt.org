@@ -13,26 +13,23 @@ homepage_archive:
   max_items: 3
 
 metasocial:
-  facebook: https://www.facebook.com/user
-  twitteruser: "@user"
-  twitter: https://x.com/user
+  facebook: https://www.facebook.com/religioustheory
+  #twitteruser: "@user"
+  #twitter: https://x.com/user
 
 navbar: 
  title: JCRT
  sub_title: "The Journal for Cultural and Religious Theory"
  social: 
-   - title: Follow my Twitter
-     icon: fab fa-twitter
-     url: https://x.com
    - title: Follow My Facebook
      icon: fab fa-facebook
-     url: https://fb.com
+     url: https://www.facebook.com/religioustheory
    - title: Follow my Instagram
      icon: fab fa-instagram
-     url: https://instagram.com
-   - title: Follow my Youtube
-     icon: fab fa-youtube
-     url: https://youtube.com
+     url: https://www.instagram.com/JCRT_DU1
+   - title: RSS
+     icon: fas fa-rss
+     url: /feed/feed.xml
 
 sidebar: 
   menu: 
